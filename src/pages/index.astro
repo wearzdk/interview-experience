@@ -6,7 +6,7 @@ import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 
 const interviews = await getCollection('interviews');
-const latest = interviews.sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 8);
+const latest = interviews.sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 20);
 const companies = [...new Set(interviews.map(i => i.data.company))].sort();
 const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 ---
@@ -20,61 +20,52 @@ const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 		<Header />
 		<main>
 			<section class="hero">
-				<div class="hero-content">
-					<h1>真实面试<br/>经验档案</h1>
-					<p class="subtitle">来自一线互联网公司的真实面试记录</p>
-					<div class="stats">
-						<div class="stat">
-							<span class="stat-num">{interviews.length}</span>
-							<span class="stat-label">篇面经</span>
-						</div>
-						<div class="stat">
-							<span class="stat-num">{companies.length}</span>
-							<span class="stat-label">家公司</span>
-						</div>
-						<div class="stat">
-							<span class="stat-num">{positions.length}</span>
-							<span class="stat-label">个岗位</span>
-						</div>
+				<div class="hero-text">
+					<h1>面灵面经</h1>
+					<p>从牛客、脉脉等平台采集的真实互联网面经，已收录 <strong>{interviews.length}</strong> 篇</p>
+				</div>
+				<img src="/illustrations/interview.svg" alt="" class="hero-illustration" />
+			</section>
+
+			<section class="filters">
+				<div class="filter-group">
+					<h3>公司</h3>
+					<div class="filter-tags">
+						{companies.map(c => (
+							<a href={`/company/${c}`}>{c}</a>
+						))}
+					</div>
+				</div>
+				<div class="filter-group">
+					<h3>岗位</h3>
+					<div class="filter-tags">
+						{positions.map(p => (
+							<a href={`/position/${p}`}>{p}</a>
+						))}
 					</div>
 				</div>
 			</section>
 
-			<section class="browse">
-				<div class="browse-grid">
-					<div class="browse-card">
-						<h2>按公司浏览</h2>
-						<div class="tag-cloud">
-							{companies.map(c => (
-								<a href={`/company/${c}`} class="tag">{c}</a>
-							))}
-						</div>
-					</div>
-					<div class="browse-card">
-						<h2>按岗位浏览</h2>
-						<div class="tag-cloud">
-							{positions.map(p => (
-								<a href={`/position/${p}`} class="tag">{p}</a>
-							))}
-						</div>
-					</div>
-				</div>
-			</section>
-
-			<section class="latest">
+			<section class="list">
 				<h2>最新面经</h2>
-				<div class="interview-grid">
-					{latest.map((item, i) => (
-						<a href={`/interview/${item.id}`} class="interview-card" style={`animation-delay: ${i * 0.05}s`}>
-							<div class="card-header">
-								<span class="company">{item.data.company}</span>
-								{item.data.round && <span class="round">{item.data.round}</span>}
+				<div class="interview-list">
+					{latest.map(item => (
+						<a href={`/interview/${item.id}`} class="list-item">
+							<div class="item-main">
+								<h3>{item.data.title}</h3>
+								<div class="item-meta">
+									<span class="company">{item.data.company}</span>
+									<span class="sep">·</span>
+									<span class="position">{item.data.position}</span>
+									{item.data.round && (
+										<>
+											<span class="sep">·</span>
+											<span class="round">{item.data.round}</span>
+										</>
+									)}
+								</div>
 							</div>
-							<h3>{item.data.title}</h3>
-							<div class="card-footer">
-								<span class="position">{item.data.position}</span>
-								<span class="date">{item.data.date}</span>
-							</div>
+							<span class="date">{item.data.date}</span>
 						</a>
 					))}
 				</div>
@@ -86,202 +77,154 @@ const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 
 <style>
 	main {
-		max-width: 1400px;
+		max-width: 1200px;
 		margin: 0 auto;
 		padding: 0 2rem;
 	}
 
+	/* Hero */
 	.hero {
-		padding: var(--space-xl) 0;
-		border-bottom: 2px solid var(--color-border);
-	}
-
-	.hero-content h1 {
-		font-size: clamp(3rem, 8vw, 6rem);
-		font-weight: 900;
-		line-height: 0.95;
-		margin-bottom: var(--space-md);
-		letter-spacing: -0.04em;
-	}
-
-	.subtitle {
-		font-size: 1.25rem;
-		color: var(--color-muted);
-		margin-bottom: var(--space-lg);
-	}
-
-	.stats {
 		display: flex;
-		gap: var(--space-lg);
-	}
-
-	.stat {
-		display: flex;
-		flex-direction: column;
-	}
-
-	.stat-num {
-		font-family: var(--font-display);
-		font-size: 3rem;
-		font-weight: 900;
-		color: var(--color-accent);
-		line-height: 1;
-	}
-
-	.stat-label {
-		font-size: 0.9rem;
-		color: var(--color-muted);
-		text-transform: uppercase;
-		letter-spacing: 0.05em;
-		margin-top: 0.5rem;
-	}
-
-	.browse {
-		padding: var(--space-lg) 0;
-	}
-
-	.browse-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+		align-items: center;
+		justify-content: space-between;
+		padding: var(--space-md) 0;
 		gap: var(--space-md);
 	}
 
-	.browse-card {
-		background: var(--color-card);
-		padding: var(--space-md);
-		border: 2px solid var(--color-border);
-		border-radius: 12px;
+	.hero-text h1 {
+		font-size: 2rem;
+		font-weight: 700;
+		margin-bottom: 0.5rem;
 	}
 
-	.browse-card h2 {
-		font-size: 1.5rem;
-		margin-bottom: var(--space-sm);
+	.hero-text p {
+		color: var(--color-muted);
+		font-size: 0.95rem;
+		line-height: 1.6;
 	}
 
-	.tag-cloud {
+	.hero-text strong {
+		color: var(--color-accent);
+		font-weight: 700;
+	}
+
+	.hero-illustration {
+		width: 200px;
+		height: 150px;
+		flex-shrink: 0;
+	}
+
+	/* 筛选区 */
+	.filters {
+		display: flex;
+		gap: var(--space-lg);
+		padding: var(--space-md) 0;
+		border-top: 1px solid var(--color-border);
+		border-bottom: 1px solid var(--color-border);
+	}
+
+	.filter-group h3 {
+		font-size: 0.85rem;
+		color: var(--color-muted);
+		margin-bottom: 0.75rem;
+		font-weight: 600;
+		letter-spacing: 0.05em;
+	}
+
+	.filter-tags {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 0.75rem;
+		gap: 0.5rem;
 	}
 
-	.tag {
-		padding: 0.5rem 1rem;
-		background: var(--color-bg);
+	.filter-tags a {
+		padding: 0.35rem 0.85rem;
+		background: var(--color-card);
 		border: 1px solid var(--color-border);
-		border-radius: 6px;
-		font-size: 0.9rem;
-		font-weight: 500;
+		border-radius: 20px;
+		font-size: 0.85rem;
+		color: var(--color-text);
 		transition: all 0.2s ease;
 	}
 
-	.tag:hover {
+	.filter-tags a:hover {
 		background: var(--color-accent);
 		color: white;
 		border-color: var(--color-accent);
-		transform: translateY(-2px);
 	}
 
-	.latest {
-		padding: var(--space-lg) 0 var(--space-xl);
+	/* 列表 */
+	.list {
+		padding: var(--space-md) 0 var(--space-lg);
 	}
 
-	.latest h2 {
-		font-size: 2.5rem;
-		margin-bottom: var(--space-md);
+	.list h2 {
+		font-size: 1.25rem;
+		font-weight: 700;
+		margin-bottom: var(--space-sm);
 	}
 
-	.interview-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-		gap: var(--space-md);
-	}
-
-	.interview-card {
-		background: var(--color-card);
-		padding: var(--space-md);
-		border: 2px solid var(--color-border);
-		border-radius: 12px;
+	.interview-list {
 		display: flex;
 		flex-direction: column;
-		gap: var(--space-sm);
-		transition: all 0.3s ease;
-		opacity: 0;
-		animation: fadeInUp 0.6s ease forwards;
 	}
 
-	@keyframes fadeInUp {
-		from {
-			opacity: 0;
-			transform: translateY(20px);
-		}
-		to {
-			opacity: 1;
-			transform: translateY(0);
-		}
-	}
-
-	.interview-card:hover {
-		border-color: var(--color-accent);
-		transform: translateY(-4px);
-		box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-	}
-
-	.card-header {
+	.list-item {
 		display: flex;
-		justify-content: space-between;
 		align-items: center;
+		justify-content: space-between;
+		padding: 1rem 0;
+		border-bottom: 1px solid var(--color-border);
+		transition: all 0.15s ease;
+	}
+
+	.list-item:hover {
+		padding-left: 0.75rem;
+		background: linear-gradient(90deg, rgba(212, 56, 13, 0.04) 0%, transparent 100%);
+	}
+
+	.item-main h3 {
+		font-size: 1rem;
+		font-weight: 600;
+		margin-bottom: 0.35rem;
+	}
+
+	.item-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: 0.85rem;
+		color: var(--color-muted);
 	}
 
 	.company {
-		font-weight: 700;
 		color: var(--color-accent);
-		font-size: 0.9rem;
+		font-weight: 600;
+	}
+
+	.sep {
+		color: var(--color-border);
 	}
 
 	.round {
 		background: var(--color-text);
 		color: white;
-		padding: 0.25rem 0.75rem;
-		border-radius: 4px;
+		padding: 0.1rem 0.5rem;
+		border-radius: 3px;
 		font-size: 0.75rem;
 		font-weight: 600;
 	}
 
-	.interview-card h3 {
-		font-size: 1.25rem;
-		font-weight: 700;
-	}
-
-	.card-footer {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
+	.date {
 		font-size: 0.85rem;
 		color: var(--color-muted);
-	}
-
-	.position {
-		font-weight: 500;
+		white-space: nowrap;
 	}
 
 	@media (max-width: 768px) {
-		main {
-			padding: 0 1rem;
-		}
-		.hero {
-			padding: var(--space-md) 0;
-		}
-		.stats {
-			gap: var(--space-md);
-		}
-		.stat-num {
-			font-size: 2rem;
-		}
-		.browse-grid {
-			grid-template-columns: 1fr;
-		}
-		.interview-grid {
-			grid-template-columns: 1fr;
-		}
+		main { padding: 0 1rem; }
+		.hero-illustration { display: none; }
+		.filters { flex-direction: column; gap: var(--space-sm); }
+		.list-item { flex-direction: column; align-items: flex-start; gap: 0.25rem; }
 	}
 </style>

@@ -4,13 +4,10 @@ import { SITE_TITLE } from '../consts';
 
 <header>
 	<div class="container">
-		<a href="/" class="logo">
-			<span class="logo-main">面试经验</span>
-			<span class="logo-sub">Interview Archive</span>
-		</a>
+		<a href="/" class="logo">面灵面经</a>
 		<nav>
 			<a href="/">首页</a>
-			<a href="https://mianlingai.com" target="_blank" class="cta">面灵AI ↗</a>
+			<a href="https://mianlingai.com" target="_blank" class="cta">面灵AI</a>
 		</nav>
 	</div>
 </header>
@@ -19,42 +16,25 @@ import { SITE_TITLE } from '../consts';
 	header {
 		position: sticky;
 		top: 0;
-		background: var(--color-card);
-		border-bottom: 2px solid var(--color-border);
+		border-bottom: 1px solid var(--color-border);
 		z-index: 100;
 		backdrop-filter: blur(10px);
-		background: rgba(255, 255, 255, 0.95);
+		background: rgba(250, 250, 248, 0.95);
 	}
 	
 	.container {
-		max-width: 1400px;
+		max-width: 1200px;
 		margin: 0 auto;
-		padding: 1.5rem 2rem;
+		padding: 1rem 2rem;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
 	}
 	
 	.logo {
-		display: flex;
-		flex-direction: column;
-		gap: 0.25rem;
-	}
-	
-	.logo-main {
-		font-family: var(--font-display);
-		font-size: 1.5rem;
-		font-weight: 900;
-		letter-spacing: -0.03em;
+		font-size: 1.25rem;
+		font-weight: 700;
 		color: var(--color-text);
-	}
-	
-	.logo-sub {
-		font-size: 0.75rem;
-		text-transform: uppercase;
-		letter-spacing: 0.1em;
-		color: var(--color-muted);
-		font-weight: 500;
 	}
 	
 	nav {
@@ -66,7 +46,6 @@ import { SITE_TITLE } from '../consts';
 	nav a {
 		font-weight: 500;
 		font-size: 0.95rem;
-		position: relative;
 	}
 	
 	nav a:not(.cta):hover {
@@ -79,23 +58,15 @@ import { SITE_TITLE } from '../consts';
 		padding: 0.5rem 1.25rem;
 		border-radius: 6px;
 		font-weight: 600;
-		transition: transform 0.2s ease, box-shadow 0.2s ease;
+		transition: all 0.2s ease;
 	}
 	
 	.cta:hover {
-		transform: translateY(-2px);
-		box-shadow: 0 4px 12px rgba(212, 56, 13, 0.3);
+		opacity: 0.9;
 	}
 	
 	@media (max-width: 640px) {
-		.container {
-			padding: 1rem;
-		}
-		nav {
-			gap: 1rem;
-		}
-		.logo-sub {
-			display: none;
-		}
+		.container { padding: 0.75rem 1rem; }
+		nav { gap: 1rem; }
 	}
 </style>

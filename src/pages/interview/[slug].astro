@@ -19,28 +19,34 @@ const { Content } = await render(entry);
 <!doctype html>
 <html lang="zh-CN">
 	<head>
-		<BaseHead title={entry.data.title} description={`${entry.data.company} ${entry.data.position} 面试经验`} />
+		<BaseHead title={entry.data.title} description={`${entry.data.company} ${entry.data.position} 面经`} />
 	</head>
 	<body>
 		<Header />
 		<main>
 			<article>
+				<div class="breadcrumb">
+					<a href="/">首页</a>
+					<span>/</span>
+					<a href={`/company/${entry.data.company}`}>{entry.data.company}</a>
+					<span>/</span>
+					<span>{entry.data.title}</span>
+				</div>
+
 				<div class="article-header">
+					<h1>{entry.data.title}</h1>
 					<div class="meta">
 						<a href={`/company/${entry.data.company}`} class="company">{entry.data.company}</a>
-						<span class="separator">·</span>
+						<span class="sep">·</span>
 						<a href={`/position/${entry.data.position}`} class="position">{entry.data.position}</a>
 						{entry.data.round && (
 							<>
-								<span class="separator">·</span>
-								<span class="round">{entry.data.round}</span>
+								<span class="sep">·</span>
+								<span>{entry.data.round}</span>
 							</>
 						)}
-					</div>
-					<h1>{entry.data.title}</h1>
-					<div class="info">
+						<span class="sep">·</span>
 						<span class="date">{entry.data.date}</span>
-						{entry.data.source && <span class="source">来源：{entry.data.source}</span>}
 					</div>
 				</div>
 				
@@ -51,8 +57,8 @@ const { Content } = await render(entry);
 				<div class="article-footer">
 					<a href="https://mianlingai.com" target="_blank" class="cta-banner">
 						<div class="cta-content">
-							<strong>💡 推荐工具</strong>
-							<span>面灵AI - AI实时面试助手，帮你应对各种面试场景</span>
+							<strong>面灵AI — AI实时面试助手</strong>
+							<span>实时语音识别 + AI智能回答，帮你轻松应对各种面试场景</span>
 						</div>
 						<span class="cta-arrow">→</span>
 					</a>
@@ -67,21 +73,41 @@ const { Content } = await render(entry);
 	main {
 		max-width: 800px;
 		margin: 0 auto;
-		padding: var(--space-lg) 2rem var(--space-xl);
+		padding: var(--space-md) 2rem var(--space-lg);
+	}
+
+	.breadcrumb {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: 0.85rem;
+		color: var(--color-muted);
+		margin-bottom: var(--space-md);
+	}
+
+	.breadcrumb a:hover {
+		color: var(--color-accent);
 	}
 
 	.article-header {
-		margin-bottom: var(--space-lg);
+		margin-bottom: var(--space-md);
 		padding-bottom: var(--space-md);
-		border-bottom: 2px solid var(--color-border);
+		border-bottom: 1px solid var(--color-border);
+	}
+
+	.article-header h1 {
+		font-size: 1.75rem;
+		font-weight: 700;
+		margin-bottom: var(--space-sm);
+		line-height: 1.3;
 	}
 
 	.meta {
 		display: flex;
 		align-items: center;
-		gap: 0.75rem;
-		margin-bottom: var(--space-sm);
-		font-size: 0.95rem;
+		gap: 0.5rem;
+		font-size: 0.9rem;
+		color: var(--color-muted);
 	}
 
 	.company, .position {
@@ -93,48 +119,25 @@ const { Content } = await render(entry);
 		text-decoration: underline;
 	}
 
-	.separator {
-		color: var(--color-muted);
-	}
-
-	.round {
-		background: var(--color-text);
-		color: white;
-		padding: 0.25rem 0.75rem;
-		border-radius: 4px;
-		font-size: 0.8rem;
-		font-weight: 600;
-	}
-
-	article h1 {
-		font-size: clamp(2rem, 5vw, 3rem);
-		font-weight: 900;
-		margin-bottom: var(--space-sm);
-		line-height: 1.1;
-	}
-
-	.info {
-		display: flex;
-		gap: var(--space-sm);
-		color: var(--color-muted);
-		font-size: 0.9rem;
+	.sep {
+		color: var(--color-border);
 	}
 
 	.content {
 		line-height: 1.8;
-		font-size: 1.05rem;
+		font-size: 0.95rem;
 	}
 
 	.content :global(h2) {
-		font-size: 1.75rem;
-		margin-top: var(--space-lg);
+		font-size: 1.4rem;
+		margin-top: var(--space-md);
 		margin-bottom: var(--space-sm);
 		font-weight: 700;
 	}
 
 	.content :global(h3) {
-		font-size: 1.35rem;
-		margin-top: var(--space-md);
+		font-size: 1.15rem;
+		margin-top: 1.5rem;
 		margin-bottom: var(--space-xs);
 		font-weight: 600;
 	}
@@ -156,11 +159,11 @@ const { Content } = await render(entry);
 		width: 100%;
 		border-collapse: collapse;
 		margin: var(--space-md) 0;
-		font-size: 0.95rem;
+		font-size: 0.9rem;
 	}
 
 	.content :global(th), .content :global(td) {
-		padding: 0.75rem;
+		padding: 0.6rem 0.75rem;
 		border: 1px solid var(--color-border);
 		text-align: left;
 	}
@@ -170,34 +173,36 @@ const { Content } = await render(entry);
 		font-weight: 600;
 	}
 
-	.content :global(blockquote) {
-		border-left: 4px solid var(--color-accent);
-		padding-left: var(--space-sm);
+	.content :global(strong) {
+		font-weight: 600;
+	}
+
+	.content :global(hr) {
+		border: none;
+		border-top: 1px solid var(--color-border);
 		margin: var(--space-md) 0;
-		color: var(--color-muted);
-		font-style: italic;
 	}
 
 	.article-footer {
 		margin-top: var(--space-lg);
 		padding-top: var(--space-md);
-		border-top: 2px solid var(--color-border);
+		border-top: 1px solid var(--color-border);
 	}
 
 	.cta-banner {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		background: linear-gradient(135deg, #fff5f0 0%, #ffe8e0 100%);
-		border: 2px solid var(--color-accent);
-		border-radius: 12px;
-		padding: var(--space-md);
-		transition: all 0.3s ease;
+		background: #fff5f0;
+		border: 1px solid #ffd8c8;
+		border-radius: 8px;
+		padding: 1.25rem 1.5rem;
+		transition: all 0.2s ease;
 	}
 
 	.cta-banner:hover {
-		transform: translateY(-4px);
-		box-shadow: 0 8px 24px rgba(212, 56, 13, 0.2);
+		border-color: var(--color-accent);
+		box-shadow: 0 4px 12px rgba(212, 56, 13, 0.1);
 	}
 
 	.cta-content {
@@ -208,22 +213,22 @@ const { Content } = await render(entry);
 
 	.cta-content strong {
 		color: var(--color-accent);
-		font-size: 1.1rem;
+		font-size: 1rem;
 	}
 
 	.cta-content span {
-		color: var(--color-text);
-		font-size: 0.95rem;
+		color: var(--color-muted);
+		font-size: 0.85rem;
 	}
 
 	.cta-arrow {
-		font-size: 2rem;
+		font-size: 1.5rem;
 		color: var(--color-accent);
-		font-weight: bold;
 	}
 
 	@media (max-width: 768px) {
-		main { padding: var(--space-md) 1rem; }
+		main { padding: var(--space-sm) 1rem; }
 		.meta { flex-wrap: wrap; }
+		.breadcrumb { flex-wrap: wrap; }
 	}
 </style>
