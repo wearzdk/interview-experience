@@ -1,0 +1,72 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+	const interviews = await getCollection('interviews');
+	const positions = [...new Set(interviews.map(i => i.data.position))];
+	
+	return positions.map(position => ({
+		params: { position },
+		props: { 
+			position,
+			interviews: interviews.filter(i => i.data.position === position)
+				.sort((a, b) => b.data.date.localeCompare(a.data.date))
+		},
+	}));
+}
+
+const { position, interviews } = Astro.props;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={`${position}面试经验`} description={`${position}真实面试经验分享`} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>{position} 面试经验</h1>
+			<ul class="interview-list">
+				{interviews.map(item => (
+					<li>
+						<a href={`/interview/${item.id}`}>
+							<div class="meta">
+								<span class="company">{item.data.company}</span>
+								<span class="round">{item.data.round || '面试'}</span>
+							</div>
+							<h3>{item.data.title}</h3>
+							<div class="footer">
+								<span class="date">{item.data.date}</span>
+								<div class="tags">
+									{item.data.tags.slice(0, 5).map(tag => <span class="tag">{tag}</span>)}
+								</div>
+							</div>
+						</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
+	h1 { margin-bottom: 2rem; }
+	.interview-list { list-style: none; padding: 0; }
+	.interview-list li { border: 1px solid #ddd; border-radius: 8px; margin-bottom: 1rem; }
+	.interview-list a { display: block; padding: 1.5rem; text-decoration: none; color: inherit; }
+	.interview-list a:hover { background: #f9f9f9; }
+	.meta { display: flex; justify-content: space-between; margin-bottom: 0.5rem; }
+	.company { font-weight: 600; color: #0066cc; }
+	.round { background: #0066cc; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85rem; }
+	.interview-list h3 { margin: 0.5rem 0; }
+	.footer { display: flex; justify-content: space-between; align-items: center; margin-top: 0.5rem; }
+	.date { color: #999; font-size: 0.9rem; }
+	.tags { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+	.tag { background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-size: 0.85rem; }
+</style>

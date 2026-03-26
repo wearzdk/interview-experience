@@ -1,0 +1,23 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header>
+	<nav>
+		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<div class="links">
+			<a href="/">首页</a>
+			<a href="https://mianlingai.com" target="_blank">面灵AI</a>
+			<a href="https://github.com/wearzdk/interview-experience" target="_blank">GitHub</a>
+		</div>
+	</nav>
+</header>
+<style>
+	header { padding: 0 1em; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+	h2 { margin: 0; font-size: 1em; }
+	h2 a { text-decoration: none; color: #000; }
+	nav { display: flex; align-items: center; justify-content: space-between; }
+	.links { display: flex; gap: 1.5rem; }
+	.links a { padding: 1em 0; color: #000; text-decoration: none; }
+	.links a:hover { color: #0066cc; }
+</style>

@@ -1,0 +1,37 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+	const interviews = await getCollection('interviews');
+	return interviews.map(entry => ({
+		params: { slug: entry.id },
+		props: { entry },
+	}));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={entry.data.title} description={`${entry.data.company} ${entry.data.position} 面试经验`} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<article>
+				<Content />
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+</style>

@@ -1,0 +1,82 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const interviews = await getCollection('interviews');
+const latest = interviews.sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 10);
+
+const companies = [...new Set(interviews.map(i => i.data.company))].sort();
+const positions = [...new Set(interviews.map(i => i.data.position))].sort();
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="hero">
+				<h1>面试经验分享</h1>
+				<p>真实大厂面试题库 · Java/前端/Go/算法全覆盖</p>
+			</section>
+
+			<section class="nav-cards">
+				<div class="card">
+					<h2>🏢 按公司浏览</h2>
+					<ul>
+						{companies.map(c => (
+							<li><a href={`/company/${c}`}>{c}</a></li>
+						))}
+					</ul>
+				</div>
+				<div class="card">
+					<h2>💼 按岗位浏览</h2>
+					<ul>
+						{positions.map(p => (
+							<li><a href={`/position/${p}`}>{p}</a></li>
+						))}
+					</ul>
+				</div>
+			</section>
+
+			<section class="latest">
+				<h2>📊 最新面经</h2>
+				<ul>
+					{latest.map(item => (
+						<li>
+							<a href={`/interview/${item.id}`}>
+								<span class="company">{item.data.company}</span>
+								<span class="title">{item.data.title}</span>
+								<span class="date">{item.data.date}</span>
+							</a>
+						</li>
+					))}
+				</ul>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero { text-align: center; padding: 3rem 1rem; }
+	.hero h1 { font-size: 2.5rem; margin-bottom: 0.5rem; }
+	.hero p { color: #666; font-size: 1.2rem; }
+	.nav-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 2rem 0; }
+	.card { border: 1px solid #ddd; border-radius: 8px; padding: 1.5rem; }
+	.card h2 { margin-top: 0; }
+	.card ul { list-style: none; padding: 0; }
+	.card li { margin: 0.5rem 0; }
+	.latest ul { list-style: none; padding: 0; }
+	.latest li { border-bottom: 1px solid #eee; }
+	.latest a { display: flex; gap: 1rem; padding: 1rem 0; text-decoration: none; color: inherit; }
+	.latest a:hover { background: #f9f9f9; }
+	.company { font-weight: 600; color: #0066cc; min-width: 80px; }
+	.title { flex: 1; }
+	.date { color: #999; font-size: 0.9rem; }
+</style>
