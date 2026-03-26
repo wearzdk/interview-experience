@@ -25,7 +25,38 @@ const { Content } = await render(entry);
 		<Header />
 		<main>
 			<article>
-				<Content />
+				<div class="article-header">
+					<div class="meta">
+						<a href={`/company/${entry.data.company}`} class="company">{entry.data.company}</a>
+						<span class="separator">·</span>
+						<a href={`/position/${entry.data.position}`} class="position">{entry.data.position}</a>
+						{entry.data.round && (
+							<>
+								<span class="separator">·</span>
+								<span class="round">{entry.data.round}</span>
+							</>
+						)}
+					</div>
+					<h1>{entry.data.title}</h1>
+					<div class="info">
+						<span class="date">{entry.data.date}</span>
+						{entry.data.source && <span class="source">来源：{entry.data.source}</span>}
+					</div>
+				</div>
+				
+				<div class="content">
+					<Content />
+				</div>
+
+				<div class="article-footer">
+					<a href="https://mianlingai.com" target="_blank" class="cta-banner">
+						<div class="cta-content">
+							<strong>💡 推荐工具</strong>
+							<span>面灵AI - AI实时面试助手，帮你应对各种面试场景</span>
+						</div>
+						<span class="cta-arrow">→</span>
+					</a>
+				</div>
 			</article>
 		</main>
 		<Footer />
@@ -33,5 +64,166 @@ const { Content } = await render(entry);
 </html>
 
 <style>
-	article { max-width: 800px; margin: 0 auto; padding: 2rem 1rem; }
+	main {
+		max-width: 800px;
+		margin: 0 auto;
+		padding: var(--space-lg) 2rem var(--space-xl);
+	}
+
+	.article-header {
+		margin-bottom: var(--space-lg);
+		padding-bottom: var(--space-md);
+		border-bottom: 2px solid var(--color-border);
+	}
+
+	.meta {
+		display: flex;
+		align-items: center;
+		gap: 0.75rem;
+		margin-bottom: var(--space-sm);
+		font-size: 0.95rem;
+	}
+
+	.company, .position {
+		font-weight: 600;
+		color: var(--color-accent);
+	}
+
+	.company:hover, .position:hover {
+		text-decoration: underline;
+	}
+
+	.separator {
+		color: var(--color-muted);
+	}
+
+	.round {
+		background: var(--color-text);
+		color: white;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+		font-weight: 600;
+	}
+
+	article h1 {
+		font-size: clamp(2rem, 5vw, 3rem);
+		font-weight: 900;
+		margin-bottom: var(--space-sm);
+		line-height: 1.1;
+	}
+
+	.info {
+		display: flex;
+		gap: var(--space-sm);
+		color: var(--color-muted);
+		font-size: 0.9rem;
+	}
+
+	.content {
+		line-height: 1.8;
+		font-size: 1.05rem;
+	}
+
+	.content :global(h2) {
+		font-size: 1.75rem;
+		margin-top: var(--space-lg);
+		margin-bottom: var(--space-sm);
+		font-weight: 700;
+	}
+
+	.content :global(h3) {
+		font-size: 1.35rem;
+		margin-top: var(--space-md);
+		margin-bottom: var(--space-xs);
+		font-weight: 600;
+	}
+
+	.content :global(p) {
+		margin-bottom: var(--space-sm);
+	}
+
+	.content :global(ul), .content :global(ol) {
+		margin: var(--space-sm) 0;
+		padding-left: 1.5rem;
+	}
+
+	.content :global(li) {
+		margin-bottom: 0.5rem;
+	}
+
+	.content :global(table) {
+		width: 100%;
+		border-collapse: collapse;
+		margin: var(--space-md) 0;
+		font-size: 0.95rem;
+	}
+
+	.content :global(th), .content :global(td) {
+		padding: 0.75rem;
+		border: 1px solid var(--color-border);
+		text-align: left;
+	}
+
+	.content :global(th) {
+		background: var(--color-bg);
+		font-weight: 600;
+	}
+
+	.content :global(blockquote) {
+		border-left: 4px solid var(--color-accent);
+		padding-left: var(--space-sm);
+		margin: var(--space-md) 0;
+		color: var(--color-muted);
+		font-style: italic;
+	}
+
+	.article-footer {
+		margin-top: var(--space-lg);
+		padding-top: var(--space-md);
+		border-top: 2px solid var(--color-border);
+	}
+
+	.cta-banner {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		background: linear-gradient(135deg, #fff5f0 0%, #ffe8e0 100%);
+		border: 2px solid var(--color-accent);
+		border-radius: 12px;
+		padding: var(--space-md);
+		transition: all 0.3s ease;
+	}
+
+	.cta-banner:hover {
+		transform: translateY(-4px);
+		box-shadow: 0 8px 24px rgba(212, 56, 13, 0.2);
+	}
+
+	.cta-content {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
+
+	.cta-content strong {
+		color: var(--color-accent);
+		font-size: 1.1rem;
+	}
+
+	.cta-content span {
+		color: var(--color-text);
+		font-size: 0.95rem;
+	}
+
+	.cta-arrow {
+		font-size: 2rem;
+		color: var(--color-accent);
+		font-weight: bold;
+	}
+
+	@media (max-width: 768px) {
+		main { padding: var(--space-md) 1rem; }
+		.meta { flex-wrap: wrap; }
+	}
 </style>

@@ -3,14 +3,85 @@ const today = new Date();
 ---
 
 <footer>
-	<p>
-		真实面试经验，助力求职成功 · 
-		推荐：<a href="https://mianlingai.com" target="_blank">面灵AI</a> - AI实时面试助手
-	</p>
-	<p>&copy; {today.getFullYear()} 面试经验分享</p>
+	<div class="container">
+		<div class="footer-content">
+			<div class="footer-main">
+				<h3>面试经验档案</h3>
+				<p>真实面试经验，助力求职成功</p>
+			</div>
+			<div class="footer-links">
+				<a href="https://mianlingai.com" target="_blank">面灵AI</a>
+				<a href="https://github.com/wearzdk/interview-experience" target="_blank">GitHub</a>
+			</div>
+		</div>
+		<div class="footer-bottom">
+			<p>&copy; {today.getFullYear()} 面试经验分享</p>
+		</div>
+	</div>
 </footer>
+
 <style>
-	footer { text-align: center; padding: 2rem 1rem; border-top: 1px solid #eee; color: #666; font-size: 0.9rem; }
-	footer a { color: #0066cc; text-decoration: none; }
-	footer a:hover { text-decoration: underline; }
+	footer {
+		background: var(--color-text);
+		color: white;
+		margin-top: var(--space-xl);
+	}
+	
+	.container {
+		max-width: 1400px;
+		margin: 0 auto;
+		padding: var(--space-lg) 2rem var(--space-md);
+	}
+	
+	.footer-content {
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-start;
+		padding-bottom: var(--space-md);
+		border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+	}
+	
+	.footer-main h3 {
+		font-family: var(--font-display);
+		font-size: 1.5rem;
+		font-weight: 900;
+		margin-bottom: 0.5rem;
+	}
+	
+	.footer-main p {
+		color: rgba(255, 255, 255, 0.7);
+		font-size: 0.95rem;
+	}
+	
+	.footer-links {
+		display: flex;
+		gap: var(--space-md);
+	}
+	
+	.footer-links a {
+		color: white;
+		font-weight: 500;
+		transition: color 0.2s ease;
+	}
+	
+	.footer-links a:hover {
+		color: var(--color-accent);
+	}
+	
+	.footer-bottom {
+		padding-top: var(--space-md);
+		text-align: center;
+		color: rgba(255, 255, 255, 0.6);
+		font-size: 0.9rem;
+	}
+	
+	@media (max-width: 768px) {
+		.container {
+			padding: var(--space-md) 1rem;
+		}
+		.footer-content {
+			flex-direction: column;
+			gap: var(--space-md);
+		}
+	}
 </style>

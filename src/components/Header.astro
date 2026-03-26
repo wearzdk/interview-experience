@@ -3,21 +3,99 @@ import { SITE_TITLE } from '../consts';
 ---
 
 <header>
-	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
-		<div class="links">
+	<div class="container">
+		<a href="/" class="logo">
+			<span class="logo-main">面试经验</span>
+			<span class="logo-sub">Interview Archive</span>
+		</a>
+		<nav>
 			<a href="/">首页</a>
-			<a href="https://mianlingai.com" target="_blank">面灵AI</a>
-			<a href="https://github.com/wearzdk/interview-experience" target="_blank">GitHub</a>
-		</div>
-	</nav>
+			<a href="https://mianlingai.com" target="_blank" class="cta">面灵AI ↗</a>
+		</nav>
+	</div>
 </header>
+
 <style>
-	header { padding: 0 1em; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
-	h2 { margin: 0; font-size: 1em; }
-	h2 a { text-decoration: none; color: #000; }
-	nav { display: flex; align-items: center; justify-content: space-between; }
-	.links { display: flex; gap: 1.5rem; }
-	.links a { padding: 1em 0; color: #000; text-decoration: none; }
-	.links a:hover { color: #0066cc; }
+	header {
+		position: sticky;
+		top: 0;
+		background: var(--color-card);
+		border-bottom: 2px solid var(--color-border);
+		z-index: 100;
+		backdrop-filter: blur(10px);
+		background: rgba(255, 255, 255, 0.95);
+	}
+	
+	.container {
+		max-width: 1400px;
+		margin: 0 auto;
+		padding: 1.5rem 2rem;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	
+	.logo {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25rem;
+	}
+	
+	.logo-main {
+		font-family: var(--font-display);
+		font-size: 1.5rem;
+		font-weight: 900;
+		letter-spacing: -0.03em;
+		color: var(--color-text);
+	}
+	
+	.logo-sub {
+		font-size: 0.75rem;
+		text-transform: uppercase;
+		letter-spacing: 0.1em;
+		color: var(--color-muted);
+		font-weight: 500;
+	}
+	
+	nav {
+		display: flex;
+		gap: 2rem;
+		align-items: center;
+	}
+	
+	nav a {
+		font-weight: 500;
+		font-size: 0.95rem;
+		position: relative;
+	}
+	
+	nav a:not(.cta):hover {
+		color: var(--color-accent);
+	}
+	
+	.cta {
+		background: var(--color-accent);
+		color: white;
+		padding: 0.5rem 1.25rem;
+		border-radius: 6px;
+		font-weight: 600;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+	
+	.cta:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(212, 56, 13, 0.3);
+	}
+	
+	@media (max-width: 640px) {
+		.container {
+			padding: 1rem;
+		}
+		nav {
+			gap: 1rem;
+		}
+		.logo-sub {
+			display: none;
+		}
+	}
 </style>

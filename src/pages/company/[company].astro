@@ -1,5 +1,5 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
@@ -29,39 +29,146 @@ const { company, interviews } = Astro.props;
 	<body>
 		<Header />
 		<main>
-			<h1>{company} 面试经验</h1>
-			<ul class="interview-list">
-				{interviews.map(item => (
-					<li>
-						<a href={`/interview/${item.id}`}>
-							<div class="meta">
-								<span class="round">{item.data.round || '面试'}</span>
-								<span class="date">{item.data.date}</span>
-							</div>
-							<h3>{item.data.title}</h3>
-							<div class="tags">
-								{item.data.tags.map(tag => <span class="tag">{tag}</span>)}
-							</div>
-						</a>
-					</li>
+			<div class="page-header">
+				<h1>{company}</h1>
+				<p class="count">{interviews.length} 篇面经</p>
+			</div>
+
+			<div class="interview-list">
+				{interviews.map((item, i) => (
+					<a href={`/interview/${item.id}`} class="interview-item" style={`animation-delay: ${i * 0.05}s`}>
+						<div class="item-meta">
+							{item.data.round && <span class="round">{item.data.round}</span>}
+							<span class="date">{item.data.date}</span>
+						</div>
+						<h2>{item.data.title}</h2>
+						<div class="item-footer">
+							<span class="position">{item.data.position}</span>
+							{item.data.tags.length > 0 && (
+								<div class="tags">
+									{item.data.tags.slice(0, 4).map(tag => (
+										<span class="tag">{tag}</span>
+									))}
+								</div>
+							)}
+						</div>
+					</a>
 				))}
-			</ul>
+			</div>
 		</main>
 		<Footer />
 	</body>
 </html>
 
 <style>
-	main { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; }
-	h1 { margin-bottom: 2rem; }
-	.interview-list { list-style: none; padding: 0; }
-	.interview-list li { border: 1px solid #ddd; border-radius: 8px; margin-bottom: 1rem; }
-	.interview-list a { display: block; padding: 1.5rem; text-decoration: none; color: inherit; }
-	.interview-list a:hover { background: #f9f9f9; }
-	.meta { display: flex; justify-content: space-between; margin-bottom: 0.5rem; }
-	.round { background: #0066cc; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.85rem; }
-	.date { color: #999; font-size: 0.9rem; }
-	.interview-list h3 { margin: 0.5rem 0; }
-	.tags { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-	.tag { background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-size: 0.85rem; }
+	main {
+		max-width: 1000px;
+		margin: 0 auto;
+		padding: var(--space-lg) 2rem var(--space-xl);
+	}
+
+	.page-header {
+		margin-bottom: var(--space-lg);
+		padding-bottom: var(--space-md);
+		border-bottom: 3px solid var(--color-accent);
+	}
+
+	.page-header h1 {
+		font-size: clamp(2.5rem, 6vw, 4rem);
+		font-weight: 900;
+		margin-bottom: var(--space-xs);
+	}
+
+	.count {
+		font-size: 1.1rem;
+		color: var(--color-muted);
+		font-weight: 500;
+	}
+
+	.interview-list {
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-md);
+	}
+
+	.interview-item {
+		background: var(--color-card);
+		padding: var(--space-md);
+		border: 2px solid var(--color-border);
+		border-radius: 12px;
+		display: flex;
+		flex-direction: column;
+		gap: var(--space-sm);
+		transition: all 0.3s ease;
+		opacity: 0;
+		animation: fadeInUp 0.6s ease forwards;
+	}
+
+	@keyframes fadeInUp {
+		from { opacity: 0; transform: translateY(20px); }
+		to { opacity: 1; transform: translateY(0); }
+	}
+
+	.interview-item:hover {
+		border-color: var(--color-accent);
+		transform: translateX(8px);
+		box-shadow: -4px 0 0 var(--color-accent), 0 4px 20px rgba(0,0,0,0.08);
+	}
+
+	.item-meta {
+		display: flex;
+		gap: var(--space-sm);
+		align-items: center;
+	}
+
+	.round {
+		background: var(--color-text);
+		color: white;
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+		font-weight: 600;
+	}
+
+	.date {
+		color: var(--color-muted);
+		font-size: 0.9rem;
+	}
+
+	.interview-item h2 {
+		font-size: 1.5rem;
+		font-weight: 700;
+	}
+
+	.item-footer {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		gap: var(--space-sm);
+	}
+
+	.position {
+		font-weight: 600;
+		color: var(--color-accent);
+		font-size: 0.95rem;
+	}
+
+	.tags {
+		display: flex;
+		gap: 0.5rem;
+		flex-wrap: wrap;
+	}
+
+	.tag {
+		background: var(--color-bg);
+		padding: 0.25rem 0.75rem;
+		border-radius: 4px;
+		font-size: 0.8rem;
+		color: var(--color-muted);
+	}
+
+	@media (max-width: 768px) {
+		main { padding: var(--space-md) 1rem; }
+		.item-footer { flex-direction: column; align-items: flex-start; }
+	}
 </style>
