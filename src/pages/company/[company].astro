@@ -68,17 +68,17 @@ const { company, interviews } = Astro.props;
 	.page-header {
 		margin-bottom: var(--space-md);
 		padding-bottom: var(--space-sm);
-		border-bottom: 2px solid var(--color-accent);
 	}
 
 	.page-header h1 {
-		font-size: 1.75rem;
-		font-weight: 700;
+		font-size: 1.65rem;
+		font-weight: 800;
 		margin-bottom: 0.25rem;
+		letter-spacing: -0.02em;
 	}
 
 	.page-header p {
-		font-size: 0.9rem;
+		font-size: 0.85rem;
 		color: var(--color-muted);
 	}
 
@@ -91,27 +91,27 @@ const { company, interviews } = Astro.props;
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
-		padding: 1rem 0;
+		padding: 0.875rem 0;
 		border-bottom: 1px solid var(--color-border);
-		transition: all 0.15s ease;
+		transition: padding-left 0.15s ease;
 	}
 
 	.list-item:hover {
-		padding-left: 0.75rem;
-		background: linear-gradient(90deg, rgba(212, 56, 13, 0.04) 0%, transparent 100%);
+		padding-left: 0.5rem;
 	}
 
 	.item-main h3 {
-		font-size: 1rem;
+		font-size: 0.95rem;
 		font-weight: 600;
-		margin-bottom: 0.35rem;
+		margin-bottom: 0.3rem;
+		line-height: 1.4;
 	}
 
 	.item-meta {
 		display: flex;
 		align-items: center;
-		gap: 0.5rem;
-		font-size: 0.85rem;
+		gap: 0.4rem;
+		font-size: 0.8rem;
 		color: var(--color-muted);
 	}
 
@@ -120,25 +120,32 @@ const { company, interviews } = Astro.props;
 		font-weight: 600;
 	}
 
-	.sep { color: var(--color-border); }
+	.sep { color: var(--color-border); font-size: 0.75rem; }
 
 	.round {
-		background: var(--color-text);
-		color: white;
-		padding: 0.1rem 0.5rem;
-		border-radius: 3px;
-		font-size: 0.75rem;
+		background: var(--color-accent-light);
+		color: var(--color-accent);
+		padding: 0.1rem 0.45rem;
+		border-radius: var(--radius-sm);
+		font-size: 0.72rem;
 		font-weight: 600;
+		margin-left: 0.25rem;
 	}
 
 	.date {
-		font-size: 0.85rem;
+		font-size: 0.8rem;
 		color: var(--color-muted);
 		white-space: nowrap;
+		flex-shrink: 0;
 	}
 
 	@media (max-width: 768px) {
 		main { padding: var(--space-sm) 1rem; }
-		.list-item { flex-direction: column; align-items: flex-start; gap: 0.25rem; }
+		.list-item {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 0.25rem;
+			padding: 0.75rem;
+		}
 	}
 </style>

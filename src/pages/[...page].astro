@@ -1,0 +1,429 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+export const getStaticPaths = (async ({ paginate }) => {
+	const interviews = await getCollection('interviews');
+	const sorted = interviews.sort((a, b) => b.data.date.localeCompare(a.data.date));
+	return paginate(sorted, { pageSize: 20 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const interviews = await getCollection('interviews');
+const companies = [...new Set(interviews.map(i => i.data.company))].sort();
+const positions = [...new Set(interviews.map(i => i.data.position))].sort();
+const hotTags = Object.entries(
+	interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>)
+).sort((a, b) => b[1] - a[1]).slice(0, 15).map(([t]) => t);
+const isFirstPage = page.currentPage === 1;
+const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.currentPage} 页`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={pageTitle} description={SITE_DESCRIPTION} />
+		{page.url.prev && <link rel="prev" href={page.url.prev} />}
+		{page.url.next && <link rel="next" href={page.url.next} />}
+	</head>
+	<body>
+		<Header />
+		<main>
+			{isFirstPage && (
+				<section class="hero">
+					<div class="hero-inner">
+						<div class="hero-text">
+							<h1>真实大厂面经<br/><span class="hero-accent">一站聚合</span></h1>
+							<p class="hero-desc">从牛客、脉脉等平台采集的真实互联网面经</p>
+							<div class="hero-stats">
+								<div class="stat">
+									<span class="stat-num">{interviews.length}</span>
+									<span class="stat-label">篇面经</span>
+								</div>
+								<div class="stat-divider"></div>
+								<div class="stat">
+									<span class="stat-num">{companies.length}</span>
+									<span class="stat-label">家公司</span>
+								</div>
+								<div class="stat-divider"></div>
+								<div class="stat">
+									<span class="stat-num">{positions.length}</span>
+									<span class="stat-label">个岗位</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+			)}
+
+			{isFirstPage && (
+				<section class="filters">
+					<div class="filter-group">
+						<h3>公司</h3>
+						<div class="filter-tags">
+							{companies.map(c => (
+								<a href={`/company/${c}`}>{c}</a>
+							))}
+						</div>
+					</div>
+					<div class="filter-group">
+						<h3>岗位</h3>
+						<div class="filter-tags">
+							{positions.map(p => (
+								<a href={`/position/${p}`}>{p}</a>
+							))}
+						</div>
+					</div>
+					<div class="filter-group">
+						<h3>技术点</h3>
+						<div class="filter-tags">
+							{hotTags.map(t => (
+								<a href={`/tag/${t}`}>{t}</a>
+							))}
+						</div>
+					</div>
+				</section>
+			)}
+
+			<section class="list">
+				<div class="list-header">
+					<h2>{isFirstPage ? '最新面经' : `面经列表`}</h2>
+					<span class="list-count">共 {page.total} 篇 · 第 {page.currentPage}/{page.lastPage} 页</span>
+				</div>
+				<div class="interview-list">
+					{page.data.map(item => (
+						<a href={`/interview/${item.id}`} class="list-item">
+							<div class="item-main">
+								<h3>{item.data.title}</h3>
+								<div class="item-meta">
+									<span class="company">{item.data.company}</span>
+									<span class="sep">/</span>
+									<span class="position">{item.data.position}</span>
+									{item.data.round && (
+										<span class="round">{item.data.round}</span>
+									)}
+								</div>
+								{item.data.summary && <p class="summary">{item.data.summary}</p>}
+							</div>
+							<span class="date">{item.data.date}</span>
+						</a>
+					))}
+				</div>
+
+				{page.lastPage > 1 && (
+					<nav class="pagination" aria-label="分页导航">
+						{page.url.prev ? (
+							<a href={page.url.prev} class="page-btn">&larr; 上一页</a>
+						) : (
+							<span class="page-btn disabled">&larr; 上一页</span>
+						)}
+						<div class="page-nums">
+							{Array.from({ length: page.lastPage }, (_, i) => i + 1).map(num => (
+								<a
+									href={num === 1 ? '/' : `/${num}`}
+									class:list={['page-num', { active: num === page.currentPage }]}
+								>
+									{num}
+								</a>
+							))}
+						</div>
+						{page.url.next ? (
+							<a href={page.url.next} class="page-btn">下一页 &rarr;</a>
+						) : (
+							<span class="page-btn disabled">下一页 &rarr;</span>
+						)}
+					</nav>
+				)}
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 0 2rem;
+	}
+
+	/* Hero */
+	.hero {
+		padding: var(--space-lg) 0 var(--space-md);
+	}
+
+	.hero-inner {
+		position: relative;
+	}
+
+	.hero-text h1 {
+		font-size: 2.5rem;
+		font-weight: 800;
+		line-height: 1.2;
+		letter-spacing: -0.03em;
+		margin-bottom: 0.75rem;
+	}
+
+	.hero-accent {
+		color: var(--color-accent);
+	}
+
+	.hero-desc {
+		color: var(--color-muted);
+		font-size: 1rem;
+		margin-bottom: 1.75rem;
+	}
+
+	.hero-stats {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+	}
+
+	.stat {
+		display: flex;
+		flex-direction: column;
+		gap: 0.15rem;
+	}
+
+	.stat-num {
+		font-size: 1.75rem;
+		font-weight: 800;
+		letter-spacing: -0.03em;
+		color: var(--color-text);
+		line-height: 1;
+	}
+
+	.stat-label {
+		font-size: 0.8rem;
+		color: var(--color-muted);
+		font-weight: 500;
+	}
+
+	.stat-divider {
+		width: 1px;
+		height: 2rem;
+		background: var(--color-border);
+	}
+
+	/* 筛选区 */
+	.filters {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 1.5rem;
+		padding: var(--space-md) 0;
+	}
+
+	.filter-group {
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-md);
+		padding: 1.25rem;
+	}
+
+	.filter-group h3 {
+		font-size: 0.78rem;
+		color: var(--color-muted);
+		margin-bottom: 0.75rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+	}
+
+	.filter-tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem;
+	}
+
+	.filter-tags a {
+		padding: 0.3rem 0.75rem;
+		background: var(--color-bg);
+		border: 1px solid transparent;
+		border-radius: var(--radius-full);
+		font-size: 0.82rem;
+		color: var(--color-text-secondary);
+	}
+
+	.filter-tags a:hover {
+		background: var(--color-accent);
+		color: white;
+	}
+
+	/* 列表 */
+	.list {
+		padding: var(--space-md) 0 var(--space-lg);
+	}
+
+	.list-header {
+		display: flex;
+		align-items: baseline;
+		gap: 0.75rem;
+		margin-bottom: var(--space-sm);
+		padding-bottom: 0.75rem;
+		border-bottom: 2px solid var(--color-text);
+	}
+
+	.list-header h2 {
+		font-size: 1.15rem;
+		font-weight: 700;
+	}
+
+	.list-count {
+		font-size: 0.82rem;
+		color: var(--color-muted);
+		font-weight: 500;
+	}
+
+	.interview-list {
+		display: flex;
+		flex-direction: column;
+	}
+
+	.list-item {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		padding: 0.875rem 0;
+		border-bottom: 1px solid var(--color-border);
+		transition: padding-left 0.15s ease;
+	}
+
+	.list-item:hover {
+		padding-left: 0.5rem;
+	}
+
+	.item-main h3 {
+		font-size: 0.95rem;
+		font-weight: 600;
+		margin-bottom: 0.3rem;
+		line-height: 1.4;
+	}
+
+	.item-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.4rem;
+		font-size: 0.8rem;
+		color: var(--color-muted);
+	}
+
+	.summary {
+		font-size: 0.82rem;
+		color: var(--color-muted);
+		line-height: 1.5;
+		margin: 0.3rem 0 0;
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.company {
+		color: var(--color-accent);
+		font-weight: 600;
+	}
+
+	.sep {
+		color: var(--color-border);
+		font-size: 0.75rem;
+	}
+
+	.round {
+		background: var(--color-accent-light);
+		color: var(--color-accent);
+		padding: 0.1rem 0.45rem;
+		border-radius: var(--radius-sm);
+		font-size: 0.72rem;
+		font-weight: 600;
+		margin-left: 0.25rem;
+	}
+
+	.date {
+		font-size: 0.8rem;
+		color: var(--color-muted);
+		white-space: nowrap;
+		flex-shrink: 0;
+	}
+
+	/* 分页 */
+	.pagination {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.75rem;
+		margin-top: var(--space-md);
+		padding-top: var(--space-md);
+	}
+
+	.page-btn {
+		padding: 0.5rem 1rem;
+		font-size: 0.85rem;
+		font-weight: 500;
+		color: var(--color-text);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-sm);
+		white-space: nowrap;
+	}
+
+	.page-btn:hover:not(.disabled) {
+		border-color: var(--color-accent);
+		color: var(--color-accent);
+	}
+
+	.page-btn.disabled {
+		color: var(--color-muted);
+		opacity: 0.5;
+		cursor: default;
+	}
+
+	.page-nums {
+		display: flex;
+		gap: 0.25rem;
+	}
+
+	.page-num {
+		width: 2.25rem;
+		height: 2.25rem;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 0.85rem;
+		font-weight: 500;
+		border-radius: var(--radius-sm);
+		color: var(--color-text-secondary);
+	}
+
+	.page-num:hover {
+		background: var(--color-card);
+		color: var(--color-text);
+	}
+
+	.page-num.active {
+		background: var(--color-accent);
+		color: white;
+		font-weight: 600;
+	}
+
+	@media (max-width: 768px) {
+		main { padding: 0 1rem; }
+		.hero { padding: var(--space-md) 0 var(--space-sm); }
+		.hero-text h1 { font-size: 1.75rem; }
+		.stat-num { font-size: 1.35rem; }
+		.hero-stats { gap: 1rem; }
+		.filters { grid-template-columns: 1fr; gap: 0.75rem; }
+		.list-item {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 0.25rem;
+			padding: 0.75rem;
+		}
+		.pagination { gap: 0.5rem; }
+		.page-btn { padding: 0.4rem 0.75rem; font-size: 0.8rem; }
+		.page-nums { display: none; }
+	}
+</style>

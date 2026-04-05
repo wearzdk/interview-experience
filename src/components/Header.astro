@@ -1,72 +1,113 @@
 ---
-import { SITE_TITLE } from '../consts';
+import { SITE_TITLE } from "../consts";
 ---
 
 <header>
-	<div class="container">
-		<a href="/" class="logo">面灵面经</a>
-		<nav>
-			<a href="/">首页</a>
-			<a href="https://mianlingai.com" target="_blank" class="cta">面灵AI</a>
-		</nav>
-	</div>
+  <div class="container">
+    <a href="/" class="logo">
+      <span class="logo-dot"></span>
+      面灵面经
+    </a>
+    <nav>
+      <a href="/">首页</a>
+      <a href="https://www.mianlingai.com" target="_blank" class="cta"
+        >面灵AI<span class="cta-arrow">&rarr;</span></a
+      >
+    </nav>
+  </div>
 </header>
 
 <style>
-	header {
-		position: sticky;
-		top: 0;
-		border-bottom: 1px solid var(--color-border);
-		z-index: 100;
-		backdrop-filter: blur(10px);
-		background: rgba(250, 250, 248, 0.95);
-	}
-	
-	.container {
-		max-width: 1200px;
-		margin: 0 auto;
-		padding: 1rem 2rem;
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-	}
-	
-	.logo {
-		font-size: 1.25rem;
-		font-weight: 700;
-		color: var(--color-text);
-	}
-	
-	nav {
-		display: flex;
-		gap: 2rem;
-		align-items: center;
-	}
-	
-	nav a {
-		font-weight: 500;
-		font-size: 0.95rem;
-	}
-	
-	nav a:not(.cta):hover {
-		color: var(--color-accent);
-	}
-	
-	.cta {
-		background: var(--color-accent);
-		color: white;
-		padding: 0.5rem 1.25rem;
-		border-radius: 6px;
-		font-weight: 600;
-		transition: all 0.2s ease;
-	}
-	
-	.cta:hover {
-		opacity: 0.9;
-	}
-	
-	@media (max-width: 640px) {
-		.container { padding: 0.75rem 1rem; }
-		nav { gap: 1rem; }
-	}
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    background: rgba(248, 247, 244, 0.88);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  }
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.875rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--color-text);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .logo-dot {
+    width: 8px;
+    height: 8px;
+    background: var(--color-accent);
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .logo:hover .logo-dot {
+    box-shadow: 0 0 0 3px var(--color-accent-light);
+  }
+
+  nav {
+    display: flex;
+    gap: 1.75rem;
+    align-items: center;
+  }
+
+  nav a {
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: var(--color-text);
+  }
+
+  nav a:not(.cta):hover {
+    color: var(--color-accent);
+  }
+
+  .cta {
+    background: var(--color-accent);
+    color: #fff;
+    padding: 0.45rem 1.1rem;
+    border-radius: var(--radius-full);
+    font-weight: 600;
+    font-size: 0.85rem;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+  }
+
+  .cta-arrow {
+    font-size: 0.9em;
+    transition: transform 0.15s ease;
+  }
+
+  .cta:hover {
+    background: var(--color-accent-hover);
+  }
+
+  .cta:hover .cta-arrow {
+    transform: translateX(2px);
+  }
+
+  @media (max-width: 640px) {
+    .container {
+      padding: 0.75rem 1rem;
+    }
+    nav {
+      gap: 1rem;
+    }
+    .cta {
+      padding: 0.4rem 0.9rem;
+    }
+  }
 </style>

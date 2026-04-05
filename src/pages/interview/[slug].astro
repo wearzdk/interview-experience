@@ -127,7 +127,7 @@ const jsonLd = {
 
 <style>
 	main {
-		max-width: 800px;
+		max-width: 760px;
 		margin: 0 auto;
 		padding: var(--space-md) 2rem var(--space-lg);
 	}
@@ -135,34 +135,35 @@ const jsonLd = {
 	.breadcrumb {
 		display: flex;
 		align-items: center;
-		gap: 0.5rem;
-		font-size: 0.85rem;
+		gap: 0.4rem;
+		font-size: 0.82rem;
 		color: var(--color-muted);
 		margin-bottom: var(--space-md);
 	}
+	.breadcrumb span { color: var(--color-border); }
 	.breadcrumb a:hover { color: var(--color-accent); }
 
 	.article-header {
 		margin-bottom: var(--space-md);
-		padding-bottom: var(--space-md);
-		border-bottom: 1px solid var(--color-border);
+		padding-bottom: 1.5rem;
 	}
 
 	.article-header h1 {
-		font-size: 1.75rem;
-		font-weight: 700;
-		margin-bottom: var(--space-sm);
-		line-height: 1.3;
+		font-size: 1.65rem;
+		font-weight: 800;
+		margin-bottom: 0.75rem;
+		line-height: 1.35;
+		letter-spacing: -0.02em;
 	}
 
 	.meta {
 		display: flex;
 		align-items: center;
 		gap: 0.5rem;
-		font-size: 0.9rem;
+		font-size: 0.85rem;
 		color: var(--color-muted);
 		flex-wrap: wrap;
-		margin-bottom: 0.75rem;
+		margin-bottom: 1rem;
 	}
 
 	.company, .position { font-weight: 600; color: var(--color-accent); }
@@ -172,56 +173,85 @@ const jsonLd = {
 	.tags {
 		display: flex;
 		flex-wrap: wrap;
-		gap: 0.4rem;
+		gap: 0.35rem;
 	}
 
 	.tag {
-		padding: 0.2rem 0.65rem;
-		background: var(--color-card);
-		border: 1px solid var(--color-border);
-		border-radius: 20px;
-		font-size: 0.8rem;
-		color: var(--color-text);
-		transition: all 0.15s;
+		padding: 0.2rem 0.6rem;
+		background: var(--color-bg);
+		border: none;
+		border-radius: var(--radius-full);
+		font-size: 0.78rem;
+		color: var(--color-text-secondary);
 	}
 	.tag:hover {
 		background: var(--color-accent);
 		color: white;
-		border-color: var(--color-accent);
 	}
 
-	.content { line-height: 1.8; font-size: 0.95rem; }
-	.content :global(h2) { font-size: 1.4rem; margin-top: var(--space-md); margin-bottom: var(--space-sm); font-weight: 700; }
-	.content :global(h3) { font-size: 1.15rem; margin-top: 1.5rem; margin-bottom: var(--space-xs); font-weight: 600; }
+	.content {
+		line-height: 1.85;
+		font-size: 0.95rem;
+		color: var(--color-text);
+	}
+	.content :global(h2) {
+		font-size: 1.3rem;
+		margin-top: 2.5rem;
+		margin-bottom: 0.75rem;
+		font-weight: 700;
+		color: var(--color-text);
+	}
+	.content :global(h3) {
+		font-size: 1.1rem;
+		margin-top: 1.75rem;
+		margin-bottom: var(--space-xs);
+		font-weight: 600;
+		color: var(--color-text);
+	}
 	.content :global(p) { margin-bottom: var(--space-sm); }
 	.content :global(ul), .content :global(ol) { margin: var(--space-sm) 0; padding-left: 1.5rem; }
-	.content :global(li) { margin-bottom: 0.5rem; }
-	.content :global(pre) { background: var(--color-card); border: 1px solid var(--color-border); border-radius: 6px; padding: 1rem; overflow-x: auto; margin: var(--space-sm) 0; }
-	.content :global(code) { font-family: monospace; font-size: 0.9em; }
-	.content :global(strong) { font-weight: 600; }
+	.content :global(li) { margin-bottom: 0.4rem; }
+	.content :global(pre) {
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-sm);
+		padding: 1rem 1.25rem;
+		overflow-x: auto;
+		margin: var(--space-sm) 0;
+		font-size: 0.88rem;
+	}
+	.content :global(code) { font-family: var(--font-mono); font-size: 0.88em; }
+	.content :global(strong) { font-weight: 600; color: var(--color-text); }
 	.content :global(hr) { border: none; border-top: 1px solid var(--color-border); margin: var(--space-md) 0; }
+	.content :global(blockquote) {
+		border-left: 3px solid var(--color-accent);
+		padding-left: 1rem;
+		margin: var(--space-sm) 0;
+		color: var(--color-muted);
+	}
 
 	.article-footer {
 		margin-top: var(--space-lg);
-		padding-top: var(--space-md);
-		border-top: 1px solid var(--color-border);
 	}
 
 	.cta-banner {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		background: #fff5f0;
-		border: 1px solid #ffd8c8;
-		border-radius: 8px;
+		background: var(--color-accent-light);
+		border: 1px solid rgba(196, 57, 28, 0.12);
+		border-radius: var(--radius-md);
 		padding: 1.25rem 1.5rem;
-		transition: all 0.2s ease;
 	}
-	.cta-banner:hover { border-color: var(--color-accent); box-shadow: 0 4px 12px rgba(212, 56, 13, 0.1); }
+	.cta-banner:hover {
+		border-color: var(--color-accent);
+		box-shadow: var(--shadow-md);
+	}
 	.cta-content { display: flex; flex-direction: column; gap: 0.25rem; }
-	.cta-content strong { color: var(--color-accent); font-size: 1rem; }
-	.cta-content span { color: var(--color-muted); font-size: 0.85rem; }
-	.cta-arrow { font-size: 1.5rem; color: var(--color-accent); }
+	.cta-content strong { color: var(--color-accent); font-size: 0.95rem; }
+	.cta-content span { color: var(--color-muted); font-size: 0.82rem; }
+	.cta-arrow { font-size: 1.25rem; color: var(--color-accent); transition: transform 0.15s ease; }
+	.cta-banner:hover .cta-arrow { transform: translateX(3px); }
 
 	.related {
 		margin-top: var(--space-lg);
@@ -229,25 +259,36 @@ const jsonLd = {
 		border-top: 1px solid var(--color-border);
 	}
 
-	.related h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: var(--space-sm); }
+	.related h2 {
+		font-size: 1.05rem;
+		font-weight: 700;
+		margin-bottom: 0.75rem;
+	}
 
 	.related-list { display: flex; flex-direction: column; }
 
 	.related-item {
 		display: flex;
 		flex-direction: column;
-		gap: 0.2rem;
-		padding: 0.75rem 0;
-		border-bottom: 1px solid var(--color-border);
-		transition: padding-left 0.15s;
+		gap: 0.15rem;
+		padding: 0.65rem 0.5rem;
+		margin: 0 -0.5rem;
+		border-radius: var(--radius-sm);
+		transition: background 0.15s ease;
 	}
-	.related-item:hover { padding-left: 0.5rem; }
+	.related-item:not(:last-child) {
+		border-bottom: 1px solid var(--color-border);
+	}
+	.related-item:hover {
+		background: var(--color-card);
+	}
 
-	.related-title { font-size: 0.95rem; font-weight: 600; color: var(--color-text); }
-	.related-meta { font-size: 0.82rem; color: var(--color-muted); }
+	.related-title { font-size: 0.9rem; font-weight: 600; color: var(--color-text); }
+	.related-meta { font-size: 0.8rem; color: var(--color-muted); }
 
 	@media (max-width: 768px) {
 		main { padding: var(--space-sm) 1rem; }
+		.article-header h1 { font-size: 1.35rem; }
 		.meta { flex-wrap: wrap; }
 		.cta-banner { flex-direction: column; gap: 0.75rem; align-items: flex-start; }
 	}
