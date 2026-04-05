@@ -1,0 +1,129 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const interviews = await getCollection('interviews');
+const positionCounts = Object.entries(
+	interviews.reduce((acc, i) => ({ ...acc, [i.data.position]: (acc[i.data.position] ?? 0) + 1 }), {} as Record<string, number>)
+).sort((a, b) => b[1] - a[1]);
+
+const title = `全部岗位 — 共 ${positionCounts.length} 个岗位面经`;
+const description = `收录${positionCounts.length}个互联网岗位的真实面经，包括${positionCounts.slice(0, 5).map(([p]) => p).join('、')}等热门岗位。`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "CollectionPage",
+			"name": title,
+			"description": description,
+			"url": `${Astro.site}positions/`,
+			"numberOfItems": positionCounts.length,
+		})} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<div class="breadcrumb">
+					<a href="/">首页</a>
+					<span>/</span>
+					<span>全部岗位</span>
+				</div>
+				<h1>全部岗位</h1>
+				<p>共收录 <strong>{positionCounts.length}</strong> 个岗位的面经</p>
+			</div>
+
+			<div class="grid">
+				{positionCounts.map(([position, count]) => (
+					<a href={`/position/${position}`} class="grid-item">
+						<span class="grid-name">{position}</span>
+						<span class="grid-count">{count} 篇</span>
+					</a>
+				))}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: var(--space-md) 2rem var(--space-lg);
+	}
+
+	.breadcrumb {
+		display: flex;
+		gap: 0.4rem;
+		font-size: 0.82rem;
+		color: var(--color-muted);
+		margin-bottom: 0.75rem;
+	}
+	.breadcrumb span { color: var(--color-border); }
+	.breadcrumb span:last-child { color: var(--color-muted); }
+	.breadcrumb a:hover { color: var(--color-accent); }
+
+	.page-header {
+		margin-bottom: var(--space-md);
+		padding-bottom: var(--space-sm);
+	}
+
+	.page-header h1 {
+		font-size: 1.65rem;
+		font-weight: 800;
+		margin-bottom: 0.25rem;
+		letter-spacing: -0.02em;
+	}
+
+	.page-header p {
+		font-size: 0.85rem;
+		color: var(--color-muted);
+	}
+
+	.page-header strong {
+		color: var(--color-accent);
+	}
+
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 0.75rem;
+	}
+
+	.grid-item {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 0.75rem 1rem;
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-sm);
+	}
+
+	.grid-item:hover {
+		border-color: var(--color-accent);
+		color: var(--color-accent);
+	}
+
+	.grid-name {
+		font-size: 0.9rem;
+		font-weight: 600;
+	}
+
+	.grid-count {
+		font-size: 0.78rem;
+		color: var(--color-muted);
+	}
+
+	@media (max-width: 768px) {
+		main { padding: var(--space-sm) 1rem; }
+		.grid { grid-template-columns: 1fr; }
+	}
+</style>

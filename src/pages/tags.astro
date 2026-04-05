@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const interviews = await getCollection('interviews');
+const tagCounts = Object.entries(
+	interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>)
+).sort((a, b) => b[1] - a[1]);
+
+const title = `全部技术点 — 共 ${tagCounts.length} 个面试考点`;
+const description = `收录${tagCounts.length}个面试技术考点，包括${tagCounts.slice(0, 8).map(([t]) => t).join('、')}等热门知识点，助你精准备战面试。`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "CollectionPage",
+			"name": title,
+			"description": description,
+			"url": `${Astro.site}tags/`,
+			"numberOfItems": tagCounts.length,
+		})} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<div class="breadcrumb">
+					<a href="/">首页</a>
+					<span>/</span>
+					<span>全部技术点</span>
+				</div>
+				<h1>全部技术点</h1>
+				<p>共收录 <strong>{tagCounts.length}</strong> 个面试考点</p>
+			</div>
+
+			<div class="tag-list">
+				{tagCounts.map(([tag, count]) => (
+					<a href={`/tag/${tag}`} class="tag-item">
+						<span class="tag-name">{tag}</span>
+						<span class="tag-count">{count}</span>
+					</a>
+				))}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: var(--space-md) 2rem var(--space-lg);
+	}
+
+	.breadcrumb {
+		display: flex;
+		gap: 0.4rem;
+		font-size: 0.82rem;
+		color: var(--color-muted);
+		margin-bottom: 0.75rem;
+	}
+	.breadcrumb span { color: var(--color-border); }
+	.breadcrumb span:last-child { color: var(--color-muted); }
+	.breadcrumb a:hover { color: var(--color-accent); }
+
+	.page-header {
+		margin-bottom: var(--space-md);
+		padding-bottom: var(--space-sm);
+	}
+
+	.page-header h1 {
+		font-size: 1.65rem;
+		font-weight: 800;
+		margin-bottom: 0.25rem;
+		letter-spacing: -0.02em;
+	}
+
+	.page-header p {
+		font-size: 0.85rem;
+		color: var(--color-muted);
+	}
+
+	.page-header strong {
+		color: var(--color-accent);
+	}
+
+	.tag-list {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+	}
+
+	.tag-item {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4rem;
+		padding: 0.4rem 0.85rem;
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-full);
+		font-size: 0.85rem;
+		color: var(--color-text);
+	}
+
+	.tag-item:hover {
+		background: var(--color-accent);
+		color: white;
+		border-color: var(--color-accent);
+	}
+
+	.tag-count {
+		font-size: 0.72rem;
+		color: var(--color-muted);
+		background: var(--color-bg);
+		padding: 0.1rem 0.4rem;
+		border-radius: var(--radius-full);
+		font-weight: 600;
+		min-width: 1.2rem;
+		text-align: center;
+	}
+
+	.tag-item:hover .tag-count {
+		background: rgba(255, 255, 255, 0.2);
+		color: white;
+	}
+
+	@media (max-width: 768px) {
+		main { padding: var(--space-sm) 1rem; }
+	}
+</style>

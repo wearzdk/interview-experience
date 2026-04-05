@@ -18,10 +18,19 @@ const { Content } = await render(entry);
 const description = entry.data.summary
 	?? `${entry.data.company} ${entry.data.position}${entry.data.round ? ' ' + entry.data.round : ''} 真实面经，涵盖${entry.data.tags.slice(0, 4).join('、')}等考点。`;
 
-// 相关推荐：同公司 or 同岗位，排除自身，最多 5 篇
+// 相关推荐：打分机制，同公司+2、同岗位+1、每个相同tag+1，取前5
+const currentTags = new Set(entry.data.tags);
 const related = allInterviews
-	.filter(i => i.id !== entry.id && (i.data.company === entry.data.company || i.data.position === entry.data.position))
-	.sort((a, b) => b.data.date.localeCompare(a.data.date))
+	.filter(i => i.id !== entry.id)
+	.map(i => {
+		let score = 0;
+		if (i.data.company === entry.data.company) score += 2;
+		if (i.data.position === entry.data.position) score += 1;
+		score += i.data.tags.filter(t => currentTags.has(t)).length;
+		return { ...i, score };
+	})
+	.filter(i => i.score > 0)
+	.sort((a, b) => b.score - a.score || b.data.date.localeCompare(a.data.date))
 	.slice(0, 5);
 
 const jsonLd = {

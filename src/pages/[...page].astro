@@ -14,11 +14,17 @@ export const getStaticPaths = (async ({ paginate }) => {
 
 const { page } = Astro.props;
 const interviews = await getCollection('interviews');
-const companies = [...new Set(interviews.map(i => i.data.company))].sort();
-const positions = [...new Set(interviews.map(i => i.data.position))].sort();
-const hotTags = Object.entries(
-	interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>)
-).sort((a, b) => b[1] - a[1]).slice(0, 15).map(([t]) => t);
+
+// 按面经数量降序排列
+const companyCounts = interviews.reduce((acc, i) => ({ ...acc, [i.data.company]: (acc[i.data.company] ?? 0) + 1 }), {} as Record<string, number>);
+const topCompanies = Object.entries(companyCounts).sort((a, b) => b[1] - a[1]).slice(0, 12);
+
+const positionCounts = interviews.reduce((acc, i) => ({ ...acc, [i.data.position]: (acc[i.data.position] ?? 0) + 1 }), {} as Record<string, number>);
+const topPositions = Object.entries(positionCounts).sort((a, b) => b[1] - a[1]).slice(0, 10);
+
+const tagCounts = interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>);
+const topTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
+
 const isFirstPage = page.currentPage === 1;
 const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.currentPage} 页`;
 ---
@@ -46,12 +52,12 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 								</div>
 								<div class="stat-divider"></div>
 								<div class="stat">
-									<span class="stat-num">{companies.length}</span>
+									<span class="stat-num">{Object.keys(companyCounts).length}</span>
 									<span class="stat-label">家公司</span>
 								</div>
 								<div class="stat-divider"></div>
 								<div class="stat">
-									<span class="stat-num">{positions.length}</span>
+									<span class="stat-num">{Object.keys(positionCounts).length}</span>
 									<span class="stat-label">个岗位</span>
 								</div>
 							</div>
@@ -63,26 +69,35 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 			{isFirstPage && (
 				<section class="filters">
 					<div class="filter-group">
-						<h3>公司</h3>
+						<div class="filter-header">
+							<h3>公司</h3>
+							<a href="/companies/" class="view-all">全部 &rarr;</a>
+						</div>
 						<div class="filter-tags">
-							{companies.map(c => (
-								<a href={`/company/${c}`}>{c}</a>
+							{topCompanies.map(([c, n]) => (
+								<a href={`/company/${c}`}>{c}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
 					<div class="filter-group">
-						<h3>岗位</h3>
+						<div class="filter-header">
+							<h3>岗位</h3>
+							<a href="/positions/" class="view-all">全部 &rarr;</a>
+						</div>
 						<div class="filter-tags">
-							{positions.map(p => (
-								<a href={`/position/${p}`}>{p}</a>
+							{topPositions.map(([p, n]) => (
+								<a href={`/position/${p}`}>{p}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
 					<div class="filter-group">
-						<h3>技术点</h3>
+						<div class="filter-header">
+							<h3>技术点</h3>
+							<a href="/tags/" class="view-all">全部 &rarr;</a>
+						</div>
 						<div class="filter-tags">
-							{hotTags.map(t => (
-								<a href={`/tag/${t}`}>{t}</a>
+							{topTags.map(([t, n]) => (
+								<a href={`/tag/${t}`}>{t}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
@@ -225,13 +240,28 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 		padding: 1.25rem;
 	}
 
+	.filter-header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 0.75rem;
+	}
+
 	.filter-group h3 {
 		font-size: 0.78rem;
 		color: var(--color-muted);
-		margin-bottom: 0.75rem;
 		font-weight: 600;
 		text-transform: uppercase;
 		letter-spacing: 0.08em;
+	}
+
+	.view-all {
+		font-size: 0.75rem;
+		color: var(--color-muted);
+	}
+
+	.view-all:hover {
+		color: var(--color-accent);
 	}
 
 	.filter-tags {
@@ -252,6 +282,16 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 	.filter-tags a:hover {
 		background: var(--color-accent);
 		color: white;
+	}
+
+	.tag-count {
+		font-size: 0.7rem;
+		color: var(--color-muted);
+		margin-left: 0.2rem;
+	}
+
+	.filter-tags a:hover .tag-count {
+		color: rgba(255, 255, 255, 0.7);
 	}
 
 	/* 列表 */

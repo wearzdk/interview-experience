@@ -22,12 +22,14 @@ export async function getStaticPaths() {
 const { tag, interviews } = Astro.props;
 const title = `${tag}面试题 — 真实面经汇总`;
 const description = `收录 ${interviews.length} 篇含 ${tag} 考点的真实面经，涵盖${[...new Set(interviews.map(i => i.data.company))].slice(0, 5).join('、')}等大厂，帮你高效备战面试。`;
+const isThin = interviews.length < 2;
 ---
 
 <!doctype html>
 <html lang="zh-CN">
 	<head>
 		<BaseHead title={title} description={description} />
+		{isThin && <meta name="robots" content="noindex, follow" />}
 		<script type="application/ld+json" set:html={JSON.stringify({
 			"@context": "https://schema.org",
 			"@type": "CollectionPage",
