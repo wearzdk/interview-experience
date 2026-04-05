@@ -115,11 +115,17 @@ const description = `收录${companyCounts.length}家互联网公司的真实面
 	.grid-name {
 		font-size: 0.9rem;
 		font-weight: 600;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		min-width: 0;
 	}
 
 	.grid-count {
 		font-size: 0.78rem;
 		color: var(--color-muted);
+		white-space: nowrap;
+		flex-shrink: 0;
 	}
 
 	@media (max-width: 768px) {
