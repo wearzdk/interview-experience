@@ -9,6 +9,9 @@ const interviews = await getCollection('interviews');
 const latest = interviews.sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 20);
 const companies = [...new Set(interviews.map(i => i.data.company))].sort();
 const positions = [...new Set(interviews.map(i => i.data.position))].sort();
+const hotTags = Object.entries(
+	interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>)
+).sort((a, b) => b[1] - a[1]).slice(0, 15).map(([t]) => t);
 ---
 
 <!doctype html>
@@ -44,6 +47,14 @@ const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 						))}
 					</div>
 				</div>
+				<div class="filter-group">
+					<h3>技术点</h3>
+					<div class="filter-tags">
+						{hotTags.map(t => (
+							<a href={`/tag/${t}`}>{t}</a>
+						))}
+					</div>
+				</div>
 			</section>
 
 			<section class="list">
@@ -64,6 +75,7 @@ const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 										</>
 									)}
 								</div>
+								{item.data.summary && <p class="summary">{item.data.summary}</p>}
 							</div>
 							<span class="date">{item.data.date}</span>
 						</a>
@@ -195,6 +207,17 @@ const positions = [...new Set(interviews.map(i => i.data.position))].sort();
 		gap: 0.5rem;
 		font-size: 0.85rem;
 		color: var(--color-muted);
+	}
+
+	.summary {
+		font-size: 0.83rem;
+		color: var(--color-muted);
+		line-height: 1.5;
+		margin: 0.35rem 0 0;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
 	}
 
 	.company {

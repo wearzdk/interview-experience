@@ -8,18 +8,47 @@ export async function getStaticPaths() {
 	const interviews = await getCollection('interviews');
 	return interviews.map(entry => ({
 		params: { slug: entry.id },
-		props: { entry },
+		props: { entry, allInterviews: interviews },
 	}));
 }
 
-const { entry } = Astro.props;
+const { entry, allInterviews } = Astro.props;
 const { Content } = await render(entry);
+
+const description = entry.data.summary
+	?? `${entry.data.company} ${entry.data.position}${entry.data.round ? ' ' + entry.data.round : ''} 真实面经，涵盖${entry.data.tags.slice(0, 4).join('、')}等考点。`;
+
+// 相关推荐：同公司 or 同岗位，排除自身，最多 5 篇
+const related = allInterviews
+	.filter(i => i.id !== entry.id && (i.data.company === entry.data.company || i.data.position === entry.data.position))
+	.sort((a, b) => b.data.date.localeCompare(a.data.date))
+	.slice(0, 5);
+
+const jsonLd = {
+	"@context": "https://schema.org",
+	"@type": "Article",
+	"headline": entry.data.title,
+	"description": description,
+	"datePublished": entry.data.date + "-01",
+	"author": { "@type": "Organization", "name": "面灵面经" },
+	"publisher": {
+		"@type": "Organization",
+		"name": "面灵AI",
+		"url": "https://mianlingai.com",
+	},
+	"keywords": [entry.data.company, entry.data.position, ...entry.data.tags].join(', '),
+	"url": `${Astro.site}interview/${entry.id}`,
+};
 ---
 
 <!doctype html>
 <html lang="zh-CN">
 	<head>
-		<BaseHead title={entry.data.title} description={`${entry.data.company} ${entry.data.position} 面经`} />
+		<BaseHead
+			title={`${entry.data.title} — ${entry.data.company}面试真题`}
+			description={description}
+		/>
+		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 	</head>
 	<body>
 		<Header />
@@ -45,24 +74,51 @@ const { Content } = await render(entry);
 								<span>{entry.data.round}</span>
 							</>
 						)}
+						{entry.data.base && (
+							<>
+								<span class="sep">·</span>
+								<span>{entry.data.base}</span>
+							</>
+						)}
 						<span class="sep">·</span>
 						<span class="date">{entry.data.date}</span>
 					</div>
+					{entry.data.tags.length > 0 && (
+						<div class="tags">
+							{entry.data.tags.map(tag => (
+								<a href={`/tag/${tag}`} class="tag">{tag}</a>
+							))}
+						</div>
+					)}
 				</div>
-				
+
 				<div class="content">
 					<Content />
 				</div>
 
 				<div class="article-footer">
-					<a href="https://mianlingai.com" target="_blank" class="cta-banner">
+					<a href="https://mianlingai.com" target="_blank" rel="noopener" class="cta-banner">
 						<div class="cta-content">
 							<strong>面灵AI — AI实时面试助手</strong>
-							<span>实时语音识别 + AI智能回答，帮你轻松应对各种面试场景</span>
+							<span>实时语音识别 + AI智能回答，轻松应对 {entry.data.company} 等大厂面试</span>
 						</div>
 						<span class="cta-arrow">→</span>
 					</a>
 				</div>
+
+				{related.length > 0 && (
+					<div class="related">
+						<h2>相关面经</h2>
+						<div class="related-list">
+							{related.map(item => (
+								<a href={`/interview/${item.id}`} class="related-item">
+									<span class="related-title">{item.data.title}</span>
+									<span class="related-meta">{item.data.company} · {item.data.position}{item.data.round ? ' · ' + item.data.round : ''}</span>
+								</a>
+							))}
+						</div>
+					</div>
+				)}
 			</article>
 		</main>
 		<Footer />
@@ -84,10 +140,7 @@ const { Content } = await render(entry);
 		color: var(--color-muted);
 		margin-bottom: var(--space-md);
 	}
-
-	.breadcrumb a:hover {
-		color: var(--color-accent);
-	}
+	.breadcrumb a:hover { color: var(--color-accent); }
 
 	.article-header {
 		margin-bottom: var(--space-md);
@@ -108,80 +161,45 @@ const { Content } = await render(entry);
 		gap: 0.5rem;
 		font-size: 0.9rem;
 		color: var(--color-muted);
+		flex-wrap: wrap;
+		margin-bottom: 0.75rem;
 	}
 
-	.company, .position {
-		font-weight: 600;
-		color: var(--color-accent);
+	.company, .position { font-weight: 600; color: var(--color-accent); }
+	.company:hover, .position:hover { text-decoration: underline; }
+	.sep { color: var(--color-border); }
+
+	.tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4rem;
 	}
 
-	.company:hover, .position:hover {
-		text-decoration: underline;
-	}
-
-	.sep {
-		color: var(--color-border);
-	}
-
-	.content {
-		line-height: 1.8;
-		font-size: 0.95rem;
-	}
-
-	.content :global(h2) {
-		font-size: 1.4rem;
-		margin-top: var(--space-md);
-		margin-bottom: var(--space-sm);
-		font-weight: 700;
-	}
-
-	.content :global(h3) {
-		font-size: 1.15rem;
-		margin-top: 1.5rem;
-		margin-bottom: var(--space-xs);
-		font-weight: 600;
-	}
-
-	.content :global(p) {
-		margin-bottom: var(--space-sm);
-	}
-
-	.content :global(ul), .content :global(ol) {
-		margin: var(--space-sm) 0;
-		padding-left: 1.5rem;
-	}
-
-	.content :global(li) {
-		margin-bottom: 0.5rem;
-	}
-
-	.content :global(table) {
-		width: 100%;
-		border-collapse: collapse;
-		margin: var(--space-md) 0;
-		font-size: 0.9rem;
-	}
-
-	.content :global(th), .content :global(td) {
-		padding: 0.6rem 0.75rem;
+	.tag {
+		padding: 0.2rem 0.65rem;
+		background: var(--color-card);
 		border: 1px solid var(--color-border);
-		text-align: left;
+		border-radius: 20px;
+		font-size: 0.8rem;
+		color: var(--color-text);
+		transition: all 0.15s;
+	}
+	.tag:hover {
+		background: var(--color-accent);
+		color: white;
+		border-color: var(--color-accent);
 	}
 
-	.content :global(th) {
-		background: var(--color-bg);
-		font-weight: 600;
-	}
-
-	.content :global(strong) {
-		font-weight: 600;
-	}
-
-	.content :global(hr) {
-		border: none;
-		border-top: 1px solid var(--color-border);
-		margin: var(--space-md) 0;
-	}
+	.content { line-height: 1.8; font-size: 0.95rem; }
+	.content :global(h2) { font-size: 1.4rem; margin-top: var(--space-md); margin-bottom: var(--space-sm); font-weight: 700; }
+	.content :global(h3) { font-size: 1.15rem; margin-top: 1.5rem; margin-bottom: var(--space-xs); font-weight: 600; }
+	.content :global(p) { margin-bottom: var(--space-sm); }
+	.content :global(ul), .content :global(ol) { margin: var(--space-sm) 0; padding-left: 1.5rem; }
+	.content :global(li) { margin-bottom: 0.5rem; }
+	.content :global(pre) { background: var(--color-card); border: 1px solid var(--color-border); border-radius: 6px; padding: 1rem; overflow-x: auto; margin: var(--space-sm) 0; }
+	.content :global(code) { font-family: monospace; font-size: 0.9em; }
+	.content :global(strong) { font-weight: 600; }
+	.content :global(hr) { border: none; border-top: 1px solid var(--color-border); margin: var(--space-md) 0; }
 
 	.article-footer {
 		margin-top: var(--space-lg);
@@ -199,36 +217,38 @@ const { Content } = await render(entry);
 		padding: 1.25rem 1.5rem;
 		transition: all 0.2s ease;
 	}
+	.cta-banner:hover { border-color: var(--color-accent); box-shadow: 0 4px 12px rgba(212, 56, 13, 0.1); }
+	.cta-content { display: flex; flex-direction: column; gap: 0.25rem; }
+	.cta-content strong { color: var(--color-accent); font-size: 1rem; }
+	.cta-content span { color: var(--color-muted); font-size: 0.85rem; }
+	.cta-arrow { font-size: 1.5rem; color: var(--color-accent); }
 
-	.cta-banner:hover {
-		border-color: var(--color-accent);
-		box-shadow: 0 4px 12px rgba(212, 56, 13, 0.1);
+	.related {
+		margin-top: var(--space-lg);
+		padding-top: var(--space-md);
+		border-top: 1px solid var(--color-border);
 	}
 
-	.cta-content {
+	.related h2 { font-size: 1.15rem; font-weight: 700; margin-bottom: var(--space-sm); }
+
+	.related-list { display: flex; flex-direction: column; }
+
+	.related-item {
 		display: flex;
 		flex-direction: column;
-		gap: 0.25rem;
+		gap: 0.2rem;
+		padding: 0.75rem 0;
+		border-bottom: 1px solid var(--color-border);
+		transition: padding-left 0.15s;
 	}
+	.related-item:hover { padding-left: 0.5rem; }
 
-	.cta-content strong {
-		color: var(--color-accent);
-		font-size: 1rem;
-	}
-
-	.cta-content span {
-		color: var(--color-muted);
-		font-size: 0.85rem;
-	}
-
-	.cta-arrow {
-		font-size: 1.5rem;
-		color: var(--color-accent);
-	}
+	.related-title { font-size: 0.95rem; font-weight: 600; color: var(--color-text); }
+	.related-meta { font-size: 0.82rem; color: var(--color-muted); }
 
 	@media (max-width: 768px) {
 		main { padding: var(--space-sm) 1rem; }
 		.meta { flex-wrap: wrap; }
-		.breadcrumb { flex-wrap: wrap; }
+		.cta-banner { flex-direction: column; gap: 0.75rem; align-items: flex-start; }
 	}
 </style>

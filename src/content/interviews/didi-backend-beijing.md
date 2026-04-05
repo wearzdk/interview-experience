@@ -20,8 +20,8 @@ tags: [Java, 网络, 消息队列, 高并发, 算法]
 1. 自我介绍
 2. 个人职业前景
 
-### 技术栈（C/C++、Python背景转Java）
-由于技术栈是C/C++、Python，问对Java中间件的了解：
+### 技术栈（C-C++、Python背景转Java）
+由于技术栈是C-C++、Python，问对Java中间件的了解：
 - epoll
 - 消息队列
 - 主从模型

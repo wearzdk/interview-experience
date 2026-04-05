@@ -14,6 +14,7 @@ const interviews = defineCollection({
 		base: z.string().optional(),
 		source: z.string().default('牛客网'),
 		tags: z.array(z.string()).default([]),
+		summary: z.string().optional(),
 	}),
 });
 

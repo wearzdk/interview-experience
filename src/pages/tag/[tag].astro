@@ -1,0 +1,174 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+export async function getStaticPaths() {
+	const interviews = await getCollection('interviews');
+	const allTags = [...new Set(interviews.flatMap(i => i.data.tags))];
+	
+	return allTags.map(tag => ({
+		params: { tag },
+		props: {
+			tag,
+			interviews: interviews
+				.filter(i => i.data.tags.includes(tag))
+				.sort((a, b) => b.data.date.localeCompare(a.data.date))
+		},
+	}));
+}
+
+const { tag, interviews } = Astro.props;
+const title = `${tag}面试题 — 真实面经汇总`;
+const description = `收录 ${interviews.length} 篇含 ${tag} 考点的真实面经，涵盖${[...new Set(interviews.map(i => i.data.company))].slice(0, 5).join('、')}等大厂，帮你高效备战面试。`;
+---
+
+<!doctype html>
+<html lang="zh-CN">
+	<head>
+		<BaseHead title={title} description={description} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "CollectionPage",
+			"name": title,
+			"description": description,
+			"url": `${Astro.site}tag/${tag}`,
+			"numberOfItems": interviews.length,
+		})} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-header">
+				<div class="breadcrumb">
+					<a href="/">首页</a>
+					<span>/</span>
+					<span>{tag} 面试题</span>
+				</div>
+				<h1><span class="tag-label">{tag}</span> 面试题</h1>
+				<p>共收录 <strong>{interviews.length}</strong> 篇真实面经</p>
+			</div>
+
+			<div class="interview-list">
+				{interviews.map(item => (
+					<a href={`/interview/${item.id}`} class="list-item">
+						<div class="item-main">
+							<h2>{item.data.title}</h2>
+							<div class="item-meta">
+								<span class="company">{item.data.company}</span>
+								<span class="sep">·</span>
+								<span class="position">{item.data.position}</span>
+								{item.data.round && (
+									<>
+										<span class="sep">·</span>
+										<span class="round">{item.data.round}</span>
+									</>
+								)}
+							</div>
+							{item.data.summary && <p class="summary">{item.data.summary}</p>}
+						</div>
+						<span class="date">{item.data.date}</span>
+					</a>
+				))}
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: var(--space-md) 2rem var(--space-lg);
+	}
+
+	.breadcrumb {
+		display: flex;
+		gap: 0.5rem;
+		font-size: 0.85rem;
+		color: var(--color-muted);
+		margin-bottom: 0.75rem;
+	}
+	.breadcrumb a:hover { color: var(--color-accent); }
+
+	.page-header {
+		margin-bottom: var(--space-md);
+		padding-bottom: var(--space-sm);
+		border-bottom: 2px solid var(--color-accent);
+	}
+
+	.page-header h1 {
+		font-size: 1.75rem;
+		font-weight: 700;
+		margin-bottom: 0.25rem;
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+	}
+
+	.tag-label {
+		background: var(--color-accent);
+		color: white;
+		padding: 0.1rem 0.6rem;
+		border-radius: 4px;
+		font-size: 1.25rem;
+	}
+
+	.page-header p { font-size: 0.9rem; color: var(--color-muted); }
+	.page-header strong { color: var(--color-accent); }
+
+	.interview-list { display: flex; flex-direction: column; }
+
+	.list-item {
+		display: flex;
+		align-items: flex-start;
+		justify-content: space-between;
+		padding: 1rem 0;
+		border-bottom: 1px solid var(--color-border);
+		transition: all 0.15s ease;
+		gap: 1rem;
+	}
+
+	.list-item:hover {
+		padding-left: 0.75rem;
+		background: linear-gradient(90deg, rgba(212, 56, 13, 0.04) 0%, transparent 100%);
+	}
+
+	.item-main h2 { font-size: 1rem; font-weight: 600; margin-bottom: 0.35rem; }
+
+	.item-meta {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		font-size: 0.85rem;
+		color: var(--color-muted);
+		margin-bottom: 0.35rem;
+	}
+
+	.summary {
+		font-size: 0.85rem;
+		color: var(--color-muted);
+		line-height: 1.5;
+		margin: 0;
+	}
+
+	.company { color: var(--color-accent); font-weight: 600; }
+	.sep { color: var(--color-border); }
+	.round {
+		background: var(--color-text);
+		color: white;
+		padding: 0.1rem 0.5rem;
+		border-radius: 3px;
+		font-size: 0.75rem;
+		font-weight: 600;
+	}
+
+	.date { font-size: 0.85rem; color: var(--color-muted); white-space: nowrap; flex-shrink: 0; }
+
+	@media (max-width: 768px) {
+		main { padding: var(--space-sm) 1rem; }
+		.list-item { flex-direction: column; }
+	}
+</style>
