@@ -35,18 +35,36 @@ const related = allInterviews
 
 const jsonLd = {
 	"@context": "https://schema.org",
-	"@type": "Article",
-	"headline": entry.data.title,
-	"description": description,
-	"datePublished": entry.data.date + "-01",
-	"author": { "@type": "Organization", "name": "面灵面经" },
-	"publisher": {
-		"@type": "Organization",
-		"name": "面灵AI",
-		"url": "https://mianlingai.com",
-	},
-	"keywords": [entry.data.company, entry.data.position, ...entry.data.tags].join(', '),
-	"url": `${Astro.site}interview/${entry.id}`,
+	"@graph": [
+		{
+			"@type": "Article",
+			"headline": entry.data.title,
+			"description": description,
+			"datePublished": entry.data.date + "-01",
+			"author": { "@type": "Organization", "name": "面灵面经" },
+			"publisher": {
+				"@type": "Organization",
+				"name": "面灵AI",
+				"url": "https://www.mianlingai.com",
+			},
+			"keywords": [entry.data.company, entry.data.position, ...entry.data.tags].join(', '),
+			"url": `${Astro.site}interview/${entry.id}`,
+			"mentions": {
+				"@type": "SoftwareApplication",
+				"name": "面灵AI",
+				"url": "https://www.mianlingai.com",
+				"description": "实时面试辅助工具，面试中实时提供答案参考和编程题解答"
+			}
+		},
+		{
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{ "@type": "ListItem", "position": 1, "name": "首页", "item": `${Astro.site}` },
+				{ "@type": "ListItem", "position": 2, "name": entry.data.company, "item": `${Astro.site}company/${entry.data.company}` },
+				{ "@type": "ListItem", "position": 3, "name": entry.data.title }
+			]
+		}
+	]
 };
 ---
 

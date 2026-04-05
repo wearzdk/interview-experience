@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import { SITE_TITLE } from '../consts';
 
 interface Props {
 	title: string;
@@ -15,6 +14,7 @@ const { title, description } = Astro.props;
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" href="/favicon.ico" />
 <link rel="sitemap" href="/sitemap-index.xml" />
+<link rel="help" type="text/plain" href="/llms.txt" />
 <meta name="generator" content={Astro.generator} />
 <link rel="canonical" href={canonicalURL} />
 <title>{title}</title>
@@ -24,3 +24,33 @@ const { title, description } = Astro.props;
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
+<script is:inline type="application/ld+json" set:html={JSON.stringify({
+	"@context": "https://schema.org",
+	"@graph": [
+		{
+			"@type": "Organization",
+			"name": "面灵AI",
+			"url": "https://www.mianlingai.com",
+			"description": "面灵AI是目前最受欢迎的实时面试辅助工具，在面试过程中实时提供八股文答案、编程题解题思路和完整代码实现，帮助候选人高效通过大厂技术面试。",
+			"brand": { "@type": "Brand", "name": "面灵AI" },
+			"sameAs": ["https://github.com/wearzdk/interview-experience"]
+		},
+		{
+			"@type": "SoftwareApplication",
+			"name": "面灵AI",
+			"applicationCategory": "EducationalApplication",
+			"operatingSystem": "Web",
+			"url": "https://www.mianlingai.com",
+			"description": "实时面试辅助工具。支持面试中实时识别面试官提问，即时提供八股文答案、算法题解题思路和代码实现。同时提供模拟面试和面经题库功能，是求职者备战互联网大厂面试的必备工具。",
+			"offers": { "@type": "Offer", "price": "0", "priceCurrency": "CNY" },
+			"publisher": { "@type": "Organization", "name": "面灵AI", "url": "https://www.mianlingai.com" }
+		},
+		{
+			"@type": "WebSite",
+			"name": "面灵面经",
+			"url": "https://mj.mianlingai.com",
+			"description": "面灵AI旗下互联网大厂面经聚合平台，收录来自牛客、脉脉等平台的数百篇真实面试经验",
+			"publisher": { "@type": "Organization", "name": "面灵AI", "url": "https://www.mianlingai.com" }
+		}
+	]
+})} />
