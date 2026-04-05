@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>面灵面经 Logo 设计方案</title>
+    <style>
+        :root {
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-main: #0f172a;
+            --text-sub: #64748b;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            padding: 50px 20px;
+            color: var(--text-main);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        .title {
+            font-size: 2.25rem;
+            font-weight: 800;
+            background: linear-gradient(to right, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin: 0 0 10px 0;
+        }
+        .subtitle {
+            color: var(--text-sub);
+            font-size: 1.1rem;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 30px;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 24px;
+            padding: 40px 30px;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.05), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .logo-container {
+            width: 120px;
+            height: 120px;
+            margin-bottom: 24px;
+            transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+        .card:hover .logo-container {
+            transform: scale(1.1) rotate(-3deg);
+        }
+        .logo-container svg {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+        .card h3 {
+            font-size: 1.4rem;
+            margin: 0 0 12px 0;
+            font-weight: 700;
+        }
+        .card p {
+            color: var(--text-sub);
+            line-height: 1.6;
+            margin: 0;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1 class="title">面灵面经 (MianLing)</h1>
+        <p class="subtitle">高度定制的 Web 原生 SVG Logo 方案</p>
+    </div>
+
+    <div class="grid">
+        <!-- 方案一：智慧对话 (Tech Chat) -->
+        <div class="card">
+            <div class="logo-container">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+                    <defs>
+                        <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#2563eb" />
+                            <stop offset="100%" stop-color="#7c3aed" />
+                        </linearGradient>
+                    </defs>
+                    <rect x="15" y="20" width="70" height="50" rx="14" fill="url(#grad1)" />
+                    <path d="M 35 70 L 25 85 L 45 70 Z" fill="url(#grad1)" />
+                    <!-- 代表灵/AI的星芒 -->
+                    <path d="M 50 32 C 51 40 56 46 65 46 C 56 46 51 52 50 60 C 49 52 44 46 35 46 C 44 46 49 40 50 32 Z" fill="#ffffff" />
+                </svg>
+            </div>
+            <h3>方案一：智慧对话探讨</h3>
+            <p><strong>抽象与科技：</strong>提取“面”的沟通与论坛本质（对话气泡），结合代表“灵”元素的四角星芒。深蓝到紫的渐变传达出科技感与专业求职氛围。</p>
+        </div>
+
+        <!-- 方案二：面经精灵 (Mascot) -->
+        <div class="card">
+            <div class="logo-container">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+                    <defs>
+                        <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+                            <stop offset="0%" stop-color="#fb923c" />
+                            <stop offset="100%" stop-color="#ea580c" />
+                        </linearGradient>
+                    </defs>
+                    <!-- 精灵斗篷主体与波浪底边 -->
+                    <path d="M 20 45 C 20 10 80 10 80 45 L 80 80 Q 75 90 70 80 Q 65 70 60 80 Q 55 90 50 80 Q 45 70 40 80 Q 35 90 30 80 Q 25 70 20 80 Z" fill="url(#grad2)" />
+                    <!-- 眼睛 -->
+                    <circle cx="38" cy="42" r="5" fill="#ffffff" />
+                    <circle cx="62" cy="42" r="5" fill="#ffffff" />
+                    <circle cx="38" cy="42" r="2.5" fill="#1e293b" />
+                    <circle cx="62" cy="42" r="2.5" fill="#1e293b" />
+                    <!-- 腮红与对勾嘴巴(代表通过) -->
+                    <circle cx="28" cy="48" r="3" fill="#ffffff" opacity="0.4" />
+                    <circle cx="72" cy="48" r="3" fill="#ffffff" opacity="0.4" />
+                    <path d="M 42 60 L 48 66 L 60 54" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </div>
+            <h3>方案二：面经小精灵</h3>
+            <p><strong>亲和与温度：</strong>将“灵”具象为一个可爱的小幽灵形态，最大的亮点是嘴巴为一个代表面试 Pass 的“对勾”，非常讨喜并能缓解面试焦虑，极具记忆点。</p>
+        </div>
+
+        <!-- 方案三：秘籍开启 (Geometric Book) -->
+        <div class="card">
+            <div class="logo-container">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+                    <defs>
+                        <linearGradient id="grad3_1" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#10b981" />
+                            <stop offset="100%" stop-color="#047857" />
+                        </linearGradient>
+                        <linearGradient id="grad3_2" x1="100%" y1="0%" x2="0%" y2="100%">
+                            <stop offset="0%" stop-color="#059669" />
+                            <stop offset="100%" stop-color="#022c22" />
+                        </linearGradient>
+                        <linearGradient id="grad3_gold" x1="0%" y1="0%" x2="100%" y2="100%">
+                            <stop offset="0%" stop-color="#fde047" />
+                            <stop offset="100%" stop-color="#eab308" />
+                        </linearGradient>
+                    </defs>
+                    
+                    <!-- 书页（同时构成字母 M 的轮廓） -->
+                    <!-- 左页 -->
+                    <path d="M 50 65 L 15 88 L 15 38 L 50 25 Z" fill="url(#grad3_1)" />
+                    <!-- 右页 -->
+                    <path d="M 50 65 L 85 88 L 85 38 L 50 25 Z" fill="url(#grad3_2)" />
+                    
+                    <!-- 书页纹理点缀 -->
+                    <path d="M 23 48 L 42 36" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round" />
+                    <path d="M 23 58 L 42 46" stroke="#ffffff" stroke-opacity="0.3" stroke-width="2" stroke-linecap="round" />
+                    <path d="M 77 48 L 58 36" stroke="#ffffff" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round" />
+                    <path d="M 77 58 L 58 46" stroke="#ffffff" stroke-opacity="0.2" stroke-width="2" stroke-linecap="round" />
+                    
+                    <!-- 核心灵光 (悬浮菱形) -->
+                    <polygon points="50,4 60,14 50,24 40,14" fill="url(#grad3_gold)" />
+                </svg>
+            </div>
+            <h3>方案三：秘籍开启组合</h3>
+            <p><strong>几何与扁平：</strong>由翻开的书本（经）构成字母“M”（面首字母），顶部悬浮发光菱形（灵）。翠绿搭配金黄寓意“绿灯放行、顺利通过与斩获高薪 offer”。</p>
+        </div>
+    </div>
+</body>
+</html>

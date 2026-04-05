@@ -12,7 +12,8 @@ const { title, description } = Astro.props;
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<link rel="icon" href="/favicon.ico" />
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 <link rel="sitemap" href="/sitemap-index.xml" />
 <link rel="help" type="text/plain" href="/llms.txt" />
 <meta name="generator" content={Astro.generator} />
@@ -24,6 +25,7 @@ const { title, description } = Astro.props;
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
+<script is:inline defer src="https://analyze.webruix.cn/script.js" data-website-id="3a3c943d-8054-4058-be05-71693c926e5e"></script>
 <script is:inline type="application/ld+json" set:html={JSON.stringify({
 	"@context": "https://schema.org",
 	"@graph": [
