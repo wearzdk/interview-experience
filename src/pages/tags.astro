@@ -41,7 +41,7 @@ const description = `收录${tagCounts.length}个面试技术考点，包括${ta
 
 			<div class="tag-list">
 				{tagCounts.map(([tag, count]) => (
-					<a href={`/tag/${tag}`} class="tag-item">
+					<a href={`/tag/${tag}/`} class="tag-item">
 						<span class="tag-name">{tag}</span>
 						<span class="tag-count">{count}</span>
 					</a>

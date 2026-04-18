@@ -4,10 +4,22 @@ import '../styles/global.css';
 interface Props {
 	title: string;
 	description: string;
+	noindex?: boolean;
+	ogType?: 'website' | 'article';
+	publishedTime?: string;
+	image?: string;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
-const { title, description } = Astro.props;
+const {
+	title,
+	description,
+	noindex = false,
+	ogType = 'website',
+	publishedTime,
+	image = '/icons/mianling.png',
+} = Astro.props;
+const imageURL = new URL(image, Astro.site);
 ---
 
 <meta charset="utf-8" />
@@ -18,13 +30,22 @@ const { title, description } = Astro.props;
 <link rel="help" type="text/plain" href="/llms.txt" />
 <meta name="generator" content={Astro.generator} />
 <link rel="canonical" href={canonicalURL} />
+{noindex && <meta name="robots" content="noindex, follow" />}
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
-<meta property="og:type" content="website" />
-<meta property="og:url" content={Astro.url} />
+<meta property="og:type" content={ogType} />
+<meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
+<meta property="og:image" content={imageURL} />
+<meta property="og:site_name" content="面灵面经" />
+<meta property="og:locale" content="zh_CN" />
+{publishedTime && <meta property="article:published_time" content={publishedTime} />}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={imageURL} />
 <script is:inline defer src="https://analyze.webruix.cn/script.js" data-website-id="3a3c943d-8054-4058-be05-71693c926e5e"></script>
 <script is:inline type="application/ld+json" set:html={JSON.stringify({
 	"@context": "https://schema.org",

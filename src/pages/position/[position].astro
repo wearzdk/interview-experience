@@ -36,7 +36,7 @@ const { position, interviews } = Astro.props;
 
 			<div class="interview-list">
 				{interviews.map(item => (
-					<a href={`/interview/${item.id}`} class="list-item">
+					<a href={`/interview/${item.id}/`} class="list-item">
 						<div class="item-main">
 							<h3>{item.data.title}</h3>
 							<div class="item-meta">

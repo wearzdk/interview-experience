@@ -3,5 +3,10 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
 	site: 'https://mj.mianlingai.com',
-	integrations: [sitemap()],
+	trailingSlash: 'always',
+	integrations: [
+		sitemap({
+			filter: (page) => !/\/\d+\/?$/.test(new URL(page).pathname),
+		}),
+	],
 });

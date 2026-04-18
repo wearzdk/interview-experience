@@ -41,7 +41,7 @@ const description = `收录${companyCounts.length}家互联网公司的真实面
 
 			<div class="grid">
 				{companyCounts.map(([company, count]) => (
-					<a href={`/company/${company}`} class="grid-item">
+					<a href={`/company/${company}/`} class="grid-item">
 						<span class="grid-name">{company}</span>
 						<span class="grid-count">{count} 篇</span>
 					</a>

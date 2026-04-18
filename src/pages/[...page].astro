@@ -27,12 +27,15 @@ const topTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).slice(0, 1
 
 const isFirstPage = page.currentPage === 1;
 const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.currentPage} 页`;
+const pageDesc = isFirstPage
+	? SITE_DESCRIPTION
+	: `第 ${page.currentPage} 页 · ${SITE_DESCRIPTION}`;
 ---
 
 <!doctype html>
 <html lang="zh-CN">
 	<head>
-		<BaseHead title={pageTitle} description={SITE_DESCRIPTION} />
+		<BaseHead title={pageTitle} description={pageDesc} noindex={!isFirstPage} />
 		{page.url.prev && <link rel="prev" href={page.url.prev} />}
 		{page.url.next && <link rel="next" href={page.url.next} />}
 	</head>
@@ -43,8 +46,8 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 				<section class="hero">
 					<div class="hero-inner">
 						<div class="hero-text">
-							<h1>真实大厂面经<br/><span class="hero-accent">一站聚合</span></h1>
-							<p class="hero-desc">从牛客、脉脉等平台采集的真实互联网面经</p>
+							<h1>互联网大厂面经<br/><span class="hero-accent">Java · 后端 · 前端 · AI 真题聚合</span></h1>
+							<p class="hero-desc">聚合牛客、脉脉等平台的字节、阿里、腾讯、美团等大厂真实面试题与解析</p>
 							<div class="hero-stats">
 								<div class="stat">
 									<span class="stat-num">{interviews.length}</span>
@@ -75,7 +78,7 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 						</div>
 						<div class="filter-tags">
 							{topCompanies.map(([c, n]) => (
-								<a href={`/company/${c}`}>{c}<span class="tag-count">{n}</span></a>
+								<a href={`/company/${c}/`}>{c}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
@@ -86,7 +89,7 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 						</div>
 						<div class="filter-tags">
 							{topPositions.map(([p, n]) => (
-								<a href={`/position/${p}`}>{p}<span class="tag-count">{n}</span></a>
+								<a href={`/position/${p}/`}>{p}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
@@ -97,7 +100,7 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 						</div>
 						<div class="filter-tags">
 							{topTags.map(([t, n]) => (
-								<a href={`/tag/${t}`}>{t}<span class="tag-count">{n}</span></a>
+								<a href={`/tag/${t}/`}>{t}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
@@ -111,7 +114,7 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 				</div>
 				<div class="interview-list">
 					{page.data.map(item => (
-						<a href={`/interview/${item.id}`} class="list-item">
+						<a href={`/interview/${item.id}/`} class="list-item">
 							<div class="item-main">
 								<h3>{item.data.title}</h3>
 								<div class="item-meta">
@@ -139,7 +142,7 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 						<div class="page-nums">
 							{Array.from({ length: page.lastPage }, (_, i) => i + 1).map(num => (
 								<a
-									href={num === 1 ? '/' : `/${num}`}
+									href={num === 1 ? '/' : `/${num}/`}
 									class:list={['page-num', { active: num === page.currentPage }]}
 								>
 									{num}

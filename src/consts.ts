@@ -1,2 +1,2 @@
-export const SITE_TITLE = '面灵面经';
-export const SITE_DESCRIPTION = '从牛客、脉脉等平台采集的真实互联网大厂面经，覆盖Java/前端/Go/算法等岗位';
+export const SITE_TITLE = '面灵面经 - 互联网大厂真实面试题与面经聚合';
+export const SITE_DESCRIPTION = '面灵面经聚合来自牛客、脉脉等平台的互联网大厂真实面经，覆盖字节、阿里、腾讯、美团等公司的 Java、后端、前端、AI、算法等岗位面试真题与解析，助你高效备战大厂面试。';

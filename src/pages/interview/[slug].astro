@@ -48,7 +48,7 @@ const jsonLd = {
 				"url": "https://www.mianlingai.com",
 			},
 			"keywords": [entry.data.company, entry.data.position, ...entry.data.tags].join(', '),
-			"url": `${Astro.site}interview/${entry.id}`,
+			"url": `${Astro.site}interview/${entry.id}/`,
 			"mentions": {
 				"@type": "SoftwareApplication",
 				"name": "面灵AI",
@@ -60,7 +60,7 @@ const jsonLd = {
 			"@type": "BreadcrumbList",
 			"itemListElement": [
 				{ "@type": "ListItem", "position": 1, "name": "首页", "item": `${Astro.site}` },
-				{ "@type": "ListItem", "position": 2, "name": entry.data.company, "item": `${Astro.site}company/${entry.data.company}` },
+				{ "@type": "ListItem", "position": 2, "name": entry.data.company, "item": `${Astro.site}company/${entry.data.company}/` },
 				{ "@type": "ListItem", "position": 3, "name": entry.data.title }
 			]
 		}
@@ -74,6 +74,8 @@ const jsonLd = {
 		<BaseHead
 			title={`${entry.data.title} — ${entry.data.company}面试真题`}
 			description={description}
+			ogType="article"
+			publishedTime={entry.data.date + "-01"}
 		/>
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 	</head>
@@ -84,7 +86,7 @@ const jsonLd = {
 				<div class="breadcrumb">
 					<a href="/">首页</a>
 					<span>/</span>
-					<a href={`/company/${entry.data.company}`}>{entry.data.company}</a>
+					<a href={`/company/${entry.data.company}/`}>{entry.data.company}</a>
 					<span>/</span>
 					<span>{entry.data.title}</span>
 				</div>
@@ -92,9 +94,9 @@ const jsonLd = {
 				<div class="article-header">
 					<h1>{entry.data.title}</h1>
 					<div class="meta">
-						<a href={`/company/${entry.data.company}`} class="company">{entry.data.company}</a>
+						<a href={`/company/${entry.data.company}/`} class="company">{entry.data.company}</a>
 						<span class="sep">·</span>
-						<a href={`/position/${entry.data.position}`} class="position">{entry.data.position}</a>
+						<a href={`/position/${entry.data.position}/`} class="position">{entry.data.position}</a>
 						{entry.data.round && (
 							<>
 								<span class="sep">·</span>
@@ -113,7 +115,7 @@ const jsonLd = {
 					{entry.data.tags.length > 0 && (
 						<div class="tags">
 							{entry.data.tags.map(tag => (
-								<a href={`/tag/${tag}`} class="tag">{tag}</a>
+								<a href={`/tag/${tag}/`} class="tag">{tag}</a>
 							))}
 						</div>
 					)}
@@ -138,7 +140,7 @@ const jsonLd = {
 						<h2>相关面经</h2>
 						<div class="related-list">
 							{related.map(item => (
-								<a href={`/interview/${item.id}`} class="related-item">
+								<a href={`/interview/${item.id}/`} class="related-item">
 									<span class="related-title">{item.data.title}</span>
 									<span class="related-meta">{item.data.company} · {item.data.position}{item.data.round ? ' · ' + item.data.round : ''}</span>
 								</a>
