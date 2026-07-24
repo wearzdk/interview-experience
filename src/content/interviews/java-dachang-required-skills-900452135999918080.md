@@ -1,5 +1,6 @@
 ---
 title: Java想进大厂到底要必备什么技术
+company: 多家大厂
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网

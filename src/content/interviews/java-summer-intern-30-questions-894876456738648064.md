@@ -1,5 +1,6 @@
 ---
 title: Java暑期实习必备面试八股文30题与复习路线
+company: 多家大厂
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网

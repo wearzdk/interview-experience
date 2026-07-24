@@ -1,5 +1,6 @@
 ---
 title: 20-99人小公司Java开发HR首面奇遇记
+company: 20-99人小公司
 position: Java开发工程师
 round: HR面（首轮）
 date: '2026-06'

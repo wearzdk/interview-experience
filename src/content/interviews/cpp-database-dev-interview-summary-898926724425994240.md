@@ -1,5 +1,6 @@
 ---
 title: C++数据库开发面经总结
+company: 多家C++后端方向公司
 position: C++开发工程师
 date: '2026-06'
 source: 牛客网

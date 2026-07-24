@@ -1,7 +1,7 @@
 ---
 title: 华为OD C++/Java岗位两轮技术面面经（25届空挡一年）
 company: 华为
-position: 华为OD（C++/Java开发）
+position: 华为OD（C++、Java开发）
 date: '2026-05'
 base: 陕西
 source: 牛客网

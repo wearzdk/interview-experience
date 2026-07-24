@@ -1,7 +1,7 @@
 ---
 title: 高德地图Java/Golang日常实习一面面经
 company: 高德地图
-position: Java/Golang开发实习生
+position: Java、Golang开发实习生
 round: 一面
 date: '2026-06'
 source: 牛客网

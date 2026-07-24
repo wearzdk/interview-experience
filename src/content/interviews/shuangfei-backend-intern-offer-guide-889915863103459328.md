@@ -1,5 +1,6 @@
 ---
 title: 双非本科逆袭大厂后端开发实习Offer复盘
+company: 大厂（实习offer复盘）
 position: 后端开发实习生
 date: '2026-05'
 result: 已拿offer
