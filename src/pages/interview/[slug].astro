@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import { tagToSlug } from '../../lib/tag-slug';
 
 export async function getStaticPaths() {
 	const interviews = await getCollection('interviews');
@@ -115,7 +116,7 @@ const jsonLd = {
 					{entry.data.tags.length > 0 && (
 						<div class="tags">
 							{entry.data.tags.map(tag => (
-								<a href={`/tag/${tag}/`} class="tag">{tag}</a>
+								<a href={`/tag/${tagToSlug(tag)}/`} class="tag">{tag}</a>
 							))}
 						</div>
 					)}

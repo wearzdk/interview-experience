@@ -50,4 +50,4 @@ Astro 作用域 CSS + 全局 CSS 自定义属性，响应式断点 768px，无 C
 
 ## 添加面经内容
 
-在 `src/content/interviews/` 下新建 `.md` 文件，填写必填 frontmatter 字段即可。文件名即为 slug。注意：tags 中不能包含 `/`，否则会导致路由报错。
+在 `src/content/interviews/` 下新建 `.md` 文件，填写必填 frontmatter 字段即可。文件名即为 slug。注意：tags 中不能包含 `/`，否则会导致路由报错；含 `#` 等 URL 保留字符的 tag（如 `C#`）会导致标签聚合页 404，需要在 `src/lib/tag-slug.ts` 的 `TAG_SLUG_OVERRIDES` 里补充 URL-safe slug 映射。

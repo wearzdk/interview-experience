@@ -3,13 +3,14 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
+import { tagToSlug } from '../../lib/tag-slug';
 
 export async function getStaticPaths() {
 	const interviews = await getCollection('interviews');
 	const allTags = [...new Set(interviews.flatMap(i => i.data.tags))];
-	
+
 	return allTags.map(tag => ({
-		params: { tag },
+		params: { tag: tagToSlug(tag) },
 		props: {
 			tag,
 			interviews: interviews
@@ -35,7 +36,7 @@ const isThin = interviews.length < 2;
 			"@type": "CollectionPage",
 			"name": title,
 			"description": description,
-			"url": `${Astro.site}tag/${tag}`,
+			"url": `${Astro.site}tag/${tagToSlug(tag)}`,
 			"numberOfItems": interviews.length,
 		})} />
 	</head>
