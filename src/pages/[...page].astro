@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { tagToSlug } from '../lib/tag-slug';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const interviews = await getCollection('interviews');
@@ -100,7 +101,7 @@ const pageDesc = isFirstPage
 						</div>
 						<div class="filter-tags">
 							{topTags.map(([t, n]) => (
-								<a href={`/tag/${t}/`}>{t}<span class="tag-count">{n}</span></a>
+								<a href={`/tag/${tagToSlug(t)}/`}>{t}<span class="tag-count">{n}</span></a>
 							))}
 						</div>
 					</div>
