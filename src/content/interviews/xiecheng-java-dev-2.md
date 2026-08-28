@@ -3,7 +3,7 @@ title: 携程 Java开发二面
 company: 携程
 position: Java后端
 round: 二面
-date: '2026-03-25'
+date: '2026-03'
 source: 牛客网
 tags: [Java, 多线程, Redis, MySQL, 消息队列, 算法]
 ---

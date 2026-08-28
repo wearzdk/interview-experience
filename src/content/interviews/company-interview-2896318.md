@@ -2,7 +2,7 @@
 title: "正浩创新，你不想要人可以不面试我"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-11'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2896318
 tags: ["Redis","JVM","面试经验","后端开发"]

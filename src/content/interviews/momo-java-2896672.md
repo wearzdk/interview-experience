@@ -2,7 +2,7 @@
 title: "陌陌 秋招 Java 商业化笔试"
 company: "陌陌"
 position: "Java后端开发工程师"
-date: '2026-00'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2896672
 tags: ["Java","面试经验","后端开发"]

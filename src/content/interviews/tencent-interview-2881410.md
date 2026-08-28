@@ -2,7 +2,7 @@
 title: "腾讯PCG-应用效能技术-日常实习一面凉经（发面经攒人品）"
 company: "腾讯"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2881410
 tags: ["Java","计算机网络","算法","面试经验","后端开发"]

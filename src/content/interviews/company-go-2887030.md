@@ -2,7 +2,7 @@
 title: "Golang社招 ·一面 ·成都晓多科技Agent开发岗"
 company: "某公司"
 position: "Go后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2887030
 tags: ["Java","Redis","MySQL","并发","计算机网络","AI应用"]

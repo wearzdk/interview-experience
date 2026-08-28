@@ -2,7 +2,7 @@
 title: "东宝软件实施"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-17'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2881910
 tags: ["Java","面试经验","后端开发"]

@@ -2,7 +2,7 @@
 title: "7.21 纷享销客 java开发 一面 30min"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2878783
 tags: ["Java","RocketMQ","计算机网络","AI应用","分布式系统","面试经验"]

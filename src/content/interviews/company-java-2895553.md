@@ -2,7 +2,7 @@
 title: "java小厂面经"
 company: "小红书"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2895553
 tags: ["Java","计算机网络","面试经验","后端开发"]

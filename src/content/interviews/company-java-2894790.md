@@ -2,7 +2,7 @@
 title: "上海嘉驰信息技术咨询-Java实习-8.21"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2894790
 tags: ["Java","MySQL","RabbitMQ","Spring","计算机网络","数据库"]

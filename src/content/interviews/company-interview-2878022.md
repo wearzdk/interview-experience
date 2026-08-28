@@ -2,7 +2,7 @@
 title: "7.20云鲸智能 平台开发实习 10min kpi面"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2878022
 tags: ["Java","JVM","计算机网络","AI应用","面试经验","后端开发"]

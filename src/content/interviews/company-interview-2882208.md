@@ -2,7 +2,7 @@
 title: "同程旅行日常实习一面"
 company: "某公司"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2882208
 tags: ["Java","Spring","并发","计算机网络","面试经验","后端开发"]

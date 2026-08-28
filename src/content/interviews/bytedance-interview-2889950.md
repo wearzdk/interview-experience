@@ -2,7 +2,7 @@
 title: "字节一面凉面"
 company: "字节"
 position: "Java后端开发工程师"
-date: '2026-15'
+date: '2026-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2889950
 tags: ["Java","Redis","MySQL","JVM","计算机网络","算法"]
