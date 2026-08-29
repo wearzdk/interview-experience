@@ -112,7 +112,7 @@ const description = `收录${companyCounts.length}家互联网公司的真实面
 
 	@media (max-width: 768px) {
 		main { padding: var(--space-sm) 1rem var(--space-md); }
-		.grid { grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+		.grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.5rem; }
 		.grid-item { padding: 0.55rem 0.6rem; gap: 0.5rem; }
 		.grid-item .co-badge { width: 1.85rem; height: 1.85rem; font-size: 0.78rem; }
 		.grid-name { font-size: 0.85rem; }
