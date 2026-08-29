@@ -1,0 +1,149 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { companyHue, companyInitial } from '../lib/company-hue';
+
+interface Props {
+	items: CollectionEntry<'interviews'>[];
+	/** 已经按公司/岗位聚合的页面上，把重复的那一维隐藏掉 */
+	hideCompany?: boolean;
+	hidePosition?: boolean;
+	/** 条目标题的标题级别：列表页上方没有 h2 时传 2，避免 h1 直接跳到 h3 */
+	titleLevel?: 2 | 3;
+}
+
+const { items, hideCompany = false, hidePosition = false, titleLevel = 3 } = Astro.props;
+const Title = `h${titleLevel}` as 'h2' | 'h3';
+---
+
+<div class="interview-list">
+	{items.map((item) => (
+		<a href={`/interview/${item.id}/`} class="list-item">
+			<span class="co-badge" style={`--co-hue:${companyHue(item.data.company)}`} aria-hidden="true">
+				{companyInitial(item.data.company)}
+			</span>
+			<div class="item-main">
+				<Title class="item-title">{item.data.title}</Title>
+				<div class="item-meta">
+					{!hideCompany && <span class="company">{item.data.company}</span>}
+					{!hidePosition && <span class="position">{item.data.position}</span>}
+					{item.data.round && <span class="round">{item.data.round}</span>}
+				</div>
+				{item.data.summary && <p class="summary">{item.data.summary}</p>}
+			</div>
+			<span class="date">{item.data.date}</span>
+		</a>
+	))}
+</div>
+
+<style>
+	.interview-list {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+
+	.list-item {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.9rem;
+		padding: 0.9rem 1.1rem;
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-md);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.list-item:hover {
+		border-color: var(--color-accent-border);
+		box-shadow: var(--shadow-md);
+		transform: translateY(-1px);
+	}
+
+	.item-main {
+		flex: 1;
+		min-width: 0;
+	}
+
+	.item-title {
+		font-size: 0.95rem;
+		font-weight: 600;
+		line-height: 1.45;
+		letter-spacing: -0.01em;
+	}
+
+	.list-item:hover .item-title {
+		color: var(--color-accent);
+	}
+
+	.item-meta {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		gap: 0.35rem;
+		margin-top: 0.4rem;
+		font-size: 0.75rem;
+	}
+
+	.company,
+	.position,
+	.round {
+		display: inline-flex;
+		align-items: center;
+		padding: 0.1rem 0.45rem;
+		border-radius: var(--radius-sm);
+		line-height: 1.5;
+		font-weight: 600;
+	}
+
+	.company {
+		background: var(--color-accent-light);
+		color: var(--color-accent);
+	}
+
+	.position {
+		background: var(--color-bg-deep);
+		color: var(--color-text-secondary);
+		font-weight: 500;
+	}
+
+	.round {
+		background: var(--color-bg-deep);
+		color: var(--color-muted);
+		font-weight: 500;
+	}
+
+	.summary {
+		font-size: 0.82rem;
+		color: var(--color-muted);
+		line-height: 1.55;
+		margin-top: 0.4rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.date {
+		flex-shrink: 0;
+		font-size: 0.75rem;
+		color: var(--color-muted);
+		white-space: nowrap;
+		font-variant-numeric: tabular-nums;
+		padding-top: 0.15rem;
+	}
+
+	@media (max-width: 768px) {
+		.list-item {
+			padding: 0.85rem;
+			gap: 0.7rem;
+		}
+		.co-badge {
+			width: 2.1rem;
+			height: 2.1rem;
+			font-size: 0.85rem;
+		}
+		.item-title { font-size: 0.92rem; }
+		.date { font-size: 0.72rem; }
+	}
+</style>

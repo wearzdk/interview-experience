@@ -4,6 +4,9 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import InterviewList from '../components/InterviewList.astro';
+import MiniProgram from '../components/MiniProgram.astro';
+import Pagination from '../components/Pagination.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { tagToSlug } from '../lib/tag-slug';
 
@@ -31,6 +34,18 @@ const pageTitle = isFirstPage ? SITE_TITLE : `${SITE_TITLE} - 第 ${page.current
 const pageDesc = isFirstPage
 	? SITE_DESCRIPTION
 	: `第 ${page.currentPage} 页 · ${SITE_DESCRIPTION}`;
+
+const stats = [
+	{ num: interviews.length, label: '篇面经' },
+	{ num: Object.keys(companyCounts).length, label: '家公司' },
+	{ num: Object.keys(positionCounts).length, label: '个岗位' },
+];
+
+const filterGroups = [
+	{ title: '公司', all: '/companies/', items: topCompanies.map(([name, n]) => ({ name, n, href: `/company/${name}/` })) },
+	{ title: '岗位', all: '/positions/', items: topPositions.map(([name, n]) => ({ name, n, href: `/position/${name}/` })) },
+	{ title: '技术点', all: '/tags/', items: topTags.map(([name, n]) => ({ name, n, href: `/tag/${tagToSlug(name)}/` })) },
+];
 ---
 
 <!doctype html>
@@ -45,118 +60,55 @@ const pageDesc = isFirstPage
 		<main>
 			{isFirstPage && (
 				<section class="hero">
-					<div class="hero-inner">
-						<div class="hero-text">
-							<h1>互联网大厂面经<br/><span class="hero-accent">Java · 后端 · 前端 · AI 真题聚合</span></h1>
-							<p class="hero-desc">聚合牛客、脉脉等平台的字节、阿里、腾讯、美团等大厂真实面试题与解析</p>
-							<div class="hero-stats">
+					<div class="hero-text">
+						<p class="eyebrow"><span class="pulse"></span>每日自动采集 · 牛客 / 脉脉</p>
+						<h1>互联网大厂面经<br /><span class="hero-accent">Java · 后端 · 前端 · AI 真题聚合</span></h1>
+						<p class="hero-desc">聚合牛客、脉脉等平台的字节、阿里、腾讯、美团等大厂真实面试题与解析，按公司、岗位、技术点整理成可检索的题库。</p>
+						<div class="hero-stats">
+							{stats.map(({ num, label }) => (
 								<div class="stat">
-									<span class="stat-num">{interviews.length}</span>
-									<span class="stat-label">篇面经</span>
+									<span class="stat-num">{num}</span>
+									<span class="stat-label">{label}</span>
 								</div>
-								<div class="stat-divider"></div>
-								<div class="stat">
-									<span class="stat-num">{Object.keys(companyCounts).length}</span>
-									<span class="stat-label">家公司</span>
-								</div>
-								<div class="stat-divider"></div>
-								<div class="stat">
-									<span class="stat-num">{Object.keys(positionCounts).length}</span>
-									<span class="stat-label">个岗位</span>
-								</div>
-							</div>
+							))}
 						</div>
 					</div>
+					<aside class="hero-side">
+						<MiniProgram variant="card" />
+					</aside>
 				</section>
 			)}
 
 			{isFirstPage && (
-				<section class="filters">
-					<div class="filter-group">
-						<div class="filter-header">
-							<h3>公司</h3>
-							<a href="/companies/" class="view-all">全部 &rarr;</a>
+				<section class="filters" aria-label="快速筛选">
+					{filterGroups.map((group) => (
+						<div class="filter-group">
+							<div class="filter-header">
+								<h2>{group.title}</h2>
+								<a href={group.all} class="view-all">全部 &rarr;</a>
+							</div>
+							<div class="filter-tags">
+								{group.items.map((item) => (
+									<a href={item.href}>{item.name}<span class="tag-count">{item.n}</span></a>
+								))}
+							</div>
 						</div>
-						<div class="filter-tags">
-							{topCompanies.map(([c, n]) => (
-								<a href={`/company/${c}/`}>{c}<span class="tag-count">{n}</span></a>
-							))}
-						</div>
-					</div>
-					<div class="filter-group">
-						<div class="filter-header">
-							<h3>岗位</h3>
-							<a href="/positions/" class="view-all">全部 &rarr;</a>
-						</div>
-						<div class="filter-tags">
-							{topPositions.map(([p, n]) => (
-								<a href={`/position/${p}/`}>{p}<span class="tag-count">{n}</span></a>
-							))}
-						</div>
-					</div>
-					<div class="filter-group">
-						<div class="filter-header">
-							<h3>技术点</h3>
-							<a href="/tags/" class="view-all">全部 &rarr;</a>
-						</div>
-						<div class="filter-tags">
-							{topTags.map(([t, n]) => (
-								<a href={`/tag/${tagToSlug(t)}/`}>{t}<span class="tag-count">{n}</span></a>
-							))}
-						</div>
-					</div>
+					))}
 				</section>
 			)}
 
 			<section class="list">
 				<div class="list-header">
-					<h2>{isFirstPage ? '最新面经' : `面经列表`}</h2>
+					<h2>{isFirstPage ? '最新面经' : '面经列表'}</h2>
 					<span class="list-count">共 {page.total} 篇 · 第 {page.currentPage}/{page.lastPage} 页</span>
 				</div>
-				<div class="interview-list">
-					{page.data.map(item => (
-						<a href={`/interview/${item.id}/`} class="list-item">
-							<div class="item-main">
-								<h3>{item.data.title}</h3>
-								<div class="item-meta">
-									<span class="company">{item.data.company}</span>
-									<span class="sep">/</span>
-									<span class="position">{item.data.position}</span>
-									{item.data.round && (
-										<span class="round">{item.data.round}</span>
-									)}
-								</div>
-								{item.data.summary && <p class="summary">{item.data.summary}</p>}
-							</div>
-							<span class="date">{item.data.date}</span>
-						</a>
-					))}
-				</div>
-
-				{page.lastPage > 1 && (
-					<nav class="pagination" aria-label="分页导航">
-						{page.url.prev ? (
-							<a href={page.url.prev} class="page-btn">&larr; 上一页</a>
-						) : (
-							<span class="page-btn disabled">&larr; 上一页</span>
-						)}
-						<div class="page-nums">
-							{Array.from({ length: page.lastPage }, (_, i) => i + 1).map(num => (
-								<a
-									href={num === 1 ? '/' : `/${num}/`}
-									class:list={['page-num', { active: num === page.currentPage }]}
-								>
-									{num}
-								</a>
-							))}
-						</div>
-						{page.url.next ? (
-							<a href={page.url.next} class="page-btn">下一页 &rarr;</a>
-						) : (
-							<span class="page-btn disabled">下一页 &rarr;</span>
-						)}
-					</nav>
-				)}
+				<InterviewList items={page.data} />
+				<Pagination
+					current={page.currentPage}
+					last={page.lastPage}
+					prevUrl={page.url.prev}
+					nextUrl={page.url.next}
+				/>
 			</section>
 		</main>
 		<Footer />
@@ -165,107 +117,142 @@ const pageDesc = isFirstPage
 
 <style>
 	main {
-		max-width: 1200px;
+		max-width: var(--content-width);
 		margin: 0 auto;
 		padding: 0 2rem;
 	}
 
 	/* Hero */
 	.hero {
+		display: grid;
+		grid-template-columns: minmax(0, 1fr) 300px;
+		gap: 3rem;
+		align-items: center;
 		padding: var(--space-lg) 0 var(--space-md);
 	}
 
-	.hero-inner {
-		position: relative;
+	.eyebrow {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.45rem;
+		padding: 0.3rem 0.8rem 0.3rem 0.6rem;
+		border-radius: var(--radius-full);
+		background: var(--color-card);
+		border: 1px solid var(--color-accent-border);
+		color: var(--color-accent);
+		font-size: 0.78rem;
+		font-weight: 600;
+		box-shadow: var(--shadow-sm);
+	}
+
+	.pulse {
+		width: 7px;
+		height: 7px;
+		border-radius: 50%;
+		background: var(--color-accent);
+		box-shadow: 0 0 0 3px rgba(16, 95, 217, 0.16);
 	}
 
 	.hero-text h1 {
-		font-size: 2.5rem;
+		font-size: 3rem;
 		font-weight: 800;
-		line-height: 1.2;
-		letter-spacing: -0.03em;
-		margin-bottom: 0.75rem;
+		line-height: 1.15;
+		letter-spacing: -0.035em;
+		margin: 1rem 0 0.85rem;
 	}
 
 	.hero-accent {
-		color: var(--color-accent);
+		background: var(--color-accent-gradient);
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
 	}
 
 	.hero-desc {
-		color: var(--color-muted);
+		color: var(--color-text-secondary);
 		font-size: 1rem;
+		line-height: 1.7;
+		max-width: 34em;
 		margin-bottom: 1.75rem;
 	}
 
 	.hero-stats {
 		display: flex;
-		align-items: center;
-		gap: 1.5rem;
+		gap: 0.75rem;
+		flex-wrap: wrap;
 	}
 
 	.stat {
 		display: flex;
 		flex-direction: column;
 		gap: 0.15rem;
+		padding: 0.75rem 1.25rem;
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-md);
+		box-shadow: var(--shadow-sm);
+		min-width: 6.25rem;
 	}
 
 	.stat-num {
-		font-size: 1.75rem;
+		font-size: 1.6rem;
 		font-weight: 800;
 		letter-spacing: -0.03em;
-		color: var(--color-text);
-		line-height: 1;
+		line-height: 1.1;
+		font-variant-numeric: tabular-nums;
+		background: var(--color-accent-gradient);
+		-webkit-background-clip: text;
+		background-clip: text;
+		color: transparent;
 	}
 
 	.stat-label {
-		font-size: 0.8rem;
+		font-size: 0.78rem;
 		color: var(--color-muted);
 		font-weight: 500;
-	}
-
-	.stat-divider {
-		width: 1px;
-		height: 2rem;
-		background: var(--color-border);
 	}
 
 	/* 筛选区 */
 	.filters {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
-		gap: 1.5rem;
-		padding: var(--space-md) 0;
+		gap: 1rem;
+		padding: var(--space-sm) 0 var(--space-md);
 	}
 
 	.filter-group {
 		background: var(--color-card);
 		border: 1px solid var(--color-border);
-		border-radius: var(--radius-md);
+		border-radius: var(--radius-lg);
 		padding: 1.25rem;
+		box-shadow: var(--shadow-sm);
 	}
 
 	.filter-header {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		margin-bottom: 0.75rem;
+		margin-bottom: 0.85rem;
+		padding-bottom: 0.6rem;
+		border-bottom: 1px solid var(--color-border);
 	}
 
-	.filter-group h3 {
+	.filter-group h2 {
 		font-size: 0.78rem;
 		color: var(--color-muted);
-		font-weight: 600;
+		font-weight: 700;
+		letter-spacing: 0.1em;
 		text-transform: uppercase;
-		letter-spacing: 0.08em;
 	}
 
 	.view-all {
 		font-size: 0.75rem;
-		color: var(--color-muted);
+		color: var(--color-accent);
+		font-weight: 600;
 	}
 
 	.view-all:hover {
-		color: var(--color-accent);
+		color: var(--color-accent-hover);
 	}
 
 	.filter-tags {
@@ -275,7 +262,10 @@ const pageDesc = isFirstPage
 	}
 
 	.filter-tags a {
-		padding: 0.3rem 0.75rem;
+		display: inline-flex;
+		align-items: center;
+		gap: 0.25rem;
+		padding: 0.3rem 0.7rem;
 		background: var(--color-bg);
 		border: 1px solid transparent;
 		border-radius: var(--radius-full);
@@ -284,190 +274,70 @@ const pageDesc = isFirstPage
 	}
 
 	.filter-tags a:hover {
-		background: var(--color-accent);
-		color: white;
+		background: var(--color-accent-light);
+		border-color: var(--color-accent-border);
+		color: var(--color-accent);
 	}
 
 	.tag-count {
 		font-size: 0.7rem;
 		color: var(--color-muted);
-		margin-left: 0.2rem;
+		font-variant-numeric: tabular-nums;
 	}
 
 	.filter-tags a:hover .tag-count {
-		color: rgba(255, 255, 255, 0.7);
+		color: var(--color-accent);
 	}
 
 	/* 列表 */
 	.list {
-		padding: var(--space-md) 0 var(--space-lg);
+		padding: 0 0 var(--space-lg);
 	}
 
 	.list-header {
 		display: flex;
 		align-items: baseline;
+		justify-content: space-between;
 		gap: 0.75rem;
 		margin-bottom: var(--space-sm);
-		padding-bottom: 0.75rem;
-		border-bottom: 2px solid var(--color-text);
 	}
 
 	.list-header h2 {
-		font-size: 1.15rem;
-		font-weight: 700;
+		font-size: 1.25rem;
+		font-weight: 800;
+		letter-spacing: -0.02em;
 	}
 
 	.list-count {
-		font-size: 0.82rem;
-		color: var(--color-muted);
-		font-weight: 500;
-	}
-
-	.interview-list {
-		display: flex;
-		flex-direction: column;
-	}
-
-	.list-item {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		padding: 0.875rem 0;
-		border-bottom: 1px solid var(--color-border);
-		transition: padding-left 0.15s ease;
-	}
-
-	.list-item:hover {
-		padding-left: 0.5rem;
-	}
-
-	.item-main h3 {
-		font-size: 0.95rem;
-		font-weight: 600;
-		margin-bottom: 0.3rem;
-		line-height: 1.4;
-	}
-
-	.item-meta {
-		display: flex;
-		align-items: center;
-		gap: 0.4rem;
 		font-size: 0.8rem;
 		color: var(--color-muted);
-	}
-
-	.summary {
-		font-size: 0.82rem;
-		color: var(--color-muted);
-		line-height: 1.5;
-		margin: 0.3rem 0 0;
-		display: -webkit-box;
-		-webkit-line-clamp: 1;
-		-webkit-box-orient: vertical;
-		overflow: hidden;
-	}
-
-	.company {
-		color: var(--color-accent);
-		font-weight: 600;
-	}
-
-	.sep {
-		color: var(--color-border);
-		font-size: 0.75rem;
-	}
-
-	.round {
-		background: var(--color-accent-light);
-		color: var(--color-accent);
-		padding: 0.1rem 0.45rem;
-		border-radius: var(--radius-sm);
-		font-size: 0.72rem;
-		font-weight: 600;
-		margin-left: 0.25rem;
-	}
-
-	.date {
-		font-size: 0.8rem;
-		color: var(--color-muted);
-		white-space: nowrap;
-		flex-shrink: 0;
-	}
-
-	/* 分页 */
-	.pagination {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		gap: 0.75rem;
-		margin-top: var(--space-md);
-		padding-top: var(--space-md);
-	}
-
-	.page-btn {
-		padding: 0.5rem 1rem;
-		font-size: 0.85rem;
 		font-weight: 500;
-		color: var(--color-text);
-		border: 1px solid var(--color-border);
-		border-radius: var(--radius-sm);
-		white-space: nowrap;
+		font-variant-numeric: tabular-nums;
 	}
 
-	.page-btn:hover:not(.disabled) {
-		border-color: var(--color-accent);
-		color: var(--color-accent);
-	}
-
-	.page-btn.disabled {
-		color: var(--color-muted);
-		opacity: 0.5;
-		cursor: default;
-	}
-
-	.page-nums {
-		display: flex;
-		gap: 0.25rem;
-	}
-
-	.page-num {
-		width: 2.25rem;
-		height: 2.25rem;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		font-size: 0.85rem;
-		font-weight: 500;
-		border-radius: var(--radius-sm);
-		color: var(--color-text-secondary);
-	}
-
-	.page-num:hover {
-		background: var(--color-card);
-		color: var(--color-text);
-	}
-
-	.page-num.active {
-		background: var(--color-accent);
-		color: white;
-		font-weight: 600;
+	@media (max-width: 1000px) {
+		.hero {
+			grid-template-columns: 1fr;
+			gap: 2rem;
+			padding-top: var(--space-md);
+		}
+		.hero-side { max-width: 320px; }
+		.hero-text h1 { font-size: 2.4rem; }
+		.filters { grid-template-columns: 1fr 1fr; }
+		.filters .filter-group:last-child { grid-column: 1 / -1; }
 	}
 
 	@media (max-width: 768px) {
 		main { padding: 0 1rem; }
-		.hero { padding: var(--space-md) 0 var(--space-sm); }
-		.hero-text h1 { font-size: 1.75rem; }
-		.stat-num { font-size: 1.35rem; }
-		.hero-stats { gap: 1rem; }
+		.hero { padding: var(--space-sm) 0 var(--space-sm); gap: 1.5rem; }
+		.hero-side { max-width: none; margin-inline: auto; width: 100%; }
+		.hero-text h1 { font-size: 1.9rem; margin: 0.85rem 0 0.6rem; }
+		.hero-desc { font-size: 0.92rem; margin-bottom: 1.25rem; }
+		.hero-stats { gap: 0.5rem; }
+		.stat { flex: 1; min-width: 0; padding: 0.6rem 0.75rem; align-items: center; }
+		.stat-num { font-size: 1.3rem; }
 		.filters { grid-template-columns: 1fr; gap: 0.75rem; }
-		.list-item {
-			flex-direction: column;
-			align-items: flex-start;
-			gap: 0.25rem;
-			padding: 0.75rem;
-		}
-		.pagination { gap: 0.5rem; }
-		.page-btn { padding: 0.4rem 0.75rem; font-size: 0.8rem; }
-		.page-nums { display: none; }
+		.filters .filter-group:last-child { grid-column: auto; }
+		.list-header { flex-direction: column; align-items: flex-start; gap: 0.25rem; }
 	}
 </style>

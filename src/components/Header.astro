@@ -1,34 +1,50 @@
 ---
-import { SITE_TITLE } from "../consts";
+import { mainSiteUrl } from "../consts";
+
+const path = Astro.url.pathname;
+const nav = [
+  { href: "/", label: "首页", match: (p: string) => p === "/" || /^\/\d+\/$/.test(p) },
+  { href: "/companies/", label: "公司", match: (p: string) => p.startsWith("/companies") || p.startsWith("/company/") },
+  { href: "/positions/", label: "岗位", match: (p: string) => p.startsWith("/positions") || p.startsWith("/position/") },
+  { href: "/tags/", label: "技术点", match: (p: string) => p.startsWith("/tags") || p.startsWith("/tag/") },
+];
 ---
 
 <header>
   <div class="container">
     <a href="/" class="logo">
-      <svg class="logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+      <svg class="logo-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" aria-hidden="true">
         <defs>
-          <linearGradient id="mianling_grad" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stop-color="#ff6b4a" />
-            <stop offset="100%" stop-color="#c4391c" />
+          <linearGradient id="mianling_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#3b82ff" />
+            <stop offset="100%" stop-color="#0b46b8" />
           </linearGradient>
         </defs>
         <path d="M 5 45 C 5 0 95 0 95 45 L 95 85 Q 83.75 95 72.5 85 Q 61.25 75 50 85 Q 38.75 95 27.5 85 Q 16.25 75 5 85 Z" fill="url(#mianling_grad)" />
         <circle cx="32" cy="40" r="7" fill="#ffffff" />
         <circle cx="68" cy="40" r="7" fill="#ffffff" />
-        <circle cx="32" cy="40" r="3.5" fill="#1e293b" />
-        <circle cx="68" cy="40" r="3.5" fill="#1e293b" />
+        <circle cx="32" cy="40" r="3.5" fill="#0b2545" />
+        <circle cx="68" cy="40" r="3.5" fill="#0b2545" />
         <circle cx="16" cy="48" r="4" fill="#ffffff" opacity="0.3" />
         <circle cx="84" cy="48" r="4" fill="#ffffff" opacity="0.3" />
         <path d="M 37 61 L 47 71 L 63 53" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
       </svg>
-      面灵面经
+      <span class="logo-text">面灵面经</span>
     </a>
-    <nav>
-      <a href="/">首页</a>
-      <a href="https://www.mianlingai.com/?utm_source=mianjing&utm_medium=referral&utm_campaign=header" target="_blank" class="cta" data-umami-event="cta-header"
-        >面灵AI<span class="cta-arrow">&rarr;</span></a
-      >
+    <nav aria-label="主导航">
+      {nav.map((item) => (
+        <a href={item.href} class:list={["nav-link", { active: item.match(path) }]}>{item.label}</a>
+      ))}
     </nav>
+    <a
+      href={mainSiteUrl("header")}
+      target="_blank"
+      rel="noopener"
+      class="cta"
+      data-umami-event="cta-header"
+    >
+      面灵AI<span class="cta-arrow">&rarr;</span>
+    </a>
   </div>
 </header>
 
@@ -37,67 +53,81 @@ import { SITE_TITLE } from "../consts";
     position: sticky;
     top: 0;
     z-index: 100;
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    background: rgba(248, 247, 244, 0.88);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    backdrop-filter: blur(18px) saturate(1.6);
+    -webkit-backdrop-filter: blur(18px) saturate(1.6);
+    background: rgba(246, 248, 252, 0.82);
+    border-bottom: 1px solid var(--color-border);
   }
 
   .container {
-    max-width: 1200px;
+    max-width: var(--content-width);
     margin: 0 auto;
-    padding: 0.875rem 2rem;
+    padding: 0.75rem 2rem;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    gap: 2rem;
   }
 
   .logo {
-    font-size: 1.2rem;
-    font-weight: 700;
+    font-size: 1.15rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
     color: var(--color-text);
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    flex-shrink: 0;
   }
 
   .logo-svg {
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
     flex-shrink: 0;
     transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
   }
 
   .logo:hover .logo-svg {
-    transform: scale(1.15) rotate(-5deg);
+    transform: scale(1.12) rotate(-5deg);
   }
 
   nav {
     display: flex;
-    gap: 1.75rem;
+    gap: 0.35rem;
     align-items: center;
+    margin-right: auto;
   }
 
-  nav a {
+  .nav-link {
     font-weight: 500;
-    font-size: 0.9rem;
-    color: var(--color-text);
+    font-size: 0.88rem;
+    color: var(--color-text-secondary);
+    padding: 0.4rem 0.75rem;
+    border-radius: var(--radius-full);
   }
 
-  nav a:not(.cta):hover {
+  .nav-link:hover {
     color: var(--color-accent);
+    background: var(--color-accent-lighter);
+  }
+
+  .nav-link.active {
+    color: var(--color-accent);
+    background: var(--color-accent-light);
+    font-weight: 600;
   }
 
   .cta {
-    background: var(--color-accent);
-    color: #fff !important;
-    padding: 0.45rem 1.1rem;
+    background: var(--color-accent-gradient);
+    color: #fff;
+    padding: 0.5rem 1.15rem;
     border-radius: var(--radius-full);
     font-weight: 600;
     font-size: 0.85rem;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     gap: 0.35rem;
+    flex-shrink: 0;
+    box-shadow: var(--shadow-accent);
   }
 
   .cta-arrow {
@@ -106,22 +136,42 @@ import { SITE_TITLE } from "../consts";
   }
 
   .cta:hover {
-    background: var(--color-accent-hover);
+    filter: brightness(1.06);
+    transform: translateY(-1px);
   }
 
   .cta:hover .cta-arrow {
     transform: translateX(2px);
   }
 
-  @media (max-width: 640px) {
+  @media (max-width: 860px) {
     .container {
-      padding: 0.75rem 1rem;
+      flex-wrap: wrap;
+      gap: 0.75rem 1rem;
+      padding: 0.7rem 1rem;
     }
-    nav {
-      gap: 1rem;
+    .logo-text {
+      font-size: 1.05rem;
     }
     .cta {
-      padding: 0.4rem 0.9rem;
+      margin-left: auto;
+      order: 2;
+    }
+    nav {
+      order: 3;
+      width: 100%;
+      margin-right: 0;
+      gap: 0.25rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    nav::-webkit-scrollbar {
+      display: none;
+    }
+    .nav-link {
+      white-space: nowrap;
+      padding: 0.3rem 0.65rem;
+      font-size: 0.85rem;
     }
   }
 </style>

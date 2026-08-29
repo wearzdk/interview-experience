@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import PageHeader from '../components/PageHeader.astro';
 
 const interviews = await getCollection('interviews');
 const positionCounts = Object.entries(
@@ -29,21 +30,15 @@ const description = `收录${positionCounts.length}个互联网岗位的真实�
 	<body>
 		<Header />
 		<main>
-			<div class="page-header">
-				<div class="breadcrumb">
-					<a href="/">首页</a>
-					<span>/</span>
-					<span>全部岗位</span>
-				</div>
-				<h1>全部岗位</h1>
-				<p>共收录 <strong>{positionCounts.length}</strong> 个岗位的面经</p>
-			</div>
+			<PageHeader crumbs={[{ label: '全部岗位' }]} title="全部岗位">
+				共收录 <strong>{positionCounts.length}</strong> 个岗位的面经
+			</PageHeader>
 
 			<div class="grid">
 				{positionCounts.map(([position, count]) => (
 					<a href={`/position/${position}/`} class="grid-item">
 						<span class="grid-name">{position}</span>
-						<span class="grid-count">{count} 篇</span>
+						<span class="grid-count">{count}</span>
 					</a>
 				))}
 			</div>
@@ -54,61 +49,36 @@ const description = `收录${positionCounts.length}个互联网岗位的真实�
 
 <style>
 	main {
-		max-width: 1200px;
+		max-width: var(--content-width);
 		margin: 0 auto;
 		padding: var(--space-md) 2rem var(--space-lg);
 	}
 
-	.breadcrumb {
-		display: flex;
-		gap: 0.4rem;
-		font-size: 0.82rem;
-		color: var(--color-muted);
-		margin-bottom: 0.75rem;
-	}
-	.breadcrumb span { color: var(--color-border); }
-	.breadcrumb span:last-child { color: var(--color-muted); }
-	.breadcrumb a:hover { color: var(--color-accent); }
-
-	.page-header {
-		margin-bottom: var(--space-md);
-		padding-bottom: var(--space-sm);
-	}
-
-	.page-header h1 {
-		font-size: 1.65rem;
-		font-weight: 800;
-		margin-bottom: 0.25rem;
-		letter-spacing: -0.02em;
-	}
-
-	.page-header p {
-		font-size: 0.85rem;
-		color: var(--color-muted);
-	}
-
-	.page-header strong {
-		color: var(--color-accent);
-	}
-
 	.grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
 		gap: 0.75rem;
 	}
 
 	.grid-item {
 		display: flex;
-		justify-content: space-between;
 		align-items: center;
-		padding: 0.75rem 1rem;
+		justify-content: space-between;
+		gap: 0.5rem;
+		padding: 0.75rem 0.95rem;
 		background: var(--color-card);
 		border: 1px solid var(--color-border);
-		border-radius: var(--radius-sm);
+		border-radius: var(--radius-md);
+		box-shadow: var(--shadow-sm);
 	}
 
 	.grid-item:hover {
-		border-color: var(--color-accent);
+		border-color: var(--color-accent-border);
+		box-shadow: var(--shadow-md);
+		transform: translateY(-1px);
+	}
+
+	.grid-item:hover .grid-name {
 		color: var(--color-accent);
 	}
 
@@ -122,14 +92,18 @@ const description = `收录${positionCounts.length}个互联网岗位的真实�
 	}
 
 	.grid-count {
-		font-size: 0.78rem;
-		color: var(--color-muted);
-		white-space: nowrap;
 		flex-shrink: 0;
+		font-size: 0.75rem;
+		font-weight: 600;
+		color: var(--color-text-secondary);
+		background: var(--color-bg-deep);
+		padding: 0.1rem 0.5rem;
+		border-radius: var(--radius-full);
+		font-variant-numeric: tabular-nums;
 	}
 
 	@media (max-width: 768px) {
-		main { padding: var(--space-sm) 1rem; }
-		.grid { grid-template-columns: 1fr; }
+		main { padding: var(--space-sm) 1rem var(--space-md); }
+		.grid { grid-template-columns: 1fr; gap: 0.5rem; }
 	}
 </style>

@@ -3,23 +3,36 @@
 	--font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
 	--font-mono: ui-monospace, "SF Mono", "Cascadia Code", "Source Code Pro", Menlo, Consolas, monospace;
 
-	--color-bg: #f8f7f4;
-	--color-text: #1a1a1a;
-	--color-text-secondary: #444;
-	--color-accent: #c4391c;
-	--color-accent-light: #fff0eb;
-	--color-accent-hover: #a82e14;
-	--color-muted: #999;
-	--color-border: #eaeae8;
+	/* 主色阶：与主站品牌蓝（#105fd9）对齐 */
+	--color-accent: #105fd9;
+	--color-accent-hover: #0b4bb0;
+	--color-accent-strong: #093da1;
+	--color-accent-bright: #3082f6;
+	--color-accent-light: #e8f0ff;
+	--color-accent-lighter: #f2f7ff;
+	--color-accent-border: #cddffc;
+	--color-accent-gradient: linear-gradient(135deg, #3b82ff 0%, #105fd9 55%, #0b46b8 100%);
+
+	--color-bg: #f6f8fc;
+	--color-bg-deep: #eef2fa;
 	--color-card: #ffffff;
+	--color-text: #16202e;
+	--color-text-secondary: #414d5e;
+	--color-muted: #64748b;
+	--color-border: #e4e9f2;
+	--color-border-strong: #d3dbe8;
 
-	--shadow-sm: 0 1px 3px rgba(0,0,0,0.04), 0 1px 2px rgba(0,0,0,0.03);
-	--shadow-md: 0 4px 12px rgba(0,0,0,0.06), 0 1px 4px rgba(0,0,0,0.04);
-	--shadow-lg: 0 8px 24px rgba(0,0,0,0.08), 0 2px 8px rgba(0,0,0,0.04);
+	--color-wechat: #07c160;
 
-	--radius-sm: 6px;
-	--radius-md: 10px;
-	--radius-lg: 14px;
+	--shadow-sm: 0 1px 2px rgba(20, 35, 70, 0.05);
+	--shadow-md: 0 4px 16px rgba(20, 35, 70, 0.07), 0 1px 3px rgba(20, 35, 70, 0.05);
+	--shadow-lg: 0 16px 40px rgba(20, 35, 70, 0.1), 0 4px 12px rgba(20, 35, 70, 0.05);
+	--shadow-accent: 0 8px 24px rgba(16, 95, 217, 0.18);
+
+	--radius-sm: 8px;
+	--radius-md: 12px;
+	--radius-lg: 18px;
+	--radius-xl: 24px;
 	--radius-full: 100px;
 
 	--space-xs: 0.5rem;
@@ -27,6 +40,8 @@
 	--space-md: 2rem;
 	--space-lg: 4rem;
 	--space-xl: 6rem;
+
+	--content-width: 1180px;
 }
 
 * {
@@ -41,7 +56,10 @@ html {
 	color: var(--color-text);
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 	scroll-behavior: smooth;
+	text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -49,6 +67,25 @@ body {
 	min-height: 100vh;
 	display: flex;
 	flex-direction: column;
+	position: relative;
+}
+
+/* 页面顶部的品牌光晕，取代旧版纯色背景 */
+body::before {
+	content: "";
+	position: fixed;
+	inset: 0 0 auto 0;
+	height: 520px;
+	background:
+		radial-gradient(900px 420px at 12% -10%, rgba(59, 130, 255, 0.16), transparent 62%),
+		radial-gradient(760px 380px at 88% -18%, rgba(16, 95, 217, 0.12), transparent 60%);
+	pointer-events: none;
+	z-index: 0;
+}
+
+body > * {
+	position: relative;
+	z-index: 1;
 }
 
 body > main {
@@ -61,26 +98,34 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 	line-height: 1.25;
 	letter-spacing: -0.02em;
+	color: var(--color-text);
 }
 
 a {
 	color: inherit;
 	text-decoration: none;
-	transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;
+	transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+:focus-visible {
+	outline: 2px solid var(--color-accent);
+	outline-offset: 2px;
+	border-radius: 4px;
 }
 
 code {
 	font-family: var(--font-mono);
 	font-size: 0.9em;
-	background: #f0efed;
-	padding: 0.2em 0.4em;
-	border-radius: 3px;
+	background: var(--color-accent-lighter);
+	color: var(--color-accent-strong);
+	padding: 0.15em 0.4em;
+	border-radius: 5px;
 }
 
 pre {
 	font-family: var(--font-mono);
-	background: #1a1a1a;
-	color: #fafafa;
+	background: #101a2c;
+	color: #e7edf7;
 	padding: 1.5rem;
 	border-radius: var(--radius-md);
 	overflow-x: auto;
@@ -95,7 +140,7 @@ pre code {
 
 ::selection {
 	background: var(--color-accent);
-	color: white;
+	color: #fff;
 }
 
 .sr-only {
@@ -108,4 +153,28 @@ pre code {
 	clip: rect(0, 0, 0, 0);
 	white-space: nowrap;
 	border: 0;
+}
+
+/* 面经条目左侧的公司标记：色相由公司名派生，锁在蓝紫青的品牌邻域内 */
+.co-badge {
+	--co-hue: 220;
+	flex-shrink: 0;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: var(--radius-md);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.95rem;
+	font-weight: 700;
+	line-height: 1;
+	color: hsl(var(--co-hue) 62% 38%);
+	background: hsl(var(--co-hue) 82% 96%);
+	border: 1px solid hsl(var(--co-hue) 70% 90%);
+	letter-spacing: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	html { scroll-behavior: auto; }
+	* { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
 }

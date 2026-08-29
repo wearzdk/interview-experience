@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
     <defs>
         <linearGradient id="mianling_grad" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" stop-color="#ff6b4a" />
-            <stop offset="100%" stop-color="#c4391c" />
+            <stop offset="0%" stop-color="#3b82ff" />
+            <stop offset="100%" stop-color="#0b46b8" />
         </linearGradient>
     </defs>
     <path d="M 5 45 C 5 0 95 0 95 45 L 95 85 Q 83.75 95 72.5 85 Q 61.25 75 50 85 Q 38.75 95 27.5 85 Q 16.25 75 5 85 Z" fill="url(#mianling_grad)" />
     <circle cx="32" cy="40" r="7" fill="#ffffff" />
     <circle cx="68" cy="40" r="7" fill="#ffffff" />
-    <circle cx="32" cy="40" r="3.5" fill="#1e293b" />
-    <circle cx="68" cy="40" r="3.5" fill="#1e293b" />
+    <circle cx="32" cy="40" r="3.5" fill="#0b2545" />
+    <circle cx="68" cy="40" r="3.5" fill="#0b2545" />
     <circle cx="16" cy="48" r="4" fill="#ffffff" opacity="0.3" />
     <circle cx="84" cy="48" r="4" fill="#ffffff" opacity="0.3" />
     <path d="M 37 61 L 47 71 L 63 53" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />

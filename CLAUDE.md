@@ -39,14 +39,23 @@ bun preview    # 预览构建产物
 
 ### 关键文件
 
-- `src/consts.ts` — 站点标题、描述等常量
-- `src/styles/global.css` — 全局 CSS 变量（主色：#d4380d）
+- `src/consts.ts` — 站点标题、描述、小程序名，以及拼主站 utm 链接的 `mainSiteUrl(campaign)`
+- `src/styles/global.css` — 全局 CSS 变量（主色 #105fd9，与主站品牌蓝一致）+ 全局 `.co-badge`
 - `astro.config.mjs` — 站点 URL、sitemap 集成配置
 - `src/components/BaseHead.astro` — SEO meta 标签、OpenGraph
 
+### 复用组件
+
+- `InterviewList.astro` — 面经条目列表，首页与公司/岗位/技术点聚合页共用。`hideCompany` / `hidePosition` 隐藏聚合页上重复的那一维；聚合页上方没有 h2 时传 `titleLevel={2}`
+- `PageHeader.astro` — 聚合页的面包屑 + 标题 + 副标题（副标题走默认 slot）
+- `Pagination.astro` — 只渲染首页、末页和当前页附近的页码，其余折叠成省略号
+- `MiniProgram.astro` — 微信小程序入口（二维码 + 搜一搜引导），三个变体：`card`（首页 hero 侧栏）/ `banner`（聚合页与详情页正文后）/ `compact`（页脚）。二维码源图在 `src/assets/`，走 `astro:assets` 构建时转 webp
+- `src/lib/company-hue.ts` — 由公司名派生 `.co-badge` 的稳定色相，色相锁在蓝—青—紫的品牌邻域内
+
 ### 样式
 
-Astro 作用域 CSS + 全局 CSS 自定义属性，响应式断点 768px，无 CSS 框架，纯手写样式。
+Astro 作用域 CSS + 全局 CSS 自定义属性，响应式断点 768px（首页另有 1000px 断点），无 CSS 框架，纯手写样式。
+配色一律用 `global.css` 里的 `--color-*` 变量，不要在组件里写死十六进制色值。
 
 ## 添加面经内容
 
