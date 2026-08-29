@@ -1,0 +1,130 @@
+---
+interface Props {
+	current: number;
+	last: number;
+	prevUrl?: string;
+	nextUrl?: string;
+}
+
+const { current, last, prevUrl, nextUrl } = Astro.props;
+
+const href = (n: number) => (n === 1 ? '/' : `/${n}/`);
+
+// 只渲染首页、末页和当前页附近的页码，其余折叠成省略号。
+// 旧版把全部页码平铺出来，53 页时会横向撑破容器。
+const WINDOW = 1;
+const numbers: (number | 'gap')[] = [];
+let previous = 0;
+for (let n = 1; n <= last; n++) {
+	const keep = n === 1 || n === last || Math.abs(n - current) <= WINDOW;
+	if (!keep) continue;
+	if (previous && n - previous > 1) numbers.push('gap');
+	numbers.push(n);
+	previous = n;
+}
+---
+
+{last > 1 && (
+	<nav class="pagination" aria-label="分页导航">
+		{prevUrl ? (
+			<a href={prevUrl} class="page-btn" rel="prev">&larr; 上一页</a>
+		) : (
+			<span class="page-btn disabled">&larr; 上一页</span>
+		)}
+		<div class="page-nums">
+			{numbers.map((n) =>
+				n === 'gap' ? (
+					<span class="page-gap" aria-hidden="true">&hellip;</span>
+				) : (
+					<a
+						href={href(n)}
+						class:list={['page-num', { active: n === current }]}
+						aria-current={n === current ? 'page' : undefined}
+					>
+						{n}
+					</a>
+				),
+			)}
+		</div>
+		{nextUrl ? (
+			<a href={nextUrl} class="page-btn" rel="next">下一页 &rarr;</a>
+		) : (
+			<span class="page-btn disabled">下一页 &rarr;</span>
+		)}
+	</nav>
+)}
+
+<style>
+	.pagination {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 0.5rem;
+		margin-top: var(--space-md);
+	}
+
+	.page-btn {
+		padding: 0.5rem 1rem;
+		font-size: 0.85rem;
+		font-weight: 500;
+		color: var(--color-text-secondary);
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-sm);
+		white-space: nowrap;
+	}
+
+	.page-btn:hover:not(.disabled) {
+		border-color: var(--color-accent);
+		color: var(--color-accent);
+	}
+
+	.page-btn.disabled {
+		color: var(--color-muted);
+		opacity: 0.5;
+		cursor: default;
+	}
+
+	.page-nums {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+	}
+
+	.page-num,
+	.page-gap {
+		min-width: 2.25rem;
+		height: 2.25rem;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 0.85rem;
+		font-weight: 500;
+		border-radius: var(--radius-sm);
+		color: var(--color-text-secondary);
+		font-variant-numeric: tabular-nums;
+	}
+
+	.page-gap {
+		min-width: 1.25rem;
+		color: var(--color-muted);
+	}
+
+	.page-num:hover {
+		background: var(--color-accent-lighter);
+		color: var(--color-accent);
+	}
+
+	.page-num.active {
+		background: var(--color-accent-gradient);
+		color: #fff;
+		font-weight: 600;
+		box-shadow: var(--shadow-accent);
+	}
+
+	@media (max-width: 768px) {
+		.pagination { gap: 0.35rem; }
+		.page-btn { padding: 0.45rem 0.7rem; font-size: 0.8rem; }
+		.page-num, .page-gap { min-width: 2rem; height: 2rem; font-size: 0.8rem; }
+	}
+</style>

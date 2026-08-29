@@ -1,0 +1,175 @@
+---
+import { Image } from 'astro:assets';
+import qrImage from '../assets/miniprogram-qr.png';
+import { MINIPROGRAM_NAME } from '../consts';
+
+interface Props {
+	/**
+	 * card   — 首页 hero 右侧的完整卡片
+	 * banner — 详情页正文后的横条
+	 * compact — 页脚里的紧凑版
+	 */
+	variant?: 'card' | 'banner' | 'compact';
+}
+
+const { variant = 'card' } = Astro.props;
+const qrSize = variant === 'compact' ? 96 : 148;
+---
+
+<div class:list={['mp', variant]} data-umami-event={`miniprogram-${variant}`}>
+	<div class="mp-qr" style={`--qr-size:${qrSize}px`}>
+		<Image
+			src={qrImage}
+			alt={`${MINIPROGRAM_NAME}微信小程序二维码`}
+			width={qrSize * 2}
+			height={qrSize * 2}
+			loading="lazy"
+		/>
+	</div>
+	<div class="mp-text">
+		<p class="mp-eyebrow">微信小程序</p>
+		<p class="mp-title">手机上刷面经，随时随地</p>
+		<p class="mp-desc">扫码 / 长按识别，免下载直接打开</p>
+		<p class="mp-search">
+			<span class="mp-search-label">或在微信</span>
+			<span class="mp-search-pill">
+				<svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
+					<circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" stroke-width="2.2" />
+					<path d="M15.4 15.4L20.5 20.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+				</svg>
+				搜一搜「{MINIPROGRAM_NAME}」
+			</span>
+		</p>
+	</div>
+</div>
+
+<style>
+	.mp {
+		display: flex;
+		align-items: center;
+		gap: 1.25rem;
+		background: var(--color-card);
+		border: 1px solid var(--color-border);
+		border-radius: var(--radius-lg);
+		padding: 1.25rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	.mp.card {
+		flex-direction: column;
+		align-items: stretch;
+		text-align: center;
+		gap: 1rem;
+		padding: 1.5rem;
+		background:
+			linear-gradient(180deg, var(--color-accent-lighter) 0%, var(--color-card) 42%);
+	}
+
+	.mp.compact {
+		gap: 0.9rem;
+		padding: 0.9rem 1rem;
+		box-shadow: none;
+		background: var(--color-card);
+	}
+
+	.mp-qr {
+		flex-shrink: 0;
+		width: var(--qr-size);
+		height: var(--qr-size);
+		margin-inline: auto;
+		padding: 6px;
+		border-radius: var(--radius-md);
+		background: #fff;
+		border: 1px solid var(--color-border);
+	}
+
+	.mp-qr :global(img) {
+		display: block;
+		width: 100%;
+		height: 100%;
+		border-radius: 6px;
+	}
+
+	.mp.banner .mp-qr,
+	.mp.compact .mp-qr {
+		margin-inline: 0;
+	}
+
+	.mp-text {
+		min-width: 0;
+	}
+
+	.mp-eyebrow {
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: var(--color-accent);
+		margin-bottom: 0.3rem;
+	}
+
+	.mp-title {
+		font-size: 1rem;
+		font-weight: 700;
+		color: var(--color-text);
+		letter-spacing: -0.01em;
+	}
+
+	.mp-desc {
+		font-size: 0.83rem;
+		color: var(--color-muted);
+		margin-top: 0.2rem;
+		line-height: 1.5;
+	}
+
+	.mp-search {
+		display: flex;
+		align-items: center;
+		flex-wrap: wrap;
+		gap: 0.4rem;
+		margin-top: 0.75rem;
+		font-size: 0.8rem;
+		color: var(--color-muted);
+	}
+
+	.mp.card .mp-search {
+		justify-content: center;
+	}
+
+	.mp-search-pill {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.35rem;
+		padding: 0.3rem 0.7rem;
+		border-radius: var(--radius-full);
+		background: var(--color-wechat);
+		color: #fff;
+		font-weight: 600;
+		font-size: 0.78rem;
+		line-height: 1.4;
+	}
+
+	.mp-search-pill svg {
+		width: 0.9em;
+		height: 0.9em;
+		flex-shrink: 0;
+	}
+
+	/* 紧凑版把说明收掉，只留标题和搜一搜引导 */
+	.mp.compact .mp-eyebrow { margin-bottom: 0.15rem; }
+	.mp.compact .mp-title { font-size: 0.88rem; }
+	.mp.compact .mp-desc { display: none; }
+	.mp.compact .mp-search { margin-top: 0.45rem; }
+
+	@media (max-width: 768px) {
+		.mp,
+		.mp.card {
+			flex-direction: column;
+			align-items: center;
+			text-align: center;
+			gap: 1rem;
+		}
+		.mp .mp-qr { margin-inline: auto; }
+		.mp-search { justify-content: center; }
+	}
+</style>

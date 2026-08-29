@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import PageHeader from '../components/PageHeader.astro';
 import { tagToSlug } from '../lib/tag-slug';
 
 const interviews = await getCollection('interviews');
@@ -12,6 +13,10 @@ const tagCounts = Object.entries(
 
 const title = `全部技术点 — 共 ${tagCounts.length} 个面试考点`;
 const description = `收录${tagCounts.length}个面试技术考点，包括${tagCounts.slice(0, 8).map(([t]) => t).join('、')}等热门知识点，助你精准备战面试。`;
+
+// 出现越多的考点给越强的视觉权重，让热门考点在标签云里先被看到
+const maxCount = tagCounts[0]?.[1] ?? 1;
+const weightOf = (count: number) => (count >= maxCount * 0.5 ? 'hot' : count >= maxCount * 0.15 ? 'warm' : 'cool');
 ---
 
 <!doctype html>
@@ -30,19 +35,13 @@ const description = `收录${tagCounts.length}个面试技术考点，包括${ta
 	<body>
 		<Header />
 		<main>
-			<div class="page-header">
-				<div class="breadcrumb">
-					<a href="/">首页</a>
-					<span>/</span>
-					<span>全部技术点</span>
-				</div>
-				<h1>全部技术点</h1>
-				<p>共收录 <strong>{tagCounts.length}</strong> 个面试考点</p>
-			</div>
+			<PageHeader crumbs={[{ label: '全部技术点' }]} title="全部技术点">
+				共收录 <strong>{tagCounts.length}</strong> 个面试考点
+			</PageHeader>
 
 			<div class="tag-list">
 				{tagCounts.map(([tag, count]) => (
-					<a href={`/tag/${tagToSlug(tag)}/`} class="tag-item">
+					<a href={`/tag/${tagToSlug(tag)}/`} class:list={['tag-item', weightOf(count)]}>
 						<span class="tag-name">{tag}</span>
 						<span class="tag-count">{count}</span>
 					</a>
@@ -55,41 +54,9 @@ const description = `收录${tagCounts.length}个面试技术考点，包括${ta
 
 <style>
 	main {
-		max-width: 1200px;
+		max-width: var(--content-width);
 		margin: 0 auto;
 		padding: var(--space-md) 2rem var(--space-lg);
-	}
-
-	.breadcrumb {
-		display: flex;
-		gap: 0.4rem;
-		font-size: 0.82rem;
-		color: var(--color-muted);
-		margin-bottom: 0.75rem;
-	}
-	.breadcrumb span { color: var(--color-border); }
-	.breadcrumb span:last-child { color: var(--color-muted); }
-	.breadcrumb a:hover { color: var(--color-accent); }
-
-	.page-header {
-		margin-bottom: var(--space-md);
-		padding-bottom: var(--space-sm);
-	}
-
-	.page-header h1 {
-		font-size: 1.65rem;
-		font-weight: 800;
-		margin-bottom: 0.25rem;
-		letter-spacing: -0.02em;
-	}
-
-	.page-header p {
-		font-size: 0.85rem;
-		color: var(--color-muted);
-	}
-
-	.page-header strong {
-		color: var(--color-accent);
 	}
 
 	.tag-list {
@@ -101,38 +68,61 @@ const description = `收录${tagCounts.length}个面试技术考点，包括${ta
 	.tag-item {
 		display: inline-flex;
 		align-items: center;
-		gap: 0.4rem;
+		gap: 0.45rem;
 		padding: 0.4rem 0.85rem;
 		background: var(--color-card);
 		border: 1px solid var(--color-border);
 		border-radius: var(--radius-full);
 		font-size: 0.85rem;
-		color: var(--color-text);
+		color: var(--color-text-secondary);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.tag-item.warm {
+		border-color: var(--color-accent-border);
+		color: var(--color-accent);
+	}
+
+	.tag-item.hot {
+		background: var(--color-accent-light);
+		border-color: var(--color-accent-border);
+		color: var(--color-accent);
+		font-weight: 600;
 	}
 
 	.tag-item:hover {
-		background: var(--color-accent);
-		color: white;
-		border-color: var(--color-accent);
+		background: var(--color-accent-gradient);
+		border-color: transparent;
+		color: #fff;
+		box-shadow: var(--shadow-accent);
+		transform: translateY(-1px);
 	}
 
 	.tag-count {
 		font-size: 0.72rem;
-		color: var(--color-muted);
-		background: var(--color-bg);
+		font-weight: 600;
+		color: var(--color-text-secondary);
+		background: var(--color-bg-deep);
 		padding: 0.1rem 0.4rem;
 		border-radius: var(--radius-full);
-		font-weight: 600;
-		min-width: 1.2rem;
+		min-width: 1.4rem;
 		text-align: center;
+		font-variant-numeric: tabular-nums;
+	}
+
+	.tag-item.hot .tag-count {
+		background: rgba(16, 95, 217, 0.12);
+		color: var(--color-accent);
 	}
 
 	.tag-item:hover .tag-count {
-		background: rgba(255, 255, 255, 0.2);
-		color: white;
+		background: rgba(255, 255, 255, 0.22);
+		color: #fff;
 	}
 
 	@media (max-width: 768px) {
-		main { padding: var(--space-sm) 1rem; }
+		main { padding: var(--space-sm) 1rem var(--space-md); }
+		.tag-list { gap: 0.4rem; }
+		.tag-item { padding: 0.35rem 0.7rem; font-size: 0.82rem; }
 	}
 </style>

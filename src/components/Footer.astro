@@ -1,27 +1,44 @@
 ---
+import MiniProgram from './MiniProgram.astro';
+import { mainSiteUrl } from '../consts';
+
 const today = new Date();
 ---
 
 <footer>
 	<div class="container">
-		<div class="footer-top">
+		<div class="footer-grid">
 			<div class="footer-brand">
-				<span class="footer-dot"></span>
-				<span class="footer-name">面灵面经</span>
-				<span class="footer-sep">/</span>
-				<span class="footer-desc">真实互联网面经采集</span>
+				<div class="brand-row">
+					<span class="brand-dot"></span>
+					<span class="brand-name">面灵面经</span>
+				</div>
+				<p class="brand-desc">聚合牛客、脉脉等平台的互联网大厂真实面经，按公司、岗位、技术点整理成可检索的面试题库。</p>
+				<div class="footer-links">
+					<a href={mainSiteUrl('footer')} target="_blank" rel="noopener" class="footer-link" data-umami-event="cta-footer">
+						<img src="/icons/mianling.png" alt="" class="link-icon" width="16" height="16" />
+						面灵AI
+					</a>
+					<a href="https://github.com/wearzdk/interview-experience" target="_blank" rel="noopener" class="footer-link">
+						<svg class="link-icon" viewBox="0 0 32 32" fill="currentColor" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C7.16 0 0 7.16 0 16C0 23.08 4.58 29.06 10.94 31.18C11.74 31.32 12.04 30.84 12.04 30.42C12.04 30.04 12.02 28.78 12.02 27.44C8 28.18 6.96 26.46 6.64 25.56C6.46 25.1 5.68 23.68 5 23.3C4.44 23 3.64 22.26 4.98 22.24C6.24 22.22 7.14 23.4 7.44 23.88C8.88 26.3 11.18 25.62 12.1 25.2C12.24 24.16 12.66 23.46 13.12 23.06C9.56 22.66 5.84 21.28 5.84 15.16C5.84 13.42 6.46 11.98 7.48 10.86C7.32 10.46 6.76 8.82 7.64 6.62C7.64 6.62 8.98 6.2 12.04 8.26C13.32 7.9 14.68 7.72 16.04 7.72C17.4 7.72 18.76 7.9 20.04 8.26C23.1 6.18 24.44 6.62 24.44 6.62C25.32 8.82 24.76 10.46 24.6 10.86C25.62 11.98 26.24 13.4 26.24 15.16C26.24 21.3 22.5 22.66 18.94 23.06C19.52 23.56 20.02 24.52 20.02 26.02C20.02 28.16 20 29.88 20 30.42C20 30.84 20.3 31.34 21.1 31.18C27.42 29.06 32 23.06 32 16C32 7.16 24.84 0 16 0Z"/></svg>
+						GitHub
+					</a>
+				</div>
 			</div>
-			<div class="footer-links">
-				<a href="https://www.mianlingai.com/?utm_source=mianjing&utm_medium=referral&utm_campaign=footer" target="_blank" class="footer-link" data-umami-event="cta-footer">
-					<img src="/icons/mianling.png" alt="" class="link-icon" />
-					面灵AI
-				</a>
-				<a href="https://github.com/wearzdk/interview-experience" target="_blank" class="footer-link">
-					<svg class="link-icon" viewBox="0 0 32 32" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M16 0C7.16 0 0 7.16 0 16C0 23.08 4.58 29.06 10.94 31.18C11.74 31.32 12.04 30.84 12.04 30.42C12.04 30.04 12.02 28.78 12.02 27.44C8 28.18 6.96 26.46 6.64 25.56C6.46 25.1 5.68 23.68 5 23.3C4.44 23 3.64 22.26 4.98 22.24C6.24 22.22 7.14 23.4 7.44 23.88C8.88 26.3 11.18 25.62 12.1 25.2C12.24 24.16 12.66 23.46 13.12 23.06C9.56 22.66 5.84 21.28 5.84 15.16C5.84 13.42 6.46 11.98 7.48 10.86C7.32 10.46 6.76 8.82 7.64 6.62C7.64 6.62 8.98 6.2 12.04 8.26C13.32 7.9 14.68 7.72 16.04 7.72C17.4 7.72 18.76 7.9 20.04 8.26C23.1 6.18 24.44 6.62 24.44 6.62C25.32 8.82 24.76 10.46 24.6 10.86C25.62 11.98 26.24 13.4 26.24 15.16C26.24 21.3 22.5 22.66 18.94 23.06C19.52 23.56 20.02 24.52 20.02 26.02C20.02 28.16 20 29.88 20 30.42C20 30.84 20.3 31.34 21.1 31.18C27.42 29.06 32 23.06 32 16C32 7.16 24.84 0 16 0Z"/></svg>
-					GitHub
-				</a>
+
+			<nav class="footer-nav" aria-label="页脚导航">
+				<h2>浏览</h2>
+				<a href="/">最新面经</a>
+				<a href="/companies/">全部公司</a>
+				<a href="/positions/">全部岗位</a>
+				<a href="/tags/">全部技术点</a>
+			</nav>
+
+			<div class="footer-mp">
+				<MiniProgram variant="compact" />
 			</div>
 		</div>
+
 		<div class="footer-bottom">
 			<p class="copyright">&copy; {today.getFullYear()} 面灵面经</p>
 			<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener" class="icp">京ICP备2025138436号-1</a>
@@ -34,62 +51,64 @@ const today = new Date();
 
 <style>
 	footer {
-		border-top: 1px solid var(--color-border);
 		margin-top: auto;
-		padding-top: var(--space-lg);
+		padding-top: var(--space-md);
+		background: linear-gradient(180deg, transparent, var(--color-bg-deep));
+		border-top: 1px solid var(--color-border);
 	}
 
 	.container {
-		max-width: 1200px;
+		max-width: var(--content-width);
 		margin: 0 auto;
-		padding: 1.5rem 2rem;
+		padding: var(--space-md) 2rem 1.5rem;
 	}
 
-	.footer-top {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		margin-bottom: 1rem;
+	.footer-grid {
+		display: grid;
+		grid-template-columns: minmax(0, 1.6fr) minmax(0, 0.7fr) minmax(0, 1.1fr);
+		gap: 2.5rem;
+		align-items: start;
 	}
 
-	.footer-brand {
+	.brand-row {
 		display: flex;
 		align-items: center;
 		gap: 0.5rem;
-		font-size: 0.9rem;
 	}
 
-	.footer-dot {
-		width: 6px;
-		height: 6px;
-		background: var(--color-accent);
+	.brand-dot {
+		width: 8px;
+		height: 8px;
 		border-radius: 50%;
+		background: var(--color-accent-gradient);
 	}
 
-	.footer-name {
-		font-weight: 700;
-		color: var(--color-text);
+	.brand-name {
+		font-weight: 800;
+		font-size: 1rem;
+		letter-spacing: -0.02em;
 	}
 
-	.footer-sep {
-		color: var(--color-border);
-	}
-
-	.footer-desc {
+	.brand-desc {
+		margin-top: 0.6rem;
+		font-size: 0.82rem;
+		line-height: 1.65;
 		color: var(--color-muted);
+		max-width: 34em;
 	}
 
 	.footer-links {
 		display: flex;
-		gap: 1.5rem;
+		gap: 1.25rem;
 		align-items: center;
+		margin-top: 1rem;
 	}
 
 	.footer-link {
 		display: inline-flex;
 		align-items: center;
 		gap: 0.35rem;
-		color: var(--color-muted);
+		color: var(--color-text-secondary);
 		font-size: 0.85rem;
 		font-weight: 500;
 		line-height: 1;
@@ -105,19 +124,40 @@ const today = new Date();
 		flex-shrink: 0;
 	}
 
+	.footer-nav {
+		display: flex;
+		flex-direction: column;
+		gap: 0.55rem;
+	}
+
+	.footer-nav h2 {
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: var(--color-muted);
+		margin-bottom: 0.15rem;
+	}
+
+	.footer-nav a {
+		font-size: 0.85rem;
+		color: var(--color-text-secondary);
+	}
+
+	.footer-nav a:hover {
+		color: var(--color-accent);
+	}
+
 	.footer-bottom {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		margin-top: var(--space-md);
 		padding-top: 1rem;
 		border-top: 1px solid var(--color-border);
 	}
 
-	.copyright {
-		color: var(--color-muted);
-		font-size: 0.8rem;
-	}
-
+	.copyright,
 	.icp {
 		color: var(--color-muted);
 		font-size: 0.8rem;
@@ -127,13 +167,33 @@ const today = new Date();
 		color: var(--color-accent);
 	}
 
-	@media (max-width: 768px) {
-		.container { padding: 1.25rem 1rem; }
-		.footer-top {
-			flex-direction: column;
-			gap: 0.75rem;
+	@media (max-width: 900px) {
+		.footer-grid {
+			grid-template-columns: repeat(2, minmax(0, 1fr));
 		}
-		.footer-brand { justify-content: center; }
+		.footer-mp {
+			grid-column: 1 / -1;
+			order: -1;
+		}
+	}
+
+	@media (max-width: 768px) {
+		.container { padding: var(--space-sm) 1rem 1.25rem; }
+		.footer-grid {
+			grid-template-columns: minmax(0, 1fr);
+			gap: 1.5rem;
+		}
+		.footer-brand { text-align: center; }
+		.brand-row { justify-content: center; }
+		.brand-desc { margin-inline: auto; }
+		.footer-links { justify-content: center; }
+		.footer-nav {
+			flex-direction: row;
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 0.75rem 1.25rem;
+		}
+		.footer-nav h2 { display: none; }
 		.footer-bottom {
 			flex-direction: column;
 			gap: 0.5rem;
