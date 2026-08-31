@@ -1,5 +1,5 @@
 ---
-import { mainSiteUrl } from "../consts";
+import { JOBS_PATH, mainSitePath, mainSiteUrl } from "../consts";
 
 const path = Astro.url.pathname;
 const nav = [
@@ -8,6 +8,7 @@ const nav = [
   { href: "/positions/", label: "岗位", match: (p: string) => p.startsWith("/positions") || p.startsWith("/position/") },
   { href: "/tags/", label: "技术点", match: (p: string) => p.startsWith("/tags") || p.startsWith("/tag/") },
 ];
+const jobsUrl = mainSitePath(JOBS_PATH, "nav_jobs");
 ---
 
 <header>
@@ -35,6 +36,7 @@ const nav = [
       {nav.map((item) => (
         <a href={item.href} class:list={["nav-link", { active: item.match(path) }]}>{item.label}</a>
       ))}
+      <a href={jobsUrl} class="nav-link" data-umami-event="nav-jobs">秋招岗位</a>
     </nav>
     <a
       href={mainSiteUrl("header")}

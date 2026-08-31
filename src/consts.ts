@@ -8,5 +8,13 @@ export const MINIPROGRAM_NAME = '面灵面经';
 export const MAIN_SITE = 'https://www.mianlingai.com/';
 
 export function mainSiteUrl(campaign: string): string {
-	return `${MAIN_SITE}?utm_source=mianjing&utm_medium=referral&utm_campaign=${campaign}`;
+	return mainSitePath('', campaign);
 }
+
+/** 主站子页面地址（path 不带前导斜杠，例如 `jobs/`） */
+export function mainSitePath(path: string, campaign: string): string {
+	return `${MAIN_SITE}${path}?utm_source=mianjing&utm_medium=referral&utm_campaign=${campaign}`;
+}
+
+/** 主站秋招岗位列表 */
+export const JOBS_PATH = 'jobs/';

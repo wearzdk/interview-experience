@@ -1,6 +1,6 @@
 ---
 import MiniProgram from './MiniProgram.astro';
-import { mainSiteUrl } from '../consts';
+import { JOBS_PATH, mainSitePath, mainSiteUrl } from '../consts';
 
 const today = new Date();
 ---
@@ -32,6 +32,7 @@ const today = new Date();
 				<a href="/companies/">全部公司</a>
 				<a href="/positions/">全部岗位</a>
 				<a href="/tags/">全部技术点</a>
+				<a href={mainSitePath(JOBS_PATH, 'footer_jobs')} data-umami-event="footer-jobs">秋招岗位</a>
 			</nav>
 
 			<div class="footer-mp">
