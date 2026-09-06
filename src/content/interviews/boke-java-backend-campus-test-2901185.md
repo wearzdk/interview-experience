@@ -5,7 +5,6 @@ position: Java后端
 round: 笔试
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901185
 tags: ["Java", "算法", "DFS", "贪心", "笔试"]
 summary: "波克校园招聘 Java 笔试面经，包含线程、锁、Oracle 与 Java 底层基础题，以及最短距离、四角游戏和序列重排三道编程题。"
 ---

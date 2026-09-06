@@ -4,7 +4,6 @@ company: 字节跳动
 position: AI 产品经理
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2803268
 tags: ["字节跳动","AI产品经理","多模态","模型微调","模型评测"]
 summary: "字节跳动 AI 产品实习面经，围绕实习、论文、多模态研究竞争力、模型精调方式、调试手段和自动与人工评测展开。"
 ---

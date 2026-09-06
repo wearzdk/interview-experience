@@ -5,7 +5,6 @@ position: AI 产品经理实习生
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2819105
 tags: ["迪士尼","AI产品","个性化体验","AIGC","商业化"]
 summary: "迪士尼 AI 产品实习一面，围绕乐园个性化体验、经典 IP 互动、隐私设计、Disney+ 内容创作、儿童体验和付费产品展开。"
 ---

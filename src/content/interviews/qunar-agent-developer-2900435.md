@@ -5,7 +5,6 @@ position: AI应用开发
 round: AI面试
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900435
 tags: ["JVM", "CAS", "MySQL", "QUIC", "系统设计"]
 summary: "去哪儿旅行AI应用开发面试，覆盖G1与CMS、CAS与ABA、联合索引、QUIC连接迁移，以及机票最低报价和积分抽奖两个系统设计题。"
 ---

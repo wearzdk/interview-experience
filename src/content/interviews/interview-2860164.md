@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 湖南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2860164
 tags: ["Java", "消息队列", "算法"]
 summary: "文友信息科技软件开发工程师一面面经，考察Java、消息队列、算法等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

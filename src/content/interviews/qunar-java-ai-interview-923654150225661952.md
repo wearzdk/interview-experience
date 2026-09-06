@@ -5,7 +5,7 @@ position: Java开发工程师
 round: AI面试
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923654150225661952
+sourceUrl: https://www.nowcoder.com/discuss/923654150225661952
 tags: ["Java", "JVM", "并发编程", "B+树", "Netty", "秒杀系统"]
 summary: "去哪儿Java开发岗位AI面试面经，覆盖JVM运行时、锁机制、B+树、Netty与秒杀系统设计等基础和场景题。"
 ---

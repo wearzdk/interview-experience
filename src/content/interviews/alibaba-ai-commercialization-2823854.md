@@ -5,7 +5,6 @@ position: AI商业化产品经理实习生
 round: 二面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2823854
 tags: ["AI产品","商业化","广告平台","用户增长","推荐策略"]
 summary: "阿里AI商业化产品暑期实习二面面经，重点追问项目贡献、推荐与触达策略、增长人群识别、广告平台价值、投放效果衡量和诊断工具指标。"
 ---

@@ -4,7 +4,6 @@ company: 得物
 position: Java开发工程师
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871961
 tags: ["Java","RAG","线程池","AI应用"]
 summary: "得物Java开发岗一面，围绕Apache Tika文件解析、Tomcat与线程池参数设置、包装类拆箱问题，以及RAG项目中专业术语映射与上下文压缩导致幻觉等AI应用难题展开。"
 ---

@@ -5,7 +5,7 @@ position: "产品测试工程师"
 date: '2026-07'
 base: "广州"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/886359980717121536
+sourceUrl: https://www.nowcoder.com/discuss/886359980717121536
 tags: ["AI产品", "实习", "产品经理"]
 summary: "广州某手信息产品测试工程师面经，原帖记录了面试中的核心追问，重点涉及AI产品、实习、产品经理等内容，适合准备相关岗位面试时参考。"
 ---

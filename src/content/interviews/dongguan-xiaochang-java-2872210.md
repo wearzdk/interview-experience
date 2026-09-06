@@ -5,7 +5,6 @@ position: Java开发工程师
 base: 东莞
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2872210
 tags: ["Java","MySQL","集合框架","多线程"]
 summary: "东莞小厂Java笔试面经，题目以八股为主未涉及项目，涵盖Java数据类型、自动拆装箱、继承与接口、多线程创建方式、集合框架、String类型判断，以及MySQL的LIMIT分页、日期函数、CHAR与VARCHAR区别等基础考点。"
 ---

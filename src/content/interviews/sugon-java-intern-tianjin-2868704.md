@@ -6,7 +6,6 @@ round: 技术面
 date: '2026-06'
 base: 天津
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868704
 tags: ["Java","多线程","JVM","Spring","SpringCloud","微服务","实习"]
 summary: "中科曙光天津Java实习技术面经，全为开放性问题，考察多线程原理（线程安全与锁机制）、JVM内存结构与垃圾回收、Spring框架体系（IoC/SpringBoot/SpringCloud微服务），适合准备国企/央企Java实习面试参考。"
 ---

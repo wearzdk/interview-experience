@@ -5,7 +5,7 @@ position: 后端开发
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904416498041507840
+sourceUrl: https://www.nowcoder.com/discuss/904416498041507840
 tags: ["AI项目","Code Review","Agent","实习经历"]
 summary: "滴滴花小猪打车后端开发二面面经，深挖AI Code Review项目的落地效果与实现细节，包括线上缺陷率下降数据来源、CR Prompt设计、Codex等Agent工具的记忆系统，以及AI智能问答知识库长期记忆的主动录入触发机制。"
 ---

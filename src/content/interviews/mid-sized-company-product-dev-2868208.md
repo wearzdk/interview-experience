@@ -5,7 +5,6 @@ position: "产品开发工程师"
 date: '2026-07'
 base: "成都"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868208
 tags: ["AI产品", "Agent", "RAG", "模型微调", "项目深挖", "实习"]
 summary: "某中厂产品开发工程师面经，原帖记录了面试中的核心追问，重点涉及AI产品、Agent、RAG、模型微调等内容，适合准备相关岗位面试时参考。"
 ---

@@ -4,7 +4,6 @@ company: "字节跳动"
 position: "产品开发工程师"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2796532
 tags: ["AI产品", "商业化", "用户研究", "产品经理"]
 summary: "字节跳动产品开发工程师面经，原帖记录了面试中的核心追问，重点涉及AI产品、商业化、用户研究、产品经理等内容，适合准备相关岗位面试时参考。"
 ---

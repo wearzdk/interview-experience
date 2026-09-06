@@ -5,7 +5,6 @@ position: Infra平台开发
 round: 一面
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901132
 tags: ["平台开发", "Agent", "大文件", "Kubernetes", "系统设计"]
 summary: "阿里 ATH Infra 平台开发一面面经，围绕项目重构、AI 提效、多媒体和大文件处理、模型成本与效果平衡、Agent 平台化、冷热分离及 Kubernetes 生产经验展开。"
 ---

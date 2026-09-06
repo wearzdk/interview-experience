@@ -5,7 +5,6 @@ position: 华为OD（C++、Java开发）
 date: '2026-05'
 base: 陕西
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2853504
 tags: ["C++","Java","算法","链表","二叉搜索树","线程同步"]
 summary: "华为OD C++/Java岗位面经，985计算机专业25届空挡一年求职者经历，机考C++、技术一面手撕旋转链表、技术二面反转字符串与统计字符数量，两轮面试语言不同需分别准备。"
 ---

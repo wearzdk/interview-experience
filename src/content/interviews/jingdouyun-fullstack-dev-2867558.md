@@ -5,7 +5,6 @@ position: 全栈开发工程师
 date: '2026-06'
 base: 广州
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867558
 tags: ["Java","MySQL","全栈开发","集合框架","多线程"]
 summary: "广州精抖云全栈开发面试面经，要求前后端全部独立开发且禁止使用AI工具。考察Java集合体系（HashMap、ArrayList、HashTable）、String相关类区别、接口与抽象类、线程创建方式、MySQL基础操作与慢查询优化。"
 ---

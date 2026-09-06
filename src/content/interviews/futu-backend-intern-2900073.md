@@ -5,7 +5,6 @@ position: 后端实习
 round: 二面
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900073
 tags: ["Coding Agent", "OpenAI API", "Agent评测", "缓存", "数据架构"]
 summary: "富途后端实习二面共22问，重点考察Coding Agent执行编排、Completion与Responses API、长任务上下文、Agent评测、社区平台数据分层和多存储选型。"
 ---

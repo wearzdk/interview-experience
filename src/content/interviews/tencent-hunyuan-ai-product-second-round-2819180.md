@@ -6,7 +6,6 @@ round: 二面
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2819180
 tags: ["AI平台", "API设计", "算力调度", "Agent评测", "开发者生态"]
 summary: "腾讯混元AI产品二面深入考察平台壁垒、长文本能力产品化、模型全链路、算力调度、成本优化、Agent归因与开发者激励。"
 ---

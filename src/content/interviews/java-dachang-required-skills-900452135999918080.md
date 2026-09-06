@@ -4,7 +4,7 @@ company: 多家大厂
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/900452135999918080
+sourceUrl: https://www.nowcoder.com/discuss/900452135999918080
 tags: ["Java","JVM","Spring","分布式","高并发"]
 summary: "大厂Java后端面试核心考察四个维度：Java语言与JVM基础功底（一面主战场）、主流工程栈能否独立落地（Spring/MySQL/Redis/MQ）、分布式与高并发的真实认知（二三面分水岭），以及项目能否经得住深挖，只会框架写CRUD远远不够。"
 ---

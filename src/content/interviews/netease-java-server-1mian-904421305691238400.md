@@ -5,7 +5,7 @@ position: Java服务端
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904421305691238400
+sourceUrl: https://www.nowcoder.com/discuss/904421305691238400
 tags: ["算法","Java","AI项目","HashMap"]
 summary: "网易Java服务端一面面经，涉及LeetCode零钱兑换动态规划题、AI智能问答项目的短期/长期记忆机制与相似度召回设计、Map遍历方式及String相等性判断等Java基础题。"
 ---

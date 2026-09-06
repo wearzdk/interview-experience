@@ -5,7 +5,6 @@ position: "后端开发"
 round: "一至三面"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900345
 tags: ["Java", "Redis", "RocketMQ", "JVM", "RAG", "Agent"]
 summary: "百度后端岗位多轮面试记录，围绕优惠券秒杀、Redis高可用、消息可靠性、RAG与Agent项目进行深挖，并包含算法题。"
 ---

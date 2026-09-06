@@ -4,7 +4,6 @@ company: 某公司
 position: 通用岗位
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/917152186482581504
 tags: ["面试复盘", "互联网", "金融", "国企", "岗位匹配"]
 summary: "跨行业面试复盘，讨论互联网、金融、国企及产品岗位在组织文化、岗位能力和回答侧重点上的差异，以及如何针对目标岗位准备。"
 ---

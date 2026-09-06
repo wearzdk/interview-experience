@@ -7,7 +7,6 @@ date: '2026-06'
 result: OC
 base: 福建
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2866278
 tags: ["Java", "Redis", "消息队列", "分布式", "LLM", "算法"]
 summary: "字节跳动软件开发实习生一面面经，考察Java、Redis、消息队列等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

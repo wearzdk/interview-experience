@@ -5,7 +5,6 @@ position: C端产品实习生
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2889572
 tags: ["产品经理", "C端产品", "转化率", "需求优先级", "实习"]
 summary: "滴滴C端产品实习一面面经，重点考察项目贡献、转化率提升、需求优先级、项目难点、实习收获和求职动机。"
 ---

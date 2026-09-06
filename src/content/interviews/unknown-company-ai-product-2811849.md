@@ -4,7 +4,6 @@ company: "某公司"
 position: "AI产品经理"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2811849
 tags: ["AI产品", "产品经理", "面试经验"]
 summary: "某公司AI产品经理面经，原帖记录了面试中的核心追问，重点涉及AI产品、产品经理、面试经验等内容，适合准备相关岗位面试时参考。"
 ---

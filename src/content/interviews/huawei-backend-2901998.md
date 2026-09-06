@@ -4,7 +4,6 @@ company: 华为
 position: 软件开发
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901998
 tags: ["笔试", "BFS", "回文串", "图算法", "Java"]
 summary: 华为机考三题复盘，覆盖矩阵连通性、B 进制回文串排名和可升级边的最大瓶颈路径。
 ---

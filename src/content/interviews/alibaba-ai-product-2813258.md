@@ -6,7 +6,6 @@ round: 一面
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2813258
 tags: ["阿里巴巴","AI产品经理","MCP","RAG","微调","权限管理"]
 summary: "阿里 AI 产品实习一面，深挖多维权限、MCP、大模型与传统模型差异、RAG 链路、微调选型和日常 AI 产品使用。"
 ---

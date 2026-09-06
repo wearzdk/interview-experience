@@ -4,7 +4,7 @@ company: 阿里巴巴
 position: 后端开发工程师
 date: '2025-11'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923311468613750784
+sourceUrl: https://www.nowcoder.com/discuss/923311468613750784
 tags: ["订单系统", "幂等", "MySQL", "Redis", "HTTPS", "多线程"]
 summary: "阿里后端开发面试，围绕订单表与分库分表、支付幂等、高并发写入、MySQL 和 Redis 原理、HTTPS 加密以及多线程顺序打印展开。"
 ---

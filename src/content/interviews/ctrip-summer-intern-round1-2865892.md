@@ -5,7 +5,6 @@ position: Java后端开发（暑期实习）
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2865892
 tags: ["Java","JVM","线程池","MySQL","HashMap"]
 summary: "携程暑期实习Java一面面经，围绕项目深挖缓存穿透/雪崩/击穿、多级缓存节点数据一致性、ThreadLocal内存泄露原理，以及HashMap与ArrayList扩容时机差异等JVM与并发核心考点。"
 ---

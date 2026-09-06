@@ -4,7 +4,6 @@ company: "滴滴"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2895212
 tags: ["Java","MySQL","JVM","并发","计算机网络","算法"]
 summary: "滴滴Java后端开发工程师面试记录，覆盖Java、MySQL、JVM、并发等考点，整理了面试流程与高频问题。"
 ---

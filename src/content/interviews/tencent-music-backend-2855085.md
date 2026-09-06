@@ -5,7 +5,6 @@ position: 后台开发工程师
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2855085
 tags: ["JVM","MySQL索引","ConcurrentHashMap","B+树"]
 summary: "腾讯音乐后台开发一面，围绕实习经历、G1回收算法、Netty、并发安全与HashMap底层原理，以及MySQL B+树索引前缀构建等基础知识展开。"
 ---

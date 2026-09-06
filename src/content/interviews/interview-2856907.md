@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-05'
 base: 浙江
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2856907
 tags: ["Java", "操作系统", "算法"]
 summary: "泰隆银行软件开发工程师笔试面经，考察Java、操作系统、算法等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

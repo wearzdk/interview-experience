@@ -5,7 +5,6 @@ position: PaaS产品经理实习生
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2840987
 tags: ["产品经理", "AI产品", "项目复盘", "需求分析", "职业规划"]
 summary: "腾讯云智PaaS产品岗一面围绕AI Tutor项目展开，重点考察问题定义、方案拆解、落地判断和产品方向选择。"
 ---

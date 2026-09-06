@@ -5,7 +5,6 @@ position: 产品经理实习生
 round: 一面、二面及HR面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2834374
 tags: ["产品经理","AI产品","数据分析","促销平台","HR面"]
 summary: "腾讯暑期产品经理完整面经，涵盖简历数据与AB实验、AI平台模型、促销平台场景设计、Human in the Loop、用户状态判断和HR面信息核实。"
 ---

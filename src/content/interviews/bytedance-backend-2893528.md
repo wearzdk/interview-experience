@@ -4,7 +4,6 @@ company: "拼多多"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2893528
 tags: ["Redis","JVM","AI应用","分布式系统","面试经验","后端开发"]
 summary: "拼多多Java后端开发工程师面试记录，覆盖Redis、JVM、AI应用、分布式系统等考点，整理了面试流程与高频问题。"
 ---

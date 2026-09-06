@@ -5,7 +5,7 @@ position: "后端开发"
 round: "一至二面"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923915294605594624
+sourceUrl: https://www.nowcoder.com/discuss/923915294605594624
 tags: ["Java", "Spring Boot", "Redis", "JVM", "求职经历"]
 summary: "某互联网中厂后端岗位面试经历，记录了较长的流程等待、项目交流和 Java 基础问题。"
 ---

@@ -5,7 +5,7 @@ position: 后端开发实习生
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/898590913004388352
+sourceUrl: https://www.nowcoder.com/discuss/898590913004388352
 tags: ["Agent","RAG","向量检索","ReAct","线程池"]
 summary: "快手后端开发实习生一面，围绕Agent项目的长期记忆架构、向量检索与关键字检索原理、ReAct实现，以及Redis、JVM内存、MySQL慢SQL排查等基础展开。"
 ---

@@ -5,7 +5,6 @@ position: 产品经理
 round: 笔试
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2886865
 tags: ["产品经理", "AI产品", "PRD", "系统方案", "校招笔试"]
 summary: "京东产品经理笔试包含产品业务选择题，以及借助AI根据PRD框架完成系统方案的实战题，重点考察产品常识、需求拆解和方案表达能力。"
 ---

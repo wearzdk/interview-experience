@@ -5,7 +5,6 @@ position: 产品经理
 round: 笔试
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2882979
 tags: ["产品经理","AI产品","用户体验","大模型应用"]
 summary: "京东产品岗笔试包含30道产品常识、大模型应用相关选择题，以及一道AI导购助手体验诊断与改进方案题，重点考察需求分析、方案结构与人机协作能力。"
 ---

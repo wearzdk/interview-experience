@@ -4,7 +4,6 @@ company: 某科技公司
 position: 后端开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867554
 tags: ["Java","Python","RabbitMQ","Redis","MySQL","RAG","并发编程"]
 summary: "同一公司Java岗与Python岗两次面试对比面经。Java岗考察支付幂等、CompletableFuture、volatile、CAS原子类、RabbitMQ可靠性、MySQL与MongoDB选型、RAG及Java注解；Python岗考察架构、装饰器、HTTP状态码、高并发处理及Redis五大数据结构。"
 ---

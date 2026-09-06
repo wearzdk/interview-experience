@@ -4,7 +4,6 @@ company: 蔚来
 position: 软件开发实习生
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901719
 tags: ["Java", "MySQL", "Redis", "消息队列", "实习"]
 summary: 蔚来软件开发实习生一面，重点考察项目复盘、消息最终一致性、Redis 与 MySQL 优化及网络基础。
 ---

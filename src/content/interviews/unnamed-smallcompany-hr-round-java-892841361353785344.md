@@ -5,7 +5,7 @@ position: Java开发工程师
 round: HR面（首轮）
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/892841361353785344
+sourceUrl: https://www.nowcoder.com/discuss/892841361353785344
 tags: ["Java","面向对象","Vue","面试流程"]
 summary: "一家20-99人规模公司的Java开发岗位，第一轮面试竟由HR主导拷打技术问题，候选人准备了ThreadLocal、Redis、MySQL、JVM等硬核八股却被问到\"类和对象的关系\"\"什么是多态\"等基础概念，反映中小公司面试流程的不规范性。"
 ---

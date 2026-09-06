@@ -6,7 +6,6 @@ round: 三面
 date: '2026-06'
 base: 湖南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869588
 tags: ["分布式事务","Flink","RocketMQ","Java并发","MySQL索引"]
 summary: "化工行业软件开发岗三轮面试面经，技术面重点拷打Seata分布式事务三种模式（XA/AT/TCC）原理与区别、RocketMQ与Kafka选型、线程同步与锁机制、MySQL聚簇索引结构，HR面侧重综合素质与离职原因。"
 ---

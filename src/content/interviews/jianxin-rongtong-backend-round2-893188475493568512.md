@@ -5,7 +5,7 @@ position: 后端开发工程师
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/893188475493568512
+sourceUrl: https://www.nowcoder.com/discuss/893188475493568512
 tags: ["Java","Spring AI","大模型","上下文管理"]
 summary: "建信融通后端开发二面面经，业务总监+HR联合面试，重点考察候选人如何使用Spring AI对接大模型完成核心功能开发，以及处理用户历史聊天时如何保证上下文关联性等AI工程落地细节。"
 ---

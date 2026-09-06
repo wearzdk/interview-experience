@@ -4,7 +4,6 @@ company: 广东某公司
 position: Java开发实习生
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901649
 tags: ["Java", "MySQL", "Redis", "Spring Cloud", "实习"]
 summary: 广东某公司 Java 实习生面试，覆盖索引、分布式锁、SQL 安全、OpenFeign、网关和 Seata。
 ---

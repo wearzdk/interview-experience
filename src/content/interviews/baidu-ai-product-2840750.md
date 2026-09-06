@@ -4,7 +4,6 @@ company: 百度
 position: AI 大模型产品经理
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2840750
 tags: ["百度","AI产品经理","模型评测","产品设计","职业规划"]
 summary: "百度 AI 大模型产品面经，重点考察开源模型选型、模型效果评估、C 端与 B 端差异、产品设计、竞品体验和职业规划。"
 ---

@@ -6,7 +6,6 @@ round: 二面
 date: '2026-07'
 result: 通过
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2878968
 tags: ["产品工程师","大模型调优","电商","Python","数据结构"]
 summary: "产品工程师二面记录，重点考察大模型调试与参数调整、电商业务场景分析、项目经历，以及用两个栈实现队列的编码能力。"
 ---

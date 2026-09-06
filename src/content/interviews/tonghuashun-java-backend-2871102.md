@@ -6,7 +6,6 @@ round: 一面
 date: '2026-07'
 base: 上海
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871102
 tags: ["Java","Redis","Lua","并发","MySQL","项目设计"]
 summary: "同花顺Java后端一面面经，围绕本地生活点评、营销抽奖平台等项目深挖并发设计。重点考察Redis Lua脚本原子性、防超卖方案、规则链/规则树架构设计以及异常行为监控告警落地方式。"
 ---

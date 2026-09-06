@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-05'
 base: 瑞典
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2853203
 tags: ["Java", "操作系统"]
 summary: "某互联网公司软件开发工程师笔试面经，考察Java、操作系统等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

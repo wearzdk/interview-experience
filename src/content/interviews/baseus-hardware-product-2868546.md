@@ -5,7 +5,6 @@ position: "硬件产品经理"
 round: "HR面+业务面+CEO面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868546
 tags: ["产品设计", "用户研究", "项目深挖", "实习", "产品经理"]
 summary: "倍思硬件产品经理面经，原帖记录了HR面+业务面+CEO面中的核心追问，重点涉及产品设计、用户研究、项目深挖、实习等内容，适合准备相关岗位面试时参考。"
 ---

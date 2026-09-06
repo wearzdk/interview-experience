@@ -5,7 +5,6 @@ position: "Product Engineer"
 round: "一面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867126
 tags: ["AI产品", "用户研究", "项目深挖", "操作系统", "计算机网络", "高并发"]
 summary: "小红书Product Engineer面经，原帖记录了一面中的核心追问，重点涉及AI产品、用户研究、项目深挖、操作系统等内容，适合准备相关岗位面试时参考。"
 ---

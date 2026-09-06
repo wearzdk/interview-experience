@@ -5,7 +5,6 @@ position: "AI产品经理"
 round: "一面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2799471
 tags: ["AI产品", "用户研究", "实习", "校招", "产品经理"]
 summary: "百度AI产品经理面经，原帖记录了一面中的核心追问，重点涉及AI产品、用户研究、实习、校招等内容，适合准备相关岗位面试时参考。"
 ---

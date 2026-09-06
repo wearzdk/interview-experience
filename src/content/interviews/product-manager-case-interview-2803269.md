@@ -4,7 +4,6 @@ company: 互联网公司
 position: 产品经理
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2803269
 tags: ["产品经理", "案例分析", "用户增长", "数据指标", "竞品分析"]
 summary: "产品经理面试准备清单覆盖估算、设计、优化三类案例题，以及AARRR、RFM、SWOT、竞品分析、核心指标和STAR项目复盘方法。"
 ---

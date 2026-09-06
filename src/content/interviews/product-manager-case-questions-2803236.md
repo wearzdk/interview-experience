@@ -4,7 +4,6 @@ company: 某互联网公司
 position: 产品经理
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2803236
 tags: ["产品经理","估算题","产品设计","用户增长","商业分析"]
 summary: "产品经理常见案例题合集，覆盖市场规模估算、老年与无障碍产品设计、交易平台设计、支付与内容增长优化，以及业务战略分析。"
 ---

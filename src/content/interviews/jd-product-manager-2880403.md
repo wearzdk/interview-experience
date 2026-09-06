@@ -5,7 +5,6 @@ position: 产品经理
 round: 笔试
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2880403
 tags: ["产品经理", "AI产品", "用户增长", "支付产品", "校招笔试"]
 summary: "京东产品经理秋招笔试记录，包含30道产品常识与业务判断选择题，以及一道使用AI完成支付产品亿级用户增长方案的综合题。"
 ---

@@ -5,7 +5,6 @@ position: AI 产品经理
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2805885
 tags: ["腾讯云","AI产品经理","大模型","RAG","需求分析"]
 summary: "腾讯云 AI 产品经理实习一面，覆盖 LLM、Diffusion、RAG、微调与提示词工程、幻觉治理、垂直场景设计、需求优先级和竞品分析。"
 ---

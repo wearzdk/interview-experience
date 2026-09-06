@@ -4,7 +4,6 @@ company: "去哪儿"
 position: "算法工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2899740
 tags: ["Java","Redis","网络","并发","AI","操作系统"]
 summary: "去哪儿算法工程师面试记录，重点涉及Java、Redis、网络、并发等主题，整理原帖中的提问并补充参考思路。"
 ---

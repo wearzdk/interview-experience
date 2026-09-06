@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 深圳
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867563
 tags: ["Java","MySQL","面试技巧","实习生面试","职业规划"]
 summary: "深圳国旅新景界Java后端实习一面面经，薪资3500含住宿。考察MySQL优化、多线程应用、项目拷打，并有大量HR向问题如实习动机、公司了解程度、竞赛经历、GPA排名及职业规划。"
 ---

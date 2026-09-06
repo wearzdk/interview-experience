@@ -5,7 +5,6 @@ position: AI产品经理实习生
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2846749
 tags: ["AI产品","旅游产品","项目复盘","竞品分析","跨团队协作"]
 summary: "Klook客路AI产品经理暑期实习面经，重点深挖实习项目、跨时区协作、竞品分析、AI能力认知，以及旅行场景AI功能的拆解和规划。"
 ---

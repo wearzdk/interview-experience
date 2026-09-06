@@ -5,7 +5,6 @@ position: 产品经理实习生
 round: 一面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2874022
 tags: ["产品经理","项目深挖","用户研究","系统设计"]
 summary: "字节跳动集团信息系统产品经理实习生一面面经，重点追问项目价值、用户调研、技术背景，以及如何向非技术人员解释系统架构与交互流程。"
 ---

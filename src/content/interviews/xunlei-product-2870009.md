@@ -5,7 +5,6 @@ position: "产品经理"
 round: "笔试"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2870009
 tags: ["产品设计", "用户研究", "数据分析", "项目深挖", "操作系统", "计算机网络"]
 summary: "迅雷产品经理面经，原帖记录了笔试中的核心追问，重点涉及产品设计、用户研究、数据分析、项目深挖等内容，适合准备相关岗位面试时参考。"
 ---

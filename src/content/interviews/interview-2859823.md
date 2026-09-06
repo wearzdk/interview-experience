@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 山东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2859823
 tags: ["Java", "MySQL", "Redis", "微服务", "Spring", "计算机网络"]
 summary: "某互联网公司软件开发实习生一面面经，考察Java、MySQL、Redis等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

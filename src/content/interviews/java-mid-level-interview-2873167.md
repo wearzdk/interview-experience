@@ -4,7 +4,6 @@ company: 某中厂
 position: Java中级开发工程师
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2873167
 tags: ["Java","分布式锁","MySQL","线程池","多线程","ORM"]
 summary: "Java 中级开发面试题整理，覆盖项目亮点、技术选型、团队协作、分布式锁、ORM、MySQL 优化、线程池和多线程同步。"
 ---

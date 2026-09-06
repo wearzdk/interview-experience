@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-05'
 base: 湖南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2858048
 tags: ["Java", "MySQL", "Redis", "算法"]
 summary: "某互联网公司软件开发工程师笔试面经，考察Java、MySQL、Redis等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

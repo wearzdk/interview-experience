@@ -7,7 +7,6 @@ date: '2026-07'
 result: OC
 base: 苏州
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869883
 tags: ["Java","算法","面向对象","日语","AI辅助编程"]
 summary: "苏州凌志软件27届Java对日开发实习一面面经，涉及日语基础问答、面向对象特性、贪心算法、排序算法及AI辅助编程使用情况，整体难度不大，全日制本科+日语N2水平可通过。"
 ---

@@ -5,7 +5,7 @@ position: 服务端研发工程师
 round: 三面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904004668659941376
+sourceUrl: https://www.nowcoder.com/discuss/904004668659941376
 tags: ["中间件","缓存","MapReduce","校招"]
 summary: "某大厂服务端研发三面面经，一面聚焦本地缓存设计与Hadoop MapReduce执行流程等中间件与大数据基础，整体面试节奏灵活、允许候选人自主协调面试时间。"
 ---

@@ -5,7 +5,6 @@ position: 产品经理
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2835120
 tags: ["产品经理", "竞品分析", "用户研究", "AI工具", "产品方法论"]
 summary: "腾讯CDG技术背景产品经理业务一面重点考察竞品差异化、用户洞察、需求落地、AI工具选型以及对新兴智能体产品的判断。"
 ---

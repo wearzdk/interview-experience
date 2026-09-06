@@ -5,7 +5,6 @@ position: Java后端开发实习生
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867569
 tags: ["Java","RAG","向量数据库","AI应用开发","系统设计"]
 summary: "Shopee（虾皮）Java后端实习二面面经，无八股无手撕，全程拷打RAG项目细节。考察文档解析、分块策略、向量化入库选型（pgvector vs Milvus）、效果评估指标及Agent与RAG的差异。终局为AI Coding实战题。"
 ---

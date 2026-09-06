@@ -4,7 +4,7 @@ company: 多家C++后端方向公司
 position: C++开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/898926724425994240
+sourceUrl: https://www.nowcoder.com/discuss/898926724425994240
 tags: ["C++","数据库开发","MySQL","面试备考"]
 summary: "C++数据库开发方向的生态与面试备考总结：交易系统、行情引擎、工业软件、游戏服务端等场景都离不开与MySQL/PostgreSQL/SQLite对接，C++没有统一的标准ORM，多依赖官方C API、Connector或轻量封装库自行组装数据库访问层。"
 ---

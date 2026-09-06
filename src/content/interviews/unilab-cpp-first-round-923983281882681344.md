@@ -5,7 +5,7 @@ position: "C++开发"
 round: "一面"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923983281882681344
+sourceUrl: https://www.nowcoder.com/discuss/923983281882681344
 tags: ["C++", "面向对象", "系统设计", "性能"]
 summary: "联影 C++ 一面记录，围绕 struct 与 class、语言选型、构造析构、内存管理和工程性能展开。"
 ---

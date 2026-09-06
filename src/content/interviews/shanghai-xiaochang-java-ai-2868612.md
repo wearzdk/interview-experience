@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 上海
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868612
 tags: ["Java","AI应用","ReAct","KVCache","并发","缓存","算法"]
 summary: "上海某自研小厂Java一面，亮点是含AI应用考察（ReAct框架终止信号、KVCache原理、工具调用失败处理）。同时覆盖Java基础、锁对比、场景题（缓存宕机恢复、服务兜底）、代码题（单例模式、有效括号）。"
 ---

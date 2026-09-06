@@ -5,7 +5,6 @@ position: AI产品经理
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2819027
 tags: ["AI产品","计算机视觉","智能剪辑","端侧AI","数据闭环"]
 summary: "影石Insta360 AI产品经理面经，覆盖影像处理、智能剪辑、目标跟踪、端侧模型取舍、全景视频、个性化创作、双端协同与AI功能评估。"
 ---

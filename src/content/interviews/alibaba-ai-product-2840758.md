@@ -4,7 +4,6 @@ company: "阿里"
 position: "AI产品经理"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2840758
 tags: ["AI产品", "Agent", "RAG", "用户研究", "数据分析", "实习"]
 summary: "阿里AI产品经理面经，原帖记录了面试中的核心追问，重点涉及AI产品、Agent、RAG、用户研究等内容，适合准备相关岗位面试时参考。"
 ---

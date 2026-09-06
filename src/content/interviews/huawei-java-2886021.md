@@ -4,7 +4,6 @@ company: "华为"
 position: "Java后端开发工程师"
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2886021
 tags: ["Java","Spring","算法","面试经验","后端开发"]
 summary: "华为Java后端开发工程师面试记录，覆盖Java、Spring、算法、面试经验等考点，整理了面试流程与高频问题。"
 ---

@@ -5,7 +5,7 @@ position: 后端开发实习生
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/898592450359349248
+sourceUrl: https://www.nowcoder.com/discuss/898592450359349248
 tags: ["Java","RAG","ReAct","反射","SQL"]
 summary: "字节跳动后端开发实习生二面面经（2026.6.15），面试官从技术需求和实际场景出发深挖两个项目，考察知识入库流程、RAG效果对比、ReAct范式选型理由、Java反射机制应用场景，并有手撕SQL打印菱形图案的编程题。"
 ---

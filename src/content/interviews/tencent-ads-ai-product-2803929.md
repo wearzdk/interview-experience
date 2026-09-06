@@ -5,7 +5,6 @@ position: AI产品经理实习生
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2803929
 tags: ["AI产品","Agent","工作流","广告产品","多智能体"]
 summary: "腾讯广告AI产品经理实习面经，考察Transformer与扩散模型、Agent和工作流、二次编辑、广告AI产品策略、商业价值评估和多Agent协作。"
 ---

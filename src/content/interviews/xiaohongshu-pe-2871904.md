@@ -5,7 +5,6 @@ position: PE（全栈开发）实习生
 round: 一面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871904
 tags: ["RAG","算法","编辑距离","项目设计"]
 summary: "小红书PE（全栈）一面，重点拷打RAG项目的整体流程、参数设计与优化方案，并考察编辑距离、旋转链表两道算法手撕题。"
 ---

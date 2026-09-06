@@ -5,7 +5,6 @@ position: Java开发工程师
 round: 一面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869552
 tags: ["Redisson","分布式锁","HashMap","Redis持久化"]
 summary: "人生第一场技术面试实录，围绕秒杀场景下的分布式锁选型（悲观锁到Redisson）、Redis持久化与淘汰策略、HashMap扩容原理等基础八股展开，面试官全程耐心引导。"
 ---

@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868542
 tags: ["Java","MySQL","Redis","JVM","ClickHouse","Docker"]
 summary: "某小厂Java开发一面面经，题目覆盖Java基础（多态、static、集合线程安全）、Redis vs MySQL对比、慢SQL排查与索引失效判断、JVM结构、ClickHouse vs MySQL区别、Docker部署原因。候选人自评凉经。"
 ---

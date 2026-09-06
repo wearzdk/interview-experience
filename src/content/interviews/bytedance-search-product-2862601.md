@@ -5,7 +5,6 @@ position: 搜索推荐产品经理
 date: '2026-06'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2862601
 tags: ["字节跳动","产品经理","搜索推荐","项目复盘"]
 summary: "字节跳动核心搜索推荐产品经理面试简要记录，原帖主要说明面试时长、候选人背景和结果，未披露具体问题。"
 ---

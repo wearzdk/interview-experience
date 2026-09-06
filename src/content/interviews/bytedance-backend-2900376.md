@@ -5,7 +5,6 @@ position: 后端开发
 round: 一面
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900376
 tags: ["Redis", "Java并发", "JVM", "MySQL", "系统设计"]
 summary: "字节后端一面约一小时，项目追问密集，基础题覆盖Redis、线程池、synchronized、CompletableFuture、G1和MySQL索引事务，并考察抢票系统设计与K组反转链表。"
 ---

@@ -6,7 +6,7 @@ round: 一面
 date: '2026-07'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/909884420176248832
+sourceUrl: https://www.nowcoder.com/discuss/909884420176248832
 tags: ["AI产品经理", "并发控制", "资源锁", "RPA"]
 summary: "北森AI产品经理一面面经，围绕多个执行器同时写入文件或表格时的并发冲突展开，考察平台级锁、资源锁和异常处理的产品设计。"
 ---

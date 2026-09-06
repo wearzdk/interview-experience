@@ -5,7 +5,7 @@ position: Java Junior开发工程师
 round: 笔试
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/885703707231367168
+sourceUrl: https://www.nowcoder.com/discuss/885703707231367168
 tags: ["Java","JavaScript","算法","海外求职"]
 summary: "北欧一家证券公司Java Junior岗位笔试，题目一半Java一半JavaScript（岗位JD只提Java，开考才发现有JS部分），涵盖手写继承、try-catch-finally、Lambda表达式Consumer语法及equals方法，算法题为连续子数组最大和及区间最小差值问题。"
 ---

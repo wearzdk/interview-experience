@@ -5,7 +5,7 @@ position: AI后端开发工程师
 round: 一面/二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/896441301623635968
+sourceUrl: https://www.nowcoder.com/discuss/896441301623635968
 tags: ["Java","Redis","分布式锁","幂等","AI Agent"]
 summary: "ThunderBit AI开发岗一面面经，视频面时长约55分钟，面试官为技术负责人，重点深挖状态机流程设计、分布式锁与幂等防重的区别、Redis热数据缓存设计动机及故障恢复方案，以及AI调用工具的完整流程。"
 ---

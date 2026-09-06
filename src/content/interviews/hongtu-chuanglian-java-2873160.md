@@ -7,7 +7,6 @@ date: '2026-07'
 result: 凉经
 base: 北京
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2873160
 tags: ["Java基础","集合","多线程","Docker","计算机网络","算法"]
 summary: "北京宏途创联 Java 开发面经，问题集中在 Java 基本类型、集合、HashMap、线程状态、synchronized、Docker 部署和反转链表。"
 ---

@@ -5,7 +5,6 @@ position: 后端开发工程师（暑期实习）
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867090
 tags: ["RAG","RocketMQ","多线程","MySQL索引","Redis","算法"]
 summary: "虾皮（Shopee）暑期实习后端一面面经，深挖 RAG 项目的对比实验设计与摘要压缩、MCP 工具调用安全、分布式租约锁续约机制，八股覆盖多线程 CAS、synchronized 锁标记、MySQL 联合索引最左前缀，以及多道算法题（最短路径、TSP、TopK）。"
 ---

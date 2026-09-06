@@ -5,7 +5,6 @@ position: 产品经理
 round: 一面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2880124
 tags: ["产品经理", "需求分析", "数据埋点", "AI产品", "ToB"]
 summary: "禾赛科技2027校招产品经理一面面经，覆盖职业规划、产品与项目角色差异、AI在ToB平台中的应用、需求真伪判断、数据埋点、需求优先级和中台规划。"
 ---

@@ -6,7 +6,6 @@ round: 三面
 date: '2026-07'
 result: OC
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869786
 tags: ["JVM","ZGC","MySQL","索引","面试技巧"]
 summary: "三面被问到JVM ZGC细节和MySQL索引合并两个八股盲区，因紧张硬编导致翻车的反思面经，附ZGC原理、索引合并机制的正确解析，以及面对知识盲区时更稳妥的应对方式。"
 ---

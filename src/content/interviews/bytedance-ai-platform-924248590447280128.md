@@ -6,7 +6,7 @@ round: 三轮技术面+HR面
 date: '2026-06'
 result: OC
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/924248590447280128
+sourceUrl: https://www.nowcoder.com/discuss/924248590447280128
 tags: ["AI平台", "模型推理", "动态批处理", "GPU", "系统设计"]
 summary: "字节AI平台社招面经，围绕推理平台请求量、P99延迟、模型预热、动态批处理、GPU资源池化与冷启动治理展开，并包含技术面通过后的薪资沟通复盘。"
 ---

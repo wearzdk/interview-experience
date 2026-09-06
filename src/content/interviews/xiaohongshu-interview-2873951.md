@@ -4,7 +4,6 @@ company: "小红书"
 position: "Java后端开发工程师"
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2873951
 tags: ["Java","Redis","Kafka","RabbitMQ","RocketMQ","并发"]
 summary: "小红书Java后端开发工程师面试记录，覆盖Java、Redis、Kafka、RabbitMQ等考点，整理了面试流程与高频问题。"
 ---

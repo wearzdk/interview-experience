@@ -6,7 +6,6 @@ round: "二面"
 date: '2026-07'
 result: "凉经"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2873956
 tags: ["AI产品", "模型微调", "项目深挖", "实习"]
 summary: "小红书Product Engineer面经，原帖记录了二面中的核心追问，重点涉及AI产品、模型微调、项目深挖、实习等内容，适合准备相关岗位面试时参考。"
 ---

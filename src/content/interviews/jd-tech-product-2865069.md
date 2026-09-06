@@ -4,7 +4,6 @@ company: "京东"
 position: "技术产品经理"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2865069
 tags: ["项目深挖", "产品经理", "面试经验"]
 summary: "京东技术产品经理面经，原帖记录了面试中的核心追问，重点涉及项目深挖、产品经理、面试经验等内容，适合准备相关岗位面试时参考。"
 ---

@@ -5,7 +5,6 @@ position: 用户增长产品经理
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2813117
 tags: ["产品经理","用户增长","KPI","增长策略","业务分析"]
 summary: "闪送用户增长产品经理面经，围绕过往业绩考核、产品方向偏好、闪送业务理解、项目负责人KPI拆解和实习规划展开。"
 ---

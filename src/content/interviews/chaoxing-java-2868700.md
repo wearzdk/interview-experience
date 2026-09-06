@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868700
 tags: ["Java","JVM","MySQL","索引","垃圾回收","String","hashCode"]
 summary: "超星学习通Java一面面经，纯八股题目：StringBuilder vs String拼接对比、常用垃圾回收器类型、==与equals区别、重写equals必须重写hashCode的原因、异常分类、索引失效场景。候选人反映体验极差，面试官不开摄像头，半小时结束无后续。"
 ---

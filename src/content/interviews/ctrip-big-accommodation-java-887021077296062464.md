@@ -6,7 +6,7 @@ round: 两轮技术面+HR面
 date: '2026-05'
 result: 已拿offer
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/887021077296062464
+sourceUrl: https://www.nowcoder.com/discuss/887021077296062464
 tags: ["Java","LRU","JVM调优","QPS","订单系统"]
 summary: "25届校招进入携程大住宿BU的Java后端学长复盘面经，第一轮基础面深挖订单系统项目的表结构设计、索引建立、接口QPS预估与压测优化，手撕LRU缓存并要求分析时间空间复杂度及LinkedHashMap等替代实现方案。"
 ---

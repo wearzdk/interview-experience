@@ -4,7 +4,7 @@ company: 字节跳动腾讯美团等多家大厂
 position: Java后端开发工程师
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/889150185626955776
+sourceUrl: https://www.nowcoder.com/discuss/889150185626955776
 tags: ["Java","HashMap","高频面经","字节跳动","腾讯","美团"]
 summary: "整理近一个月牛客字节、腾讯、拼多多、快手、美团、滴滴等大厂Java后端面经中的高频题目与知识点，集合模块的HashMap底层数据结构与扩容机制是几乎每家一面必问的核心考点。"
 ---

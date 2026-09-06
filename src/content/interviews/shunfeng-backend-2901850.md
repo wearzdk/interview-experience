@@ -4,7 +4,6 @@ company: 顺丰
 position: Java后端开发
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901850
 tags: ["Java", "Kafka", "Redis", "数据库", "项目面"]
 summary: 顺丰提前批一面，围绕项目中的热点探测、Kafka 灾难回放、限流、Redis 哨兵和数据库索引展开。
 ---

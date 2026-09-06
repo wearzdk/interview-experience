@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 机考+HR面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904033948907360256
+sourceUrl: https://www.nowcoder.com/discuss/904033948907360256
 tags: ["华为OD","算法","机考","校招"]
 summary: "26届双非一本考生因offer被毁约转投华为OD，凭借扎实的算法功底（LeetCode 2000+题、Codeforces紫名）机考满分通过，HR面顺利过关的经历分享。"
 ---

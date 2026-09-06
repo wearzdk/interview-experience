@@ -5,7 +5,7 @@ position: Java后端
 round: AI面
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/924430104908791808
+sourceUrl: https://www.nowcoder.com/discuss/924430104908791808
 tags: ["Java", "JVM", "GC", "内存管理", "AI面试"]
 summary: "去哪儿 Java后端 AI 面试记录，已获取内容主要考察项目介绍、JVM 堆内存分代、对象生命周期、垃圾回收算法与跨代引用。"
 ---

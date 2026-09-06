@@ -5,7 +5,6 @@ position: AI产品经理
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2888823
 tags: ["AI产品", "RAG", "Agent", "模型评测", "产品经理"]
 summary: "Shopee AI产品经理一面面经，深入考察企业知识库Agent、RAG检索、模型评测与幻觉治理、简历解析、个性化推送和航班监控工作流。"
 ---

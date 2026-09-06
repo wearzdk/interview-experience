@@ -7,7 +7,6 @@ date: '2026-05'
 result: 凉经
 base: 广东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2852195
 tags: ["Java", "MySQL", "Redis", "计算机网络", "操作系统", "LLM"]
 summary: "腾讯软件开发实习生一面面经，考察Java、MySQL、Redis等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

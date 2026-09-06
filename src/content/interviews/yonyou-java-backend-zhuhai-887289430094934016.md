@@ -6,7 +6,7 @@ base: 珠海
 result: OC
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/887289430094934016
+sourceUrl: https://www.nowcoder.com/discuss/887289430094934016
 tags: ["Java集合","Arrays.asList","面试基础"]
 summary: "广东用友软件Java后端面经，围绕数组与List相互转换时底层数据共享关系的细节问题深挖，最终顺利拿到OC。"
 ---

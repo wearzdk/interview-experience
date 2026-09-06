@@ -5,7 +5,7 @@ position: Java后端开发工程师
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/899984099421474816
+sourceUrl: https://www.nowcoder.com/discuss/899984099421474816
 tags: ["Java","MySQL","MVCC","RabbitMQ","Spring"]
 summary: "快手Java后端一面面经，算法二选一（最长无重复字符子串/删除链表倒数第k个节点），八股重点考察MVCC原理、事务隔离级别、索引失效场景、慢SQL优化、RabbitMQ消息路由与持久化，以及Spring循环依赖的解决方式。"
 ---

@@ -6,7 +6,7 @@ round: 一面
 date: '2026-06'
 base: 深圳
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/895804913857331200
+sourceUrl: https://www.nowcoder.com/discuss/895804913857331200
 tags: ["Java","RabbitMQ","Disruptor","Redis","MySQL"]
 summary: "深圳益普科技Java实习一面面经，考察物联网通信协议（Modbus/MQTT）了解程度、RabbitMQ与Disruptor的区别及项目中选用Disruptor替代线程池的原因、多级缓存架构设计，以及InnoDB与MyISAM存储引擎的区别。"
 ---

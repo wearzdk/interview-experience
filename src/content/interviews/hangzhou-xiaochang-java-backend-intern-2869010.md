@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 杭州
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869010
 tags: ["Java","集合框架","Redis","MySQL","RabbitMQ","线程池","设计模式"]
 summary: "杭州小厂Java后端实习一面面经，涵盖Java集合（ArrayList/LinkedList/HashMap/ConcurrentHashMap）、线程池核心参数与执行流程、策略模式与简单工厂实战、Redis分布式锁与集群架构、MySQL索引失效与MVCC，以及对AI工具和RabbitMQ的经验考察。"
 ---

@@ -6,7 +6,6 @@ round: 一面
 date: '2026-07'
 base: 上海
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871422
 tags: ["Java","Redis","分布式锁","缓存一致性"]
 summary: "上海一家小厂Java后端一面面经，重点考察Redis缓存雪崩/穿透/击穿的解决方案、项目并发处理措施、分布式锁实现思路，以及Redis与数据库读写一致性问题。"
 ---

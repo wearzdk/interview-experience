@@ -5,7 +5,6 @@ position: Java开发工程师
 date: '2026-05'
 base: 福建
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867556
 tags: ["Java","JVM","Spring","MySQL","RabbitMQ","ELK"]
 summary: "福建电子口岸Java开发面试面经，考察范围广且偏实际应用。包含JVM调优（2核4G环境）、垃圾回收算法、Java集合框架、HashMap扩容机制、IoC与AOP、线程池参数与跨线程通信、数据库索引类型、RabbitMQ消息可靠性、ELK日志系统及接口幂等设计。"
 ---

@@ -5,7 +5,6 @@ position: AI 产品经理
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2824212
 tags: ["百度","AI产品经理","Agent","搜索","用户研究"]
 summary: "百度 AI 产品日常实习一面，重点考察求职方向、AI 项目、竞品与用户调研、Agent 选型、Query 分类、搜索链路和作品集。"
 ---

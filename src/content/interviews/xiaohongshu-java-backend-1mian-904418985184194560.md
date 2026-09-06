@@ -5,7 +5,7 @@ position: Java后端开发
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904418985184194560
+sourceUrl: https://www.nowcoder.com/discuss/904418985184194560
 tags: ["算法","AI项目","Redis","快速排序"]
 summary: "小红书Java后端开发一面面经，重点围绕AI智能问答项目的短期/长期记忆机制、记忆剔除策略展开深挖追问，并考察快速排序算法手写及日常AI辅助编程的使用心得。"
 ---

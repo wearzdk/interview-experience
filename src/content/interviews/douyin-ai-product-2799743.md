@@ -5,7 +5,6 @@ position: AI产品经理
 round: 二面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2799743
 tags: ["AI产品","Deep Research","Agent","需求分析","AI编程"]
 summary: "抖音AI产品经理校招二面面经，考察用户沟通、AI教育竞品、Deep Research横向对比、大模型资讯、智能体体验改进、需求细化和Cursor产品拆解。"
 ---

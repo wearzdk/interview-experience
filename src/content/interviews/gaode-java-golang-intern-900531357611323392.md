@@ -5,7 +5,7 @@ position: Java、Golang开发实习生
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/900531357611323392
+sourceUrl: https://www.nowcoder.com/discuss/900531357611323392
 tags: ["Java","Golang","ConcurrentHashMap","并发编程"]
 summary: "高德地图Java/Golang日常实习一面面经，考察ConcurrentHashMap的实现原理，候选人只回答出JDK1.7的分段锁机制，未能讲清JDK1.8的CAS+synchronized实现，面试官反馈平淡。"
 ---

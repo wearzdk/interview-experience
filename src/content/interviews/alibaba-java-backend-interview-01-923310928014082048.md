@@ -4,7 +4,7 @@ company: 阿里巴巴
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923310928014082048
+sourceUrl: https://www.nowcoder.com/discuss/923310928014082048
 tags: ["Java", "JVM", "并发编程", "分库分表", "分布式事务", "秒杀系统"]
 summary: "阿里Java后端面试，重点考察 HashMap 与并发容器、JVM 和 GC、AQS 与 ThreadLocal、分库分表、分布式事务，以及百万 QPS 秒杀系统设计。"
 ---

@@ -4,7 +4,7 @@ company: 大厂通用
 position: Java开发
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/924252040413319168
+sourceUrl: https://www.nowcoder.com/discuss/924252040413319168
 tags: ["Java", "JVM", "并发编程", "Spring", "面试准备"]
 summary: "Java大厂高频面试复习经验，强调在掌握基础概念之外建立JVM、并发和Spring知识框架，并能把原理映射到项目与线上排障场景。"
 ---

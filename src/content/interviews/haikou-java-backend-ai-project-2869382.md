@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 海南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869382
 tags: ["RAG","会话记忆","MySQL","Linux","Docker","算法"]
 summary: "海口Java后端小厂一面面经，重点考察AI项目中的会话记忆实现与存储方式、RAG知识片段切分与幻觉问题应对，以及MySQL增删改查、Linux命令、Docker与算法基础。"
 ---

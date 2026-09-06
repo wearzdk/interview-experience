@@ -6,7 +6,7 @@ round: 一面
 date: '2026-06'
 base: 上海
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/895765883971268608
+sourceUrl: https://www.nowcoder.com/discuss/895765883971268608
 tags: ["全栈开发","Go","小厂面试"]
 summary: "上海一家0-20人规模初创公司全栈开发实习面经，面试官因候选人答不出抖音底层100%用Go实现而当场否定其技术热情，10分钟内结束面试，反映出小微初创公司面试标准的主观性与不确定性。"
 ---

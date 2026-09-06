@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-06'
 base: 北京
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867637
 tags: ["Java","系统设计","算法","数据库","高并发"]
 summary: "北京自研小厂游戏服务端笔试面经，全程手写不得用编辑器。考察签到系统设计（缓存方案、高并发、幂等）、技能特效二维数组区间合并算法、排行榜接口设计及数据库表结构设计。"
 ---

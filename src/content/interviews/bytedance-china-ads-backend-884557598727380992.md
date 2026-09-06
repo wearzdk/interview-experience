@@ -5,7 +5,7 @@ position: 后端开发工程师（中国广告）
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/884557598727380992
+sourceUrl: https://www.nowcoder.com/discuss/884557598727380992
 tags: ["Java","单例模式","CAS","限流","MySQL"]
 summary: "字节跳动中国广告后端一面面经，全程Java八股拷打未涉及实习和AI话题，考察懒汉式单例模式实现漏洞排查、CAS底层线程交互过程、MySQL binlog与redo log二阶段提交顺序、100QPS限流方案（滑动窗口与令牌桶），以及O(nlogn)复杂度的最长递增子序列算法。"
 ---

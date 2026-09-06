@@ -6,7 +6,6 @@ round: "一面+二面+HR面"
 date: '2026-07'
 result: "OC"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2839096
 tags: ["AI产品", "产品设计", "项目深挖", "实习"]
 summary: "字节跳动前端开发工程师面经，原帖记录了一面+二面+HR面中的核心追问，重点涉及AI产品、产品设计、项目深挖、实习等内容，适合准备相关岗位面试时参考。"
 ---

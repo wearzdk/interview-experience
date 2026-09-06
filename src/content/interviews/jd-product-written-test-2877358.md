@@ -5,7 +5,6 @@ position: 产品经理
 round: 笔试
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2877358
 tags: ["京东","产品经理","数据分析","AI产品","笔试"]
 summary: "京东产品岗秋招笔试记录，包括 30 道产品、业务、数据分析与 AI 场景选择题，以及一道 AI 产品方案问答题。"
 ---

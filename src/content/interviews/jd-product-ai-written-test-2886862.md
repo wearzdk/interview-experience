@@ -5,7 +5,6 @@ position: 产品经理
 round: 笔试
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2886862
 tags: ["产品经理", "AI产品", "医疗服务", "方案设计", "校招笔试"]
 summary: "京东产品岗笔试包含30道产品业务与大模型相关选择题，以及一道使用AI补充医疗服务方案和执行计划的实战题。"
 ---

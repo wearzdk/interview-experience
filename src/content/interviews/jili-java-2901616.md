@@ -4,7 +4,6 @@ company: 吉利
 position: Java开发工程师
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901616
 tags: ["Java", "线程池", "Redis", "JVM", "并发"]
 summary: 吉利秋招 Java 一面，围绕限流、HashMap、线程池、Redis List、synchronized 和单例展开。
 ---

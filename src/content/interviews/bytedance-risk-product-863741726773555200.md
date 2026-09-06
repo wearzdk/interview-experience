@@ -5,7 +5,7 @@ position: 反作弊产品经理
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/863741726773555200
+sourceUrl: https://www.nowcoder.com/discuss/863741726773555200
 tags: ["产品经理","风控","反作弊","数据分析","SQL"]
 summary: "字节跳动反作弊产品经理一面面经，覆盖色情导流识别、误拦平衡、优惠券黄牛、商户用户联合套利、LBS风控策略和SQL实操。"
 ---

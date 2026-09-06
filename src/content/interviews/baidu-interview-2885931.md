@@ -4,7 +4,6 @@ company: "百度"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2885931
 tags: ["Redis","MySQL","Kafka","JVM","Spring","并发"]
 summary: "百度Java后端开发工程师面试记录，覆盖Redis、MySQL、Kafka、JVM等考点，整理了面试流程与高频问题。"
 ---

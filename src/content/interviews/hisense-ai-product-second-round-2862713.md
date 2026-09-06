@@ -5,7 +5,6 @@ position: AI 产品经理
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2862713
 tags: ["海信","AI产品经理","需求设计","跨部门协作","项目复盘"]
 summary: "海信集团 2027 届 AI 产品二面记录，重点考察产品经理能力模型、需求设计、跨部门沟通、AI 项目细节和个人岗位匹配度。"
 ---

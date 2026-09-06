@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/885894032079986688
+sourceUrl: https://www.nowcoder.com/discuss/885894032079986688
 tags: ["多线程安全","RESTful","缓存一致性","B+树"]
 summary: "菜鸟直管Java开发一面，围绕多线程环境下集合安全性、RESTful方法语义，以及MySQL与Redis数据不一致的延时双删方案展开讨论。"
 ---

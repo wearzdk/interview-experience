@@ -5,7 +5,7 @@ position: "商业产品经理"
 round: "面经汇总"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/891328632507932672
+sourceUrl: https://www.nowcoder.com/discuss/891328632507932672
 tags: ["AI产品", "Agent", "RAG", "商业化", "数据分析", "产品经理"]
 summary: "某公司商业产品经理面经，原帖记录了面经汇总中的核心追问，重点涉及AI产品、Agent、RAG、商业化等内容，适合准备相关岗位面试时参考。"
 ---

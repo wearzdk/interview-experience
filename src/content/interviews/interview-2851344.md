@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-05'
 base: 山东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2851344
 tags: ["Java", "MySQL", "计算机网络", "算法"]
 summary: "应用软件移动端开发工程师笔试面经，考察Java、MySQL、计算机网络等核心知识点。包含真实面试题目与解析，适合准备移动端开发工程师面试的求职者参考备考。"
 ---

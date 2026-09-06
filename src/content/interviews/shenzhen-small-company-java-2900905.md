@@ -5,7 +5,6 @@ position: Java开发
 round: 一面
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900905
 tags: ["Java", "Spring", "Spring AI", "算法"]
 summary: "深圳某小厂Java开发一面，围绕Spring AI项目、Spring循环依赖、AI工具使用和重复数字查找算法展开，也考察了问题解决方式、Offer选择与职业规划。"
 ---

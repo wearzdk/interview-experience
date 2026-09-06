@@ -6,7 +6,6 @@ date: '2026-05'
 result: OC
 base: 广东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2854657
 tags: ["Java", "MySQL", "Spring", "操作系统", "Linux", "算法"]
 summary: "某互联网公司软件开发工程师面经，考察Java、MySQL、Spring等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

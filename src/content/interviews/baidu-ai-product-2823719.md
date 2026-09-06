@@ -6,7 +6,6 @@ round: "一面"
 date: '2026-07'
 result: "OC"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2823719
 tags: ["AI产品", "用户研究", "数据分析", "项目深挖", "产品经理"]
 summary: "百度AI产品经理面经，原帖记录了一面中的核心追问，重点涉及AI产品、用户研究、数据分析、项目深挖等内容，适合准备相关岗位面试时参考。"
 ---

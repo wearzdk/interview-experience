@@ -6,7 +6,6 @@ round: 笔试
 date: '2026-08'
 result: 部分通过
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2899629
 tags: ["Java", "算法", "滑动窗口", "字符串", "图搜索", "笔试"]
 summary: "用友Java全栈笔试面经，包含数组匹配、滑动窗口、字符串解码和防御塔可达性判断等四道编程题。"
 ---

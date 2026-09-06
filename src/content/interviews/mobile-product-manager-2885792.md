@@ -5,7 +5,6 @@ position: 产品经理
 round: 群面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2885792
 tags: ["产品经理","手机产品","用户分析","竞品分析","产品策划"]
 summary: "手机产品策划群面面经，围绕用户与市场分析、竞品研究、功能场景设计、技术可行性、成本预算、营销渠道和售后服务梳理完整产品方案。"
 ---

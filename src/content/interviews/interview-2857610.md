@@ -7,7 +7,6 @@ date: '2026-05'
 result: 凉经
 base: 北京
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2857610
 tags: ["Java", "C++", "算法"]
 summary: "华为软件开发工程师一面面经，考察Java、C++、算法等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

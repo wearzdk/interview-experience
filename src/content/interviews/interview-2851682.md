@@ -5,7 +5,6 @@ position: 后端开发工程师
 date: '2026-05'
 base: 湖南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2851682
 tags: ["Java", "Python", "Redis", "分布式", "LLM", "算法"]
 summary: "腾讯后端开发工程师面经，考察Java、Python、Redis等核心知识点。包含真实面试题目与解析，适合准备后端开发工程师面试的求职者参考备考。"
 ---

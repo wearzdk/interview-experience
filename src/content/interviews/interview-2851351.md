@@ -6,7 +6,6 @@ date: '2026-05'
 result: 凉经
 base: 江苏
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2851351
 tags: ["Java", "MySQL", "Spring", "操作系统"]
 summary: "某互联网公司软件开发实习生面经，考察Java、MySQL、Spring等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

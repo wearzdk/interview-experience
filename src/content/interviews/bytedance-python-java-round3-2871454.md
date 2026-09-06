@@ -6,7 +6,6 @@ round: 三面
 date: '2026-07'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871454
 tags: ["Python","Java","算法","编程语言对比"]
 summary: "字节跳动后端开发三面面经，考察Python与Java的语言特性、内存管理差异对比，以及O(n)复杂度的日志统计算法题，候选人算法题只写出O(n²)方案未能通过。"
 ---

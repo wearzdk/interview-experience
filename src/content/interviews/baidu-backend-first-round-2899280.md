@@ -5,7 +5,6 @@ position: 后端开发工程师
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2899280
 tags: ["Java", "Agent", "HashMap", "Spring", "MySQL", "算法"]
 summary: "百度后端开发一面，涵盖 Agent 架构与路由、Java 集合和并发安全、Spring 依赖注入、MySQL 事务与索引，以及最长无重复子串算法题。"
 ---

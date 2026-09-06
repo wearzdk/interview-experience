@@ -5,7 +5,6 @@ position: 产品经理
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2834603
 tags: ["产品经理","社交产品","用户留存","数据分析","AI社交"]
 summary: "米连产品经理面经，围绕陌生人社交产品分析、一个月留存提升、DAU上涨但留存下跌、商业化平衡、AI社交应用和跨部门推进展开。"
 ---

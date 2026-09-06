@@ -6,7 +6,6 @@ round: 一面
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2813387
 tags: ["腾讯云","Go","TCP","Raft","LSM Tree","LRU"]
 summary: "腾讯云产品与技术方向一面记录，以实习和项目深挖为主，涉及 Raft、LSM Tree、TCP 粘包、Go 并发编程和 LRU 手写题。"
 ---

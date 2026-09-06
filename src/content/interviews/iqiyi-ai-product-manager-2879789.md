@@ -4,7 +4,6 @@ company: 爱奇艺
 position: AI产品经理实习生
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2879789
 tags: ["AI产品经理", "Agent", "影视制作", "产品设计"]
 summary: "爱奇艺AI产品经理实习面经，重点考察影视制作全流程AI产品设计、Agent项目经验、产品前期规划以及对主流模型和AI工具的理解。"
 ---

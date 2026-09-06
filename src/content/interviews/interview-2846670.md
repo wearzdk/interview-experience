@@ -6,7 +6,6 @@ date: '2026-05'
 result: OC
 base: 广东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2846670
 tags: ["Java", "Redis", "微服务", "分布式", "设计模式", "Nginx"]
 summary: "某互联网公司运维工程师面经，考察Java、Redis、微服务等核心知识点。包含真实面试题目与解析，适合准备运维工程师面试的求职者参考备考。"
 ---

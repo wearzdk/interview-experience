@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 二面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/885897893901504512
+sourceUrl: https://www.nowcoder.com/discuss/885897893901504512
 tags: ["QPS优化","本地缓存","分布式锁","索引优化"]
 summary: "菜鸟直管Java开发二面，围绕系统支持2000+ QPS的架构优化路径、本地缓存的必要性、索引优化方案与分布式锁的引入场景展开。"
 ---

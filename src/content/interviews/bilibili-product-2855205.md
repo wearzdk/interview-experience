@@ -5,7 +5,6 @@ position: "产品经理"
 round: "一面+三面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2855205
 tags: ["AI产品", "模型微调", "商业化", "用户研究", "数据分析", "产品经理"]
 summary: "BILIBILI产品经理面经，原帖记录了一面+三面中的核心追问，重点涉及AI产品、模型微调、商业化、用户研究等内容，适合准备相关岗位面试时参考。"
 ---

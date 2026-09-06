@@ -4,7 +4,6 @@ company: 多家中小厂
 position: 产品经理
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2879323
 tags: ["产品经理", "应届生", "社招", "薪资评估"]
 summary: "26届应届生产品经理求职复盘，结合五家公司的面试结果和一年头部厂商实习经历，讨论跨行业求职时的薪资定位。"
 ---

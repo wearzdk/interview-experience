@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 广州
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2867480
 tags: ["Java","MySQL","Spring","Redis","计算机网络","系统设计"]
 summary: "广州万丈金数服务端开发一面面经，技术面覆盖面广。考察数据库范式与设计、MySQL索引B+树、IoC原理与反射机制、Redis缓存算法、计算机网络五层模型、RPC协议，以及AI工具使用经验。算法为简单二分查找手写。"
 ---

@@ -6,7 +6,6 @@ round: 一面
 date: '2026-05'
 base: 天津
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2851828
 tags: ["Java", "消息队列", "Spring", "计算机网络", "前端", "算法"]
 summary: "快手前端开发工程师一面面经，考察Java、消息队列、Spring等核心知识点。包含真实面试题目与解析，适合准备前端开发工程师面试的求职者参考备考。"
 ---

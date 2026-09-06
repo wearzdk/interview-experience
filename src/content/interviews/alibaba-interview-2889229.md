@@ -4,7 +4,6 @@ company: "阿里"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2889229
 tags: ["Java","Redis","MySQL","并发","数据库","面试经验"]
 summary: "阿里Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、并发等考点，整理了面试流程与高频问题。"
 ---

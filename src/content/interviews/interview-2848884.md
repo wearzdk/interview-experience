@@ -7,7 +7,6 @@ date: '2026-05'
 result: 凉经
 base: 海南
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2848884
 tags: ["Java", "Spring", "计算机网络", "操作系统", "算法", "设计模式"]
 summary: "袋鼠云软件开发工程师一面面经，考察Java、Spring、计算机网络等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

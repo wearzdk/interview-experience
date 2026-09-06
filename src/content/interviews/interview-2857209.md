@@ -5,7 +5,6 @@ position: 软件开发工程师
 date: '2026-05'
 base: 重庆
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2857209
 tags: ["Java"]
 summary: "某互联网公司软件开发工程师面经，考察Java等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

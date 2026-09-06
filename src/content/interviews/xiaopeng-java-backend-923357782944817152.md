@@ -5,7 +5,7 @@ position: Java后端开发工程师
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923357782944817152
+sourceUrl: https://www.nowcoder.com/discuss/923357782944817152
 tags: ["Java", "ThreadLocal", "Redis", "MySQL", "分布式锁"]
 summary: "小鹏汽车 Java 后端一面面经，围绕大模型应用实习展开项目深挖，并考察二叉树、ThreadLocal、Redis 分布式锁和 MySQL 事务与索引。"
 ---

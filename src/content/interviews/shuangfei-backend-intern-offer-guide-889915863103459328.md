@@ -5,7 +5,7 @@ position: 后端开发实习生
 date: '2026-05'
 result: 已拿offer
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/889915863103459328
+sourceUrl: https://www.nowcoder.com/discuss/889915863103459328
 tags: ["Java","校招","求职复盘","算法","项目准备"]
 summary: "双非本科无实习经历学生3个月系统准备拿下大厂后端开发实习Offer的复盘，分享真实面经、项目准备思路、算法刷题策略与面试沟通技巧，核心是用系统化准备弥补学校背景短板。"
 ---

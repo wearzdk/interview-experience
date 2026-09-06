@@ -6,7 +6,6 @@ round: 一面
 date: '2026-07'
 base: 武汉
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2870800
 tags: ["MySQL","并发编程","分布式","AI工具"]
 summary: "小药药武汉Java后端一面面经，重点考察MySQL索引原理、多表联查性能优化、分布式事务一致性、CPU飙高排查以及AI辅助编码工具的实际应用。"
 ---

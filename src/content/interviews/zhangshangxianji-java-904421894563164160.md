@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904421894563164160
+sourceUrl: https://www.nowcoder.com/discuss/904421894563164160
 tags: ["Java","AI编程","项目经验","实习规划","职业发展"]
 summary: "掌上先机 Java 开发一面面经，面试重点不是传统八股，而是实习稳定性、AI 工程实践、大型项目经历、学习强度和创业倾向。"
 ---

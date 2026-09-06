@@ -4,7 +4,6 @@ company: "华为"
 position: "Java后端开发工程师"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2878153
 tags: ["Java","Redis","MySQL","RabbitMQ","JVM","Spring"]
 summary: "华为Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、RabbitMQ等考点，整理了面试流程与高频问题。"
 ---

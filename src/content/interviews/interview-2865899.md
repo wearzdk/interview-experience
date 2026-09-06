@@ -5,7 +5,6 @@ position: 软件开发实习生
 date: '2026-06'
 base: 江苏
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2865899
 tags: ["Java", "MySQL", "Redis", "Spring", "计算机网络"]
 summary: "族游网络软件开发实习生面经，考察Java、MySQL、Redis等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

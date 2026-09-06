@@ -6,7 +6,6 @@ round: 一面
 base: 杭州
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871942
 tags: ["动态线程池","MySQL","Redis","Spring","消息队列"]
 summary: "杭州飞书字节跳动日常实习后端一面，40多分钟深度拷打动态线程池热更新、LinkBlockingQueue源码、MySQL索引与MVCC、Redis分布式锁，以及缓存一致性与延时消息等场景设计题。"
 ---

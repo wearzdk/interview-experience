@@ -6,7 +6,6 @@ round: 一面
 date: '2026-06'
 base: 福建
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869606
 tags: ["Java","Redis","MySQL","消息队列","并发编程"]
 summary: "某小厂Java后端一面面经，先确认是否接受转Go方向，随后拷打三级缓存架构、Redis数据结构选型、秒杀系统流程、消息队列下单一致性、MySQL索引失效原理及CAS机制。"
 ---

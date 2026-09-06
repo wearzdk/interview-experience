@@ -4,7 +4,6 @@ company: 字节跳动
 position: 后端开发实习生
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901753
 tags: ["Java", "RAG", "Redis", "消息队列", "系统设计"]
 summary: 字节后端实习一面，涵盖 RAG 召回、缓存一致性、Redis 持久化、消息幂等和循环依赖检测。
 ---

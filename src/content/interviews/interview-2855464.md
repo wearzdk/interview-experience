@@ -6,7 +6,6 @@ date: '2026-05'
 result: 凉经
 base: 江西
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2855464
 tags: ["Java", "MySQL", "Spring", "前端"]
 summary: "某互联网公司前端开发工程师面经，考察Java、MySQL、Spring等核心知识点。包含真实面试题目与解析，适合准备前端开发工程师面试的求职者参考备考。"
 ---

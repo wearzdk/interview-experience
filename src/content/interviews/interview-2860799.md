@@ -6,7 +6,6 @@ round: 二面
 date: '2026-06'
 base: 山东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2860799
 tags: ["Java", "LLM", "算法"]
 summary: "百度软件开发工程师二面面经，考察Java、LLM、算法等核心知识点。包含真实面试题目与解析，适合准备软件开发工程师面试的求职者参考备考。"
 ---

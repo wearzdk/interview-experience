@@ -6,7 +6,6 @@ round: 一面
 date: '2026-05'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2857025
 tags: ["Java","虚拟线程","Redis","秒杀系统","JVM"]
 summary: "腾讯音乐（TME）后台开发一面凉经，考察JDK21垃圾回收算法与虚拟线程原理、本地缓存与Redis数据同步机制、Redis主从故障转移、秒杀系统设计中的防重复请求与幂等实现，以及异步链路下的用户体验保障方案。"
 ---

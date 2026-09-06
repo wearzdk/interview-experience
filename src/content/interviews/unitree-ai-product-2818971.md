@@ -5,7 +5,6 @@ position: AI产品经理实习生
 round: 一面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2818971
 tags: ["AI产品","机器人","多模态","产品设计","开发者生态"]
 summary: "宇树科技AI产品经理实习一面面经，覆盖机器人智能避障、多模态陪伴、算力成本评估、紧急制动、AI指标体系、灰度验证和开发者生态。"
 ---

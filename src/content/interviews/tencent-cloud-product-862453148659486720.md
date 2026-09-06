@@ -5,7 +5,7 @@ position: "产品经理"
 round: "一面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/862453148659486720
+sourceUrl: https://www.nowcoder.com/discuss/862453148659486720
 tags: ["AI产品", "项目深挖", "操作系统", "实习", "产品经理"]
 summary: "腾讯云产品经理面经，原帖记录了一面中的核心追问，重点涉及AI产品、项目深挖、操作系统、实习等内容，适合准备相关岗位面试时参考。"
 ---

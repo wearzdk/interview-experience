@@ -6,7 +6,6 @@ round: 一面
 date: '2026-07'
 base: 福建
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2870743
 tags: ["集合框架","MySQL","计算机网络","操作系统","Docker"]
 summary: "新大陆Java后端一面面经，覆盖集合框架源码（HashMap扩容、红黑树）、MySQL日志与索引失效原理、TCP三次握手与HTTPS加密流程、Linux与Docker容器原理，以及AI辅助编程的思考。"
 ---

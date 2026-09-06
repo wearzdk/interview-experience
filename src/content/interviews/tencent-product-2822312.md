@@ -6,7 +6,6 @@ round: "群面"
 date: '2026-07'
 result: "凉经"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2822312
 tags: ["产品设计", "实习", "产品经理"]
 summary: "腾讯产品经理面经，原帖记录了群面中的核心追问，重点涉及产品设计、实习、产品经理等内容，适合准备相关岗位面试时参考。"
 ---

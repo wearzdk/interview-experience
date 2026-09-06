@@ -7,7 +7,6 @@ date: '2026-06'
 result: 凉经
 base: 福建
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2866985
 tags: ["Go","MySQL","Redis","RAG","JVM","GMP","后端开发"]
 summary: "TME酷狗暑期实习后台开发面经，一面深挖缓存设计、RAG链路及MySQL索引原理，二面全程考察Go内存管理、GMP模型及三色垃圾回收，最终二面被面试官否定而凉。"
 ---

@@ -5,7 +5,6 @@ position: AI产品经理
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2823915
 tags: ["AI产品","大模型","RAG","模型微调","需求分析"]
 summary: "阿里云AI产品经理一面面经，考察LLM、扩散模型和RAG基础，模型微调与提示词工程选型、幻觉治理、垂直场景产品设计及需求优先级。"
 ---

@@ -5,7 +5,7 @@ position: 后端开发
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/904415438405128192
+sourceUrl: https://www.nowcoder.com/discuss/904415438405128192
 tags: ["Redis","MySQL","JVM","分布式锁","限流"]
 summary: "滴滴花小猪打车后端开发一面面经，八股覆盖Redis数据结构与高性能原理、MySQL索引与事务隔离级别、JVM内存模型，项目深挖caffeine+Redis二级缓存设计、秒杀场景Lua预扣库存与滑动窗口限流的具体实现。"
 ---

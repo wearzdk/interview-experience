@@ -6,7 +6,7 @@ round: 一面
 date: '2026-04'
 result: Offer
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/874083732645281792
+sourceUrl: https://www.nowcoder.com/discuss/874083732645281792
 tags: ["小红书","Java","风控系统","线程池","Doris","MySQL"]
 summary: "小红书 AI Native 产品研发工程师一面记录，围绕风控系统、隐私处理、冷热数据存储、Doris 与 MySQL、线程池优化和并发任务设计展开。"
 ---

@@ -6,7 +6,7 @@ round: 一面
 date: '2026-05'
 result: 三面挂
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/894189820371554304
+sourceUrl: https://www.nowcoder.com/discuss/894189820371554304
 tags: ["Java","AI Agent","ReAct","JVM","状态机"]
 summary: "字节跳动抖音AI全栈开发一面面经，时长42分钟，深挖智能体ReAct模式执行流程、死循环成因与三层防护机制设计、原子状态机与三层记忆架构，以及记忆召回的隔离与准确性保障，Java基础考察类加载器等JVM知识点。"
 ---

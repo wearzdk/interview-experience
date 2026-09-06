@@ -5,7 +5,7 @@ position: 后端开发工程师（暑期实习）
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/891737407001849856
+sourceUrl: https://www.nowcoder.com/discuss/891737407001849856
 tags: ["Java","系统设计","推拉模型","线程状态"]
 summary: "Klook 27暑期后端一面面经，系统设计题围绕大V推拉模式Feed流设计展开（推模型瓶颈、通道构建、海量关注列表处理、历史动态过期查询），Java基础考察线程状态流转（wait/sleep等）。"
 ---

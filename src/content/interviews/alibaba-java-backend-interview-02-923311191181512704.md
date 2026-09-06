@@ -4,7 +4,7 @@ company: 阿里巴巴
 position: Java后端开发工程师
 date: '2025-12'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923311191181512704
+sourceUrl: https://www.nowcoder.com/discuss/923311191181512704
 tags: ["Java", "并发编程", "JVM", "MySQL", "Spring Boot", "秒杀系统"]
 summary: "阿里Java后端面试，覆盖 Java 语言与并发基础、JVM 垃圾回收、MySQL 索引、Spring Boot 原理，以及秒杀系统的流量承接、超卖和防刷设计。"
 ---

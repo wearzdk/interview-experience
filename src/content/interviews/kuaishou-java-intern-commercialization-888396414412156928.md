@@ -5,7 +5,7 @@ position: Java开发实习生（商业化）
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/888396414412156928
+sourceUrl: https://www.nowcoder.com/discuss/888396414412156928
 tags: ["Java","ConcurrentHashMap","MVCC","MySQL","Redis"]
 summary: "快手商业化方向Java实习一面面经（2026.5.22），AI侧考察MCP与Function Calling的区别及LLM幻觉成因，Java侧深挖ConcurrentHashMap锁升级原理、MySQL MVCC在读已提交与可重复读下的差异、B+树索引实现，以及Redis分布式锁与缓存穿透雪崩方案，附环形链表II算法题。"
 ---

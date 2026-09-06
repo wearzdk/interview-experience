@@ -5,7 +5,7 @@ position: 后端开发工程师（数据平台方向，暑期实习）
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/885514832349245440
+sourceUrl: https://www.nowcoder.com/discuss/885514832349245440
 tags: ["Java","项目深挖","数据平台","AI应用"]
 summary: "美团核心本地商业基础研发平台后端暑期实习一面面经，30分钟无手撕，围绕候选人自学Java的经历及两个练手项目展开深挖，重点关注项目中融入AI用法的具体实现与测试验证过程。"
 ---

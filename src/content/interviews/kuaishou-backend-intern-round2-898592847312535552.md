@@ -5,7 +5,7 @@ position: 后端开发实习生
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/898592847312535552
+sourceUrl: https://www.nowcoder.com/discuss/898592847312535552
 tags: ["Java","JVM","Redis","RAG","AI工程"]
 summary: "快手后端实习生二面面经（2026.6.16），AI工程方向重点考察大模型选型、Prompt缓存命中优化、上下文管理、RAG应用场景及RAGAS评测指标；Java侧考察JVM内存区域与静态变量存储位置；另有分布式发号器与停车场系统设计场景题。"
 ---

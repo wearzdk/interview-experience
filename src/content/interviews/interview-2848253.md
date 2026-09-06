@@ -6,7 +6,6 @@ round: 一面
 date: '2026-05'
 base: 湖北
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2848253
 tags: ["Java", "计算机网络", "LLM", "算法", "设计模式"]
 summary: "腾讯数据分析师一面面经，考察Java、计算机网络、LLM等核心知识点。包含真实面试题目与解析，适合准备数据分析师面试的求职者参考备考。"
 ---

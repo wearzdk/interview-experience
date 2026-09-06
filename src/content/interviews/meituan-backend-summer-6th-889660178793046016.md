@@ -5,7 +5,7 @@ position: 后端开发暑期实习生
 round: 一面
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/889660178793046016
+sourceUrl: https://www.nowcoder.com/discuss/889660178793046016
 tags: ["工作流引擎","DAG","优惠券","延迟队列","布隆过滤器"]
 summary: "美团基础研发平台后端暑期实习一面，围绕工作流平台的DAG检测、优惠券防超发与布隆过滤器优化，以及分库分表分片键选择等场景设计题展开。"
 ---

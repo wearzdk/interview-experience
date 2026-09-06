@@ -5,7 +5,6 @@ position: 内容安全产品经理
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2805104
 tags: ["美团","产品经理","内容安全","实习面试"]
 summary: "美团内容安全产品岗位约 25 分钟面试记录，主要包括自我介绍、简历深挖、岗位理解、到岗周期和实习期间安排。"
 ---

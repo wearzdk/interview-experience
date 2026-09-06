@@ -5,7 +5,6 @@ position: Java开发工程师
 date: '2026-06'
 base: 四川
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869271
 tags: ["MyBatis","MySQL","Redis","微服务","JVM","Spring Boot"]
 summary: "成都智算数联科技Java开发岗笔试+面试面经，笔试覆盖MyBatis批量插入与自增ID获取、MySQL/Oracle分页、Linux命令；面试拷打JVM、MySQL优化、HashMap底层原理及JDK17优化、Spring Boot 3选用JDK17的原因。"
 ---

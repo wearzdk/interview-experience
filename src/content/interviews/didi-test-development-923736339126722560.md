@@ -4,7 +4,7 @@ company: "滴滴"
 position: "测试开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923736339126722560
+sourceUrl: https://www.nowcoder.com/discuss/923736339126722560
 tags: ["算法", "排序", "双指针"]
 summary: "滴滴测试开发工程师笔试题：将两组收益一一配对，使每对收益和对 q 取模后的总残差最小。可通过排序和双指针在线性扫描中求解。"
 ---

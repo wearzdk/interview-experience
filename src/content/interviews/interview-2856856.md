@@ -6,7 +6,6 @@ round: 一面
 date: '2026-05'
 base: 广东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2856856
 tags: ["Java", "MySQL", "Spring", "计算机网络", "设计模式", "ElasticSearch"]
 summary: "某互联网公司后端开发工程师一面面经，考察Java、MySQL、Spring等核心知识点。包含真实面试题目与解析，适合准备后端开发工程师面试的求职者参考备考。"
 ---

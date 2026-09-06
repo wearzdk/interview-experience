@@ -6,7 +6,7 @@ round: 机考+资格面+两轮技术面+两次主管面
 date: '2026-05'
 result: 已上岸
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/886316373901586432
+sourceUrl: https://www.nowcoder.com/discuss/886316373901586432
 tags: ["Python","华为OD","机考","转行"]
 summary: "211本非科班零计算机基础转行者的华为OD Python岗上岸复盘，机考刷题量为力扣50+CSDN50题，考场上简单题反而失误、难题却做出来，最终总分240通过，全流程含机考、资格面、两轮技术面与两次主管面。"
 ---

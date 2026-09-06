@@ -5,7 +5,6 @@ position: "策略产品经理"
 date: '2026-07'
 result: "凉经"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2846095
 tags: ["AI产品", "产品设计", "用户研究", "项目深挖", "产品经理"]
 summary: "网易云音乐策略产品经理面经，原帖记录了面试中的核心追问，重点涉及AI产品、产品设计、用户研究、项目深挖等内容，适合准备相关岗位面试时参考。"
 ---

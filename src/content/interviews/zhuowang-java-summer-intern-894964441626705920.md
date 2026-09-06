@@ -5,7 +5,7 @@ position: Java后端开发（暑期实习）
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/894964441626705920
+sourceUrl: https://www.nowcoder.com/discuss/894964441626705920
 tags: ["Java","Spring","JVM","集合","事务"]
 summary: "卓望27届暑期Java后端一面面经，考察Spring自动装配原理、常用注解、事务原子性实现、设计模式、线程创建方式、JVM堆内新生代/老年代结构，以及自定义对象在Set中的判等逻辑，面试体验良好、不会的问题面试官会补充讲解。"
 ---

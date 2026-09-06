@@ -4,7 +4,6 @@ company: 腾讯
 position: FDE工程师
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2880078
 tags: ["FDE", "AI Agent", "AI产品", "行业分析", "Skill"]
 summary: "腾讯FDE岗位求职考察要点，涵盖AI技术演进、主流落地产品、行业需求判断、Skill与专家团实操，以及面向客户的沟通协作能力。"
 ---

@@ -5,7 +5,6 @@ position: 软件产品经理
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2889204
 tags: ["产品经理", "软件产品", "硬件产品", "商业模式", "SaaS"]
 summary: "正浩创新软件产品经理一面面经，围绕软硬件产品项目展开，重点讨论设备盈利模式、用户价值以及企业与用户收益。"
 ---

@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 一面+笔试
 date: '2026-05'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/888927373163261952
+sourceUrl: https://www.nowcoder.com/discuss/888927373163261952
 tags: ["Java","RAG","缓存架构","消息队列","AI Coding"]
 summary: "乌鸫科技Java社招一面面经，60多分钟以三个项目深挖为主：银行项目的海量数据Excel导入与额度扣减、RAG学习项目的三层缓存架构与消息队列异步解耦、电商优惠券项目的数据一致性方案，另涉及AI Coding在工作中的应用占比讨论。"
 ---

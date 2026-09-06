@@ -6,7 +6,6 @@ round: 三面+HR
 date: '2026-06'
 base: 广东
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868656
 tags: ["Java","HashMap","并发","JVM","MySQL","RocketMQ","推荐系统"]
 summary: "快手26届Java后端春招三面+HR面经，技术考点覆盖并发工具（CountDownLatch/Semaphore/Future）、ConcurrentHashMap原理、JVM垃圾回收与FullGC排查、MySQL聚簇索引，三面侧重系统设计：实验平台分流、短链接生成、推荐系统多路召回设计。"
 ---

@@ -5,7 +5,7 @@ position: 后端开发实习生
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/898590325818650624
+sourceUrl: https://www.nowcoder.com/discuss/898590325818650624
 tags: ["向量检索","JVM","SSE","WebSocket","算法"]
 summary: "字节跳动后端开发实习生一面，深挖RAG知识库构建、向量与混合检索精度提升，以及Redis单线程模型、JVM垃圾回收判定与SSE/WebSocket对比等基础知识，最后手撕最长上升子序列。"
 ---

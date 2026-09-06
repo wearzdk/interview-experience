@@ -5,7 +5,6 @@ position: Java后端开发
 date: '2026-07'
 base: 安徽合肥
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2871059
 tags: ["Java","AI Agent","RAG","项目经验","自学"]
 summary: "合肥某小厂Java后端面经，面试官围绕自学背景和AI Agent CLI项目深挖ReAct/Plan实现原理、AI辅助编程占比，并考察RAG基本流程等前沿知识点。"
 ---

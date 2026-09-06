@@ -4,7 +4,7 @@ company: 阿里巴巴
 position: 后端开发工程师
 date: '2025-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923312088959700992
+sourceUrl: https://www.nowcoder.com/discuss/923312088959700992
 tags: ["Java", "JVM", "操作系统", "MySQL", "Redis", "回溯算法"]
 summary: "阿里后端开发面试，覆盖浏览器请求链路、操作系统内存、JVM 垃圾回收与调优、线程池、MySQL 隔离级别、Redis 以及组合总和算法题。"
 ---

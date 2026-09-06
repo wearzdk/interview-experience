@@ -5,7 +5,7 @@ position: 引擎架构Java开发工程师
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/897043272680423424
+sourceUrl: https://www.nowcoder.com/discuss/897043272680423424
 tags: ["Redis","线程池","AOP","大Key","可观测性"]
 summary: "小红书引擎架构Java开发一面，围绕短期/长期记忆设计、Redis选型与持久化、大Key问题、线程池参数与调用链可观测性等场景题展开，面试官全程耐心引导。"
 ---

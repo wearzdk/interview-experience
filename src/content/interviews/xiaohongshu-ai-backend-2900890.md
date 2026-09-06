@@ -6,7 +6,6 @@ round: 三轮技术面+HR面
 date: '2026-07'
 result: OC
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900890
 tags: ["AI Agent", "内容审核", "MCP", "系统设计", "故障排查"]
 summary: "小红书AI后端社招面经，技术面重点考察内容审核Agent、生态治理系统、MCP与Skill、AI Coding评审及线上故障处置，另包含HR薪资沟通复盘。"
 ---

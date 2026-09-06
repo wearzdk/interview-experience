@@ -6,7 +6,6 @@ round: 一面
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2825563
 tags: ["产品经理", "用户洞察", "增长指标", "聚合平台", "业务分析"]
 summary: "滴滴国际产品一面包含实习项目深挖和乘客端业务题，重点考察问题洞察、北极星指标、极端情况处理及聚合平台竞争力。"
 ---

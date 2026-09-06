@@ -7,7 +7,6 @@ date: '2026-07'
 result: "OC"
 base: "南京"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2848915
 tags: ["AI产品", "Agent", "项目深挖", "实习", "产品经理"]
 summary: "阿里产品经理面经，原帖记录了一面+二面+业务面中的核心追问，重点涉及AI产品、Agent、项目深挖、实习等内容，适合准备相关岗位面试时参考。"
 ---

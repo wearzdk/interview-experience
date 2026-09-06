@@ -5,7 +5,6 @@ position: "后端开发"
 round: "一面"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2900158
 tags: ["Java", "JVM", "Redis", "测试用例"]
 summary: "去哪儿 AI 面试记录，涉及 Java 垃圾回收、Redis 数据类型与场景，以及数据库字段变更的测试设计。"
 ---

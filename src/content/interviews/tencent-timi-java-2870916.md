@@ -6,7 +6,6 @@ round: 一面
 date: '2026-07'
 base: 江苏
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2870916
 tags: ["Java","并发","HashMap","ConcurrentHashMap","Spring事务","算法"]
 summary: "腾讯天美Java开发一面面经，涉及字符串转数值手撕题、HashMap与ConcurrentHashMap原理对比、并发计数场景设计，以及Spring事务注意事项与传播机制、AOP代理原理等考点。"
 ---

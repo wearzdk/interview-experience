@@ -5,7 +5,6 @@ position: 产品经理
 round: 二面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2877007
 tags: ["产品经理","项目复盘","用户留存","跨团队协作","职业规划"]
 summary: "腾讯产品经理二面面经，围绕项目能力、跨团队协作、工具类小程序留存、竞品分析、失败复盘和职业规划展开追问。"
 ---

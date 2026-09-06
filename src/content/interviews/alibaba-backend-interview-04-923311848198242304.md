@@ -4,7 +4,7 @@ company: 阿里巴巴
 position: 后端开发工程师
 date: '2025-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/923311848198242304
+sourceUrl: https://www.nowcoder.com/discuss/923311848198242304
 tags: ["Java", "异常处理", "HashMap", "ConcurrentHashMap", "Kafka", "分布式"]
 summary: "阿里后端开发面试，集中考察 Java 异常体系、集合容器的线程安全、分布式框架，以及 Kafka 消息处理和重复消费治理。"
 ---

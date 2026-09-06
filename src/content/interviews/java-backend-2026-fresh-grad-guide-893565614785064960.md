@@ -4,7 +4,7 @@ company: 15家大厂（校招综合复习）
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/893565614785064960
+sourceUrl: https://www.nowcoder.com/discuss/893565614785064960
 tags: ["Java","校招","笔试","面试","双非"]
 summary: "双非非科班Java后端26届校招复习笔记，核心观点是笔试筛掉刷题不足的人、面试筛掉只会背答案的人，校招比拼的不是学校出身而是系统化准备的差距，需要覆盖15家大厂真实考题与200+高频考点。"
 ---

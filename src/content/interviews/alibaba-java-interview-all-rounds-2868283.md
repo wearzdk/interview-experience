@@ -6,7 +6,6 @@ round: 全程
 date: '2026-06'
 base: 浙江
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2868283
 tags: ["Java","JVM","并发编程","MySQL","Redis","系统设计","秒杀","分布式"]
 summary: "阿里巴巴Java后端四面全程复盘，一面深挖HashMap/JVM/并发+项目分库分表，二面考系统设计（秒杀/缓存穿透）+LRU手撕，交叉面聊DDD/微服务/K8s架构，HR面问离职/薪资/职业规划。"
 ---

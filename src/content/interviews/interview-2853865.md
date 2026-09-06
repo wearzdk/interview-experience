@@ -7,7 +7,6 @@ date: '2026-05'
 result: OC
 base: 湖北
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2853865
 tags: ["Java", "Redis", "Spring", "计算机网络", "LLM", "前端"]
 summary: "阿里巴巴前端开发工程师一面面经，考察Java、Redis、Spring等核心知识点。包含真实面试题目与解析，适合准备前端开发工程师面试的求职者参考备考。"
 ---

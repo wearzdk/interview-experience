@@ -6,7 +6,6 @@ round: 一面
 date: '2026-08'
 result: 方向不匹配
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2899116
 tags: ["JVM", "操作系统", "Agent", "MCP", "数据质量", "可观测性"]
 summary: "拼多多服务端开发一面，重点追问代码运行时行为、JVM 与内核态切换、Agent 项目架构、MCP 粒度、埋点数据质量和端侧可观测性。"
 ---

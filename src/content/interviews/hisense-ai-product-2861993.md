@@ -5,7 +5,6 @@ position: AI产品经理
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2861993
 tags: ["AI产品","Agent","大模型","海外营销","数据治理"]
 summary: "海信集团27届校招AI产品经理一面面经，覆盖Agent与工作流、模型幻觉、主流大模型选型、海外营销工具设计和营销数据治理。"
 ---

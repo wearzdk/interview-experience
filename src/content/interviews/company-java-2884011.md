@@ -4,7 +4,6 @@ company: "腾讯"
 position: "全栈开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2884011
 tags: ["Java","Redis","MySQL","RabbitMQ","Spring","并发"]
 summary: "腾讯全栈开发工程师面试记录，覆盖Java、Redis、MySQL、RabbitMQ等考点，整理了面试流程与高频问题。"
 ---

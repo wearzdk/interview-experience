@@ -5,7 +5,6 @@ position: "商业产品经理"
 round: "一面"
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2823779
 tags: ["AI产品", "商业化", "用户研究", "数据分析", "项目深挖", "实习"]
 summary: "阿里商业产品经理面经，原帖记录了一面中的核心追问，重点涉及AI产品、商业化、用户研究、数据分析等内容，适合准备相关岗位面试时参考。"
 ---

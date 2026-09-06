@@ -5,7 +5,6 @@ position: 产品岗位
 round: 一面及HR面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2888479
 tags: ["产品经理", "项目经历", "材料选择", "可靠性", "HR面"]
 summary: "格力创享周产品岗位面经，专业面围绕项目、材料选择和产品可靠性展开，HR面考察困难处理、沟通协作、个人成长和求职信息。"
 ---

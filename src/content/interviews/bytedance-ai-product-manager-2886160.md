@@ -5,7 +5,6 @@ position: AI产品经理
 round: 二面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2886160
 tags: ["AI产品", "Agent", "Prompt工程", "数据分析", "产品经理"]
 summary: "字节跳动AI产品经理二面面经，围绕AI Agent产品认知、指标体系、留存分析、Prompt与工作流优化，以及扣子App核心链路展开。适合准备AI产品经理和智能体产品岗位的求职者参考。"
 ---

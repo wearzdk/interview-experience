@@ -4,7 +4,6 @@ company: "字节"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2879132
 tags: ["Redis","MySQL","JVM","算法","Docker","面试经验"]
 summary: "字节Java后端开发工程师面试记录，覆盖Redis、MySQL、JVM、算法等考点，整理了面试流程与高频问题。"
 ---

@@ -6,7 +6,6 @@ date: '2026-06'
 result: OC
 base: 江苏
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2859733
 tags: ["Java", "MySQL", "Spring", "计算机网络", "操作系统", "Linux"]
 summary: "腾讯软件开发实习生面经，考察Java、MySQL、Spring等核心知识点。包含真实面试题目与解析，适合准备软件开发实习生面试的求职者参考备考。"
 ---

@@ -6,7 +6,6 @@ round: 二面
 date: '2026-06'
 result: OC
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869540
 tags: ["MySQL","事务隔离级别","Git","索引","异常处理"]
 summary: "万丈金数服务端开发二面面经（已OC），围绕项目业务链路、Git版本管理原理、MySQL事务隔离级别与嵌套事务、char/varchar/text选型及B+树索引结构展开深入提问。"
 ---

@@ -5,7 +5,6 @@ position: 产品经理
 round: AI 面
 date: '2026-03'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2819163
 tags: ["美团","产品经理","大模型","AI Coding","API"]
 summary: "美团产品经理 AI 面记录，集中考察大模型与 AI 编程工具的真实使用、付费情况、API 调用、论文阅读和独立 AI 产品经历。"
 ---

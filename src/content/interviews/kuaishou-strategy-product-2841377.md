@@ -6,7 +6,6 @@ round: "一面"
 date: '2026-07'
 base: "北京"
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2841377
 tags: ["数据分析", "实习", "产品经理"]
 summary: "快手策略产品经理面经，原帖记录了一面中的核心追问，重点涉及数据分析、实习、产品经理等内容，适合准备相关岗位面试时参考。"
 ---

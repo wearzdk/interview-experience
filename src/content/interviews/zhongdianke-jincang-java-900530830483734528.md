@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/900530830483734528
+sourceUrl: https://www.nowcoder.com/discuss/900530830483734528
 tags: ["Java","MyBatis","SQL注入","框架"]
 summary: "中电科金仓Java校招一面面经，面试问题偏重框架层面，重点考察MyBatis使用与SQL注入相关问题，与其他公司常问的基础八股风格不同。"
 ---

@@ -4,7 +4,6 @@ company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2893693
 tags: ["Java","MySQL","JVM","并发","算法","RAG"]
 summary: "某公司Java后端开发工程师面试记录，覆盖Java、MySQL、JVM、并发等考点，整理了面试流程与高频问题。"
 ---

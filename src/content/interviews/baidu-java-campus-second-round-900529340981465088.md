@@ -5,7 +5,7 @@ position: Java开发工程师
 round: 二面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/900529340981465088
+sourceUrl: https://www.nowcoder.com/discuss/900529340981465088
 tags: ["职场面经","算法手撕","中台"]
 summary: "百度T联合部门校招正式批Java开发二面面经，面试官态度友好、持续给予正反馈，主要考察基础知识扎实度与代码手撕能力，反问环节透露部门业务方向与中台系统相关。"
 ---

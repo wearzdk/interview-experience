@@ -7,7 +7,6 @@ date: '2026-06'
 result: 已过
 base: 苏州
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2869796
 tags: ["Java","日语","算法","面向对象"]
 summary: "苏州凌志软件对日开发岗面试面经，中日双语自我介绍加日常日语问答，技术侧考察面向对象三大特性、贪心算法、排序算法及AI辅助编程的理解与局限性，整体难度不大，全日制本科加日语N2水平即可通过。"
 ---

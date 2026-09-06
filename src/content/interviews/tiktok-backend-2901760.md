@@ -4,7 +4,6 @@ company: TikTok
 position: 后端开发工程师
 date: '2026-09'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2901760
 tags: ["Java", "Agent", "Redis", "JVM", "数据库"]
 summary: TikTok 后端开发一面，问题集中在表达式解析、Agent 中断恢复、工具权限、Redis、JVM 和并发基础。
 ---

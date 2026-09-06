@@ -7,7 +7,6 @@ date: '2026-06'
 result: 凉经
 base: 江苏
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2863475
 tags: ["Java", "MySQL", "LLM", "算法"]
 summary: "某互联网公司后端开发工程师一面面经，考察Java、MySQL、LLM等核心知识点。包含真实面试题目与解析，适合准备后端开发工程师面试的求职者参考备考。"
 ---

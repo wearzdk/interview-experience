@@ -4,7 +4,7 @@ company: 多家大厂
 position: Java后端开发工程师
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/894876456738648064
+sourceUrl: https://www.nowcoder.com/discuss/894876456738648064
 tags: ["Java","集合","并发","JVM","Spring","MySQL"]
 summary: "Java暑期实习高频八股文整理，按语法/集合/并发/JVM/Spring/MySQL模块分类共30题，附三轮复习法：第一轮按模块过题标红不会的，第二轮专攻标红题并口述作答，第三轮考前每天15分钟随机抽10题快答。"
 ---

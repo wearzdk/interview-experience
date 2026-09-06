@@ -5,7 +5,6 @@ position: C端产品经理
 round: 一面
 date: '2026-08'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2892953
 tags: ["产品经理","AI产品","用户体验","AB测试","场景题"]
 summary: "蔚来APP产品经理一面面经，围绕项目经历、大模型效果评估、Bad Case分析、交互优化与A/B测试展开，并考察自驾游功能设计、核心需求判断和路线规划能力。"
 ---

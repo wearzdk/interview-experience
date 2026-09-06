@@ -5,7 +5,6 @@ position: AI产品经理实习生
 round: 一面
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2848144
 tags: ["AI产品", "模型评测", "微调", "RAG", "多智能体"]
 summary: "字节AI产品实习一面重点深挖项目评测体系、Bad Case归因、训练数据质量与模型微调，并追问RAG、多智能体和OpenClaw等方向。"
 ---

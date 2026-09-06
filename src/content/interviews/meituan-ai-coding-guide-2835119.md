@@ -5,7 +5,6 @@ position: 产品经理
 round: AI Coding
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2835119
 tags: ["美团","产品经理","AI Coding","产品设计","MVP"]
 summary: "美团产品经理 AI Coding 考察说明，涵盖适用岗位、出题形式、提交机制、面试讨论重点、评分维度和 Demo 搭建顺序。"
 ---

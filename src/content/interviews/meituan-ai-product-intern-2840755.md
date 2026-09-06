@@ -4,7 +4,6 @@ company: 美团
 position: AI 产品经理
 date: '2026-04'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2840755
 tags: ["美团","AI产品经理","RAG","模型评测","Transformer"]
 summary: "美团 AI 产品实习面试记录，覆盖模型训练协作、Bad Case 评测、RAG 优化、BERT 与 Transformer、过拟合及大小模型选型。"
 ---

@@ -6,7 +6,7 @@ round: 一面/二面
 date: '2026-07'
 base: 武汉
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/901984251132792832
+sourceUrl: https://www.nowcoder.com/discuss/901984251132792832
 tags: ["Java","MyBatis","Redis","MySQL","Spring"]
 summary: "武汉小药药Java实习一面、二面面经，一面考察Java8特性、线程池核心参数、MySQL最左匹配原则、Redis分布式锁、MyBatis动态标签及底层实现、Spring事务失效场景；二面聚焦项目介绍与设计模式。"
 ---

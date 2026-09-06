@@ -5,7 +5,6 @@ position: 后端开发工程师
 round: 二面
 date: '2026-07'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2899469
 tags: ["Java", "C++", "并发编程", "集合", "交集算法", "系统设计"]
 summary: "Shopee后端二面面经，包含项目深挖、Java与C++差异、多个数组交集和公平抽奖系统设计。"
 ---

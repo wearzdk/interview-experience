@@ -5,7 +5,7 @@ position: Java日常实习生
 round: 一面
 date: '2026-06'
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/900527481256505344
+sourceUrl: https://www.nowcoder.com/discuss/900527481256505344
 tags: ["Java","Spring","FactoryBean","八股"]
 summary: "好未来Java日常实习一面面经，因候选人应聘方向（日常实习）与面试官期待（转正实习）不一致导致面试潦草收场，技术侧印象最深的问题是FactoryBean与BeanFactory的区别。"
 ---

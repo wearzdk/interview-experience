@@ -6,7 +6,6 @@ round: 一面
 date: '2026-03'
 result: 凉经
 source: 牛客网
-sourceUrl: https://www.nowcoder.com/feed/main/detail/2803926
 tags: ["AI产品","Agent","Vibe Coding","AI编程","Skill"]
 summary: "美团小美Agent产品实习一面凉经，重点深挖Vibe Coding项目、模型选型、MVP验证、不同AI编程工具体验和Skill设计思路。"
 ---
