@@ -12,11 +12,8 @@ summary: "高德地图Java/Golang日常实习一面面经，考察ConcurrentHash
 
 ### 《面试题目》
 
-1. 介绍一下 ConcurrentHashMap 是怎么实现的
-
----
+1. 介绍一下concurrentHashMap是怎么实现的
 
 ### 《参考解析》
 
-1. **ConcurrentHashMap 演进**：JDK1.7 采用分段锁（Segment 继承自 ReentrantLock），将数据分成多个 Segment，每个 Segment 独立加锁，锁粒度是 Segment 级别；JDK1.8 放弃分段锁，改为 CAS + synchronized 实现，锁粒度细化到每个链表/红黑树的头节点，无冲突时用 CAS 直接插入，有冲突时才对头节点加 synchronized 锁，并发度和性能相比 JDK1.7 有明显提升。
-2. **面试复盘启示**：只答出旧版本（JDK1.7）实现容易被认为基础不够新，建议系统对比新旧版本差异（数据结构、锁粒度、扩容机制）作为标准答题模板，一次性讲清楚演进逻辑更容易拿高分。
+1. 这类问题建议结合自己的项目经历和岗位要求准备具体案例，突出思考过程而非死记结论，面试官更看重解决问题的逻辑。
