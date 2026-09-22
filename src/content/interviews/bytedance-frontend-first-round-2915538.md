@@ -6,7 +6,7 @@ round: 一面
 date: 2026-09
 source: 牛客网
 tags: ["前端","WebSocket","TCP","Electron","React","SSE","AI编程"]
-summary: "字节跳动前端一面面经，共19问，偏网络与运行时底层。覆盖WebSocket建连与丢包行为、TCP如何感知丢包、ping的完整过程、Electron多进程架构与主进程卡顿影响，以及SSE逐token setState的性能问题、rAF优化与AI编码规范的约束手段。"
+summary: "字节前端一面面经，共19问，偏网络与运行时底层。覆盖WebSocket建连与丢包行为、TCP如何感知丢包、ping的完整过程、Electron多进程架构与主进程卡顿，以及SSE逐token setState的性能问题与AI编码规范的约束手段。"
 ---
 
 ### 《面试题目》

@@ -6,7 +6,7 @@ round: 一面
 date: 2026-09
 source: 牛客网
 tags: ["前端","浏览器缓存","虚拟列表","Web安全","Promise","WebSocket"]
-summary: "天翼云Web前端一面面经，面试时间9月22日、时长约半小时。题目覆盖Go slice与PE文件头、HTML与DOM的关系、Promise、WebSocket与HTTP、前端常见攻击与防御、虚拟列表、浏览器缓存，以及图片URL变化但内容不变时如何复用缓存的设计题。"
+summary: "天翼云Web前端一面面经，9月22日面试、时长约半小时。题目覆盖Go slice与PE文件头、HTML与DOM关系、Promise、WebSocket与HTTP、前端常见攻击与防御、虚拟列表、浏览器缓存，以及图片URL变化但内容不变时如何复用缓存。"
 ---
 
 ### 《面试题目》

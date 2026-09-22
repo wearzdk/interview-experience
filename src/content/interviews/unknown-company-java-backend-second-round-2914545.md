@@ -11,8 +11,7 @@ summary: "某公司后端二面面经，面试以基本闲聊为主，算法题�
 
 ### 《面试题目》
 
-1. 基本闲聊（原帖未记录具体内容）。
-2. 手撕算法题：实现 `public static Integer parseInteger(String integerString)`，把字符串转成整数；`null` 或空串返回 `null`，出现非数字字符返回 `null`，溢出也返回 `null`。原帖给出的参考代码如下：
+1. 手撕算法题：实现 `public static Integer parseInteger(String integerString)`，把字符串转成整数；`null` 或空串返回 `null`，出现非数字字符返回 `null`，溢出也返回 `null`。原帖给出的参考代码如下：
 
 ```java
 public static Integer parseInteger(String integerString) {
@@ -33,6 +32,8 @@ public static Integer parseInteger(String integerString) {
     return sum;
 }
 ```
+
+2. 基本闲聊（原帖未记录具体内容）。
 
 ### 《参考解析》
 

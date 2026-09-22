@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["Java","JVM","Redis","Spring","MySQL","微服务"]
-summary: "来未来科技（熙牛医疗）Java后端实习一面面经，围绕实习项目追问技术细节：OOM排查、生产环境查看JVM变量与入参、乐观锁、Redis分布式锁重入与续期、线程池调优、Spring循环依赖、AOP失效场景、慢SQL处理及Dubbo与消息中间件。"
+summary: "来未来科技（熙牛医疗）Java后端实习一面面经。围绕实习项目追问：OOM排查、生产环境查看JVM变量与入参、乐观锁、Redis分布式锁重入与续期、线程池调优、Spring循环依赖、AOP失效场景、慢SQL及微服务交互。"
 ---
 
 ### 《面试题目》

@@ -5,16 +5,15 @@ position: 前端开发
 date: '2026-09'
 source: 牛客网
 tags: ["前端","React","事件循环","HTTP缓存","MCP"]
-summary: "快手商业化前端面经，全程约 36 分钟，题目由作者面后回忆。React 部分问 hooks、useRef 与 useState 区别并给出 setState 输出题；浏览器部分问 HTTP 状态码、304 协商缓存、浏览器与 Node 事件循环；AI 部分问 MCP/tools/skill 三者关系、function calling 与 tools 的关系、skill 编排出错如何告知 AI 与排查、是否需要设置循环轮次；最后手撕树形数组求最大深度。"
+summary: "快手商业化前端面经，36 分钟。React 部分问 hooks、useRef 与 useState 区别及 setState 输出题；浏览器部分问状态码、协商缓存与事件循环；AI 问 MCP 与 tools 的关系，最后手撕求树深度。"
 ---
 
 ### 《面试题目》
 
-1. 自我介绍。
-2. React 有哪些 hooks？
-3. 解释一下 useRef。（答：基础变量定义以及 DOM 绑定）
-4. 那它跟 useState 有什么区别？（答：useState 会生成一个快照）
-5. 看题说输出：下面代码点击后 `console.log(count)` 打印什么、div 里的 count 显示什么？
+1. React 有哪些 hooks？
+2. 解释一下 useRef。（答：基础变量定义以及 DOM 绑定）
+3. 那它跟 useState 有什么区别？（答：useState 会生成一个快照）
+4. 看题说输出：下面代码点击后 `console.log(count)` 打印什么、div 里的 count 显示什么？
 
 ```jsx
 const [count, setCount] = useState(0);
@@ -26,16 +25,17 @@ function dianji() {
 return <div onClick={dianji}>{count}</div>;
 ```
 
-6. 你知道有哪些 HTTP 状态码？
-7. 你刚才说的 304 Not Modified 是协商缓存，能展开说说吗？
-8. 你能说一下浏览器的事件循环吗？
-9. 那 Node 的事件循环能说一下吗？
-10. 你了解 MCP、tools 以及 skill 三者之间的关系吗？
-11. 那 function calling 跟 tools 是什么关系？
-12. 场景题：如果你个人编排的 skill 每一环节出了问题，该怎么告知 AI 以及排查？
-13. 需不需要给 AI 设置一些循环轮次？
-14. 讲一下个人的项目。
-15. 给你一个树形数组，求最大深度。
+5. 你知道有哪些 HTTP 状态码？
+6. 你刚才说的 304 Not Modified 是协商缓存，能展开说说吗？
+7. 你能说一下浏览器的事件循环吗？
+8. 那 Node 的事件循环能说一下吗？
+9. 你了解 MCP、tools 以及 skill 三者之间的关系吗？
+10. 那 function calling 跟 tools 是什么关系？
+11. 场景题：如果你个人编排的 skill 每一环节出了问题，该怎么告知 AI 以及排查？
+12. 需不需要给 AI 设置一些循环轮次？
+13. 讲一下个人的项目。
+14. 给你一个树形数组，求最大深度。
+15. 自我介绍。
 16. 反问：团队负责的业务、对实习生的期望。
 
 ### 《参考解析》

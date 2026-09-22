@@ -7,7 +7,7 @@ date: 2026-09
 result: 已挂
 source: 牛客网
 tags: ["前端","闭包","事件循环","React Hooks","Promise","笔试题"]
-summary: "元戎启行秋招前端一面面经，面试时间2026-09-21，聊得不错但最终挂。基础题覆盖闭包、浏览器事件循环、URL到页面渲染全过程与HTTP状态码、React Hooks为什么不能写在条件语句里及底层数据结构；笔试含事件循环输出题与禁用async/await的Promise串行实现。"
+summary: "元戎启行秋招前端一面面经，9月21日面试，聊得不错但最终挂。覆盖闭包、事件循环、URL到渲染全过程与HTTP状态码、React Hooks为什么不能写在条件语句里及底层数据结构；笔试含事件循环输出题与禁用async/await的Promise串行实现。"
 ---
 
 ### 《面试题目》

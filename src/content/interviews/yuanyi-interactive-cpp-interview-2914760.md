@@ -5,7 +5,7 @@ position: "C++ 开发"
 date: '2026-09'
 source: 牛客网
 tags: ["C++","智能指针","内存管理","多线程","设计模式","哈希表","Reactor"]
-summary: "元绎互动 C++ 岗位面经 11 问，全程围绕语言与系统基础：shared_ptr 的线程安全边界、new/delete 与 malloc/free 的区别、进程内存布局与函数栈帧、move 语义、模板实例化时机、SOLID 与设计模式、多线程同步与原子操作、读写锁、哈希冲突解决与 Reactor 模式。"
+summary: "元绎互动 C++ 面经 11 问，全是语言与系统基础：shared_ptr 的线程安全边界、new/delete 与 malloc/free 的区别、进程内存布局与栈帧、move 语义、模板实例化时机、多线程同步、哈希表与 Reactor。"
 ---
 
 ### 《面试题目》

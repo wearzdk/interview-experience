@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["Android","Jetpack Compose","客户端开发","机型兼容","职业规划","HR面"]
-summary: "武汉精臣智慧标识科技软件开发（客户端）一面面经：前半程是 HR 类问题（城市意愿、投递倾向、职业规划、期望薪资），后半程考 Android 技术，重点问 Jetpack Compose 与 XML/View 的区别与选型、多机型兼容问题的定位，共 14 问。"
+summary: "武汉精臣智慧标识科技软件开发（客户端）一面面经：前半程是 HR 类问题（城市意愿、投递倾向、职业规划、期望薪资），后半程考 Android，重点问 Jetpack Compose 与 XML/View 的选型和多机型兼容定位，共 14 问。"
 ---
 
 ### 《面试题目》

@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["测试开发","Agent评测","测试用例","Java","ArrayList","集合"]
-summary: "华橙 Agent 评测岗一面面经 9 问：从求职动机、实习工作与 AI 相关难题，到「微信发送图片」的场景化测试用例设计，以及 Java Collection 体系、List 与 Set、ArrayList 与 LinkedList 的区别；反问环节介绍了岗位做评测脚本与测试提效工具。"
+summary: "华橙 Agent 评测岗一面 9 问：从求职动机、实习工作与 AI 难题，到「微信发送图片」的场景化测试用例设计，以及 Java Collection 体系、List 与 Set、ArrayList 与 LinkedList 的区别。"
 ---
 
 ### 《面试题目》

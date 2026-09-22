@@ -7,7 +7,7 @@ date: '2026-09'
 result: 已挂
 source: 牛客网
 tags: ["C++","存储引擎","数据库","缓存","操作系统"]
-summary: "OceanBase 单机存储引擎 C++ 日常实习一面面经。实习经历 20 分钟，随后密集考察 ARC 自适应缓存与 LRU 系替换算法、CopyOnWrite、gdb 排查多线程死锁、B+ 树与 LSM 树、MVCC、Redis 持久化、WAL 串行落盘优化、缺页中断、CPU 飙高与 OOM 排查、spinlock 与互斥锁、向量化与火山模型，手撕多路有序流归并。"
+summary: "OceanBase 单机存储引擎 C++ 实习一面。考察 ARC 自适应缓存与 LRU 系算法、CopyOnWrite、gdb 排查死锁、B+ 树与 LSM 树、MVCC、WAL 串行落盘优化、缺页中断、OOM 排查与向量化模型。"
 ---
 
 ### 《面试题目》

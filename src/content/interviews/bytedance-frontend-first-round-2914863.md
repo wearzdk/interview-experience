@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["前端","SSE","RAG","性能优化","浏览器","网络协议","手撕"]
-summary: "字节跳动前端一面面经，题目达 26 道。既考浏览器与网络基础（TCP/UDP、慢启动与拥塞控制、DNS、缓存与 Cache-Control、跨域、重排重绘、defer/async、进程线程协程），也大量涉及 AI 前端场景：首 token 优化、SSE 与 WebSocket 选型、RAG 全流程、Top-K 与 Top-P、向量检索，手撕为 JS 并发限制调度器。"
+summary: "字节跳动前端一面面经，共 26 题。既有浏览器与网络基础（TCP/UDP、拥塞控制、缓存、跨域、重排重绘），也有大量 AI 前端场景：首 token 优化、SSE 与 WebSocket 选型、RAG 全流程、Top-K 与 Top-P，手撕并发限制调度器。"
 ---
 
 ### 《面试题目》

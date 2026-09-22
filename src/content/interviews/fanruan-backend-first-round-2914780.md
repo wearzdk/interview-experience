@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["后端开发","Go","MySQL","Redis","分布式锁","LSM树","Agent成本"]
-summary: "帆软后端开发一面 13 问：进程与线程的区别、CPU 密集型集群并发扛不住时的排查与扩容思路、LSM 树与 B 树的差异及 B 树不适用场景、Redis 主从同步、需要精确到小数点后十位的数值该选什么类型、分布式锁设计、goroutine 与 channel 底层，以及 Agent 的成本管控。"
+summary: "帆软后端一面 13 问：进程与线程、CPU 密集集群扛不住并发的排查思路、LSM 与 B 树的差异、Redis 主从同步、精确到小数点后十位选什么类型、分布式锁设计、goroutine 与 channel 底层、Agent 成本管控。"
 ---
 
 ### 《面试题目》

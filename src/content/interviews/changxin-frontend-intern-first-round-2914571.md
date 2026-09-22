@@ -7,25 +7,25 @@ date: '2026-09'
 base: 合肥
 source: 牛客网
 tags: ["前端","JavaScript","TypeScript","Vue","事件循环"]
-summary: "长鑫科技前端开发实习一面面经，9 月 21 日上午面试，作者总结为常规八股。问题覆盖事件循环、闭包、ES6 新特性、var/let/const 区别、TS 的 interface 与类型运算、interface 和 type 的区别、Vue 与 React 框架选择、Vue2 与 Vue3 区别，以及项目里的 subagent 实现方式和到岗时间、学校课程安排。"
+summary: "长鑫科技前端开发实习一面，9 月 21 日面试。全为常规八股：事件循环、闭包、ES6 新特性、var/let/const 区别、interface 与 type 区别、Vue2 与 Vue3 区别，以及项目里 subagent 的做法。"
 ---
 
 ### 《面试题目》
 
-1. 自我介绍。
-2. 现在人在哪里？你是哪里人？能来合肥吗？
-3. 讲一下事件循环。
-4. 讲一下闭包。
-5. 讲解一下 ES6 新特性。
-6. var、let、const 的区别？
-7. 知道 TS 里 interface 这些的类型运算吗？
-8. interface 和 type 的区别？
-9. 会什么前端框架？Vue 还是 React？
-10. 讲一下 Vue2 和 Vue3 的区别。
-11. 介绍项目。
-12. 项目里的 subagent 是怎么做的？用的框架还是自己手搓的？
-13. 什么时候能到岗？
-14. 学校现在有课吗？
+1. 现在人在哪里？你是哪里人？能来合肥吗？
+2. 讲一下事件循环。
+3. 讲一下闭包。
+4. 讲解一下 ES6 新特性。
+5. var、let、const 的区别？
+6. 知道 TS 里 interface 这些的类型运算吗？
+7. interface 和 type 的区别？
+8. 会什么前端框架？Vue 还是 React？
+9. 讲一下 Vue2 和 Vue3 的区别。
+10. 介绍项目。
+11. 项目里的 subagent 是怎么做的？用的框架还是自己手搓的？
+12. 什么时候能到岗？
+13. 学校现在有课吗？
+14. 自我介绍。
 15. 反问。
 
 ### 《参考解析》

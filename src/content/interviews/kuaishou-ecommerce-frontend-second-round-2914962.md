@@ -6,7 +6,7 @@ round: 二面
 date: '2026-09'
 source: 牛客网
 tags: ["React","单向数据流","useMemo","useLayoutEffect","SSE","手写题"]
-summary: "快手电商前端二面面经，准备很久的项目一问没问。题目集中在 React 原理与工程细节：对 React 的理解、单向数据流的理由与优缺点、useMemo 与 React.memo 的区别、useEffect 与 useLayoutEffect 的执行顺序差异、SSE 原理与低版本浏览器兼容，手撕为手写一个同步 localStorage 的状态 Hook。"
+summary: "快手电商前端二面面经，题目集中在 React 原理：单向数据流的优缺点、useMemo 与 memo 的区别、useEffect 与 useLayoutEffect 执行顺序、SSE 原理与低版本兼容，手撕同步 localStorage 的 Hook。"
 ---
 
 ### 《面试题目》

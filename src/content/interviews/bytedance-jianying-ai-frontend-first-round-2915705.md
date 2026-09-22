@@ -7,7 +7,7 @@ date: '2026-09'
 base: 深圳
 source: 牛客网
 tags: ["前端","React","Agent","SSE","MCP","性能优化","LRU"]
-summary: "字节跳动剪映/CapCut AI前端（base深圳）一面面经，视频面。深挖自研Agent框架的ReAct循环、多Agent拆分、上下文管理、SSE断线重连、MCP与Skill的关系，另考察Agent卡死排查、React性能优化与防劣化，编码题是LRU Cache。"
+summary: "字节跳动剪映AI前端（base深圳）一面面经，视频面。深挖自研Agent框架的ReAct循环、多Agent拆分、上下文管理与缓存命中、MCP与Skill关系，另考察Agent卡死排查、React性能优化与防劣化，编码题LRU Cache。"
 ---
 
 ### 《面试题目》

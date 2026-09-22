@@ -6,7 +6,7 @@ round: 二面
 date: '2026-09'
 source: 牛客网
 tags: ["Agent","AgentRuntime","权限管理","AI Native","知识库","职业规划"]
-summary: "蚂蚁二面面经 13 问：围绕 Agent Runtime 设计、知识库与 Skills 的分工与覆盖验证、读写操作的鉴权与风险控制、长任务中 Plan 的作用展开，最后是 AI Native 建设的分阶段规划、自研 Agent 与基于通用 Base Agent 做插件的取舍，以及职业规划。"
+summary: "蚂蚁二面 13 问：Agent Runtime 设计、知识库与 Skills 的分工及覆盖验证、读写操作的鉴权与风险控制、长任务中 Plan 的作用，以及 AI Native 分阶段规划与自研 Agent 还是做插件的取舍。"
 ---
 
 ### 《面试题目》

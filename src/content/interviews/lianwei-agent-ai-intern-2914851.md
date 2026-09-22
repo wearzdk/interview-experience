@@ -5,7 +5,7 @@ position: AI工程实习生
 date: '2026-09'
 source: 牛客网
 tags: ["Agent","MCP","Skills","知识库","上下文压缩","多Agent","RAG"]
-summary: "上海联蔚数科 AI 工程实习生面经，全程约 25 分钟，几乎全是 Agent 相关八股，实习与后端经历一问没问。题目覆盖常用 AI 工具、Agent 开发框架、harness 概念、Skills 与 MCP 的区别及数量膨胀的处理、知识库、自研 Coding Agent 的工具与上下文压缩、多 Agent 协作与学习方法。"
+summary: "上海联蔚数科 AI 工程实习生面经，约 25 分钟且几乎全是 Agent 八股，实习与后端经历一问没问。内容覆盖 harness 概念、Skills 与 MCP 的区别及数量膨胀处理、知识库、自研 Coding Agent 的上下文压缩与多 Agent 协作。"
 ---
 
 ### 《面试题目》

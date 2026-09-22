@@ -7,7 +7,7 @@ date: '2026-09'
 result: 已挂
 source: 牛客网
 tags: ["Agent","LangChain","LangGraph","工具调用","大模型","Python"]
-summary: "千问 AI 研发一面凉经：13 个问题几乎全压在 Agent 上，从 Agent 与固定 workflow 的边界、工具调用的幻觉与错误处理、循环终止条件，到 LangGraph 的图流转、Skill 粒度与评测、Agent Harness，最后问到信息不匹配（岗位偏移动端和前端）。"
+summary: "千问 AI 研发一面凉经：13 问几乎全压在 Agent 上——Agent 与固定 workflow 的边界、工具调用的幻觉与错误处理、循环终止条件、LangGraph 图流转、Skill 粒度与评测，最后发现岗位偏移动端和前端。"
 ---
 
 ### 《面试题目》

@@ -6,7 +6,7 @@ round: 二面
 date: 2026-09
 source: 牛客网
 tags: ["大模型","Agent","评测系统","Skill","沙箱隔离","Transformer"]
-summary: "阿里千问二面面经，共29问。前半场深挖实习中的Agent工程化：Skill/CLI/Runtime职责划分、工具调用执行链路、Skill评测系统与Trace指标、自研评测的取舍与自动优化闭环、多用户会话与工作区隔离；后半场转向Transformer原理与训练推理基础设施。"
+summary: "阿里千问二面面经，共29问。前半场深挖Agent工程化：Skill与CLI及Runtime职责划分、工具调用链路、评测系统与Trace指标、自研评测取舍、多用户会话隔离；后半场转向Transformer原理与训练推理基础设施。"
 ---
 
 ### 《面试题目》

@@ -5,7 +5,7 @@ position: 前端开发（日常实习）
 date: '2026-09'
 source: 牛客网
 tags: ["React","setState","事件委托","Promise","HTTP缓存","Git","TCP"]
-summary: "爱奇艺前端日常实习面经，全程约 30 分钟。题目以 React 与浏览器基础为主：setState 在 React 18 前后的同步异步差异与不同调用场景、组件通信方式、React 事件委托机制、useMemo 与 useCallback 的区别、单向数据流、Promise 状态、HTTP 状态码与 304、本地存储差异、git pull 与 fetch、TCP 三次握手四次挥手，最后手写一个自动计时的 React 函数组件。"
+summary: "爱奇艺前端日常实习面经，约 30 分钟。题目以 React 与浏览器基础为主：setState 的同步异步、事件委托、useMemo 与 useCallback、HTTP 状态码与 304、git pull 与 fetch，另手写每秒自增的计时组件。"
 ---
 
 ### 《面试题目》

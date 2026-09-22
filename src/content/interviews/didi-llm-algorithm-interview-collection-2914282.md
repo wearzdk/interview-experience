@@ -6,7 +6,7 @@ round: 一面
 date: '2026-09'
 source: 牛客网
 tags: ["大模型算法","强化学习","GRPO","Agent","Transformer"]
-summary: "滴滴算法岗面经合集，整理自多轮面试。以强化学习八股为主：PPO/GRPO/DPO/DAPO 区别、组内优势与全对全错、熵坍塌、动态采样、clip 与 reward hacking，另含 SFT 与 RL 取舍、Agent 项目深挖、Transformer 与 KV cache 手撕、智能问数落地追问。"
+summary: "滴滴算法岗面经合集。以强化学习八股为主：PPO/GRPO/DPO/DAPO 区别、组内优势、熵坍塌、动态采样、clip 与 reward hacking，另含 SFT 与 RL 取舍、Agent 项目深挖与 Transformer 手撕。"
 ---
 
 ### 《面试题目》
