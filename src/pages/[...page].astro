@@ -9,6 +9,7 @@ import MiniProgram from '../components/MiniProgram.astro';
 import Pagination from '../components/Pagination.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 import { tagToSlug } from '../lib/tag-slug';
+import { countBy } from '../lib/count-by';
 
 export const getStaticPaths = (async ({ paginate }) => {
 	const interviews = await getCollection('interviews');
@@ -20,13 +21,13 @@ const { page } = Astro.props;
 const interviews = await getCollection('interviews');
 
 // 按面经数量降序排列
-const companyCounts = interviews.reduce((acc, i) => ({ ...acc, [i.data.company]: (acc[i.data.company] ?? 0) + 1 }), {} as Record<string, number>);
+const companyCounts = countBy(interviews.map((i) => i.data.company));
 const topCompanies = Object.entries(companyCounts).sort((a, b) => b[1] - a[1]).slice(0, 12);
 
-const positionCounts = interviews.reduce((acc, i) => ({ ...acc, [i.data.position]: (acc[i.data.position] ?? 0) + 1 }), {} as Record<string, number>);
+const positionCounts = countBy(interviews.map((i) => i.data.position));
 const topPositions = Object.entries(positionCounts).sort((a, b) => b[1] - a[1]).slice(0, 10);
 
-const tagCounts = interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>);
+const tagCounts = countBy(interviews.flatMap((i) => i.data.tags));
 const topTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).slice(0, 15);
 
 const isFirstPage = page.currentPage === 1;

@@ -5,10 +5,11 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import PageHeader from '../components/PageHeader.astro';
 import { tagToSlug } from '../lib/tag-slug';
+import { countBy } from '../lib/count-by';
 
 const interviews = await getCollection('interviews');
 const tagCounts = Object.entries(
-	interviews.flatMap(i => i.data.tags).reduce((acc, t) => ({ ...acc, [t]: (acc[t] ?? 0) + 1 }), {} as Record<string, number>)
+	countBy(interviews.flatMap((i) => i.data.tags))
 ).sort((a, b) => b[1] - a[1]);
 
 const title = `全部技术点 — 共 ${tagCounts.length} 个面试考点`;
