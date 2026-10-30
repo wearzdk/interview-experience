@@ -33,7 +33,7 @@ summary: "百度大模型算法实习一面：项目业务场景与基座模型�
 
 **packing 是把多条短样本拼进一个定长序列**：避免大量 padding 浪费算力，把有效 token 密度提上来，吞吐能提升数倍。代价是要处理跨样本注意力污染——必须用 block-diagonal 的 attention mask，或按样本重置 position id，否则后一条样本会看到前一条的内容；另外要保证拼包时不切断关键结构（比如问答对）。
 
-**OPD 与 forward/reverse KL**：这里 OPD 指 on-policy distillation，即用学生自己采样出的轨迹、由教师给分布监督。forward KL 写作 KL(teacher||student)，期望教师分布覆盖学生，倾向于让学生覆盖教师所有可能的输出，容易过度分散，但在教师分布宽时更稳；reverse KL 写作 KL(student||teacher)，让学生集中在教师的高概率区域，输出更尖锐、更贴近教师的最佳答案，但容易模式坍缩。蒸馏生效的原理是：学生在自己会遇到的状態分布上接受教师的 token 级监督，缩小了训练与推理的分布差距（exposure bias），因此比纯 SFT 在长生成任务上更稳。
+**OPD 与 forward/reverse KL**：这里 OPD 指 on-policy distillation，即用学生自己采样出的轨迹、由教师给分布监督。forward KL 写作 KL(teacher||student)，期望教师分布覆盖学生，倾向于让学生覆盖教师所有可能的输出，容易过度分散，但在教师分布宽时更稳；reverse KL 写作 KL(student||teacher)，让学生集中在教师的高概率区域，输出更尖锐、更贴近教师的最佳答案，但容易模式坍缩。蒸馏生效的原理是：学生在自己会遇到的状态分布上接受教师的 token 级监督，缩小了训练与推理的分布差距（exposure bias），因此比纯 SFT 在长生成任务上更稳。
 
 **OPD 与 GRPO 的差异**：OPD 是蒸馏，监督信号是教师的 token 分布（稠密、每步都有梯度），目标是模仿；GRPO 是强化学习，监督信号是组内相对优势（稀疏、序列级），目标是提升奖励。GRPO 用一组采样结果的均值做 baseline 来估优势，省掉 critic 模型；OPD 不需要 reward model，但上限受教师能力约束。二者可以叠加：先用 OPD 把格式与推理风格拉起来，再用 GRPO 针对可验证奖励做优化。
 
