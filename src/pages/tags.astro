@@ -13,9 +13,9 @@ const tagCounts = Object.entries(
 ).sort((a, b) => b[1] - a[1]);
 
 const title = `全部技术点 — 共 ${tagCounts.length} 个面试考点`;
-const description = `收录${tagCounts.length}个面试技术考点，包括${tagCounts.slice(0, 8).map(([t]) => t).join('、')}等热门知识点，助你精准备战面试。`;
+const description = `收录${tagCounts.length}个面试技术考点，包括${tagCounts.slice(0, 8).map(([t]) => t).join('、')}等热门知识点，有助于精准备战面试。`;
 
-// 出现越多的考点给越强的视觉权重，让热门考点在标签云里先被看到
+// 出现次数越多的考点给予越强的视觉权重，使热门考点在标签云中优先呈现
 const maxCount = tagCounts[0]?.[1] ?? 1;
 const weightOf = (count: number) => (count >= maxCount * 0.5 ? 'hot' : count >= maxCount * 0.15 ? 'warm' : 'cool');
 ---
