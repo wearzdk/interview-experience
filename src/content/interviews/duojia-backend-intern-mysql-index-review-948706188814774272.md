@@ -20,6 +20,8 @@ summary: "简历上写了一句「优化过一条慢查询」，第三轮技术�
 6. 隐式类型转换是怎么让索引失效的？
 7. `EXPLAIN` 里 `Using index condition` 与 `Using filesort` 应该怎么判断？
 
+### 《参考解析》
+
 ```sql
 select id, order_no, amount, created_at
 from orders
@@ -27,8 +29,6 @@ where user_id = 123 and status in (1, 2)
 order by created_at desc
 limit 20;
 ```
-
-### 《参考解析》
 
 **两个索引的区别在「谁做最左列」。** `(user_id, status)` 可以服务「按 user_id 过滤、再按 status 过滤」以及「只按 user_id 过滤」，但只按 status 查时用不上（除非覆盖索引或 8.0 的 skip scan）；`(status, user_id)` 反过来。最左前缀不是背出来的规则，而是 B+ 树的物理排序：索引先按第一列排序、第一列相同再按第二列排序，所以查询条件必须从最左列开始才能定位区间。
 

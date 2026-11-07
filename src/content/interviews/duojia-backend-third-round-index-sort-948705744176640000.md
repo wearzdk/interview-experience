@@ -19,6 +19,8 @@ summary: "三面时面试官给了一条带 `user_id = ? AND status IN (?, ?) OR
 5. `IN` 在索引使用上算等值还是范围？
 6. 「走了索引」就等于「快」吗？还要看哪些字段？
 
+### 《参考解析》
+
 ```sql
 SELECT id, created_at
 FROM orders
@@ -27,8 +29,6 @@ WHERE user_id = 10086
 ORDER BY created_at DESC
 LIMIT 20;
 ```
-
-### 《参考解析》
 
 **先回答第一层：能走索引，但有回表和排序。** `idx_user_status (user_id, status)` 是按 `(user_id, status)` 排好序的 B+ 树，`user_id` 等值定位后，`status IN (1,2)` 等价于两段不连续的区间，扫描的是 `(10086,1)` 与 `(10086,2)` 两段，所以索引前缀确实用上了。问题在于 `SELECT` 里的 `created_at` 不在索引里，需要回表取；而索引按 `(user_id, status)` 有序，同一组 `(10086, 1)` 内部 `created_at` 是无序的，排序只能走 filesort。于是真实代价是：扫描该用户所有 `status IN (1,2)` 的行 → 全部回表 → 排序 → 取前 20。
 
