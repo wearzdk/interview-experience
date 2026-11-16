@@ -4,6 +4,7 @@ company: 千问
 position: "Agent 开发（社招）"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/25f0445d66b947bf9f979c6acdbf9fef
 tags: ["Agent", "Neo4j", "知识图谱", "LangGraph", "工具调用", "上下文管理", "Trace"]

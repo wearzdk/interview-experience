@@ -4,6 +4,7 @@ company: "进迭时空"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943894462118350848
 tags: ["进迭时空","嵌入式","SoC","BootLoader","XIP","BootROM","RISC-V"]

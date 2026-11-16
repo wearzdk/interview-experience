@@ -4,6 +4,7 @@ company: "优必选"
 position: "Linux BSP"
 round: "技术面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eee6e444f8b94a9a925953ee9ed2c943
 tags: ["优必选", "Linux BSP", "RTOS", "中断", "设备树", "CAN总线", "C++"]

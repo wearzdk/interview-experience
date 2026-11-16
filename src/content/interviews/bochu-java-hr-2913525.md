@@ -4,6 +4,7 @@ company: 柏楚电子
 position: Java开发工程师
 round: HR一面
 date: '2026-09'
+collectedAt: '2026-09-19'
 source: 牛客网
 tags: ["HR面试", "秋招"]
 summary: "柏楚电子 Java 岗 HR 一面记录，围绕秋招投递情况、对公司的了解、最近实习产出，以及到岗时间、实习地点和出差接受度展开，最后是薪资与业务方向的反问。"

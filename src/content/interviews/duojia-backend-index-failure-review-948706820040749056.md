@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 面试复盘
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948706820040749056
 tags: ["MySQL","索引失效","隐式转换","key_len","optimizer_trace","慢查询"]

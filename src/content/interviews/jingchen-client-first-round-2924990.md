@@ -4,6 +4,7 @@ company: 精臣
 position: 客户端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ffec6c6bad2e476d9845cdc4d42064a7
 tags: ["客户端","Android","MVVM","Kotlin协程","WebView","Protobuf","消息队列"]

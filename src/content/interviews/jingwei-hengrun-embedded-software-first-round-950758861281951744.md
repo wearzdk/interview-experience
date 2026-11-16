@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "嵌入式软件工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950758861281951744
 tags: ["经纬恒润","嵌入式","STM32","Linux驱动","设备树","字符设备","汽车电子","秋招"]

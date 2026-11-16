@@ -4,6 +4,7 @@ company: "汇川"
 position: "后端开发"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "挂了"
 base: "苏州"
 source: "牛客网"

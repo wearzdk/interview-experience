@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: Java后端
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["Java集合","MySQL索引","Spring AOP","线程池","Java并发"]
 summary: "熙牛医疗Java后端一面面经，涵盖Java核心技术（集合、锁、线程池、CAS）、MySQL性能优化与索引失效场景、Spring AOP原理及事务失效问题。记录了面试官对逻辑表达的反馈及对AI工具应用见解的考察。"

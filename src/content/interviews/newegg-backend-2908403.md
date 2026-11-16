@@ -3,6 +3,7 @@ title: 新蛋Newegg二面面经
 company: 新蛋
 position: 后端开发
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "Spring", "RabbitMQ", "幂等"]
 summary: 新蛋后端二面，主要深挖项目中的Function Calling、消息队列流程、幂等以及IoC和AOP。

@@ -4,6 +4,7 @@ company: "中国石油"
 position: "校招笔试（企业文化 + 行测）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/971cf2bb64d34bd6b6765b2be9f58a0f
 tags: ["中国石油","中国移动","邮储银行","银行笔试","行测","企业文化","笔试复盘"]

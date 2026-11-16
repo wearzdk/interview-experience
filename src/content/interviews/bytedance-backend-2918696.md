@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端研发工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "Kafka", "幂等性", "Redis", "分布式一致性", "MySQL", "LRU"]
 summary: "字节跳动后端研发工程师一面面经，9 月 28 日。围绕实习项目追问事件分发与 Kafka、高并发与幂等、一致性与乐观锁悲观锁、CAP、Redis 加锁与 key 设计、隔离级别，最后手写 LRU 并追问大量 key 过期处理。"

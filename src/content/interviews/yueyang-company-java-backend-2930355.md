@@ -4,6 +4,7 @@ company: "岳阳某公司"
 position: "Java后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/5b5c918c77d840c593d35438705b733e"
 tags: ["Java","后端开发","分库分表","集合框架","线程池","Spring","MySQL","AI应用"]

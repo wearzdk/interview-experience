@@ -4,6 +4,7 @@ company: 亚信科技
 position: 全栈开发
 round: 电话面
 date: '2026-04'
+collectedAt: '2026-05-05'
 base: 广州
 source: 牛客网
 tags: ["Java基础","集合框架","JVM","类加载机制","全栈开发"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "未透露"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 result: "已挂"
 source: 牛客网
 tags: ["字节跳动","秋招","一面","实习经历","面试复盘"]

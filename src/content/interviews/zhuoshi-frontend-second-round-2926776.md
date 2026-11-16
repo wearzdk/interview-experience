@@ -4,6 +4,7 @@ company: "卓世"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 base: "三亚"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c84188eda3cb4a02ac52ed376b3749e5

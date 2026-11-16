@@ -3,6 +3,7 @@ title: "AI 应用服务商面试：客户问报价为什么差这么多，三种
 company: "某企业 AI 应用服务商"
 position: "AI 应用岗"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939486365530574848
 tags: ["AI应用","ToB交付","报价与计价","售前","数据治理","系统集成","运维责任","秋招"]

@@ -4,6 +4,7 @@ company: "荣耀"
 position: "通用软件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/26c32a310fa74a248fe14e5f6a563915
 tags: ["荣耀","通用软件工程师","项目深挖","图片压缩","数据结构","React Native","长列表优化"]

@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-08'
 base: 上海
 source: 牛客网
 tags: ["Java","Golang","服务端开发","职业规划"]

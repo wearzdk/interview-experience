@@ -4,6 +4,7 @@ company: "某能源公司"
 position: "Java 后端实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6faab8e81c9a45598b6c3a277165ab77
 tags: ["Java","SpringBoot","实习面经","Controller","TCP"]

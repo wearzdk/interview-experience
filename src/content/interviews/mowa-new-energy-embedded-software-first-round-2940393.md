@@ -4,6 +4,7 @@ company: "魔瓦新能源"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7cb460bc814d4cbcaf6118807a8325ae
 tags: ["魔瓦新能源", "嵌入式软件", "MQTT", "CAN", "RS485", "C++"]

@@ -4,6 +4,7 @@ company: 百度
 position: 后端开发实习
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cc8bd3ee9d174f8ca0641fb98ddad443
 tags: ["Go", "MySQL", "Redis", "Linux", "系统设计", "AI辅助开发"]

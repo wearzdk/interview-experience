@@ -4,6 +4,7 @@ company: 招银网络科技
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "Spring", "MyBatis", "事务", "链表"]
 summary: "招银网络科技后端开发一面面经，覆盖线程池、事务与隔离级别、Spring事务、MyBatis、数据权限及链表反转算法。"

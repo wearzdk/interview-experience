@@ -4,6 +4,7 @@ company: "TCL"
 position: "Java后端开发实习"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-21'
 source: "牛客网"
 tags: ["Java", "Kafka", "分布式链路追踪", "计算机网络", "算法"]
 summary: "TCL Java 后端实习一面，面试官顺着简历里的短剧项目一路追问查询优化与 Prometheus 监控，随后围绕 Kafka 的消息可靠性、重复消费、消费者宕机追问了七八轮，最后转到端口、进程、CPU 调度等计算机基础与快排复杂度。"

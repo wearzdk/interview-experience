@@ -4,6 +4,7 @@ company: "中兴"
 position: "蓝剑 SSP 领军人才"
 round: "终试洽谈"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944258787848794112
 tags: ["中兴", "蓝剑", "SSP", "终试洽谈", "校招", "领军人才", "面试准备"]

@@ -5,6 +5,7 @@ position: Java后端开发工程师
 base: 珠海
 result: OC
 date: '2026-05'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/887289430094934016
 tags: ["Java集合","Arrays.asList","面试基础"]

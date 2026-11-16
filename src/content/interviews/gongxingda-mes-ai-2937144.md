@@ -3,6 +3,7 @@ title: "沈阳共兴达 MES 开发 AI 面：先复述诚信承诺，再答十八
 company: "沈阳共兴达"
 position: "MES 开发"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b502019e1ebf4d58903f5d26f1776cc3
 tags: ["共兴达","赛美特","MES","AI 面试","驻场","职业规划","Agent"]

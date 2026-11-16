@@ -4,6 +4,7 @@ company: "九江银行"
 position: "综合运营岗"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941289900165300224"

@@ -4,6 +4,7 @@ company: 恒生电子
 position: AI应用开发
 round: AI面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5e0a75e9cf4941a9861b1948fb7f4e60
 tags: ["AI应用开发","Python装饰器","MCP","上下文管理","RAG","LangGraph"]

@@ -4,6 +4,7 @@ company: "上海某 AI Agent 初创"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["系统设计","AI生图","积分","SSE","WebSocket","幂等","事务"]
 summary: "上海一家 AI Agent 初创的一面上来就是系统设计：AI 生图系统要哪些表、积分扣减与退还怎么保证一致、异步任务怎么让客户端拿结果、轮询/SSE/WebSocket 怎么选、长事务的问题，最后回到实习经历与学习方法。"

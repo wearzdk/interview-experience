@@ -4,6 +4,7 @@ company: 启云方
 position: AI应用开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/17d995811f6f4b509fdcef6389dcf54c
 tags: ["启云方", "Java", "Redis", "MySQL", "Kafka", "线程池", "LLM", "Agent"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "后端开发实习"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934110434167095296
 tags: ["后端实习", "高并发", "AI应用", "行为面试", "Feed"]

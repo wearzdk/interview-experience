@@ -3,6 +3,7 @@ title: "满帮数据分析面经：数仓分层、Spark 调优、两道 SQL 与�
 company: "满帮"
 position: "数据分析"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6bb77086ae904f06bd6487e8eb3c8f84
 tags: ["满帮","数据分析","数仓分层","Spark","数据倾斜","SQL","决策树","GBDT"]

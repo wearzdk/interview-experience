@@ -4,6 +4,7 @@ company: "华为"
 position: "AI算法工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940049161737588736
 tags: ["笔试", "AI算法", "机器学习", "Transformer", "大模型", "编程题", "数值计算"]

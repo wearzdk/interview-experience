@@ -4,6 +4,7 @@ company: "视源科技"
 position: "嵌入式软件技术支持"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940537292697899008
 tags: ["视源科技","CVTE","嵌入式软件","技术支持","C语言","指针与数组","进程与线程","Linux命令"]

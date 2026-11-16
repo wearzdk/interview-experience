@@ -3,6 +3,7 @@ title: 携程后端开发实习面试题汇总
 company: 携程
 position: 后端开发实习
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","JVM","Redis","MySQL","算法"]
 summary: "携程后端开发实习面经，涵盖Java基础、JVM内存模型与垃圾回收、Redis高频考点（持久化、分布式锁、跳表）、MySQL索引优化及底层日志（undo/redo/binlog），包含手撕算法题最长回文子串。"

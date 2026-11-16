@@ -4,6 +4,7 @@ company: 恒生电子
 position: AI开发工程师
 round: AI面试
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI开发","Python闭包","缓存穿透","结构化输出","RAG多轮","LangGraph","Agent与Workflow"]
 summary: "恒生电子技术岗AI面试真题27问，作者面了整整一小时。技术面覆盖Python闭包的形成条件与内存泄漏治理、缓存穿透击穿雪崩、本地锁在分布式下为何失效、永不过期的热点key为何一致性风险更低、大模型结构化JSON输出的稳定性与缺字段处理、解析失败回灌重生成的副作用、RAG多轮对话与摘要压缩丢细节、历史对话检索与知识库检索的排序差异、Agent与Workflow的边界，以及为什么选LangGraph、Checkpoint实际解决了什么、LangGraph有哪些短板。"

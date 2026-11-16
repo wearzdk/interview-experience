@@ -4,6 +4,7 @@ company: "滴滴"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/af32ed2c247047aebf6c111ff6d12c65
 tags: ["笔试","矩阵","逆序对","几何","算法","Java"]

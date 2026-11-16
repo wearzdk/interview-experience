@@ -4,6 +4,7 @@ company: 赢时胜
 position: Java后端开发
 round: 群面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","数据库","并发编程","RAG","MCP"]
 summary: "赢时胜Java后端开发面试分享。面试形式为2对2群面，考察重点涵盖项目实践与Java基础，包括索引失效场景、synchronized锁实现原理、以及对RAG和MCP等前沿技术的理解。适合准备Java后端面试的求职者参考。"

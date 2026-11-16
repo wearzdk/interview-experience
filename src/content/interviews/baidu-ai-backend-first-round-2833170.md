@@ -4,6 +4,7 @@ company: 百度
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Java并发","JVM","Redis","分布式锁","SQL优化"]
 summary: "百度AI后端开发日常实习一面面经，涵盖Java线程安全、ConcurrentHashMap原理、JVM分代回收机制、Redis分布式锁及慢查询SQL排查等核心后端技术，助你高效备战大厂面试。"

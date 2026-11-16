@@ -4,6 +4,7 @@ company: 全志科技
 position: 嵌入式软件开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931133906718326784
 tags: ["嵌入式","Linux内核","中断","DMA","OTA","电源管理"]

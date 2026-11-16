@@ -4,6 +4,7 @@ company: "yd某分公司"
 position: "Java后端"
 round: "线下一面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 tags: ["Java后端","离线消息","MySQL","慢SQL","Nginx","SDK对接","AI辅助开发"]
 summary: "yd 某分公司线下面经：从「你平时怎么用 AI」切入，连续追问 SDK 需求对接与技术沉淀、离线消息接口超时的排查与索引优化、Nginx 大文件上传配置，以及课程项目与简历钩子的准备。"

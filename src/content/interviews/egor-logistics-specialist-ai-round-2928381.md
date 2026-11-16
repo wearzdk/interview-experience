@@ -4,6 +4,7 @@ company: "伊戈尔"
 position: "物流专员"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fe3a54d2f54b4e64942189ce3f79b57a
 tags: ["伊戈尔","物流专员","AI面试","校招","行为面试"]

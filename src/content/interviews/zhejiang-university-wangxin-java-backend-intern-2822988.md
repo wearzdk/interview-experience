@@ -4,6 +4,7 @@ company: 浙大网新中研
 position: Java后端实习
 round: 笔试+技术面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring Boot","Swagger","AI工具"]
 summary: "浙大网新中研Java后端实习面经，28届双非学生投递。面试含笔试卷（Java基础、异常处理、集合、多线程）和技术问答，涉及MySQL字段操作、Redis数据结构、Knife4j/Swagger接口文档、全局异常处理器等，面试官重点关注AI工具使用经验（RAG、MCP、ClaudeCode），八股文考察较少，SQL能力需加强。"

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "大模型算法"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930757810768343040"
 tags: ["大模型算法", "LoRA", "QLoRA", "Transformer", "RoPE", "混合精度训练"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "智能体算法"
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931642778113572864
 tags: ["Agent","LangChain","模型路由","置信度校准","结构化输出","多模态"]

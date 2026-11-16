@@ -4,6 +4,7 @@ company: "联咏"
 position: "AI应用开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["AI应用","深度学习","YOLO","softmax","评测体系","大模型"]
 summary: "联咏 9 月 15 日 AI 应用开发岗一面面经：从实习里的 token 节省与银行 Agent 讲到技术题，覆盖算子恒等映射的实现、softmax 公式与数值稳定性、YOLO 架构可改的结构，以及整套模型评测体系怎么搭。"

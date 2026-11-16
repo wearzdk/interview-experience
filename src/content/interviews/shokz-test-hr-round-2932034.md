@@ -4,6 +4,7 @@ company: "韶音"
 position: "测试工程师"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8e377b8936984ebc8366ebf17b16b08f
 tags: ["韶音", "测试", "HR面", "秋招", "求职"]

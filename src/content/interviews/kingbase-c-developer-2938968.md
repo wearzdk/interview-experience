@@ -4,6 +4,7 @@ company: 电科金仓
 position: C语言开发
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b60ca5a5410f4f1499b9d6f9bf17cb4a
 tags: ["电科金仓","C语言","笔试","TCP","二分查找","动态规划"]

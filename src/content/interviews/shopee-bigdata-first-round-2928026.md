@@ -4,6 +4,7 @@ company: "Shopee"
 position: "大数据开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/11db39379bc7440f8f69d5536fcca7fd"
 tags: ["Shopee", "大数据", "Spark", "数仓", "HDFS", "SQL", "AI Agent"]

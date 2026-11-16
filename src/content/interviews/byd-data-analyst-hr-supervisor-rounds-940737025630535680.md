@@ -4,6 +4,7 @@ company: "比亚迪"
 position: "数据分析师"
 round: "HR面+主管面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737025630535680"

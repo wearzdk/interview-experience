@@ -4,6 +4,7 @@ company: "长鑫存储"
 position: "研发运营"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/10a2c2f400f548e389d981d89302b2ca

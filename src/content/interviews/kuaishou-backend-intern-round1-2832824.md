@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 result: 通过（进二面）
 source: 牛客网
 tags: ["Java","大模型","LangChain","G1垃圾回收","消息队列"]

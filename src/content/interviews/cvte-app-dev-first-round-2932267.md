@@ -4,6 +4,7 @@ company: "CVTE 视源股份"
 position: "应用开发工程师（AI Agent 方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f2233c6940df4b42b818db288d59c232

@@ -4,6 +4,7 @@ company: 快手
 position: 全栈开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8c3452c453d04eeeb79529183599d606
 tags: ["快手","全栈","分布式锁","Redisson","线程池","AI编码","秋招"]

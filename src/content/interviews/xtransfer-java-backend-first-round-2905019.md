@@ -4,6 +4,7 @@ company: xTransfer
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-07'
 source: 牛客网
 tags: ["Java", "MySQL", "事务", "锁", "消息队列", "线程池"]
 summary: "xTransfer Java后端社招一面，重点考察MySQL事务与锁、消息可靠性、服务治理、线程池和字符串处理。"

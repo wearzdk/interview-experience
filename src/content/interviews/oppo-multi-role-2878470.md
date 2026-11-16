@@ -3,6 +3,7 @@ title: OPPO 分批次面试核心考点与高频问题
 company: OPPO
 position: 多岗位
 date: '2026-07'
+collectedAt: '2026-07-21'
 source: 牛客网
 tags: ["OPPO","产品经理","技术岗","市场运营","综合面试"]
 summary: "汇总 OPPO 初面、业务面和终面的考察重点，覆盖求职动机、项目落地、产品设计、市场活动、职业规划与压力追问。"

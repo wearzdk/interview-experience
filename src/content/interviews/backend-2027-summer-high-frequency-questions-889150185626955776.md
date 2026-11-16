@@ -3,6 +3,7 @@ title: 27届暑期后端高频面试题汇总（字节腾讯美团等多家大�
 company: 字节跳动腾讯美团等多家大厂
 position: Java后端开发工程师
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/889150185626955776
 tags: ["Java","HashMap","高频面经","字节跳动","腾讯","美团"]

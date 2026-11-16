@@ -4,6 +4,7 @@ company: "OPPO"
 position: "AI算法"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/930764652093403136
 tags: ["GUI Agent","多模态","控件树","行为克隆","离线强化学习","端侧Agent"]

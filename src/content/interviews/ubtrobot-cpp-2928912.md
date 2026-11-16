@@ -4,6 +4,7 @@ company: "优必选"
 position: "C++开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e486357b9e3a4b51875370dece81a2ac"
 tags: ["优必选", "C++开发", "智能指针", "内存泄漏", "EtherCAT", "进程间通信", "机器人中间件"]

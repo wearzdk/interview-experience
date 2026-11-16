@@ -4,6 +4,7 @@ company: 国旅新景界
 position: Java后端开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-24'
 base: 深圳
 source: 牛客网
 tags: ["Java","MySQL","面试技巧","实习生面试","职业规划"]

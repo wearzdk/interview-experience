@@ -3,6 +3,7 @@ title: 吉利科技AI后端开发面经分享
 company: 吉利科技
 position: AI后端开发
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["AI Agent","Python","状态机","记忆管理","MCP","Skill"]
 summary: "吉利科技AI后端开发面试经验分享，重点考察AI Agent设计、状态机应用、记忆管理策略以及MCP协议与Skill设计理念。涵盖Python技术栈下Agent交互逻辑、任务规划与流程编排等实战场景。"

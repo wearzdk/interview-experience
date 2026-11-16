@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发（日常实习）"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/90ff191ffb724e8a92bc7f55414b845b"
 tags: ["字节跳动", "今日头条", "后端开发", "实习", "算法", "回溯"]

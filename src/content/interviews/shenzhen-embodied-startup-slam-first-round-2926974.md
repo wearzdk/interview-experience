@@ -4,6 +4,7 @@ company: "深圳某具身智能初创"
 position: "SLAM 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 base: "深圳"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5c5c5a0ac0f74fbea63d9ff9a2406d7c

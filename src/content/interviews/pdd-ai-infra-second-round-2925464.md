@@ -4,6 +4,7 @@ company: "拼多多"
 position: "AI Infra（推理引擎与算子）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7f133c2be3684c0ea0a3ca904cf81347

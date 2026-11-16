@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cacc7228647242eea82c4591d0518efa
 tags: ["字节跳动","Java","微服务","Redis","RabbitMQ","MySQL","并发","算法"]

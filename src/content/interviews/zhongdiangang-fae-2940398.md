@@ -4,6 +4,7 @@ company: 中电港
 position: FAE 现场应用工程师
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/76ff47ed3dd8489f80517e9dd0f4c3b0
 tags: ["中电港","FAE","NVIDIA Jetson","MQTT","DeepStream","驱动调试","方案选型"]

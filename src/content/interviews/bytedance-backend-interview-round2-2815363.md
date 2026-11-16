@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后台开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Go","Redis","分布式","微服务","RAG"]
 summary: "字节跳动后台开发二面面经，重点考察Go语言GMP调度模型、Java线程池机制、Redis Cluster集群原理及数据分片迁移。涵盖分布式架构、RAG大模型应用、Function Call与MCP对比，以及数据库事务隔离级别分析与算法路径总和实战。"

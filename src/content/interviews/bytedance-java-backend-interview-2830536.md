@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端开发
 round: 一面+二面+三面+HR面
 date: '2026-04'
+collectedAt: '2026-04-09'
 result: Offer
 source: 牛客网
 tags: ["Java","Redis","Spring","MySQL","消息队列","并发编程"]

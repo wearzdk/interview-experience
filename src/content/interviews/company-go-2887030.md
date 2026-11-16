@@ -3,6 +3,7 @@ title: "Golang社招 ·一面 ·成都晓多科技Agent开发岗"
 company: "某公司"
 position: "Go后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","并发","计算机网络","AI应用"]
 summary: "某公司Go后端开发工程师面试记录，覆盖Java、Redis、MySQL、并发等考点，整理了面试流程与高频问题。"

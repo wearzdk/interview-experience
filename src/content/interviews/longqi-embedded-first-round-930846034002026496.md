@@ -4,6 +4,7 @@ company: "龙旗科技"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930846034002026496"
 tags: ["嵌入式","嵌入式软件","C语言","const","static","volatile","内存布局"]

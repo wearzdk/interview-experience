@@ -4,6 +4,7 @@ company: 模思智能（Moss）
 position: 测试开发实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ad0d7140bbdc4ac1a3add505e8f1efd3
 tags: ["模思智能","测试开发","AI网关","Coze","兼容性测试","算法"]

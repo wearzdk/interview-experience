@@ -4,6 +4,7 @@ company: 格力
 position: 电控软件
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: OC
 base: 珠海
 source: 牛客网

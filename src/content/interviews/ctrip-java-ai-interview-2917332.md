@@ -4,6 +4,7 @@ company: "携程"
 position: "Java后端"
 round: "AI面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["Java","HashMap","AQS","网络分层","高并发架构","AI面试"]
 summary: "携程 AI 面真题整理：本以为是行为题，点开考的是 HashMap 底层、AQS 与锁、ISO 七层模型、十万到百万 QPS 的架构设计，再加项目与实习连环追问。追问直接抓你回答里的技术词往下钻。"

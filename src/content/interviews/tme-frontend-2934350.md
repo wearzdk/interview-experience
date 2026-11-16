@@ -4,6 +4,7 @@ company: "腾讯音乐（TME）"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["虚拟列表","React","useEffect","flex","TypeScript","算法"]
 summary: "TME 前端一面约 80 分钟：AI 需求理解与知识库建设、虚拟列表原理与手写、useEffect 里 100ms 设值 500ms 打印为什么是旧值、flex 收缩计算与 ellipsis 失效、TS 派生类型，最后一道矩形布局分列算法。"

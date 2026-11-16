@@ -4,6 +4,7 @@ company: 恒生电子
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Redis","Elasticsearch","多线程","并发控制"]
 summary: "恒生电子Java开发一面面试经验分享。面试时长约20分钟，重点考察Redis缓存与分布式锁（看门狗机制）、Elasticsearch索引创建与同步策略，以及Java多线程并发控制等核心后端技术，适合后端开发求职者参考备考。"

@@ -4,6 +4,7 @@ company: 超星学习通
 position: Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-27'
 result: 凉经
 source: 牛客网
 tags: ["Java","JVM","MySQL","索引","垃圾回收","String","hashCode"]

@@ -4,6 +4,7 @@ company: "瑞银"
 position: "金融科技学徒"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/678c27c4d2ab4e5989ba9666b9719629
 tags: ["瑞银", "UBS", "金融科技", "RAG", "AI Agent", "LangGraph", "MCP", "全英文面试"]

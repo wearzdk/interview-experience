@@ -4,6 +4,7 @@ company: "靖安科技"
 position: "全栈工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941644807313629184
 tags: ["全栈", "Kafka", "分布式登录", "大文件上传", "线程池", "排障"]

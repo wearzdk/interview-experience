@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: 前端开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 湖北
 source: 牛客网

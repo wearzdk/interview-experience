@@ -4,6 +4,7 @@ company: "深势科技"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5f05f981e7a94fdea443984f6cb47106
 tags: ["深势科技", "后端开发", "一面", "状态机", "Agent", "Redis", "分库分表", "ConcurrentHashMap", "线程池"]

@@ -4,6 +4,7 @@ company: "博彦科技"
 position: "UE 客户端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e240f13c2d0c43fe9184df5c5a28fe63
 tags: ["博彦科技","UE客户端","虚幻引擎","GAS","UMG","网络同步","外包","面经"]

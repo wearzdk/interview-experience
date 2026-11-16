@@ -4,6 +4,7 @@ company: 华为
 position: "软件开发（Go）"
 round: "一至三面"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/14c6a9dca811420cbfd5e73f9695bd88
 tags: ["Go", "GMP", "GC", "Kafka", "Redis", "手撕代码", "HR面"]

@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","ArrayList","集合源码","算法题","时间复杂度"]
 summary: "拼多多服务端开发一面面经。面试考察重点包括：项目经历深挖、Java常用集合类（ArrayList）底层源码分析、扩容机制与均摊时间复杂度分析，以及经典算法题“和为0的子数组”。"

@@ -4,6 +4,7 @@ company: "多多迦游"
 position: "游戏策划"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fb4af091424d48c4970fcc4745f9aaad"
 tags: ["多多迦游", "游戏策划", "三消", "关卡设计", "结算", "动画"]

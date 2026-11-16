@@ -4,6 +4,7 @@ company: 来也科技
 position: AI 原生开发者
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b5a4962d264744ec8e820656c1c3aaf5
 tags: ["AI原生开发","AI Coding","C++","Harness","向量检索","工程效能"]

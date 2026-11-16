@@ -4,6 +4,7 @@ company: "海信"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944300013700542464
 tags: ["海信", "嵌入式", "C语言", "RTOS", "内存对齐", "串口", "ADC采样", "秋招"]

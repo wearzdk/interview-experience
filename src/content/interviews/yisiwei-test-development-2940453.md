@@ -4,6 +4,7 @@ company: 易思维
 position: 测试开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/12c6180ce6454a528900b3153f5c666f
 tags: ["易思维","测试开发","AI造数","OCR评测","RAG切片","AI排障"]

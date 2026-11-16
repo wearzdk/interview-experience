@@ -4,6 +4,7 @@ company: 美少年
 position: 后端Java实习生
 round: 笔试
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","栈","排序","字符串处理","算法","ACM模式"]
 summary: "美少年2027届后端Java实习生笔试，含10道单选、5道不定项及3道算法题。算法题涉及栈消除相邻元素、数组数字排序拼接输出（Arrays.sort）、字符串加密填充按行输出，难度不高，适合备考Java后端实习笔试。"

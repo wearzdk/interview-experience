@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发（Agent方向）
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["腾讯","社招","Agent","意图识别","Memory","AI编程","TDD"]
 summary: "腾讯社招三面，围绕 Agent 项目做深度追问：运营活动代码重复率与内部活动框架、Agent 项目的团队规模与分工、memory 用了哪些框架组件、意图识别的做法与抽象化后效果变好的原因、Agent 上线后对人效的提升；后半段转向 AI 使用本身——端到端工作流成熟度、AI coding 覆盖率与质量保障、是否用 TDD；最后是职业选择与成就感来源类的软性问题。"

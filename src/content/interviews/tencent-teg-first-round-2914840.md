@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["腾讯","C++","位运算","时间轮","计算机组成","手撕代码"]

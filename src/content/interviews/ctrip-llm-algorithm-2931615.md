@@ -4,6 +4,7 @@ company: "携程"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3b43866e32c148b78d033de9d898b5c1
 tags: ["携程","大模型算法","Agent","RAG","召回","评估"]

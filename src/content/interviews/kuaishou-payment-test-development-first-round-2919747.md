@@ -4,6 +4,7 @@ company: "快手"
 position: "测试开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "并发编程", "线程池", "MySQL索引", "Redis", "AI Coding", "工具调用"]
 summary: "快手支付测试开发一面面经，时长约 1 小时、全程无手撕但含 AI Coding 环节。基础知识考察 Java 容器、并发与进程线程区别、线程池、MySQL 索引与 Redis 缓存；实习部分围绕用户意图识别、工具路由出错、JSON 动态工具注入的非法参数死循环与上下文压缩的数值精确性展开。"

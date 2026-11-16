@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 result: "泡池子中"
 source: 牛客网
 tags: ["后端开发", "算法题", "RAG", "B+树", "Redis", "Agent"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: Agent开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["Agent开发", "操作系统", "计算机网络", "Redis", "MQ", "八股"]
 summary: "字节跳动火山引擎 Agent 开发秋招一面面经：算法考 LRU 缓存，场景题要求不用 MQ 设计一个简单异步系统，项目围绕 Agent 项目的选型、Skills 设计与全链路展开，八股覆盖面很广——进程线程与 IPC、内核态用户态、TCP 三次握手与拥塞控制、UDP 可靠传输、HTTP 状态码与幂等设计、Redis 单线程与持久化、epoll、零拷贝、MQ 积压处理。"

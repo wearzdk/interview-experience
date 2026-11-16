@@ -4,6 +4,7 @@ company: "吉利广域铭岛"
 position: "AI解决方案"
 round: "终面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b580fbdf9d0045b295949b6a11c7b6ea
 tags: ["AI解决方案", "B端", "项目深挖", "压力面", "职业规划"]

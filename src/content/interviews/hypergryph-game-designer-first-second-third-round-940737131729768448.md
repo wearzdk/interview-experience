@@ -4,6 +4,7 @@ company: "鹰角网络"
 position: "游戏策划"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737131729768448"

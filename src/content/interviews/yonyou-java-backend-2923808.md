@@ -4,6 +4,7 @@ company: 用友金融
 position: Java后端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b087698fedff49668324389ed50f3829
 tags: ["Java","MySQL","ACID","JMM","OOM排查","高并发"]

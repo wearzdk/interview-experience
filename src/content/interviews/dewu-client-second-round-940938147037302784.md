@@ -4,6 +4,7 @@ company: "得物"
 position: "客户端开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940938147037302784"
 tags: ["得物","客户端","秋招","大模型幻觉","AI Coding","Git","HTTPS","网络协议"]

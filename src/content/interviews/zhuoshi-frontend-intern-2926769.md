@@ -3,6 +3,7 @@ title: "卓世前端实习面试：盒模型、闭包与事件循环八股串烧
 company: "卓世"
 position: "前端开发实习"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/65afdf0adb0d459cb172e6a66efa3fc4
 tags: ["前端实习","盒模型","闭包","事件循环","Promise","Vue","React"]

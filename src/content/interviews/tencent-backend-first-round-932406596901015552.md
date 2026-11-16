@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932406596901015552
 tags: ["后台开发","快速幂","overcommit","TIME_WAIT","epoll","零拷贝","C10K"]

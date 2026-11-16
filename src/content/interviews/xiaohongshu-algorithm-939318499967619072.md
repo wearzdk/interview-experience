@@ -4,6 +4,7 @@ company: "小红书"
 position: "算法岗"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939318499967619072"
 tags: ["小红书","算法岗","PLE","MMoE","多目标建模","广告算法","双塔模型","排序算法"]

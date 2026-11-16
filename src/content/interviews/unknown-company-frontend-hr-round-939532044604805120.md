@@ -4,6 +4,7 @@ company: "未知公司"
 position: "前端开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/discuss/939532044604805120"
 tags: ["HR面","面试攻略","职业规划","反问技巧","Offer沟通","校招"]

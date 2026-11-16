@@ -3,6 +3,7 @@ title: "浩鲸科技一面7.29"
 company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["MySQL","JVM","Spring","并发","算法","MyBatis"]
 summary: "某公司Java后端开发工程师面试记录，覆盖MySQL、JVM、Spring、并发等考点，整理了面试流程与高频问题。"

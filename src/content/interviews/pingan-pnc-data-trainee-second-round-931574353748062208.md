@@ -4,6 +4,7 @@ company: "平安产险"
 position: "数据管培生"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931574353748062208
 tags: ["数据管培生","HR面","职业规划","薪资期望","数据分析"]

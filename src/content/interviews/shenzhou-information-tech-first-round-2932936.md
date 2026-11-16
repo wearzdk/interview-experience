@@ -4,6 +4,7 @@ company: "神州信息"
 position: "技术岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d6ae8b0f25a144b5a1ca7a074f505b53
 tags: ["神州信息", "一面", "HR面", "意向城市", "项目", "校招"]

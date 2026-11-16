@@ -3,6 +3,7 @@ title: "字节国际化广告后端二面：异步链路、Spring 与 SQL"
 company: "字节跳动"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Spring", "MySQL", "日志追踪", "算法"]
 round: "二面"

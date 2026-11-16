@@ -3,6 +3,7 @@ title: "嵌入式精选 20 道必备八股文：C 语言、中断、RTOS、总�
 company: "牛客网用户分享"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934801110995337216
 tags: ["嵌入式", "C语言", "FreeRTOS", "中断", "DMA", "设备树", "排障"]

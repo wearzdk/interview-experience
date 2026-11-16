@@ -4,6 +4,7 @@ company: 华为
 position: 软件开发
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948624357998206976
 tags: ["华为","笔试","机考","枚举","贪心","优先队列","动态规划"]

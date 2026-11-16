@@ -4,6 +4,7 @@ company: "招商银行"
 position: "金融科技"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/52ac88f74fd741809a0b61af4ac8a35b
 tags: ["招商银行","银行科技","二面","PPT","职业选择","AI"]

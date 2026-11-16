@@ -4,6 +4,7 @@ company: "小红书"
 position: "运营"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939320197708632064"
 tags: ["小红书","运营","商业化","内容社区","创作者运营","用户增长","数据分析"]

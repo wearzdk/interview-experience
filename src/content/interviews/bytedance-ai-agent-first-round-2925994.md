@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent 开发（质量方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/57326acc86fb4f72a21d09e1410e5121
 tags: ["字节跳动","TikTok-Shop","AI-Agent","LLM-Judge","栈和队列","二叉树","接雨水"]

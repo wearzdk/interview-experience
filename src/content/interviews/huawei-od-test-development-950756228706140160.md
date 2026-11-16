@@ -3,6 +3,7 @@ title: "软件测试 OD 社招：四年测开被问「你搭的东西还有谁�
 company: "华为OD"
 position: "测试开发"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950756228706140160
 tags: ["华为OD","软件测试","测试开发","自动化测试","社招","pytest","CI"]

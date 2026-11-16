@@ -4,6 +4,7 @@ company: "迪桑特"
 position: "零售管培生"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946769706143223808
 tags: ["迪桑特","DESCENTE","零售管培生","校招","人货场","品牌认知","稳定性"]

@@ -4,6 +4,7 @@ company: "网易"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938914958287306752
 tags: ["Agent","MCP","SSE","记忆管理","Redis","RAG"]

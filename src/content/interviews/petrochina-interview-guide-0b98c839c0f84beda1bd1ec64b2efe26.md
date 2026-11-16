@@ -3,6 +3,7 @@ title: "中石油校招全流程：AI 面的全身拍摄与认知小游戏，线
 company: "中国石油"
 position: "校招综合岗"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b98c839c0f84beda1bd1ec64b2efe26
 tags: ["中石油","国企校招","AI面试","半结构化","行业认知","STAR法则","三桶油"]

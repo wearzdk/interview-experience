@@ -4,6 +4,7 @@ company: "阿里"
 position: "AI产品经理"
 round: "一面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "人才库"
 source: 牛客网
 tags: ["AI产品", "产品设计", "数据分析", "项目深挖", "实习", "产品经理"]

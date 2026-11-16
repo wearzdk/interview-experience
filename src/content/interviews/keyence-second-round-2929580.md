@@ -4,6 +4,7 @@ company: "基恩士"
 position: "销售工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5ceb5ebf5222477a9ae9a53d5e17792f
 tags: ["销售", "群面", "劝服", "小组讨论", "基恩士"]

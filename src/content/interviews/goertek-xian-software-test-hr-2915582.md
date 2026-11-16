@@ -4,6 +4,7 @@ company: 歌尔
 position: 软件测试
 round: HR面
 date: 2026-09
+collectedAt: '2026-09-22'
 base: 西安
 source: 牛客网
 tags: ["软件测试","HR面","性能测试","职业规划","校招"]

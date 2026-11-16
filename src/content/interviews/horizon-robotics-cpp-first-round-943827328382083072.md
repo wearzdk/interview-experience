@@ -4,6 +4,7 @@ company: "地平线"
 position: "C++开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943827328382083072
 tags: ["地平线","C++","智能指针","STL","模板","位运算","手撕代码","车载"]

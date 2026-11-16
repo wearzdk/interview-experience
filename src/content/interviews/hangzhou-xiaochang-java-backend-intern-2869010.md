@@ -4,6 +4,7 @@ company: 某杭州小厂
 position: Java后端开发工程师（实习）
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-29'
 base: 杭州
 source: 牛客网
 tags: ["Java","集合框架","Redis","MySQL","RabbitMQ","线程池","设计模式"]

@@ -3,6 +3,7 @@ title: 放生面经-禾赛科技前端一面
 company: 禾赛科技
 position: 前端
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/901209498e0c41dbbfac4571fbb97aec
 tags: ["前端","跨域","CORS","内存模型","数组去重"]

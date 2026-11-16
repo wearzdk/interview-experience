@@ -4,6 +4,7 @@ company: 转转
 position: 后端AI开发
 round: 一面
 date: '2026-05'
+collectedAt: '2026-05-06'
 source: 牛客网
 tags: ["Java","MySQL","Redis","并发编程","算法"]
 summary: "分享转转后端AI开发实习生一面面试经验。考察重点涵盖Java HashMap底层原理、ConcurrentHashMap并发机制、线程池参数及流程、MySQL索引与事务隔离级别、Redis缓存异常处理、RabbitMQ顺序消费及Spring循环依赖等核心技术。"

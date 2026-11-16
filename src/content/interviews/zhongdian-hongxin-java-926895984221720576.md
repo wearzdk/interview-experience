@@ -4,6 +4,7 @@ company: 中电鸿信
 position: Java开发
 round: 两轮面试及笔试
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/926895984221720576
 tags: ["Java", "笔试", "系统设计"]

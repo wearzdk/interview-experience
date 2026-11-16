@@ -4,6 +4,7 @@ company: "北京润科"
 position: "硬件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/957996f2a614423590c12e2b0391fe8a"
 tags: ["北京润科", "硬件工程师", "数据采集", "恒流源", "滤波", "工频干扰"]

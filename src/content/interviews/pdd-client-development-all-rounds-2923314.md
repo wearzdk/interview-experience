@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "一面+二面+三面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f24eeb6ff9954811831db2a82a00fce6"
 tags: ["拼多多","客户端开发","Kotlin协程","C++","内存管理","多线程","HTTPS","算法手撕"]

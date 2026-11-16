@@ -4,6 +4,7 @@ company: "汇顶科技"
 position: "嵌入式开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930847031881367552"
 tags: ["嵌入式", "操作系统", "RTOS", "进程与线程", "内存管理", "内核"]

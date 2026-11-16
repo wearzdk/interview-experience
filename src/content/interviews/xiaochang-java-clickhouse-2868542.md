@@ -4,6 +4,7 @@ company: 某小厂
 position: Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-27'
 result: 凉经
 source: 牛客网
 tags: ["Java","MySQL","Redis","JVM","ClickHouse","Docker"]

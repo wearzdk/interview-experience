@@ -3,6 +3,7 @@ title: "美团秋招一面"
 company: "美团"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "AI", "算法"]
 summary: "美团秋招一面，整理面试中涉及的Java、MySQL、Redis、AI等重点问题，供求职者准备相关岗位面试时参考。"

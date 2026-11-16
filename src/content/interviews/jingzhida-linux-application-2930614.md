@@ -4,6 +4,7 @@ company: "精智达"
 position: "Linux 应用开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/42fa64b4fe844d4ea03b38c9f1cb1fd7
 tags: ["精智达", "Linux应用开发", "C++", "智能指针", "DDS", "通信协议", "二面"]

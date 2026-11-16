@@ -4,6 +4,7 @@ company: "银行"
 position: "科技岗"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940964715499380736"
 tags: ["银行科技岗","笔试","行测","图形推理","资料分析","计算机基础"]

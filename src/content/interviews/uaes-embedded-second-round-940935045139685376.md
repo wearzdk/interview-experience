@@ -4,6 +4,7 @@ company: "联合汽车电子"
 position: "嵌入式软件"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940935045139685376"
 tags: ["联合汽车电子","嵌入式软件","电驱","ASPICE","功能安全","转矩安全","量产","校招"]

@@ -4,6 +4,7 @@ company: "浪潮数字企业"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "SpringBoot", "MyBatis", "Linux"]
 summary: "HR 与业务面试官共同参加，约 12 分钟，技术问题和济南工作、全国出差等意向问题穿插进行。"

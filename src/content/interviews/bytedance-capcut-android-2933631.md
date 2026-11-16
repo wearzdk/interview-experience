@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "客户端开发（Android）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "收到感谢信"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/567a2f5f180d422a9e5c5aef5cbae192

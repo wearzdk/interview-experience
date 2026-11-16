@@ -4,6 +4,7 @@ company: 阿里云
 position: Agent算法
 round: HR面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931225300405407744
 tags: ["HR面","Agent算法","职业规划","知识体系","秋招"]

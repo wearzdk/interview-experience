@@ -4,6 +4,7 @@ company: "小红书"
 position: "大模型算法"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934238226980622336
 tags: ["大模型", "Redis", "MCP", "RAG", "搜广推", "Agent", "序列建模"]

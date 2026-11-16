@@ -3,6 +3,7 @@ title: "金证股份笔试"
 company: "金证股份"
 position: "Java开发笔试"
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "SQL", "编程题"]
 summary: "金证股份笔试记录，包含行测、Java选择题、文件操作编程题和SQL题。"

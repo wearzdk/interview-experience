@@ -4,6 +4,7 @@ company: "库犸科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e9ecda4305614ab382a9b5d64a0c09df
 tags: ["库犸科技","嵌入式","FreeRTOS","互斥锁","优先级反转","I2C","CAN","SPI","DMA"]

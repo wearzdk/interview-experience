@@ -4,6 +4,7 @@ company: "阶跃星辰"
 position: "开发者关系（技术向）实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/277091082aa9484a96a15d49af4b047a"
 tags: ["阶跃星辰", "开发者关系", "实习", "Agent", "LangChain", "Harness", "C++", "Java"]

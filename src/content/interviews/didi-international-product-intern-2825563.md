@@ -4,6 +4,7 @@ company: 滴滴
 position: 国际化产品经理实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-30'
 result: 凉经
 source: 牛客网
 tags: ["产品经理", "用户洞察", "增长指标", "聚合平台", "业务分析"]

@@ -4,6 +4,7 @@ company: 荣耀
 position: 结构工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6c63539cec444b61b88f7d42583c3ee8
 tags: ["结构工程师","机构设计","有限元","CAE","轴强度校核","齿轮齿条","机械爪","秋招"]

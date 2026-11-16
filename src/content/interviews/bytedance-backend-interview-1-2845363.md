@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 source: 牛客网
 tags: ["操作系统","Java集合","分布式系统","算法"]
 summary: "字节跳动后端开发一面面经。面试侧重考察操作系统底层原理（内存管理、CPU缓存、多核并发）、Java并发编程（concurrent包）、分布式系统路由机制以及AI Agent开发流程。算法考察力扣岛屿数量，整体偏重计算机基础八股文。"

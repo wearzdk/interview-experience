@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939624758226833408

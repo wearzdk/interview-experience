@@ -5,6 +5,7 @@ position: "AI-Agent开发"
 round: "一面"
 result: "进二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a826dc9c857e4351bde7dc1d43840072
 tags: ["Agent", "RAG", "记忆管理", "MCP", "评测", "架构设计"]

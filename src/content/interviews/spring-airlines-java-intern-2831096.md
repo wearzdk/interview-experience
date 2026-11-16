@@ -4,6 +4,7 @@ company: 春秋航空
 position: Java开发实习
 round: 线下技术面
 date: '2026-04'
+collectedAt: '2026-04-09'
 base: 重庆
 source: 牛客网
 tags: ["Java基础","Spring事务","Redis缓存","MySQL","多线程"]

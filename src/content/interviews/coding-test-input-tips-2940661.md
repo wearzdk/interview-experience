@@ -4,6 +4,7 @@ company: 通用
 position: 笔试准备
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2a926698d9d94cd9bc0139b857bd981d
 tags: ["机考","笔试","输入输出","Python","C语言","算法题","秋招"]

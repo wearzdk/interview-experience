@@ -4,6 +4,7 @@ company: 京东
 position: 后端AI开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["RAG","Java多线程","MySQL","Redis","分布式锁","设计模式"]
 summary: "京东后端AI开发一面面经，重点考察RAG流程设计、服务降级策略、Java线程池机制、MySQL索引失效与事务ACID、Redis高性能原理及分布式锁应用，并涉及AI工具在开发中的实际辅助能力与边界分析。"

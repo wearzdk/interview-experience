@@ -4,6 +4,7 @@ company: "开云集致"
 position: "AI应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cbbb3f0d77b2459cbe01bc67bb27d1c7"
 tags: ["开云集致", "AI应用开发", "RAG", "向量数据库", "文档解析", "Excel处理", "Embedding"]

@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式软件开发"
 round: "主管面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f7fc01432a2a40f5b2f204128cbad4dd
 tags: ["联芸科技","嵌入式","栈溢出","内存泄漏","bug排查","主管面"]

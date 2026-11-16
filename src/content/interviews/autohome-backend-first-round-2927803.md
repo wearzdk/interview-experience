@@ -4,6 +4,7 @@ company: "汽车之家"
 position: "后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/62f8cec4f90449cebba4b4374f51aaac"
 tags: ["汽车之家","后端开发","JWT","鉴权","HashMap","线程池","RAG","Drools","Redis","Kafka","MySQL"]

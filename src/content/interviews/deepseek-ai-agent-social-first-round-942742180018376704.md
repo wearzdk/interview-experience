@@ -4,6 +4,7 @@ company: "DeepSeek"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942742180018376704"
 tags: ["DeepSeek","Agent","Harness","LangChain","评测体系","Badcase回流","多Agent","多租户","状态机"]

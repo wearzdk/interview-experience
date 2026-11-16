@@ -4,6 +4,7 @@ company: 携程
 position: 后端Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 tags: ["Java", "并发", "计算机网络", "AI工程"]
 summary: "携程后端Agent开发一面面经，重点考察并发计数、String常量池、网络分层及AI Coding实践。"

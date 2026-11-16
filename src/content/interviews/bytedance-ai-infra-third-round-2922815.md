@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI Infra
 round: 三面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["AI Infra","CUDA","MoE","分布式训练","算子优化","Attention"]
 summary: "字节 AI Infra 三面面经，主线是分布式训练与算子开发：CUDA Graph 与 TP 并行同时启用导致卡死的定位过程、Triton/CuTe 这类 DSL 的价值、MoE 训练里 Router Replay 与 EP 并行、滑动窗口 Attention 的确定性反向优化，以及国产 GPU 上的算子 Benchmark 方法。"

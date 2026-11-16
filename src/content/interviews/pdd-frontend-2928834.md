@@ -4,6 +4,7 @@ company: "拼多多"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/89dcb3ac4f904d92af3f250b17e24149"
 tags: ["拼多多", "前端开发", "一面", "Promise", "性能优化", "手撕代码", "CSS"]

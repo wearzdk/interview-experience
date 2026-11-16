@@ -3,6 +3,7 @@ title: TCL科技Java实习面经
 company: TCL科技
 position: Java实习
 date: '2026-04'
+collectedAt: '2026-04-24'
 source: 牛客网
 tags: ["Java","Agent","AI Coding","项目经验","实习深挖"]
 summary: "TCL科技Java实习面试实录，面试侧重于实习经历与AI Agent项目的深度拷打，全程无八股文与手撕代码。本文总结了面试高频问题及应对策略，帮助Java求职者提升项目总结能力与技术交流技巧。"

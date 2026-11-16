@@ -4,6 +4,7 @@ company: "海康威视"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940356350117228544
 tags: ["海康威视","AI Agent","工具调用","上下文压缩","记忆","幂等","出行场景"]

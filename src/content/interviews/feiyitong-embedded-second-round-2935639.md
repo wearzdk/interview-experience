@@ -4,6 +4,7 @@ company: "飞易通"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2a73e6597874efaaf60a2fad5e656fc
 tags: ["飞易通","嵌入式","边缘计算","NPU","多摄像头","时序对齐","Linux","项目深挖"]

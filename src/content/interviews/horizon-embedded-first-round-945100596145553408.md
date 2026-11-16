@@ -4,6 +4,7 @@ company: 地平线
 position: 嵌入式软件工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945100596145553408
 tags: ["嵌入式","Linux内核","U-Boot","原子操作","自旋锁","实时调度"]

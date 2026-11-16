@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式软件"
 round: "双选会"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/68416d015aed48e4a55759f3fb2efb28"
 tags: ["嵌入式", "RTOS", "FreeRTOS", "LoRa", "双选会", "校招"]

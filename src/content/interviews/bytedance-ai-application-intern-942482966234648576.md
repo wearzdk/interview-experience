@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI应用开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942482966234648576
 tags: ["字节跳动", "AI应用开发实习", "Agent", "Memory", "工具调用", "评测", "RAG"]

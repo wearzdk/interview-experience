@@ -4,6 +4,7 @@ company: "好大夫"
 position: "前端开发工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["前端","JavaScript","Vue","HTTP","构建工具"]
 summary: "好大夫前端开发实习一面：覆盖闭包、ES6 新特性、BFC、水平垂直居中、HTTP 版本差异、Vue 生命周期与 Vite/Webpack 区别，还问到 uniapp 与大模型辅助编码的占比。"

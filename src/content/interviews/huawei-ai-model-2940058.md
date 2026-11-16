@@ -4,6 +4,7 @@ company: 华为
 position: AI 模型技术岗
 round: 一面 / 二面 / 三面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f42d04e7373141ada6e98288334da25d
 tags: ["华为","大模型","后训练","对齐","Agent","Reward Hacking","Attention","算法"]

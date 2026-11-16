@@ -4,6 +4,7 @@ company: 北京航天拓扑
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 北京
 source: 牛客网
 tags: ["Java","MySQL","多线程","JVM","监控系统"]

@@ -4,6 +4,7 @@ company: "小红书"
 position: "前端开发实习"
 round: "一面"
 date: '2026-08'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9da47149ecee40b1bfe437a56843e0c6
 tags: ["小红书", "前端实习", "跨域", "React", "Vue", "TypeScript", "SSR", "JavaScript"]

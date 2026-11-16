@@ -4,6 +4,7 @@ company: "华测导航"
 position: "嵌入式软件"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931524063866941440"
 tags: ["嵌入式","多传感器融合","时间同步","共享内存","多进程"]

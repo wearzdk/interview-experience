@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发实习生
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/898592847312535552
 tags: ["Java","JVM","Redis","RAG","AI工程"]

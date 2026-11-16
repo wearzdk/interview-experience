@@ -3,6 +3,7 @@ title: "网易云音乐AIGC策略产品面经分享"
 company: "网易云音乐"
 position: "策略产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 source: 牛客网
 tags: ["AI产品", "产品设计", "用户研究", "项目深挖", "产品经理"]

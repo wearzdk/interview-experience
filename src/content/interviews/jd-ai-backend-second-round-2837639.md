@@ -4,6 +4,7 @@ company: 京东
 position: AI后端开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-20'
 source: 牛客网
 tags: ["Spring AI","RAG","Agent","大模型","后端开发"]
 summary: "京东AI后端开发日常实习二面经验分享。面试重点围绕项目实战、Spring AI框架设计、RAG流程逻辑、Agent架构（长期/短期记忆）及AI辅助编程工具应用。考察候选人对大模型工程化落地及复杂业务重构的理解能力。"

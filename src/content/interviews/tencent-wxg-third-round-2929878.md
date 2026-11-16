@@ -4,6 +4,7 @@ company: "腾讯WXG"
 position: "公众号"
 round: "三面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 tags: ["腾讯","WXG","三面","HTTPS","TLS","面试复盘"]
 summary: "腾讯 WXG 公众号方向三面记录，约 45 分钟、无手撕：先问上一段实习为什么没有留用，随后围绕项目背景连续追问，最后让讲 HTTPS 的加密流程。"

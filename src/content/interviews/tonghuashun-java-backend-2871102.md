@@ -4,6 +4,7 @@ company: 同花顺
 position: Java后端开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-05'
 base: 上海
 source: 牛客网
 tags: ["Java","Redis","Lua","并发","MySQL","项目设计"]

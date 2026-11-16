@@ -4,6 +4,7 @@ company: 三七互娱
 position: 服务器开发
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-06'
 source: 牛客网
 tags: ["操作系统","布隆过滤器","Java","Spring","类加载"]
 summary: "三七互娱服务器开发AI面试面经，主要考察操作系统分段与分页、布隆过滤器误判、Java泛型与类型擦除、类加载错误、Spring事务传播行为，并追问技术难题处理和使用AI工具学习新技术的经历。"

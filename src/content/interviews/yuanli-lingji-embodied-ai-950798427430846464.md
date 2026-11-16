@@ -3,6 +3,7 @@ title: "原力灵机 具身智能算法面：VLA 架构、动作块与 IL/RL 追
 company: 原力灵机
 position: 算法（具身智能）
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950798427430846464
 tags: ["原力灵机","算法（具身智能）","VLA","模仿学习","强化学习","扩散策略","PyTorch"]

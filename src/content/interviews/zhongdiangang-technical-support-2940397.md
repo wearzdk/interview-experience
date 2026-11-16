@@ -4,6 +4,7 @@ company: 中电港
 position: 技术支持工程师（NVIDIA Jetson）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/432eea709b9a4e31b5413591ae7c4bc7
 tags: ["中电港","技术支持","NVIDIA Jetson","JetPack","TensorRT","Linux内核移植","客户支持"]

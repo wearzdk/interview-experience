@@ -4,6 +4,7 @@ company: "中芯国际"
 position: "软件开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4ab48ecd7a24447daf794ce3594f00ee
 tags: ["中芯国际","软件开发","二面","PPT","实习","Agent","AI 对开发的影响"]

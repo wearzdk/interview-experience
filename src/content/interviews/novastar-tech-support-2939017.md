@@ -4,6 +4,7 @@ company: 诺瓦星云
 position: 技术支持
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/697d2922e49845bd938a6250ca2d3f0d
 tags: ["诺瓦星云","技术支持","硬件基础","项目经历","行为面试"]

@@ -4,6 +4,7 @@ company: 中国移动
 position: IT 岗（地方分公司）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949078203073622016
 tags: ["中国移动","广东移动","IT岗","线下面试","国企","职业规划"]

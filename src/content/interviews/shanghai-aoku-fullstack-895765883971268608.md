@@ -4,6 +4,7 @@ company: 上海凹酷凹酷智能科技
 position: 全栈开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 base: 上海
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/895765883971268608

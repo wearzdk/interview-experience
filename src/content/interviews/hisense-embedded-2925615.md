@@ -4,6 +4,7 @@ company: "海信"
 position: "嵌入式软件开发"
 round: "技术面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0e45a0cd1d814531b7d311a416cb06da
 tags: ["嵌入式","C++","多态","智能指针","进程线程","死锁","HTTPS"]

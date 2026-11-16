@@ -4,6 +4,7 @@ company: "未具名公司"
 position: "技术岗"
 round: "招聘会观察"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/73f435e076e14540acd997a47db961a8"
 tags: ["招聘会", "AI Native", "面试体验", "求职选择"]

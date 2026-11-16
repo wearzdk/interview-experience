@@ -4,6 +4,7 @@ company: "某公司"
 position: "策略产品经理"
 round: "一面+二面+三面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/882645790185775104
 tags: ["数据分析", "产品经理", "面试经验"]

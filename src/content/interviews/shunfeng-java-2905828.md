@@ -4,6 +4,7 @@ company: 顺丰
 position: Java开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "Agent", "JVM", "垃圾回收"]
 summary: "顺丰 Java 开发一面，围绕 Agent 项目设计、实习经历、JVM 内存结构和垃圾回收展开。"

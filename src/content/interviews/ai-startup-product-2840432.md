@@ -3,6 +3,7 @@ title: AI初创公司产品经理Vibe Coding项目面试复盘
 company: 某AI初创公司
 position: AI产品经理
 date: '2026-04'
+collectedAt: '2026-07-16'
 source: 牛客网
 tags: ["AI产品","Vibe Coding","项目复盘","用户验证","MVP"]
 summary: "AI初创公司产品经理面试复盘，围绕Vibe Coding项目追问，重点讲解如何用背景、用户、问题、方案和结果组织项目表达并补足验证闭环。"

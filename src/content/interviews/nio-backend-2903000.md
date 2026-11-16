@@ -3,6 +3,7 @@ title: "蔚来一面面经"
 company: "蔚来"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "JVM", "Spring", "并发", "TCP", "数据库", "算法"]
 summary: "蔚来一面面经，整理面试中涉及的Java、MySQL、JVM、Spring等重点问题，供求职者准备相关岗位面试时参考。"

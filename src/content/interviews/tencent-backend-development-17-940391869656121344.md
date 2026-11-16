@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后端开发"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940391869656121344
 tags: ["腾讯","后端开发","HTTP长连接","负载均衡","微服务","服务发现","RPC框架","消息队列"]

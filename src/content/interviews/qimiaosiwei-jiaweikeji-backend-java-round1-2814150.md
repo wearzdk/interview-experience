@@ -4,6 +4,7 @@ company: 奇妙思维, 嘉为科技
 position: 后端Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 奇妙思维过一面，嘉为科技OC后拒接
 source: 牛客网
 tags: ["Java","Redis","分布式缓存","AI编程","架构设计","SQL优化"]

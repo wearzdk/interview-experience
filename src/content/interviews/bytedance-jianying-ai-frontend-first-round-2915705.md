@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI前端开发（剪映）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 base: 深圳
 source: 牛客网
 tags: ["前端","React","Agent","SSE","MCP","性能优化","LRU"]

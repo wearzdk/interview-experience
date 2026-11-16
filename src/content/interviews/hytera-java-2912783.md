@@ -4,6 +4,7 @@ company: "海能达"
 position: "Java开发"
 round: "一面、HR面、主管面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["Java", "多线程", "算法", "实习"]
 summary: "线下三轮面试，一面围绕算法竞赛、线程协作和实习经历，主管面继续聊项目与辅助开发工具的使用。"

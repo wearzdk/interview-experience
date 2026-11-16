@@ -4,6 +4,7 @@ company: 飞猪
 position: Java后端
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["Java","RAG","AQS","Spring","并发编程"]
 summary: "飞猪Java后端二面，侧重考察AI应用开发经验与Java底层原理。重点交流RAG架构选型、Agent多智能体架构，以及并发包组件、AQS锁机制、Spring MVC请求映射原理等技术栈。"

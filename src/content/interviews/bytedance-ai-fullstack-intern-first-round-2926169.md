@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 全栈开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/27b05099955e43d5a6a66013a2dea2c6
 tags: ["字节跳动","AI全栈","多Agent","Agent编排","Redis","MySQL索引","B+树","MVCC","TopK","算法"]

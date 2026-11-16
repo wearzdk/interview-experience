@@ -4,6 +4,7 @@ company: "大众 Cariad（酷睿程）"
 position: "嵌入式软件"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931550259182915584
 tags: ["嵌入式","OTA","Bootloader","C语言","MCU","volatile","秋招"]

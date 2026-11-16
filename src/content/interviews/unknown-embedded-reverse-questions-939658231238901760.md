@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式开发"
 round: "技术面+HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939658231238901760
 tags: ["嵌入式","面试反问","HR面","职业发展","校招"]

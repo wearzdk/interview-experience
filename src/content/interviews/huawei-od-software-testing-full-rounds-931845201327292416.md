@@ -4,6 +4,7 @@ company: "华为"
 position: "测试开发"
 round: "HR面+技术一面+技术二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931845201327292416"
 tags: ["测试开发","华为OD","自动化测试","性能测试","Playwright","Selenium","Shell"]

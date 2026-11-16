@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["微服务","分布式事务","MySQL","JUC","JVM","算法"]
 summary: "字节跳动国际支付部门后端开发一面面经。面试重点考察微服务架构（注册中心、DDD领域驱动设计）、分布式事务与数据一致性（Redis+DB一致性）、JUC高并发编程（AQS、ReentrantLock）、JVM垃圾回收（G1）及MySQL事务实现原理。辅以LeetCode滑动窗口算法题。"

@@ -4,6 +4,7 @@ company: 百度
 position: 全栈开发实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3616a5605a1b4211a186b30a81d666ac
 tags: ["百度","全栈开发","实习","MySQL","索引","隔离级别","幻读","B+树","Redis","排行榜","大Key","摩尔投票"]

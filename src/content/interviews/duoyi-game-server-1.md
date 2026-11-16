@@ -4,6 +4,7 @@ company: 多益网络
 position: Go后端
 round: 一面
 date: '2026-03'
+collectedAt: '2026-03-26'
 source: 牛客网
 tags: [Go, 面向对象, 网络, 游戏开发]
 ---

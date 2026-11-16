@@ -4,6 +4,7 @@ company: "芯动科技"
 position: "模拟 IC 工程师"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941342610147364864
 tags: ["芯动科技","模拟IC","芯片设计","校招","硬件工程师"]

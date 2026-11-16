@@ -4,6 +4,7 @@ company: 平安科技
 position: 后端与 AI 方向
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2c0ae5a913c64580a41ba8324f3f8c22
 tags: ["笔试","Agent","RAG","大模型","编程题","操作系统"]

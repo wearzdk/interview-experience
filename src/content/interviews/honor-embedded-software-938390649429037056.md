@@ -4,6 +4,7 @@ company: 荣耀
 position: 嵌入式软件开发
 round: 综合面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938390649429037056
 tags: ["嵌入式","综合面","职业规划","团队协作","芯片生态"]

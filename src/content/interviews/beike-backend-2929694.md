@@ -4,6 +4,7 @@ company: "贝壳"
 position: "后端研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f294e92345f14ed3881a6c2f7c076449
 tags: ["贝壳", "后端", "AI编程", "Agent", "工作流", "Kubernetes"]

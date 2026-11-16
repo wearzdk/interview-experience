@@ -3,6 +3,7 @@ title: "普华永道 测试实习生 面试分享"
 company: "普华永道"
 position: "测试"
 date: '2026-09'
+collectedAt: '2026-09-27'
 result: "已拒"
 source: 牛客网
 tags: ["测试", "实习面试", "简历深挖", "offer选择"]

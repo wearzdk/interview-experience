@@ -4,6 +4,7 @@ company: "华为"
 position: "结构工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/00fdb741daea4e3ea5cfaf6bbc11fbc6"
 tags: ["华为", "结构工程师", "仿真分析", "网格划分", "模态分析", "理论力学", "面经"]

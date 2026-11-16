@@ -4,6 +4,7 @@ company: "得物"
 position: "Java 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a2b1dea200514a99959e34723a81068b"
 tags: ["得物", "Java", "线程池", "Spring", "算法", "秒杀", "Redis"]

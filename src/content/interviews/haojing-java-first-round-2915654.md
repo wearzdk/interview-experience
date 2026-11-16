@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: Java后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","Redis","MyBatis","Spring","MySQL","缓存"]
 summary: "浩鲸科技Java一面面经，题目偏基础：Redis缓存穿透与击穿、MyBatis参数选取与参数类型、Spring中Bean互相调用的方式、MySQL建索引为什么能加速查询，以及项目收获、全栈学习与加班出差等软性问题。"

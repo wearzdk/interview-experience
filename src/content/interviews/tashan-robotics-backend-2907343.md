@@ -4,6 +4,7 @@ company: 他山科技
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "WebSocket", "RabbitMQ", "MySQL", "Redis"]
 ---

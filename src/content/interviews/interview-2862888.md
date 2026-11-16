@@ -3,6 +3,7 @@ title: ✨锐捷网络后端开发+避坑雷点赶紧收好啦~
 company: 锐捷网络
 position: 后端开发工程师
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 湖南
 source: 牛客网
 tags: ["Java", "Python", "MySQL", "LLM", "设计模式"]

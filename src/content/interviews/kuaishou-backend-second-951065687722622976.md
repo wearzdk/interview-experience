@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951065687722622976
 tags: ["快手","MySQL","事务隔离级别","MVCC","快照读","当前读","RAG","召回评估"]

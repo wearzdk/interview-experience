@@ -4,6 +4,7 @@ company: 北森云计算
 position: JAVA
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","HashMap","HTTP","SQL","数据结构"]
 summary: "北森云计算JAVA一面AI面试题分享。涵盖Java基础HashMap底层原理、HTTP会话管理、SQL Join操作优化及数据结构相关考察。本面经还包含项目经历、协作沟通能力及解决复杂技术问题的软技能评估，助你备考北森后端开发岗位。"

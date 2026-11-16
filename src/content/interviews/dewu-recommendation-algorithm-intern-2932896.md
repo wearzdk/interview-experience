@@ -4,6 +4,7 @@ company: "得物"
 position: "推荐算法实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a5a5c4100c4b42b1898c6284ab544f56
 tags: ["得物", "推荐算法", "实习", "DLRM", "RankMixer", "CrossAttention", "手撕算法"]

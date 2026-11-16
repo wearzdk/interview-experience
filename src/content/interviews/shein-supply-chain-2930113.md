@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "供应链管理"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1d6f6cef334e4ccb813bbf5cce80e856
 tags: ["SHEIN", "供应链管理", "供应商管理", "数据分析", "跨部门沟通", "英文面试"]

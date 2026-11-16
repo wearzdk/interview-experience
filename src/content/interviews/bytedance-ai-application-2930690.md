@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 应用开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c1fbd2d203714b129e4e09736be5006a
 tags: ["字节跳动", "AI应用开发", "Agent", "Plan-Execute", "RAG", "C++", "三数之和"]

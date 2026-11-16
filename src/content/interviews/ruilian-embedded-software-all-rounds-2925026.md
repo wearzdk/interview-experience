@@ -4,6 +4,7 @@ company: 睿联
 position: 嵌入式软件开发
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8ccb873677b6411683c379ca0e5c245c
 tags: ["嵌入式","网络编程","TCP","UDP","MTU","AAC","面试体验"]

@@ -4,6 +4,7 @@ company: "TP-Link"
 position: "软件开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["智力题","Vue生命周期","setInterval","std::map","B+树","优先队列","Agent"]
 summary: "TP-Link 软件开发一面没有自我介绍，上来三道智力题：绳子计时 15 分钟、轮流抛硬币的概率、电梯效率优化；随后投屏讲笔试题，追问父子组件 mounted/destroy 顺序、窗口最小化经历哪些事件、setInterval 该放哪个生命周期；最后问 std::map 与 B+ 树、priority_queue 实现与 Agent 使用经验。"

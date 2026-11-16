@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: AI 应用（Agent 与大模型应用工程）
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9d6a1ea1adc41b4a44ca47b535e9994
 tags: ["蚂蚁集团","AI Agent","大模型应用","防幻觉","Multi-Agent","知识图谱","支付系统"]

@@ -4,6 +4,7 @@ company: 武汉微派网络
 position: 服务端开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 base: 武汉
 source: 牛客网
 tags: ["Java","MySQL","Redis","JVM","消息队列","大模型"]

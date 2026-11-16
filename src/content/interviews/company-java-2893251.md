@@ -3,6 +3,7 @@ title: "水滴Java后端秋招一面，问的很细"
 company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","JVM","Spring","算法","面试经验"]
 summary: "某公司Java后端开发工程师面试记录，覆盖Java、Redis、JVM、Spring等考点，整理了面试流程与高频问题。"

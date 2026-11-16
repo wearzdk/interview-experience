@@ -3,6 +3,7 @@ title: 上海银行金融科技应用开发面：项目拷问与 bad case
 company: 上海银行
 position: 金融科技（应用开发）
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/05743863a75a41bb9f11bc35cfb82f55
 tags: ["Java","数据库","Shell","项目经历","bad case"]

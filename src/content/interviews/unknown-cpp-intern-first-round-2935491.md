@@ -4,6 +4,7 @@ company: "某公司"
 position: "C++ 开发（日常实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/604ae2cc687d4261b61abefc340b4905
 tags: ["C++","日常实习","智能指针","STL","虚函数表","TCP","进程线程","游戏引擎"]

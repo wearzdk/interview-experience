@@ -4,6 +4,7 @@ company: 广州华软科技发展
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 广州
 source: 牛客网
 tags: ["Java","MySQL","Vue","Redis","数据库索引"]

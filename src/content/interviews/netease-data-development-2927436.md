@@ -4,6 +4,7 @@ company: "网易"
 position: "数据开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cfeb85c270394be998663131b7a99dbc"
 tags: ["数据开发", "Spark", "数据倾斜", "指标口径", "AIGC", "职业规划"]

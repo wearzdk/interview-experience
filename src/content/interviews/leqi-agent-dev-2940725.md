@@ -4,6 +4,7 @@ company: 乐其电商
 position: Agent 开发工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4d71b2d04844652b1ed6bf27d8d5060
 tags: ["乐其电商","Agent开发","智能体","开源项目","AI辅助开发","实习"]

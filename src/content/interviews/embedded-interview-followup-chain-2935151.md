@@ -3,6 +3,7 @@ title: "背了三个月八股还是挂：面试官问的是定义的延长线"
 company: "牛客网用户分享"
 position: "嵌入式开发"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/568e9fdde3c648b78c5432010c559aa1"
 tags: ["嵌入式","八股文","追问链","volatile","DMA","FreeRTOS","面试方法"]

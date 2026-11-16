@@ -4,6 +4,7 @@ company: "沐曦"
 position: "云原生开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a4da773dd5014416b792c8c3854f4c70
 tags: ["云原生", "Go", "Docker", "Kubernetes", "Linux", "socket"]

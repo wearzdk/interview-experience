@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930769682645155840"
 tags: ["Redis", "Redis集群", "分布式锁", "缓存一致性", "内存管理", "主从复制", "服务端开发"]

@@ -4,6 +4,7 @@ company: "文远知行"
 position: "算法工程（后训练方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944684898370019328
 tags: ["文远知行", "MiniMax", "算法", "大模型", "后训练", "SFT", "RLHF", "自动驾驶"]

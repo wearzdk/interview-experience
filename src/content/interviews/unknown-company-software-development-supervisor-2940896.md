@@ -4,6 +4,7 @@ company: 某公司
 position: 软件开发
 round: 主管面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/690e90480dd24644ba573b4f8b014778
 tags: ["某公司","软件开发","主管面","研究生课题","项目深挖","行为面试"]

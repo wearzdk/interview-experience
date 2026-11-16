@@ -4,6 +4,7 @@ company: 携程
 position: Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Agent","LangGraph","RAG","知识图谱","大模型"]
 summary: "携程 Agent 开发岗一面面经，9 月 23 日面试，全程拷打简历主项目：LangGraph 的状态节点与 checkpoint 设计、知识图谱相对纯 RAG 的增益、自训模型与测试集回归、延迟取舍与业务背景匹配度。"

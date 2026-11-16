@@ -4,6 +4,7 @@ company: "未注明"
 position: "全栈（PE）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/af0da4c23d7b44fbb1cdba59ca6433dd
 tags: ["全栈", "PE", "多 Agent", "LangGraph", "意图识别", "RAG", "MySQL"]

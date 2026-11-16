@@ -4,6 +4,7 @@ company: "索菲亚"
 position: "管理培训生"
 round: "群面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/82943645a9d4454ba1acc0523b73072b
 tags: ["索菲亚","群面","管培生","即兴表达","校招"]

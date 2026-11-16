@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940294942633504768
 tags: ["小红书","AI Agent","八皇后","记忆系统","上下文工程","实习项目"]

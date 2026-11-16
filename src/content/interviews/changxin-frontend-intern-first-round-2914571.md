@@ -4,6 +4,7 @@ company: 长鑫科技
 position: 前端开发实习生
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 base: 合肥
 source: 牛客网
 tags: ["前端","JavaScript","TypeScript","Vue","事件循环"]

@@ -4,6 +4,7 @@ company: "上汽大通"
 position: "整车研发储备生"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/84d04fff458e41eabf736de057499d12
 tags: ["AI面", "宝洁八大问", "英语口语", "整车研发", "校招"]

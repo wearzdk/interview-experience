@@ -4,6 +4,7 @@ company: "华为OD"
 position: "测试工程师"
 round: "技术面+主管面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 result: "已入职，定级 D2"
 base: "成都"
 source: 牛客网

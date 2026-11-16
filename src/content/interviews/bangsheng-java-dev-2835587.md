@@ -3,6 +3,7 @@ title: 邦盛科技Java开发工程师面试经验
 company: 邦盛科技
 position: Java开发工程师
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["JVM","Spring AOP","数据冷热分离","线程池设计","秒杀系统"]
 summary: "邦盛科技Java开发工程师面试复盘。核心考察项目实战能力与场景解决思维，涉及JVM调优、Spring生命周期、冷热数据处理及秒杀系统线程池设计。技术栈涵盖SpringBoot、SpringCloud、Redis、Kafka及Flink，强调实时数据处理与风控模型落地。"

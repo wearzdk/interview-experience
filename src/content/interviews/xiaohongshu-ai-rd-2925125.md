@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI 研发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 tags: ["Agent","多智能体","Agent评测","Redis","MySQL","动态规划"]
 summary: "小红书 AI 研发工程师秋招一面面经：围绕实习里的 Agent 项目深挖采集方案、观测平台查询优化、评测回放的技术细节与多智能体协同协议，八股考 Redis 分布式锁与 MySQL 索引原理、索引失效场景，手撕最长公共子序列。"

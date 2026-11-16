@@ -4,6 +4,7 @@ company: BIGO
 position: 后台开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7312d95508d546f39940617178a109b9
 tags: ["HashMap","ConcurrentHashMap","线程池","MySQL","算法"]

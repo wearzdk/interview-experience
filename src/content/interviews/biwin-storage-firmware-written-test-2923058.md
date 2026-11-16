@@ -4,6 +4,7 @@ company: 佰维存储
 position: 固件开发
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["嵌入式", "C语言", "固件开发", "笔试"]
 summary: "佰维存储固件开发岗笔试记录：编程题要求手写 my_memcpy、双向链表的删除节点与头部插入，另有 volatile、宏定义 MIN、结构体大小、变量地址转换、ISR 与普通函数的区别、位操作函数、二进制中 1 的个数等题目。"

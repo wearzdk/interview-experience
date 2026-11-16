@@ -4,6 +4,7 @@ company: 20-99人小公司
 position: Java开发工程师
 round: HR面（首轮）
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/892841361353785344
 tags: ["Java","面向对象","Vue","面试流程"]

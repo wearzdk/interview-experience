@@ -4,6 +4,7 @@ company: 宇树机器人
 position: 嵌入式软件
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 挂
 base: 杭州
 source: 牛客网

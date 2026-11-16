@@ -4,6 +4,7 @@ company: "伊戈尔"
 position: "计划专员"
 round: "AI 面试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3deec867bd7e4599bbc2e39e56b7971a
 tags: ["伊戈尔","计划专员","27届校招","AI面试","行为面试","供应链","MRP","职业规划"]

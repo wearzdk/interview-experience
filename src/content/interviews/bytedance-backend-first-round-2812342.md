@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Spark","JVM","Kafka","Redis","Java并发","动态规划"]
 summary: "字节跳动后端开发社招一面面经。重点考察Spark数据倾斜与调优、JVM异常排查、Kafka可靠性保障、Redis缓存策略及过期淘汰机制。同时涉及Java并发编程（线程池、锁机制）及动态规划算法题，适合后端求职者查漏补缺。"

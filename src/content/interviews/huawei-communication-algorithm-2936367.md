@@ -4,6 +4,7 @@ company: "华为"
 position: "通信算法"
 round: "多轮"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/060bce05fabf4151bd204020f3008881"
 tags: ["华为", "通信算法", "ADMM", "OMP", "专利", "手撕代码"]

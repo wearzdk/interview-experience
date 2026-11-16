@@ -4,6 +4,7 @@ company: "蔚来"
 position: "AI 智能体应用研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c625966ca0b94facba8e18d9ad48e196
 tags: ["AI Agent","Spring AI","算法","项目深挖","跨专业","蔚来"]

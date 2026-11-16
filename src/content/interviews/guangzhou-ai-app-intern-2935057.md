@@ -3,6 +3,7 @@ title: "广州某小厂 AI 应用开发实习面试：LoRA 显存、PEFT 与量�
 company: "某公司"
 position: "AI应用开发实习"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/637283f5b2ef4767b8458b10b930e568"
 tags: ["AI应用开发","实习面试","LoRA","PEFT","量化","Transformer","微调"]

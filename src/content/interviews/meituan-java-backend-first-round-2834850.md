@@ -4,6 +4,7 @@ company: 美团
 position: Java 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-14'
 source: 牛客网
 tags: ["Java","数据库","架构设计","计算机基础","HTTP"]
 summary: "美团 AI 部门 Java 后端开发一面面经。面试考察了计算机基础、Java 核心机制、数据库分库分表与热点问题、HTTP 流式接口设计及布隆过滤器等高并发场景处理。本文整理了详细的面试问题与核心考点解析，助你备战后端面试。"

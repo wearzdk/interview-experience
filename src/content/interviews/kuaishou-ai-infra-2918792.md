@@ -4,6 +4,7 @@ company: "快手"
 position: "AI Infra"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["AI Infra", "推理优化", "Attention", "Triton", "性能分析", "量化", "AWQ", "GPU"]
 summary: "快手 AI Infra 一面面经（同场重复投稿，题目与另一篇相同）：围绕 Attention 重构、Triton 算子、profile 与 Roofline、prefill 与 decode 调度、线性注意力、AWQ 与 W8A16 追问。"

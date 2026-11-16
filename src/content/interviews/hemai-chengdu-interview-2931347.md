@@ -4,6 +4,7 @@ company: "禾迈"
 position: "技术岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0c6e3cf5c78642ee8132a9aa716f8f89
 tags: ["禾迈","成都","线下面试","校招"]

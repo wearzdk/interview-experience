@@ -4,6 +4,7 @@ company: "北京某中厂"
 position: "AI 应用开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944274527792439296
 tags: ["北京", "中厂", "二面", "CLAUDE.md", "AI 协作", "面试体验"]

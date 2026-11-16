@@ -4,6 +4,7 @@ company: "荣耀"
 position: "通用软件开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7a45a29ebce148eeae17a93a7c2fe566"
 tags: ["通用软件", "TCP", "场景设计", "面试复盘", "秋招"]

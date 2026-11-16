@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI应用开发（剪映）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["Agent","工具调用","Coding Agent","MySQL索引","Redis","大模型应用"]
 summary: "字节剪映 AI 应用开发一面共 45 问，几乎全部围绕简历上的 Coding Agent 与知识社区项目深挖：工具调用链路、大文件读取的返回设计、上下文持久化策略、安全执行与沙盒边界，最后落到 Redis Bitmap 计数、MySQL 索引、有效的括号与测试用例设计。"

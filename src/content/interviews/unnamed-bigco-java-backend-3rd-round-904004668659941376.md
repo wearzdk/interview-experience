@@ -4,6 +4,7 @@ company: 某大厂
 position: 服务端研发工程师
 round: 三面
 date: '2026-07'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/904004668659941376
 tags: ["中间件","缓存","MapReduce","校招"]

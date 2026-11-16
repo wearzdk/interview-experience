@@ -4,6 +4,7 @@ company: "海康威视"
 position: "固件开发工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3ba0d34c239b41b092419e5836c79726
 tags: ["海康威视","固件开发","成都","二面","项目验收","职业规划"]

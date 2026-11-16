@@ -3,6 +3,7 @@ title: 灵牛机器人 Qt 实习面经：界面卡顿与 QML 数据边界
 company: 灵牛机器人
 position: 智能机器人平台 Qt 开发实习
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932037843759747072
 tags: ["Qt","QML","C++","界面性能优化","TCP","架构设计"]

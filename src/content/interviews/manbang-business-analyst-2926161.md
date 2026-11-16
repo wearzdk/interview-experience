@@ -4,6 +4,7 @@ company: "满帮"
 position: "经营分析师"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f2f29112ef9b4789a1313e1139d0a954
 tags: ["满帮","经营分析师","数据分析","指标搭建","用户留存","策略输出","HR面","主管面"]

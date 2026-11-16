@@ -3,6 +3,7 @@ title: "避雷科大讯飞消费者BG的面试，骗方案！！！！"
 company: "科大讯飞"
 position: "产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 base: "合肥"
 source: 牛客网
 tags: ["产品经理", "面试经验", "项目深挖"]

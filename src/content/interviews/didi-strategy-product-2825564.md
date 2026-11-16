@@ -4,6 +4,7 @@ company: "滴滴"
 position: "策略产品经理"
 round: "一面+业务面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 source: 牛客网
 tags: ["用户研究", "项目深挖", "产品经理"]

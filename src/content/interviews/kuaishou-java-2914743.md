@@ -4,6 +4,7 @@ company: 快手
 position: Java开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","JVM","并发编程","MySQL","Redis","算法"]
 summary: "快手 Java 二面记录，面试时长 90 分钟且几乎每题都追问到底。覆盖手撕 LRU、Bean 生命周期、AOP 实现、线程池拒绝策略、HashMap 并发问题与扩容死锁、volatile 原理、垃圾回收与引用计数、MySQL 索引结构选型、Redis AOF 持久化机制。"

@@ -4,6 +4,7 @@ company: "飞轮数据科技"
 position: "前端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/51e40560d9164032939c20e396967541
 tags: ["飞轮数据科技", "前端开发实习", "并发竞态", "状态管理", "权限控制", "Git"]

@@ -4,6 +4,7 @@ company: "得物"
 position: "Java开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/68a66ac22eeb49fc8b3d88ba9ad24069
 tags: ["得物", "Java", "笔试", "AI Coding", "设计模式", "SQL"]

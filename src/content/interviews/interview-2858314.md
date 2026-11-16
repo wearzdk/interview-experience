@@ -3,6 +3,7 @@ title: 0525 图知天下 java面
 company: 京东
 position: 软件开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 广东
 source: 牛客网

@@ -4,6 +4,7 @@ company: "古茗"
 position: "前端管培生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3c84f53e993a44518445edfb43540418
 tags: ["古茗","前端","React","SSE","构建工具","tool calling","校招"]

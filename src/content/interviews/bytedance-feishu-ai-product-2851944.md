@@ -3,6 +3,7 @@ title: 字节跳动飞书 AI 产品面经
 company: 字节跳动
 position: 飞书 AI 产品经理
 date: '2026-05'
+collectedAt: '2026-07-21'
 source: 牛客网
 tags: ["字节跳动","飞书","AI产品","Agent","Workflow"]
 summary: "飞书 AI 产品面试拆解，聚焦 Agent、Workflow 与单次提示词的选型边界、Agent 的工程弊端，以及飞书多维表格使用经验。"

@@ -4,6 +4,7 @@ company: "商汤"
 position: "后端开发"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950622879224233984
 tags: ["商汤","后端开发","三面","场景题","Java","Redis"]

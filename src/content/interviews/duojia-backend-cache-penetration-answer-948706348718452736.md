@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 面试复盘
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948706348718452736
 tags: ["缓存穿透","缓存击穿","缓存雪崩","布隆过滤器","限流","监控告警"]

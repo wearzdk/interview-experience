@@ -4,6 +4,7 @@ company: 美团
 position: 全栈开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-06'
 base: 成都
 source: 牛客网
 tags: ["Java","Redis","RocketMQ","高并发","超卖处理"]

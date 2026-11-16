@@ -3,6 +3,7 @@ title: "软件测试面试题：完整讲一遍你理解的项目开发流程"
 company: "某公司"
 position: "软件测试工程师"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944753380994334720
 tags: ["软件测试","需求评审","用例评审","技术评审","上线流程","测试流程"]

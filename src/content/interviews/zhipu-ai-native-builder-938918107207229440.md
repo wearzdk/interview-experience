@@ -3,6 +3,7 @@ title: "智谱 AI Native Builder 实习面试：31 问深挖项目与 Agent 权�
 company: "智谱"
 position: "AI Native Builder（实习）"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938918107207229440
 tags: ["AI Native","Agent","权限控制","知识库","RAG","实习面试","项目深挖"]

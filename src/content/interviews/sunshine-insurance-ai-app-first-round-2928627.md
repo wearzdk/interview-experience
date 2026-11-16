@@ -4,6 +4,7 @@ company: "阳光保险"
 position: "AI应用研发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/20a1e12257c441d4804216625f11f8f4
 tags: ["阳光保险", "RAG", "Agent", "MCP", "意图识别", "Harness"]

@@ -3,6 +3,7 @@ title: 工商银行信息科技岗面经合集（总行管培、数据中心科�
 company: 工商银行
 position: 信息科技岗
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937848338261594112
 tags: ["银行面试","半结构化面试","管培生","数据中心","职业规划","校招"]

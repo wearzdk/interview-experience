@@ -4,6 +4,7 @@ company: "某公司"
 position: "AI 应用开发"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/feeede5d38f341f791c665bb7585adf7
 tags: ["Agent","RAG","LangChain","LangGraph","harness","上下文管理","LLM"]

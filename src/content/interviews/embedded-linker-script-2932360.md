@@ -3,6 +3,7 @@ title: "嵌入式面试：链接脚本改过吗，为什么改完程序起不来
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9f18a39524164fbcaceb0d007fe375e2
 tags: ["嵌入式","链接脚本","启动流程","BootLoader","向量表","HardFault"]

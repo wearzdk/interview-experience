@@ -3,6 +3,7 @@ title: "美团后端笔试记录：长距离运动与边界反弹"
 company: "美团"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["算法", "数学", "笔试"]
 round: "笔试"

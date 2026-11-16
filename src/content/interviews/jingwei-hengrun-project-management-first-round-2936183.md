@@ -4,6 +4,7 @@ company: 经纬恒润
 position: 项目管理
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/738620876af64f568d5da59ec90facd4
 tags: ["项目管理", "智能驾驶", "职业规划", "面试复盘"]

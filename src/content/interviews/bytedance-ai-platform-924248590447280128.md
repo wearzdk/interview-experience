@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI平台后端
 round: 三轮技术面+HR面
 date: '2026-06'
+collectedAt: '2026-09-01'
 result: OC
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/924248590447280128

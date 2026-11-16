@@ -3,6 +3,7 @@ title: Java 大厂高频面试题复习面经
 company: 大厂通用
 position: Java开发
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/924252040413319168
 tags: ["Java", "JVM", "并发编程", "Spring", "面试准备"]

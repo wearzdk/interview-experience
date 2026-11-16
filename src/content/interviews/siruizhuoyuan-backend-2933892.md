@@ -4,6 +4,7 @@ company: "思锐卓远"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0f5d23c10d6643eaa8b8600d0462d75d
 tags: ["思锐卓远","后端","SQL优化","explain","RAG","MCP"]

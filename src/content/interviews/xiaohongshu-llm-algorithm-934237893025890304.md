@@ -4,6 +4,7 @@ company: "小红书"
 position: "大模型算法"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934237893025890304
 tags: ["大模型", "RAG", "LoRA", "InfoNCE", "LangGraph", "Agent", "上下文管理"]

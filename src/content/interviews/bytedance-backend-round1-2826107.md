@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["MySQL","索引","事务隔离","Java多线程","Spring","算法"]
 summary: "字节跳动后端开发一面面经，涉及MySQL事务隔离级别、脏读幻读不可重复读、B+树索引原理、联合索引实现、线程与进程区别、Java线程间参数传递、Spring循环依赖解决方案，以及打家劫舍变种算法题，适合Java后端求职者备考参考。"

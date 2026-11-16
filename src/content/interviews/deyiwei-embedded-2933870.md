@@ -4,6 +4,7 @@ company: "得一微"
 position: "嵌入式软件（高性能存储）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c72a1e9cecd548c7ba88c8c1e3e0cfdb
 tags: ["得一微","嵌入式","HardFault","DMA","缓冲区","丢包"]

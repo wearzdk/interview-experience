@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发实习
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931203261309153280
 tags: ["后端实习","Feed","AI Coding","算法题","链表","面试复盘"]

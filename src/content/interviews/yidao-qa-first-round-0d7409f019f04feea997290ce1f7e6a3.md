@@ -4,6 +4,7 @@ company: "亿道集团"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0d7409f019f04feea997290ce1f7e6a3
 tags: ["软件测试","亿道集团","一面","HR面","实习经历","秋招"]

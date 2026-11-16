@@ -4,6 +4,7 @@ company: "平安银行"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9278eb5974b4a189a1150c68cda0b00
 tags: ["平安银行","后端开发","SpringCloud","RocketMQ","Redis","RAG","Agent"]

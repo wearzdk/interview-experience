@@ -3,6 +3,7 @@ title: "武汉亚信科技后端面经：Spring Boot 启动、并发工具与中
 company: "亚信科技"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/588918ea6b4d478b993f3fdf7f3705fa
 tags: ["亚信科技", "后端开发", "Spring Boot", "CAS", "消息队列", "Redis", "JVM调优", "Docker"]

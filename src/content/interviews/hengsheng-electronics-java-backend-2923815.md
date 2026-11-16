@@ -4,6 +4,7 @@ company: 恒生电子
 position: Java后端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/26865be167dc49b880d66b174b954824
 tags: ["Java","AOP","Spring","分布式锁","HTTPS","慢查询"]

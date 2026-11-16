@@ -3,6 +3,7 @@ title: 北京用友金融-Java后端开发面经
 company: 用友金融
 position: Java后端开发
 date: '2026-04'
+collectedAt: '2026-04-15'
 result: 凉凉
 base: 北京
 source: 牛客网

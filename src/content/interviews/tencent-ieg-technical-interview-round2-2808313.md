@@ -4,6 +4,7 @@ company: 腾讯
 position: 技术岗位
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["MySQL","分布式系统","大模型","多线程","TCP"]
 summary: "腾讯IEG春招二面面经，重点考察数据库原理（MySQL/Redis/Mongo）、分布式一致性协议（Raft/2PC）、TCP网络编程、操作系统内存管理、多线程及死锁，深度探讨了大模型应用开发（RAG/Prompt压缩/Token优化）及项目实践与架构设计。"

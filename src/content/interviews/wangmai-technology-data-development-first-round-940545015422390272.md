@@ -4,6 +4,7 @@ company: "旺脉科技"
 position: "数据开发（社招）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940545015422390272
 tags: ["旺脉科技","数据开发","窗口函数","ROW_NUMBER","Spark","HashMap","Text-to-SQL","AI排障Agent"]

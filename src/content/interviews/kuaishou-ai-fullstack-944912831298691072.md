@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944912831298691072
 tags: ["快手", "AI全栈", "Doris", "Coding Agent", "MCP", "AI Coding"]

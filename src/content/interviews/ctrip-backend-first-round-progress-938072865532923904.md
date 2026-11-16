@@ -4,6 +4,7 @@ company: 携程
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938072865532923904
 tags: ["携程", "后端", "笔试", "AI面试", "场景题"]

@@ -4,6 +4,7 @@ company: "多家互联网公司"
 position: "AI 面试"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6c53a33a91464aada4df1782a92f85ac
 tags: ["AI面试","行为面试","京东","兴业银行","联合利华","建行","面试规则"]

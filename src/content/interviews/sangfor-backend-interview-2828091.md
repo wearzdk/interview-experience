@@ -4,6 +4,7 @@ company: 深信服
 position: 后端开发
 round: 一面、二面
 date: '2026-04'
+collectedAt: '2026-04-07'
 result: 挂
 source: 牛客网
 tags: ["LRU","AI Coding","RAG","存储原理","后端开发"]

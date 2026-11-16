@@ -3,6 +3,7 @@ title: "国药控股 AI Agent：意图识别与工具挑选"
 company: "国药控股广东生物科技"
 position: "AI Agent 开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/18d271f86bda4d81afb30f02164352f1
 tags: ["国药控股","AI Agent","LangChain","意图识别","虚拟滚动","Codex","求职规划"]

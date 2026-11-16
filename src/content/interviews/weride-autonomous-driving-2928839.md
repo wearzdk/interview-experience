@@ -4,6 +4,7 @@ company: "文远知行"
 position: "自动驾驶算法验证"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f5bbeced0a4241aba3af3a49af183d1f"
 tags: ["文远知行", "自动驾驶算法验证", "激光雷达", "多模态", "端到端", "UNet", "Transformer"]

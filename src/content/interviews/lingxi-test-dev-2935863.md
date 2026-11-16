@@ -4,6 +4,7 @@ company: 灵犀互娱
 position: 测试开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f461312d2e1642e4b32dd1d913ee4c5f
 tags: ["游戏测试", "永劫无间", "测试用例", "Agent", "语义召回", "chunk切分"]

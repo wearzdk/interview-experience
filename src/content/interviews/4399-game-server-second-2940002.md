@@ -4,6 +4,7 @@ company: "4399"
 position: 游戏服务器开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c02d423bdb34411cade0288cf15f48a6
 tags: ["4399","游戏服务器","二面","项目深挖","开源","AI提效","职业规划","加班","期望薪资"]

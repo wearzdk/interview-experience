@@ -4,6 +4,7 @@ company: "小红书"
 position: "Product Engineer"
 round: "一面+二面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "Agent", "项目深挖", "计算机网络", "实习"]

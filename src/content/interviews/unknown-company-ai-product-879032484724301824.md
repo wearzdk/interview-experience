@@ -3,6 +3,7 @@ title: "Agent产品经理面试都在问什么？"
 company: "某公司"
 position: "AI产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/879032484724301824
 tags: ["AI产品", "Agent", "用户研究", "产品经理"]

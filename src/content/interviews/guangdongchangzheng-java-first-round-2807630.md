@@ -4,6 +4,7 @@ company: 广东长正
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","SpringBoot","SpringMVC","Redis","MySQL"]
 summary: "广东长正Java开发一面面经，面试考察了项目经历、SpringBoot与SpringMVC框架、Redis集成开发、MySQL多表关联及索引优化等核心技术点，并探讨了实际场景下的增删改查实现思路。"

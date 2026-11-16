@@ -4,6 +4,7 @@ company: 去哪儿旅行
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","数据结构","集合框架","项目管理"]
 summary: "去哪儿旅行Java岗位AI一面面经，考察重点包括快速排序算法、Java集合框架(List/Set/Map)底层原理、Redis五种数据类型及排行榜设计方案，同时侧重考察项目挑战与团队协作沟通能力。"

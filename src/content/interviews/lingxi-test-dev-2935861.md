@@ -4,6 +4,7 @@ company: 灵犀互娱
 position: 测试开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/39a54c08769243eb961539bcff665389
 tags: ["游戏测试", "测试开发", "王者荣耀", "TCP", "UDP", "压测", "逻辑题"]

@@ -4,6 +4,7 @@ company: "熙牛医疗"
 position: "Java开发实习生"
 round: "一面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 tags: ["Java", "线程池", "Spring", "MySQL", "JVM", "并发"]
 summary: "熙牛医疗 Java 开发实习生一面，考察实习经历、线程池、锁、Spring 循环依赖、慢 SQL、HashMap 和 OOM。"

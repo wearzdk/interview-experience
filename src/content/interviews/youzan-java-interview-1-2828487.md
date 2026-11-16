@@ -4,6 +4,7 @@ company: 有赞
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 result: 凉经
 base: 杭州
 source: 牛客网

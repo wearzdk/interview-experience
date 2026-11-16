@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台AI开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-15'
 result: 挂
 source: 牛客网
 tags: ["Redis","Lua脚本","Java锁","线程池","算法"]

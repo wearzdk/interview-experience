@@ -4,6 +4,7 @@ company: 智元机器人
 position: 嵌入式软件
 round: 一面+二面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939087375207092224
 tags: ["嵌入式","MCU","RTOS","FreeRTOS","I2C","SPI","CAN","DMA","优先级反转","机器人"]

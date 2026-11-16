@@ -3,6 +3,7 @@ title: 多益网络软件工程师面经
 company: 多益网络
 position: 软件工程师
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "JVM", "MySQL", "Redis", "数组"]
 summary: "多益网络软件工程师面经，涉及 Bean 生命周期、JVM、数据库事务、缓存问题、Agent 技术和数组操作。"

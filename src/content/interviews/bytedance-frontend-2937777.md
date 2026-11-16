@@ -4,6 +4,7 @@ company: 字节跳动
 position: "前端开发"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/77f67869d54e4487af5b4b40ae26435f
 tags: ["字节跳动","前端","三面","SSE","RAG","低代码","命令模式"]

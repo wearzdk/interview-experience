@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发工程师
 round: 一面、二面、HR面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 已Offer
 source: 牛客网
 tags: ["Redis","MySQL","分布式锁","索引优化","算法与数据结构"]

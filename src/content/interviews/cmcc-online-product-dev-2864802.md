@@ -4,6 +4,7 @@ company: "中移在线"
 position: "产品开发工程师"
 round: "二面+终面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 base: "浙江"
 source: 牛客网

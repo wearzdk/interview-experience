@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发工程师
 round: 二面
 date: '2026-08'
+collectedAt: '2026-08-29'
 source: 牛客网
 tags: ["Java", "Agent", "MySQL", "限流", "ZooKeeper"]
 summary: "字节跳动后端开发二面面经，结合 Agent 与知识库项目追问技术选型，并考察消息堆积、MySQL 慢查询、限流算法、HashMap、线程池和 ZooKeeper。"

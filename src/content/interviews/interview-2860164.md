@@ -4,6 +4,7 @@ company: 文友信息科技
 position: 软件开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 湖南
 source: 牛客网
 tags: ["Java", "消息队列", "算法"]

@@ -3,6 +3,7 @@ title: "金山办公阿拉伯语翻译实习面试题：实习经历与口笔译
 company: "金山办公"
 position: "阿拉伯语翻译"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2fa4c7ede4b04ad49601bcb3fe171238"
 tags: ["金山办公", "阿拉伯语翻译", "小语种面试", "翻译实习", "口译与笔译", "协同办公"]

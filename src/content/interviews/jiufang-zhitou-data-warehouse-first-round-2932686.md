@@ -4,6 +4,7 @@ company: "九方智投"
 position: "数仓开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4b368f8f0e4c451990fb01953c67ce98
 tags: ["九方智投", "数仓开发", "DataWorks", "数仓分层", "维度建模", "HiveSQL"]

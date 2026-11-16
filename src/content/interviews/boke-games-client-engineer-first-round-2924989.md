@@ -4,6 +4,7 @@ company: 波克城市
 position: 游戏客户端开发（出海休闲小游戏）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8becda9a97b847b4a8857abe878349b3
 tags: ["游戏客户端","消息乱序","长连接","AIGC","数据结构","算法"]

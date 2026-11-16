@@ -3,6 +3,7 @@ title: "西安智唐科技后端面经：SingleFlight Key 设计、ASR 拼接与
 company: "智唐科技"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/87751ad67e9141b8b32afb6ca49e99a8
 tags: ["智唐科技", "后端开发", "SingleFlight", "Redis", "MongoDB", "WebSocket", "讯飞ASR", "部署"]

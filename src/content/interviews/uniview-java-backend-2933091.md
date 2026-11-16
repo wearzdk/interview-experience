@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "Java后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dc51311804b74e3596cd212708c1c51b
 tags: ["宇视科技","Java","ConcurrentHashMap","JVM","垃圾回收","MySQL索引","Git","大模型"]

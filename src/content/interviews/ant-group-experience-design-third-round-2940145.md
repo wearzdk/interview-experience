@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "体验设计"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a15c0906b0ed4b10a25ef39497634bf9
 tags: ["蚂蚁集团","体验设计","终面","校招","面试体验","作品集"]

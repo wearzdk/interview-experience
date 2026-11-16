@@ -4,6 +4,7 @@ company: 途虎养车
 position: 技术岗
 round: AI面试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a361f94bef3e45cab4adff6ffa3b8d9f
 tags: ["AI面试","大模型项目","微服务","链路追踪","知识库","职业规划"]

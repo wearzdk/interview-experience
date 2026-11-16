@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f2572e2cb00144458b7605876c763603"
 tags: ["百度","大模型算法","GRPO","Agentic RL","奖励函数","Qwen","数据配比","机器学习"]

@@ -4,6 +4,7 @@ company: 波克
 position: 应用研发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","JVM","GC","OOM排查","Agent","AI工具"]
 summary: "波克应用研发二面面经，围绕 JVM 与垃圾回收：CMS 如何判定可回收对象、OOM 排查路径、jstat 老年代占比的含义，并延伸到用 AI 分析 OOM、设计 OOM 排查 Agent 与抑制工具调用幻觉。"

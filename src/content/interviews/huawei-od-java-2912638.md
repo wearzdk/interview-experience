@@ -4,6 +4,7 @@ company: "华为OD"
 position: "Java开发"
 round: "多轮面试"
 date: "2026-09"
+collectedAt: '2026-09-17'
 base: "上海"
 source: "牛客网"
 tags: ["Java", "设计模式", "Spring", "TCP", "Agent", "RAG", "算法"]

@@ -3,6 +3,7 @@ title: 合肥某小厂Java后端面经
 company: 合肥某小厂
 position: Java后端开发
 date: '2026-07'
+collectedAt: '2026-07-05'
 base: 安徽合肥
 source: 牛客网
 tags: ["Java","AI Agent","RAG","项目经验","自学"]

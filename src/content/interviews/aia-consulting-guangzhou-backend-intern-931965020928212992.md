@@ -3,6 +3,7 @@ title: "友邦咨询（广州）后端开发实习面：AI 编程与 RAG 项目"
 company: "友邦咨询"
 position: "后端开发实习"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931965020928212992
 tags: ["后端开发","实习","AI编程","RAG","Java","多线程","秋招"]

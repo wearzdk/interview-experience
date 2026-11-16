@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/83ec14b3ae3b437b94ea89000667e701
 tags: ["网易云音乐","全栈开发","Agent","意图识别","JVM","双亲委派","MySQL索引"]

@@ -4,6 +4,7 @@ company: 滴滴出行
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","HTTP","数据库优化","高并发"]
 summary: "滴滴Java社招一面面经，重点考察LRU算法实现、HTTP协议结构与状态码分析、MySQL InnoDB索引原理及索引失效场景判断，探讨超大规模订单表数据库拆分与分页优化方案，适合准备Java面试的候选人参考。"

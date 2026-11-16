@@ -4,6 +4,7 @@ company: 海康威视
 position: Agent 开发（实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b3f0a1b58fba41a9bffb5df3497da289
 tags: ["海康威视","Agent开发","实习","多Agent","Skill","工具调用","AI提效"]

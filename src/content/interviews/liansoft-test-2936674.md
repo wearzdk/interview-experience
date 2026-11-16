@@ -4,6 +4,7 @@ company: "联软科技"
 position: "测试工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c7e56bee45bc4dafbe060ab9d0323128
 tags: ["测试","HTTP","OSI","pytest","测试用例","面向对象"]

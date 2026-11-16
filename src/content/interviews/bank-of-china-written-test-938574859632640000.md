@@ -4,6 +4,7 @@ company: 中国银行
 position: 信息科技岗
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938574859632640000
 tags: ["笔试","银行笔试","信息科技岗","EPI","408","校招"]

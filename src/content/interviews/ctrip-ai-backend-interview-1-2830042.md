@@ -4,6 +4,7 @@ company: 携程
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-08'
 source: 牛客网
 tags: ["Redis","系统设计","JVM","MQ","算法"]
 summary: "携程AI后端开发一面面经，重点考察领域驱动设计(DDD)、Redis缓存穿透、大规模日志存储系统设计、冷热数据分离策略、Java 21虚拟线程特性、MQ积压处理及约瑟夫环算法。适合备战大厂后台研发的求职者参考。"

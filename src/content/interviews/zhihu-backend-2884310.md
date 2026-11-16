@@ -3,6 +3,7 @@ title: "知乎后端开发实习面经-一轮"
 company: "知乎"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","计算机网络","算法","AI应用","Go"]
 summary: "知乎Java后端开发工程师面试记录，覆盖Java、Redis、计算机网络、算法等考点，整理了面试流程与高频问题。"

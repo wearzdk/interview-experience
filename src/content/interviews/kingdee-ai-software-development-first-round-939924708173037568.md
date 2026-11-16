@@ -4,6 +4,7 @@ company: "金蝶"
 position: "软件开发（AI 方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939924708173037568
 tags: ["金蝶","AI应用","AOP","混合检索","RAG","会话记忆","摘要压缩","Agent设计","知识库"]

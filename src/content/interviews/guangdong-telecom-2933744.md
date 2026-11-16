@@ -4,6 +4,7 @@ company: "广东电信"
 position: "软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d88c1f4a9cf049ccacb5c678c31876cf
 tags: ["广东电信","软件开发","实习","Agent","云网"]

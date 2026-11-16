@@ -4,6 +4,7 @@ company: 百度
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932313667943616512
 tags: ["Java","Agent","RAG","ReAct","HashMap","消息队列"]

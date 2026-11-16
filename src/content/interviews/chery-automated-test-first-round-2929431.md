@@ -4,6 +4,7 @@ company: "奇瑞汽车"
 position: "诊断自动化测试助理工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cadaee89c18d4960830453cc17f159a7
 tags: ["自动化测试", "测试框架", "小程序", "车载测试", "CAN", "UDS"]

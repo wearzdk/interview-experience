@@ -4,6 +4,7 @@ company: 美团
 position: 大模型应用算法
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949374159144902656
 tags: ["美团","大模型应用","RAG","RRF","Embedding","重排","评测"]

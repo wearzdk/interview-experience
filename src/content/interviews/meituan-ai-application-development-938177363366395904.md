@@ -4,6 +4,7 @@ company: 美团
 position: AI应用开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 通过
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938177363366395904

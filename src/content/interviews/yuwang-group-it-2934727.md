@@ -4,6 +4,7 @@ company: 德州禹王集团
 position: 计算机技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1985e33f095f451e8fcf6115f3ea423d
 tags: ["禹王集团", "校招", "专业课", "C++", "数据库"]

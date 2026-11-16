@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948705744176640000
 tags: ["MySQL","联合索引","filesort","覆盖索引","IN","执行计划"]

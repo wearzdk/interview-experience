@@ -3,6 +3,7 @@ title: "腾讯 WXG 数据工程面经：408 基础被逐条追问"
 company: "腾讯"
 position: "数据工程"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/704ae98e9bea44258c75c3c00b546a96
 tags: ["腾讯", "WXG", "数据工程", "操作系统", "计算机网络", "面经"]

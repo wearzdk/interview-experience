@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端研发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已约二面
 source: 牛客网
 tags: ["手撕代码","扑克牌","回溯","系统设计","高可用","服务端"]

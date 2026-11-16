@@ -3,6 +3,7 @@ title: 百度 前端开发岗面经 两轮 42 题汇总
 company: 百度
 position: 前端开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931706172829106176
 tags: ["前端","React","TypeScript","Vite","性能优化","流式渲染"]

@@ -4,6 +4,7 @@ company: 用友
 position: Java全栈开发
 round: 笔试
 date: '2026-08'
+collectedAt: '2026-08-30'
 result: 部分通过
 source: 牛客网
 tags: ["Java", "算法", "滑动窗口", "字符串", "图搜索", "笔试"]

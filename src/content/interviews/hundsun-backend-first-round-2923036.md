@@ -4,6 +4,7 @@ company: 恒生电子
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["Java", "HashMap", "分库分表", "幂等", "SQL优化"]
 summary: "恒生电子后端开发一面面经（20 分钟）：项目技术栈、重试与幂等策略、大批量并发资源申请的处理、QPS 与为什么不用 Redis、HashMap 底层实现与线程安全、String 三兄弟区别、SQL 优化角度、分库分表概念与实现。"

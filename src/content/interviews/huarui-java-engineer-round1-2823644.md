@@ -4,6 +4,7 @@ company: 华锐技术
 position: Java 开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","JVM","MySQL","TCP-IP","HashMap","XXL-Job"]
 summary: "华锐分布式 Java 一面面经，涵盖 HashMap 底层实现、JVM 核心模块与 GC 回收机制、JDK17 新特性、TCP-UDP 区别、OSI 网络模型、Linux 常用命令、SQL 聚合查询、XXL-Job 使用场景等核心考点，适合备战 Java 后端开发面试。"

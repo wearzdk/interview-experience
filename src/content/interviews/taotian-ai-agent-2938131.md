@@ -4,6 +4,7 @@ company: "淘天"
 position: "AI Agent 应用研发"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f2995b761244484db735fd2ccf62db50"
 tags: ["淘天","AI Agent","大模型","幻觉治理","评测","Ontology","DPO","后训练","Planner","秋招"]

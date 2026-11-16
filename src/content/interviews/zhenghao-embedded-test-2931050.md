@@ -4,6 +4,7 @@ company: "正浩创新"
 position: "嵌入式测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2c581a0c676d415ab6323d8debe226a6
 tags: ["正浩创新", "嵌入式测试", "测试开发", "覆盖率", "硬件基础", "示波器", "储能"]

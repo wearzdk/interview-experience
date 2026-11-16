@@ -4,6 +4,7 @@ company: 满帮集团
 position: 全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "并发编程", "Spring", "LangGraph", "MySQL"]
 summary: "满帮集团全栈开发一面，围绕项目实践、Java并发容器、Spring事务、慢SQL排查和LangGraph展开，面试时长约20分钟。"

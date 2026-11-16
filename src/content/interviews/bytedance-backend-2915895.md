@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["字节跳动","Agent","MCP","RPC","Redis","乐观锁","分布式一致性"]
 summary: "字节后端一面，前半小时深挖 AI Agent 项目：底层设计优化、MCP 与 RPC 接口的区别、开发 MCP 最要紧的是什么、出参入参出错怎么防、Skill/workflow/Agent 三者的联系与区别、为什么用 Agent 而不是把能力写成 Skill、评审准确率等指标怎么算；后半段转后端八股：Redis 用 Lua 预扣减后为什么还要乐观锁兜底、消息 exactly once 下还要不要兜底、强一致与最终一致、Redis 主从同步传的是什么。最后 20 分钟两道手撕。"

@@ -4,6 +4,7 @@ company: "传音"
 position: "储能工程师"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["储能", "通信协议", "SOC", "Linux", "RTOS"]
 summary: "传音储能岗三面面经，一面深挖美的实习的通信协议、数据格式、协议选型、粘包与安全设计，二面问项目设计和异常天气，三面问 SOC 估算、Linux 与 RTOS 区别，以及 offer、薪资和工作地。"

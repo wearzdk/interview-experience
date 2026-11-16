@@ -4,6 +4,7 @@ company: "恒玄科技"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/33ca1ca3fe7a44e0b6643a5c9b7c26ba
 tags: ["恒玄科技","嵌入式","FreeRTOS","优先级反转","互斥锁","信号量"]

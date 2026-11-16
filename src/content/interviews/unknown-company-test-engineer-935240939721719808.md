@@ -3,6 +3,7 @@ title: "测试面试：重复提交，别只盯着按钮"
 company: "某公司"
 position: "测试工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935240939721719808
 tags: ["软件测试","重复提交","幂等","接口测试","测试用例"]

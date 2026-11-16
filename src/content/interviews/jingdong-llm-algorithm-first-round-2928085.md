@@ -4,6 +4,7 @@ company: "京东"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-17'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a1967d04c0ae4e7292becaad828b552f
 tags: ["京东","大模型","多模态","M-RoPE","SAM2","LoRA","扩散模型"]

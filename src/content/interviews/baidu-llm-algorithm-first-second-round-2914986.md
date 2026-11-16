@@ -4,6 +4,7 @@ company: 百度
 position: 大模型算法
 round: 一面+二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","强化学习","GSPO","多智能体","多模态","MRoPE","RAG","手撕"]
 summary: "百度大模型算法岗一二面面经。一面考强化学习对齐选型（GSPO 相对 PPO、GRPO 的优势）、多智能体协作与记忆、Qwen 多模态与 MRoPE、RAG 全流程，手撕最长公共子序列；二面考 ReAct、SFT 与 RLHF 数据、自注意力与 QKV。"

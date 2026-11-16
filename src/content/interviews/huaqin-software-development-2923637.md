@@ -4,6 +4,7 @@ company: 华勤技术
 position: 软件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/203ea2c4f90b4beda8ad40cfd4406d32
 tags: ["Elasticsearch","检索优化","OpenFeign","AI编程","SQL优化","微服务"]

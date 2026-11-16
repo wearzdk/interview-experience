@@ -3,6 +3,7 @@ title: "狄耐克软件测试岗面试：用例设计与 bug 提交"
 company: "狄耐克"
 position: "软件测试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d5c27bb930374730a7440e736d8be984
 tags: ["软件测试","测试用例","等价类划分","接口测试","Linux","秋招"]

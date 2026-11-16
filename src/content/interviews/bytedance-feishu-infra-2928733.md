@@ -4,6 +4,7 @@ company: "字节跳动（飞书）"
 position: "前端全栈（飞书基建）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/5eaf1ca6d057469a8d1df64beaa0ec00"
 tags: ["字节跳动", "飞书", "前端", "全栈", "AST", "性能优化", "Agent", "流式渲染"]

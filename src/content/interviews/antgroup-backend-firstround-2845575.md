@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-30'
 result: 凉经
 source: 牛客网
 tags: ["Agent","Java","MySQL","多线程","数据库事务"]

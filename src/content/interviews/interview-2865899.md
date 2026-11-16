@@ -3,6 +3,7 @@ title: 族游网络实习
 company: 族游网络
 position: 软件开发实习生
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 江苏
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "Spring", "计算机网络"]

@@ -4,6 +4,7 @@ company: 金航数码
 position: Java开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939179064978309120
 tags: ["Java","Spring","SpringAI","防重复提交","幂等","八股"]

@@ -4,6 +4,7 @@ company: 顺丰
 position: Java开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","MySQL","联合索引","幂等","MQ","AI提效"]
 summary: "顺丰 Java 线下二面记录，全程严格限制 30 分钟。围绕实习经历深挖上下游通信方式、流量规模与幂等设计，随后考察数据库压力缓解与联合索引的最左匹配细节，最后聊到日常如何使用 AI 以及人工介入的时机。"

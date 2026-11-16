@@ -4,6 +4,7 @@ company: "衡泰技术"
 position: "测试工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/704f5609f5994da9bd0b8225b98c5766
 tags: ["笔试","测试工程师","Linux命令","SQL","缺陷管理","回归测试","秋招"]

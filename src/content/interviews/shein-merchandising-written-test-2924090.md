@@ -4,6 +4,7 @@ company: 希音
 position: 商品企划
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d86fce1a4a3d4ba9ad07029a300adc71
 tags: ["笔试","商品企划","逻辑推理","数据分析","校招"]

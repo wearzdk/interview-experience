@@ -4,6 +4,7 @@ company: "宁波银行"
 position: "金融科技岗"
 round: "终面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4ce9f07970174be19f71214f8af8bfad
 tags: ["宁波银行", "金融科技", "终面", "辩论赛", "银行面试", "测试流程"]

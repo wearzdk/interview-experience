@@ -4,6 +4,7 @@ company: 东软
 position: java实习岗
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 result: 已通过
 source: 牛客网
 tags: ["Java","MySQL","数据库索引","AOP","JVM"]

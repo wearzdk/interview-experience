@@ -4,6 +4,7 @@ company: "九江银行"
 position: "银行校招岗"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/417c0599b4284b098e8d130d7afc9d81
 tags: ["九江银行","银行校招","AI面试","自我介绍","项目难点","团队协作","技能学习"]

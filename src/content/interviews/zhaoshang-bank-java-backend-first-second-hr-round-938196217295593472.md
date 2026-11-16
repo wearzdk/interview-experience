@@ -4,6 +4,7 @@ company: "招商银行"
 position: "Java后端"
 round: "一面+二面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 base: "深圳/杭州/成都"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938196217295593472"

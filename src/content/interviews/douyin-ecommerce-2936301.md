@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "电商业务（岗位未注明）"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/349ad96365534d85a9a64148fd721f7a"
 tags: ["字节跳动", "抖音电商", "后端开发", "LRU", "手撕代码", "数据结构"]

@@ -3,6 +3,7 @@ title: "面了 5 家都挂？不是技术差，是缺反馈闭环"
 company: "某公司"
 position: "软件工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/936738983629844480
 tags: ["面试技巧","面试复盘","STAR","项目经历","职业规划"]

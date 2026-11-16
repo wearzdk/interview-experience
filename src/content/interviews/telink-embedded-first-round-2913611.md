@@ -4,6 +4,7 @@ company: "泰凌微"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["嵌入式", "RTOS", "看门狗", "CAN", "Bootloader", "大小端"]
 summary: "泰凌微嵌入式软件一面，24 个问题覆盖 RTOS 任务时序与看门狗、核间中断与共享内存、任务栈与 CPU 利用率统计、CAN 仲裁、Bootloader 断电保护、UART 大小端与启动排查，末尾还有两段英语口语。"

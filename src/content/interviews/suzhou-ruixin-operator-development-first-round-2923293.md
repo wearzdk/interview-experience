@@ -4,6 +4,7 @@ company: "苏州睿芯"
 position: "算子开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 base: "苏州"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e364b45f08e24699865b8f19a56f49c4"

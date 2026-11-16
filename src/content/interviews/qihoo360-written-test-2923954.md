@@ -4,6 +4,7 @@ company: "360"
 position: 笔试
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e9bdc0424e80463abf2023f5f44372cb
 tags: ["笔试","360","欧拉图","动态规划","前缀和"]

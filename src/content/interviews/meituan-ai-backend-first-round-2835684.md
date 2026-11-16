@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["Java","Redis","线程池","设计模式","IO多路复用"]
 summary: "美团AI后端开发日常实习一面面经。面试涵盖实习与项目深度拷打，重点考查Java并发编程（线程池、Future）、Redis底层数据结构（ZSet）、IO多路复用原理及设计模式。含手撕算法题：重排链表。"

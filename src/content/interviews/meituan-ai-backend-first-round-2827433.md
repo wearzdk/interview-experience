@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["Redis","Java并发","LLM","算法","系统设计"]
 summary: "美团AI后端开发一面面经，考察重点包括Redis（位图、一主多从、Lua并发、缓存击穿）、Java并发编程（synchronized原理与锁优化）、大模型相关知识（LLM、Agent、LangChain）以及经典算法题：K个一组翻转链表。"

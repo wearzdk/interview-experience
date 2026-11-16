@@ -4,6 +4,7 @@ company: "上海银行"
 position: "科技岗 开发"
 round: "线下群面"
 date: '2026-10'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3a90533f60aa40329935c60faa207057
 tags: ["上海银行", "银行科技岗", "RPC", "收包优化", "传输链路", "实习项目"]

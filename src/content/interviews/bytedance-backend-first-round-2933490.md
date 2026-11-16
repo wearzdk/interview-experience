@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6925dfb9ec844f03957cb54981057cea
 tags: ["字节跳动", "后端开发", "一面", "RAG", "Agent", "向量检索", "MySQL事务", "力扣25"]

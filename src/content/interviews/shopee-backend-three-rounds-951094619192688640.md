@@ -4,6 +4,7 @@ company: 虾皮
 position: 后端开发
 round: 一面 / 二面 / 三面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951094619192688640
 tags: ["虾皮","后端开发","HashMap","MCP","Redis","延迟队列","热Key","评测集","手撕代码"]

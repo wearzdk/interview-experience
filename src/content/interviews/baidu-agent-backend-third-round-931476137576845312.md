@@ -4,6 +4,7 @@ company: "百度"
 position: "Agent后端开发"
 round: "三面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931476137576845312"
 tags: ["Agent","RAG","向量数据库","Milvus","性能优化"]

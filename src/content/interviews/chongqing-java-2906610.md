@@ -4,6 +4,7 @@ company: 重庆九八五商贸
 position: Java开发
 round: 电话面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring","Go"]
 summary: "重庆九八五商贸Java电话面，覆盖Java基础、HashMap、GC、MySQL与Redis缓存、Spring事务、Go语言和接口排查。"

@@ -4,6 +4,7 @@ company: "未透露"
 position: 前端开发
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932678448605122560
 tags: ["Next.js","前端安全","供应链安全","SSR","依赖治理","应急响应"]

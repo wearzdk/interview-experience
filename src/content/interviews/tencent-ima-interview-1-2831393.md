@@ -4,6 +4,7 @@ company: 腾讯
 position: ima (Golang)
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-10'
 result: 挂
 source: 牛客网
 tags: ["Golang","Agent","RAG","Redis","SSE","DDD"]

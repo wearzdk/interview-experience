@@ -4,6 +4,7 @@ company: 大疆
 position: 嵌入式软件开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938000226772586496
 tags: ["嵌入式", "RTOS", "Bootloader", "OTA", "FreeRTOS", "SPI"]

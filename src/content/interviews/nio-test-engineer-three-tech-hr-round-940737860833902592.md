@@ -4,6 +4,7 @@ company: "蔚来"
 position: "测试工程师"
 round: "三轮技术面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737860833902592"

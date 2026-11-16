@@ -4,6 +4,7 @@ company: 字节跳动
 position: Agent应用开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["字节跳动","Agent开发","手撕算法","动态规划","Redis","令牌桶","限流"]

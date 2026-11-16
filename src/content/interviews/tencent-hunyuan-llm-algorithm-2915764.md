@@ -4,6 +4,7 @@ company: 腾讯
 position: 大模型算法
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","Agent","强化学习","奖励模型","MoE","检索"]
 summary: "腾讯混元大模型算法岗一面的同题记录：从 Agent-RL 的奖励分层与长链路信用分配讲起，串起 GRPO 各支改进、PRM 如何进 advantage、多智能体值不值得拆、Agent 评测指标怎么选，再落到混元 MoE 与跨层注意力、DPO 双降归因、BM25 的词频饱和与长度归一化、以及阶段内 token 归一化对长度偏好的影响。"

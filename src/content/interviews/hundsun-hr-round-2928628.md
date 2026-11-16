@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "后端开发"
 round: "HR面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/912e91a791c14299b8ec6a78f61adf0b
 tags: ["恒生电子", "HR面", "职业规划", "薪资", "现场开发"]

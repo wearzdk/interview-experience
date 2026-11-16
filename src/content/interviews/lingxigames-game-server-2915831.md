@@ -4,6 +4,7 @@ company: 灵犀互娱
 position: 游戏服务端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["C++","网络编程","TCP","epoll","MySQL","游戏服务端"]
 summary: "灵犀互娱游戏服务端开发一面面经，前半场是 C++ 面向对象、内存对齐、智能指针、unordered_map 与查找排序算法等基础八股，后半场围绕 TCP 四次挥手、粘包拆包、send 的语义、poll 与 epoll 的差异以及项目里数据包格式与登录流程的设计展开深挖。"

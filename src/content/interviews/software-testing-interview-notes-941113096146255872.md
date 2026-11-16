@@ -3,6 +3,7 @@ title: "软件测试面试记录：抓包、缓存测试与完整测试流程"
 company: "某公司"
 position: "软件测试"
 date: '2026-10'
+collectedAt: '2026-10-17'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941113096146255872
 tags: ["软件测试","接口测试","抓包","Redis","HTTP","测试流程"]

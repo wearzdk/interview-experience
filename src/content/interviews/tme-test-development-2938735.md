@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 测试开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/feaac4ce75864fc0a04eb6e5e350ee8b
 result: 已挂

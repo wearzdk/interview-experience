@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: "牛客网"
 tags: ["Agent","LangGraph","大模型应用","AI编程","面试复盘"]
 summary: "科大讯飞 Agent 开发一面（9 月 24 日）围绕实习中最难的一件事、LangGraph 的实现原理、Agent 方向的规划与技术跟进方式，以及日常用的 AI 编码工具、调用的 API、AI 生成代码占比与质量把控展开；作者没摸清考察点、草草反问后很快被挂。"

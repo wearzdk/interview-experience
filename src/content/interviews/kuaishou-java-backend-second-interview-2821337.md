@@ -4,6 +4,7 @@ company: 快手
 position: Java后端开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","Agent","RAG","Redis","RabbitMQ","LangChain4j"]
 summary: "快手企业事务部门Java后端开发二面面经，面试时间2026年3月。重点考察AI Agent项目经验，涵盖RAG流程与选型、幻觉优化、Redis瓶颈分析、RabbitMQ消息队列原理，以及LangChain4j框架选型等核心技术点，无Java八股和手撕算法，整体体验良好。"

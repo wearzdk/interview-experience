@@ -3,6 +3,7 @@ title: "校招面试避坑：逐字稿要不要背，项目该怎么讲"
 company: "某公司"
 position: "校招面试通用"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3315f8f27a6e4defaad8d2bf1de5d12a
 tags: ["面试技巧","项目经历","面试表达","校招","面试复盘"]

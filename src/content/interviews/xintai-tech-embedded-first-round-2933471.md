@@ -4,6 +4,7 @@ company: "芯钛科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1f2e20005ec245b2aad435f820958943
 tags: ["芯钛科技", "嵌入式", "一面", "AUTOSAR", "CPU Load", "链接脚本", "UART", "OTA", "CMake"]

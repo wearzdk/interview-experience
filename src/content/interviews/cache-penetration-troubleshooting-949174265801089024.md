@@ -3,6 +3,7 @@ title: "被追问「线上真遇到过吗」：缓存穿透的排查顺序与止
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949174265801089024
 tags: ["缓存穿透","Redis","MySQL","慢查询","布隆过滤器","线上排查"]

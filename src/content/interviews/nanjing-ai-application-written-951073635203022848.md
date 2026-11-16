@@ -4,6 +4,7 @@ company: 南京某公司
 position: AI 应用开发
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951073635203022848
 tags: ["线下笔试","AI应用","智能客服","Python数据处理","业务设计","笔试复盘"]

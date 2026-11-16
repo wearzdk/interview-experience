@@ -4,6 +4,7 @@ company: Xtransfer
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","JVM","分布式锁","幂等性","数据一致性"]
 summary: "Xtransfer Java社招一面面经，重点考察项目架构设计、JVM垃圾回收器（ZGC与G1）、分布式事务与数据一致性解决方案，以及幂等性保障机制。含算法题“下一个排列”解析，适合准备大厂面试的Java工程师参考。"

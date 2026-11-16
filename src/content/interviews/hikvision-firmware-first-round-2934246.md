@@ -4,6 +4,7 @@ company: "海康威视"
 position: "固件开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0e0bb8fe92004e65bcf5955b3f99971c
 tags: ["海康威视","固件开发","互斥锁","模型部署","FP16","INT8","算子融合"]

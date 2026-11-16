@@ -4,6 +4,7 @@ company: "建设银行"
 position: "科技岗、管培生（AI 面）"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3374e9db6787494cb8f300d1eb5ec38d
 tags: ["建设银行","银行校招","AI面试","行为面试","职业规划","科技岗"]

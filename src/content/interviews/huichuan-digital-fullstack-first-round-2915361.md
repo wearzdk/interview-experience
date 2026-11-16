@@ -4,6 +4,7 @@ company: 汇川技术
 position: 数字化全栈工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["全栈","大模型Agent","LangGraph","n8n","RAG","MySQL","索引优化","Code Review"]
 summary: "汇川技术9月20日数字化全栈工程师一面，双机位飞书会议、约半小时无手撕，重点深挖大模型客诉分析Agent与n8n低代码数据中台两个项目，最后考MySQL慢查询与索引回表。"

@@ -4,6 +4,7 @@ company: 蔚来
 position: AI Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7cb3b6f122474ea9b860f923a1bd8c0e
 tags: ["Buffer 池","内存管理","Go","AI 编程","代码评审"]

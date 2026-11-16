@@ -4,6 +4,7 @@ company: 华为
 position: AI算法工程师
 round: 笔试
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932465000218624000
 tags: ["笔试","RANSAC","数据并行","概率统计","动态规划","大模型训练"]

@@ -4,6 +4,7 @@ company: "众安保险"
 position: "AIGC 全栈开发"
 round: "复试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939955687054917632
 tags: ["众安保险","AIGC","全栈开发","校招流程","AI面试","RAG","ReAct","Prompt工程","FDE"]

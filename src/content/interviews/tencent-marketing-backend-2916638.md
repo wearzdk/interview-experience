@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["后端","Agent","上下文压缩","Skill","多路归并","Prefix Cache"]
 summary: "腾讯营销后端一面面经（9.18）：主体是一段 Agent 基础设施实习的深挖——Skill 如何被发现与按需加载、正文放在上下文的什么位置、用完何时卸载、会不会影响 Prefix Cache，上下文压缩怎么做、长 Tool Result 怎么处理、压缩后如何按需找回原文、历史索引分几层；随后问一个需求从提出到上线 AI 如何参与、跨仓库代码怎么理解、SOP 怎么沉淀，最后手撕 N 个升序数组合并。"

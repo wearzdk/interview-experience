@@ -4,6 +4,7 @@ company: 某化工行业软件公司
 position: Java开发工程师
 round: 三面
 date: '2026-06'
+collectedAt: '2026-06-30'
 base: 湖南
 source: 牛客网
 tags: ["分布式事务","Flink","RocketMQ","Java并发","MySQL索引"]

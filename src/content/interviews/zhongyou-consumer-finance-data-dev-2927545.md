@@ -4,6 +4,7 @@ company: "中邮消费"
 position: "数据开发"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ab2158a29ed54fe2a9736a0bfaae82c6"
 tags: ["笔试", "数据开发", "Hadoop", "数仓", "行测", "双机位"]

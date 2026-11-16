@@ -4,6 +4,7 @@ company: "淘天集团"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931372614759481344"
 tags: ["RAG", "AI Agent", "Redis", "限流", "TopK", "AI Coding", "系统设计"]

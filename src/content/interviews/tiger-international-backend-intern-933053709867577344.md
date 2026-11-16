@@ -4,6 +4,7 @@ company: "老虎国际"
 position: "后端开发实习"
 round: "一二面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/933053709867577344
 tags: ["Java","虚拟线程","Coding Agent","MQ","乐观锁","JVM","实习面试"]

@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: 技术岗
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bc031db5d2c1476fb3f3ce1f280fcb39
 tags: ["CLI","Skill","企业内部基建","实习经历","职业规划"]

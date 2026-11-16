@@ -4,6 +4,7 @@ company: 京东
 position: 后端Agent开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 source: 牛客网
 tags: ["Java","分布式锁","MySQL调优","高并发","Redis"]
 summary: "京东后端Agent开发岗位暑期实习一面面经，考察重点包括Java并发编程、分布式锁原理、MySQL高性能分页与索引调优、Redis应用场景及AI Agent工程化落地等核心技术问题。"

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 前端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 二面已挂
 source: 牛客网
 tags: ["前端","大模型缓存","Function Calling","MCP","CSS优先级","原型链","事件循环","发布订阅"]

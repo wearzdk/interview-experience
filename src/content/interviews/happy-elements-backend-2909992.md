@@ -3,6 +3,7 @@ title: "乐元素开心消消乐后端一面：排行榜与项目设计"
 company: "乐元素"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Redis", "Kafka", "Elasticsearch", "Agent"]
 round: "一面"

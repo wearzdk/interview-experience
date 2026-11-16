@@ -4,6 +4,7 @@ company: 地平线
 position: 嵌入式软件工程师
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945100814861815808
 tags: ["嵌入式","CAN驱动","DMA","CMA","SocketCAN","Linux内核"]

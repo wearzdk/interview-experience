@@ -4,6 +4,7 @@ company: 游族网络
 position: 服务器Java开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-20'
 source: 牛客网
 tags: ["笔试","算法","Linux","C++","数据库索引"]
 summary: "游族网络服务器Java开发岗笔试回忆，选择题覆盖数学、Linux、C++、数据库索引与代码纠错，编程题三道，整体难度偏基础。"

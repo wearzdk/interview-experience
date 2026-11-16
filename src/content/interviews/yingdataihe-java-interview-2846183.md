@@ -3,6 +3,7 @@ title: 英大泰和财产保险 Java开发外包岗面经
 company: 英大泰和财产保险
 position: Java开发外包岗
 date: '2026-05'
+collectedAt: '2026-05-05'
 result: 凉经
 base: 北京
 source: 牛客网

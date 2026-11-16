@@ -4,6 +4,7 @@ company: "得物"
 position: "Golang 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/960bde29304246a2a4c56cba47e32c6a"
 tags: ["得物","Golang","时间轮","限流算法","并发编程","智力题"]

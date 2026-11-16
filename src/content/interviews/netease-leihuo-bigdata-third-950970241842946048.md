@@ -4,6 +4,7 @@ company: 网易雷火
 position: 大数据
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950970241842946048
 tags: ["网易雷火","大数据","Redis","消息队列","分布式事务","幂等","场景题"]

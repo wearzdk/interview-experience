@@ -4,6 +4,7 @@ company: "招银网络"
 position: "测试开发"
 round: "一面 / 二面 / HR 面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/925c5e7097a64cc5af821179b85502d1"
 tags: ["招银网络", "测试开发", "Redis", "MQ", "限流", "SQL", "HR面"]

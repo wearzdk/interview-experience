@@ -3,6 +3,7 @@ title: 面试被问「消费品数据和互联网数据差在哪」：订单库�
 company: 牛客网用户分享
 position: 供应链数据
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938069181688311808
 tags: ["消费品", "供应链", "数据口径", "订单库存", "业财融合"]

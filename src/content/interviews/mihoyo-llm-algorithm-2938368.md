@@ -3,6 +3,7 @@ title: "米哈游大模型算法岗：九问 Agent 训练、DPO 与长上下文�
 company: 米哈游
 position: 大模型算法
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/583ae676660e49c597bc7f9fad34c38b
 tags: ["米哈游","大模型","Agent","工具调用","DPO","PPO","RoPE","长上下文"]

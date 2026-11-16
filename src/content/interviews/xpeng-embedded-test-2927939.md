@@ -4,6 +4,7 @@ company: "小鹏"
 position: "嵌入式测试培训生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/08caad35474245599899892fa0871d03"
 tags: ["小鹏", "嵌入式测试", "HTTPS", "网络", "MCP", "AI开发", "职业规划"]

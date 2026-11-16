@@ -4,6 +4,7 @@ company: "千里科技"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a9167f7786fe441fb98e7e44090b7620
 tags: ["千里科技", "笔试", "最小区间", "复制粘贴", "算法"]

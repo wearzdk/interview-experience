@@ -4,6 +4,7 @@ company: "国轩高科"
 position: "Java 开发"
 round: "技术面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bd7d9af8f01a425b8f61005834a87cac"
 tags: ["国轩高科", "Java", "集合", "线程池", "MySQL", "Coding Agent", "网络"]

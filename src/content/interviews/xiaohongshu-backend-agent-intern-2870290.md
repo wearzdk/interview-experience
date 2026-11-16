@@ -4,6 +4,7 @@ company: 小红书
 position: 后端开发实习（Agent方向）
 round: 三面
 date: '2026-07'
+collectedAt: '2026-07-02'
 source: 牛客网
 tags: ["Java","MySQL","SQL优化","RAG","Git","Linux"]
 summary: "小红书三面后端Agent方向实习面经，考察项目真实性、深分页SQL优化方案、RAG项目中大模型JSON异常处理，以及Git、Linux常见排查操作。"

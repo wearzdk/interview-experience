@@ -4,6 +4,7 @@ company: 联合利华
 position: 管培生
 round: AI面试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/edf2073626dc49cd9821695657c0e0c7
 tags: ["联合利华","AI面试","管培生","行为面试","快消","SHL测评"]

@@ -4,6 +4,7 @@ company: "CLPS 华钦科技"
 position: "Agent 开发实习"
 round: "实习面试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9c022e75bbce4683985bee256e1eb8d0
 tags: ["CLPS", "华钦科技", "Agent", "实习面试", "Java", "简历追问"]

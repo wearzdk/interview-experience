@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI全栈开发"
 round: "HR面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/363d9a7d83774e16984c6ced4a20cf5f"
 tags: ["科大讯飞","AI全栈开发","HR面","自我介绍","职业规划","Agent","秋招"]

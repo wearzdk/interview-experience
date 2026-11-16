@@ -4,6 +4,7 @@ company: "银行信息科技"
 position: "信息科技岗"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/28bfe10f6c234c84925a6d1681c70555
 tags: ["银行", "笔试", "行测", "英语", "信息科技", "编程"]

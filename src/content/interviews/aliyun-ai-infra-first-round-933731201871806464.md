@@ -4,6 +4,7 @@ company: "阿里云"
 position: "AI Infra"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933731201871806464
 tags: ["AI Infra", "Agentic RL", "多轮对话", "过程奖励", "verl", "项目深挖"]

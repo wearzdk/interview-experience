@@ -4,6 +4,7 @@ company: "4399"
 position: "AI Agent开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f1f8a4a71f73494f97faa173059ee3d0"
 tags: ["4399","AI Agent开发","笔试","高并发架构","Agent安全","多Agent协作","长期记忆"]

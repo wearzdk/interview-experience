@@ -4,6 +4,7 @@ company: "kn group"
 position: "前端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["浏览器渲染","事件循环","GC","闭包","React","Vue","性能优化","AI协作"]
 summary: "kn group 前端实习面：浏览器渲染原理与事件循环、GC 与「没有执行余地的闭包怎么回收」、隐式类型转换、React 高优先级打断低优先级的实现、Vue 与 React 对比、全链路监控与错误采集、SKU 笛卡尔积性能优化，以及和 AI 协作的方式与约束。"

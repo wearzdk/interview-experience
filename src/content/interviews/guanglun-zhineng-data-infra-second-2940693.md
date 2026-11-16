@@ -4,6 +4,7 @@ company: 光轮智能
 position: 数据平台开发（Data Infra）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/92e9aa18ff44479dab9570bb7361124b
 tags: ["光轮智能","Data Infra","指标口径","数据血缘","NL2SQL","Agent","数据倾斜","Iceberg"]

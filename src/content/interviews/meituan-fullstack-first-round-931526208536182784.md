@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发（全栈）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-20'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931526208536182784

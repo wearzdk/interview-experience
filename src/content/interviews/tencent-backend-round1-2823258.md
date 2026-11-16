@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java多线程","MySQL日志","HTTP协议","Spring事务","动态代理","AI大模型"]
 summary: "腾讯后台开发一面面经，涵盖Java线程创建与生命周期、HTTP完整请求流程、MySQL redo/undo/binlog日志机制、Spring @Transactional事务回滚与动态代理原理、并发安全实现，以及AI相关技术词汇，无算法题，共30余分钟。"

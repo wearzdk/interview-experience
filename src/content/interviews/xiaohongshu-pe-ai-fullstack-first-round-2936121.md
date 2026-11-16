@@ -4,6 +4,7 @@ company: 小红书
 position: PE（AI与全栈）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eb319df6903245df94f787a97205c73c
 tags: ["Agent", "RAG", "LangGraph", "MySQL", "SDD", "AI辅助开发"]

@@ -4,6 +4,7 @@ company: "小米"
 position: "AI前端实习"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 result: "通过"
 source: "牛客网"
 tags: ["前端","React","Vue","WebSocket","SSE","流式渲染","AI协作"]

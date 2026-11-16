@@ -4,6 +4,7 @@ company: 传音
 position: BSP驱动
 round: 二面
 date: '2026-09'
+collectedAt: '2026-10-07'
 result: 已挂
 source: 牛客网
 tags: ["BSP","驱动开发","UI性能优化","脏矩形","实习复盘"]

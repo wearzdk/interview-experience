@@ -4,6 +4,7 @@ company: OPPO
 position: Java开发工程师
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "线程", "数据库", "字符串", "异或"]
 summary: "OPPO Java开发笔试面经，选择题涉及Java输出、线程与数据库，编程题考察字符串校验和比特流变换。"

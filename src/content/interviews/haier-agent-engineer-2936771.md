@@ -4,6 +4,7 @@ company: "海尔"
 position: "Agent 系统工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f05864ee1b43409297abd2610078c790
 tags: ["海尔","Agent","LangGraph","Transformer","记忆管理","数据安全"]

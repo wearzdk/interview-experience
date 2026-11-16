@@ -4,6 +4,7 @@ company: "腾讯"
 position: "公众号"
 round: "HR面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/73cd51db553b4752bdba24d77fcf2868
 tags: ["HR面","腾讯","实习经历","职业规划","自我评价"]

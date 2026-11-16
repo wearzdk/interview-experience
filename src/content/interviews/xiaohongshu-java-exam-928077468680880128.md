@@ -3,6 +3,7 @@ title: 小红书9月10日机考笔试题与解析
 company: 小红书
 position: 机考
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928077468680880128
 tags: ["算法", "动态规划", "字符串", "树"]

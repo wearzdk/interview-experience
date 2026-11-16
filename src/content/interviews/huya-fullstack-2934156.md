@@ -4,6 +4,7 @@ company: "虎牙"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e4578f7f5c8d4469975f60c36380115b
 tags: ["虎牙","全栈","秒杀","Agent","MySQL","Redis","MQ","JVM"]

@@ -3,6 +3,7 @@ title: "游族实习游戏策划面试：图鉴系统落地与「两只手」的
 company: 游族
 position: 游戏策划实习
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e5d2241efdaf41f4946ceba81e0a716a
 tags: ["游戏策划", "系统策划", "图鉴系统", "AI工具", "面试复盘"]

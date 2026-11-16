@@ -3,6 +3,7 @@ title: AI Agent 开发岗面试题：55 道真实面试里的追问
 company: 某互联网公司
 position: AI Agent开发
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932945632514277376
 tags: ["AI Agent","LangGraph","多Agent","RAG","评测","Prompt注入"]

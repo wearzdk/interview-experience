@@ -4,6 +4,7 @@ company: 实在智能
 position: Java实习生
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-12'
 source: 牛客网
 tags: ["Java基础","集合框架","MySQL索引","Spring框架","分布式组件"]
 summary: "实在智能Java日常实习二面面经，考察点涵盖Java集合框架、MySQL联合索引与B+树底层原理、Spring事务管理、Nacos配置中心及XXL-Job分布式调度。适合准备Java后端实习面试的求职者复习八股文与实战场景应用。"

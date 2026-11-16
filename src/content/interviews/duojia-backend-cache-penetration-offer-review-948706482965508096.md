@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 面试复盘
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948706482965508096
 tags: ["缓存穿透","空值缓存","布隆过滤器","Redis","ID生成","后端面试"]

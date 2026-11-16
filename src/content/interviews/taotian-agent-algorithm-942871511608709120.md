@@ -4,6 +4,7 @@ company: "淘天"
 position: "Agent 算法"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942871511608709120
 tags: ["淘天", "Agent算法", "搜广推", "流程自动化", "二面"]

@@ -3,6 +3,7 @@ title: "Agent 岗面试问题整理：规划、工具调用、记忆与评估的
 company: "牛客网用户分享"
 position: "AI Agent开发"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934117929908436992
 tags: ["AI Agent", "工具调用", "任务规划", "记忆设计", "多Agent", "评测指标"]

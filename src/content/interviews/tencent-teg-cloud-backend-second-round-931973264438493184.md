@@ -4,6 +4,7 @@ company: "腾讯"
 position: "C++后端开发"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931973264438493184
 tags: ["腾讯","C++","并发编程","无锁队列","限流器","手撕代码","秋招"]

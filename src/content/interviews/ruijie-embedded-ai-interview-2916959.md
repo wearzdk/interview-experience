@@ -4,6 +4,7 @@ company: "锐捷网络"
 position: "嵌入式软件"
 round: "AI面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["嵌入式","C++","constexpr","堆","ARP","中断上下文"]
 summary: "锐捷网络嵌入式软件岗 9 月 20 日的 AI 面，四组题都带连环追问：const 与 constexpr 的语义差异、Top-K 的最小堆维护、ARP 请求响应与跨网段目标 MAC，以及中断上下文为什么不能睡眠。"

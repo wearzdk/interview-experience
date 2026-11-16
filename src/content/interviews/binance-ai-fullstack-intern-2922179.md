@@ -4,6 +4,7 @@ company: "Binance"
 position: "AI 全栈开发（实习）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-07'
 source: 牛客网
 tags: ["AI Agent", "Multi-Agent", "RAG", "MCP", "全栈开发", "手撕代码"]
 summary: "Binance AI 全栈开发实习一面面经，全程约一小时中文面。前半程围绕实习与个人 Agent 项目展开，追问多 Agent 编排、质量检查不通过怎么办、RAG 规则维护、工具体系与 MCP/skill 的理解、异步路由的设计；后半程是渐进式手撕——先写存取款模拟，再让 AI 改写代码并由候选人挑错，最后加码到允许透支的结算顺序问题。"

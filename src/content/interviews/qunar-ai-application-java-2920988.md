@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI应用开发（Java方向）"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Java","volatile","MySQL","TCP","系统设计","Redis"]
 summary: "去哪儿 AI 应用开发（Java 方向）AI 面面经，8 道八股配连续追问：双亲委派、volatile 与内存屏障、B+ 树索引、TCP 三次握手与 SYN 滞留，最后是万级 QPS 抽奖系统设计题和 AI 落地案例。"

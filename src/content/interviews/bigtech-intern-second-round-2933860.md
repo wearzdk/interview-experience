@@ -4,6 +4,7 @@ company: "某大厂"
 position: "Java 后端实习"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/95b6eec89dca4195876986f1d0a6f08f
 tags: ["Java","Spring","源码","二叉树","实习面试"]

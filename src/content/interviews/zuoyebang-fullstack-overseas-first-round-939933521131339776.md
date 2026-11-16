@@ -4,6 +4,7 @@ company: "作业帮"
 position: "全栈开发（海外业务）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939933521131339776
 tags: ["作业帮","全栈开发","海外业务","项目深挖","优化算法","AI辅助开发","RAG","增量更新","LRU"]

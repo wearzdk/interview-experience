@@ -4,6 +4,7 @@ company: 某药业公司
 position: 数据开发
 round: 一面+二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已OC
 source: 牛客网
 tags: ["数据开发","数仓分层","Spark","Kafka","Flink","职业发展","面试复盘"]

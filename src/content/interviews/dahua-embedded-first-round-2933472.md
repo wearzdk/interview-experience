@@ -4,6 +4,7 @@ company: "浙江大华"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ebc3f34e0d82478c80a307db5d050302
 tags: ["浙江大华", "嵌入式", "一面", "FreeRTOS", "map文件", "RISC-V", "看门狗", "I2C"]

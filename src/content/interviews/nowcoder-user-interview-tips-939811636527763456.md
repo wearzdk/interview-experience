@@ -3,6 +3,7 @@ title: "项目是自己敲的，面试却像抄的：嵌入式项目追问怎么
 company: "牛客网用户分享"
 position: "interview-tips"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939811636527763456
 tags: ["项目复盘","面试技巧","嵌入式","项目介绍","面试追问","求职方法"]

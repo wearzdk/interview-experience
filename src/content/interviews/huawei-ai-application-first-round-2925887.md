@@ -4,6 +4,7 @@ company: "华为"
 position: "AI技术应用"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "一面通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/978bed84f8f74b31b7f3798a71f67f5a

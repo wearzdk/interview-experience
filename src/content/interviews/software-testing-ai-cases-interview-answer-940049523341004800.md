@@ -3,6 +3,7 @@ title: "测试面试：AI 生成的测试用例怎么确认没测错？需求对
 company: 牛客网用户分享
 position: 软件测试面试准备
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940049523341004800
 tags: ["软件测试", "AI生成用例", "断言有效性", "需求对齐", "覆盖率", "面试答题"]

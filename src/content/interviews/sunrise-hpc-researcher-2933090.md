@@ -4,6 +4,7 @@ company: "曦望"
 position: "高性能异构计算研究员"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/caed883d565f427ba54e2fb5ffafe50f
 tags: ["曦望", "高性能计算", "异构计算", "DCU", "GEMM", "reduce", "寄存器"]

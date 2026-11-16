@@ -4,6 +4,7 @@ company: "美团"
 position: "推荐算法"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948585871480025088
 tags: ["美团","推荐算法","双塔召回","负采样","ESMM","位置偏差","AUC","手撕代码"]

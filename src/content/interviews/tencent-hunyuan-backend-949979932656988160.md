@@ -4,6 +4,7 @@ company: 腾讯混元
 position: 后台开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949979932656988160
 tags: ["腾讯混元","后台开发","限流","令牌桶","并发","Redis","RAG"]

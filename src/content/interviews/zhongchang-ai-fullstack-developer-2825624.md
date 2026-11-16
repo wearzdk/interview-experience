@@ -3,6 +3,7 @@ title: 某中厂AI全栈开发面经分享
 company: 某中厂
 position: AI全栈开发
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","JVM","MySQL","Spring","Redis","AI编程"]
 summary: "某中厂AI全栈开发岗面经，涵盖Java线程池参数、JVM内存结构、MySQL B+树索引、Spring AOP/IOC、CMS与G1垃圾收集器对比、内存泄露解决方案，以及Redis实现Session共享、秒杀超卖、点赞排行榜、全局唯一ID等项目实战问题，适合备战Java全栈/后端岗位。"

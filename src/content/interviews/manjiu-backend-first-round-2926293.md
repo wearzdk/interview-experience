@@ -4,6 +4,7 @@ company: "蛮啾网络"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/90eeff9588ee4c7e81f5a5920b94689d
 tags: ["蛮啾网络","后端开发","MySQL索引","B+树","联合索引","回表","前缀索引","ZSet","延迟任务","Kafka","DDD","Spring循环依赖"]

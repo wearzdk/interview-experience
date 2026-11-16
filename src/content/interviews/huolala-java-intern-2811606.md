@@ -3,6 +3,7 @@ title: 货拉拉Java实习面试题分享
 company: 货拉拉
 position: Java实习生
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","算法","AOP","Transformer"]
 summary: "分享货拉拉Java实习面试经历，涵盖手撕AOP、36进制加法、MySQL索引优化与分表策略、Redis多级缓存与穿透处理、Transformer自注意力机制及Java锁机制深度解析，助你掌握后端高频考点。"

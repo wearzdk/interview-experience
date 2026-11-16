@@ -3,6 +3,7 @@ title: 嵌入式大厂面经合集导航：26 场面试清单
 company: 多家嵌入式方向公司
 position: 嵌入式软件
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932994497917517824
 tags: ["嵌入式","面经合集","秋招","RTOS","Linux驱动"]

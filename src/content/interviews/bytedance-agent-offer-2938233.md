@@ -4,6 +4,7 @@ company: 字节跳动
 position: "Agent 开发"
 round: "一面+二面+三面"
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dc2f2a55fba14e898ef4927928cb5e46
 tags: ["字节跳动","Agent","面经","offer","算法复盘","秋招"]

@@ -4,6 +4,7 @@ company: "晶盛机电"
 position: "C++ 开发"
 round: "主管面 + HR面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b118d0e0e11445bfb8c568de728193f9
 tags: ["晶盛机电", "C++", "主管面", "Bug排查", "SCRFD", "SQLite", "双Agent", "单元测试"]

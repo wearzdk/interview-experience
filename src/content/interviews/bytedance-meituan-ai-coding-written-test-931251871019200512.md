@@ -4,6 +4,7 @@ company: "字节跳动、美团、哔哩哔哩"
 position: "AI 应用开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931251871019200512"
 tags: ["RAG", "Agent", "Prompt工程", "大模型评估", "系统设计", "AI Coding"]

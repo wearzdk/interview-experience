@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈开发（可灵）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945980063550386176
 tags: ["快手","可灵","AI全栈开发","RAG","Rerank","CrossEncoder","BiEncoder","多模态检索","评测指标"]

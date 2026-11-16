@@ -4,6 +4,7 @@ company: 姚记科技
 position: 游戏测试
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5fcdf696fbdf4f359306ac1ecdfd4b16
 tags: ["姚记科技","游戏测试","实习","测试用例","沟通协作","面经"]

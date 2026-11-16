@@ -4,6 +4,7 @@ company: "快手"
 position: "客户端 infra"
 round: "四面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943172379738447872
 tags: ["快手","客户端infra","Objective-C","C++","协程","MVVM","Agent"]

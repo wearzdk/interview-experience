@@ -4,6 +4,7 @@ company: 某北京自研小厂
 position: 服务端开发工程师
 round: 笔试
 date: '2026-06'
+collectedAt: '2026-06-24'
 base: 北京
 source: 牛客网
 tags: ["Java","系统设计","算法","数据库","高并发"]

@@ -4,6 +4,7 @@ company: 乐信科技
 position: Java后端
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-19'
 source: 牛客网
 tags: ["Java","RocketMQ","JVM","Spring","RAG"]
 summary: "乐信科技Java后端一面面经，重点考察RocketMQ核心原理与重试机制、JVM性能调优与CPU高负载排查、Java锁升级机制、Spring多数据源切换实现，以及大模型应用开发与RAG检索技术，涵盖Java后端高频核心考点。"

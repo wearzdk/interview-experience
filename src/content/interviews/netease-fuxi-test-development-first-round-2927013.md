@@ -4,6 +4,7 @@ company: "网易伏羲"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6fec3a74668046f8b4b3c05cbd2502df
 tags: ["网易伏羲","测试开发","自动化测试","AI评测","CodingAgent","Hooks","游戏AI"]

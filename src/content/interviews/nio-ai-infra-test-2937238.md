@@ -4,6 +4,7 @@ company: 蔚来
 position: AI Infra 测试工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f6699e9cec7f495597b68d82e6f1a0ea
 tags: ["LSTM","Tensor","NPU","测试","性能分析"]

@@ -4,6 +4,7 @@ company: Shopee
 position: 后端开发
 round: HR面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f3fc79aa4d64439593d47ccc1d07472b
 tags: ["HR面", "Shopee", "实习", "职业规划"]

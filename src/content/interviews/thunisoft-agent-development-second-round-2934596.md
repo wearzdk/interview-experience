@@ -4,6 +4,7 @@ company: "华宇信息"
 position: "Agent开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2786a129d554aefafbf2c9899165f9d
 tags: ["华宇信息","Agent","RAG","会话记忆","向量模型","二面"]

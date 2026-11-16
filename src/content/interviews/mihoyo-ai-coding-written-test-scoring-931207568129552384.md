@@ -4,6 +4,7 @@ company: 米哈游
 position: AI Coding 笔试
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931207568129552384
 tags: ["AI Coding","笔试","评分机制","Prompt","测试设计","上下文管理"]

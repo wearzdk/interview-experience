@@ -4,6 +4,7 @@ company: "虎牙"
 position: "后端容器岗"
 round: "三面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c35c7647cf614fa58a3c0f304ae823d2"
 tags: ["虎牙","Kubernetes","架构设计","AI编码","面试流程","后端"]

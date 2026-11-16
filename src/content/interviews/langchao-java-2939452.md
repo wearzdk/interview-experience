@@ -3,6 +3,7 @@ title: "浪潮数字企业 Java 开发面：Stream、日志框架与 MyBatis 的
 company: 浪潮数字企业
 position: Java 开发
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f65a9d2cec3b46ea9f7071587fe22bf8
 tags: ["浪潮数字企业","Java","Stream","SLF4J","SpringBoot","MyBatis","Linux"]

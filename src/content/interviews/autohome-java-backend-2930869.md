@@ -4,6 +4,7 @@ company: "汽车之家"
 position: "Java 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5701f5af812146c7812a5236e590bed8
 tags: ["汽车之家", "Java", "延迟队列", "幂等", "MVCC", "SSE", "Agent", "AI Coding"]

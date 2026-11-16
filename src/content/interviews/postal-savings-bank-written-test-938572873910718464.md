@@ -4,6 +4,7 @@ company: 邮储银行
 position: 信息科技岗
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938572873910718464
 tags: ["笔试","银行笔试","邮政储蓄银行","行测","性格测试","校招"]

@@ -4,6 +4,7 @@ company: 卓驭
 position: 嵌入式软件
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3bc7f7e885b24c778b680fc67b4eff4b
 tags: ["嵌入式","I2C","DMA","FreeRTOS","STM32","自动驾驶"]

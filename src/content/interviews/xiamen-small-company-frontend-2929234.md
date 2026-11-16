@@ -3,6 +3,7 @@ title: "厦门小厂 前端 面经：Flex/Grid、移动端适配与企业官网�
 company: "厦门小厂"
 position: "前端开发"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["前端", "Flex", "Grid", "移动端适配", "AI编程"]
 summary: "厦门小厂前端面经，围绕项目职责、Flex/Grid、移动端适配、AI 辅助开发和 DOM 断点展开，最后让在 5 分钟内规划一个企业官网的页面、组件和栏目架构。"

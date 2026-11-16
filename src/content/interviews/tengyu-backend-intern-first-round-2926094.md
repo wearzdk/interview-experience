@@ -4,6 +4,7 @@ company: "腾娱"
 position: "后台开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7c406eb6e48f47b1ab5fd4a74760a860
 tags: ["腾娱","后台开发","Java","GC","ThreadLocal","Redis","协程","Prompt工程"]

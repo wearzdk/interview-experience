@@ -3,6 +3,7 @@ title: "小红书数据库中间件二面"
 company: "小红书"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/919630374701891584
 tags: ["Java","MySQL","JVM","并发","数据库","面试经验"]

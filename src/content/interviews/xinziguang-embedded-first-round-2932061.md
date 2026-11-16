@@ -4,6 +4,7 @@ company: "新紫光前沿技术研究院（智遨通）"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b2836f4b3f384f7ea3079f30ede80feb
 tags: ["新紫光", "智遨通", "嵌入式", "I2C", "GD32", "驱动开发", "秋招"]

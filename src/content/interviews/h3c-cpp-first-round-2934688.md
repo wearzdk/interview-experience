@@ -4,6 +4,7 @@ company: 新华三
 position: C++开发
 round: 技术面
 date: '2026-09'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/25f136f2bfd54fe08f51cbfe561e278b
 tags: ["新华三", "C++", "并发", "进程通信", "TCP", "epoll"]

@@ -3,6 +3,7 @@ title: "十年经验 Java 求职复盘：项目价值很大，为什么面试讲
 company: "未公开"
 position: "Java"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e4719f497026475da17d78c6ce4f34f4"
 tags: ["Java","社招","十年经验","项目复盘","架构设计","表达","求职焦虑"]

@@ -4,6 +4,7 @@ company: "Shopee"
 position: "大数据"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b7320801f3f64f5390dd621f50887c3f
 tags: ["Shopee","大数据","笔试","算法","SQL"]

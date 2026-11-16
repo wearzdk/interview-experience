@@ -4,6 +4,7 @@ company: "浙江利影医疗科技"
 position: "超声系统测试工程师"
 round: "初面"
 date: '2026-11'
+collectedAt: '2026-10-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/104de950adef4d8888a78f8ea38fa7d4
 tags: ["利影医疗","超声系统测试","社招","HR面","离职原因","职业规划","医疗设备"]

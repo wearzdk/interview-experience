@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933863059641159680
 tags: ["嵌入式", "AUTOSAR", "CAN总线", "编译链接", "启动流程"]

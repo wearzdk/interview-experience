@@ -4,6 +4,7 @@ company: "小红书"
 position: "后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ff7b2d09043f4b3fafb60fa113fd356a"
 tags: ["支付", "幂等", "缓存", "单元化", "线程池", "面试复盘"]

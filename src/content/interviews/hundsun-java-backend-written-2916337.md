@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "Java后端"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","笔试","SQL","动态规划","字符串"]
 summary: "恒生电子 9.23 Java 岗笔试记录：10 道单选、5 道多选加一道 SQL 填空，编程题是一道大批量输入的 SQL 题、一道统计可重排为 red 的长度 3 子序列数量，以及一道最多允许一个数除以 2 的凑和问题。"

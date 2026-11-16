@@ -4,6 +4,7 @@ company: "泛微网络"
 position: "项目实施工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941287941752487936"

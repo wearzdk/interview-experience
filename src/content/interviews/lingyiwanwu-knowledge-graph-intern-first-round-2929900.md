@@ -4,6 +4,7 @@ company: "零一万物"
 position: "知识图谱算法实习生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 tags: ["零一万物","知识图谱","Agent","SFT","DPO","LoRA","实体对齐"]
 summary: "零一万物知识图谱算法实习生一面，约 30 分钟：Agent 框架与连续失败兜底、工具参数错误和上下文管理、SFT 与 DPO、LoRA 原理、栈与队列、本体与知识图谱设计，以及同义实体如何合并。"

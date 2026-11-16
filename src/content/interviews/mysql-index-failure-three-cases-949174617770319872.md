@@ -3,6 +3,7 @@ title: "索引失效三种场景与一个反向问题：为什么 int 列传字�
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949174617770319872
 tags: ["MySQL","索引失效","隐式转换","最左前缀","索引下推","key_len"]

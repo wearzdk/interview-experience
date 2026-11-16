@@ -3,6 +3,7 @@ title: "嵌入式面试表达复盘：准备得很好，为什么一到面试就
 company: "多家嵌入式方向公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941986178163564544
 tags: ["嵌入式", "面试表达", "项目复盘", "调试", "求职"]

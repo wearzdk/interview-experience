@@ -3,6 +3,7 @@ title: "字节跳动 后端开发 日常实习一面"
 company: "字节"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","RocketMQ","并发","计算机网络"]
 summary: "字节Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、RocketMQ等考点，整理了面试流程与高频问题。"

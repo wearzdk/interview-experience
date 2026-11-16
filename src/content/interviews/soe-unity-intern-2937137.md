@@ -4,6 +4,7 @@ company: "某国企"
 position: "Unity 开发（实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9d473889686c4c60a4df1cec0970407c
 tags: ["Unity","图形学","软光栅","渲染管线","Phong","STL","vector","C++"]

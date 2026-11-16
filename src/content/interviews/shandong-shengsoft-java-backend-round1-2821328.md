@@ -4,6 +4,7 @@ company: 山东胜软科技股份有限公司
 position: Java后端工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 base: 山东
 source: 牛客网
 tags: ["SpringBoot","Redis","MySQL","Spring事务","Nacos","分库分表"]

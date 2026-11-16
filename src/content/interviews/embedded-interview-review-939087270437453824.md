@@ -3,6 +3,7 @@ title: "面了三十场才发现的规律：一面能答的，二面全在下面
 company: 某公司
 position: 嵌入式
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939087270437453824
 tags: ["嵌入式","面试复盘","Linux内核","进程调度","MMU","共享内存","实时性","上下文切换","u-boot"]

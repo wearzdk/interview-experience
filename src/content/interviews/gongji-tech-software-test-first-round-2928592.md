@@ -4,6 +4,7 @@ company: "深圳共济科技"
 position: "软件测试"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 base: "深圳"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/98534e4a50b0491ca9ab6a71ec686721

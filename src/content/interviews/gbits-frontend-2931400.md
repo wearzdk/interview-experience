@@ -4,6 +4,7 @@ company: "吉比特"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bd62b1f4e5d640ac845e09c87a9bfbe9
 tags: ["吉比特","前端开发","AI Coding","MCP","Agent","幂等","算法"]

@@ -4,6 +4,7 @@ company: "同元软控"
 position: "C++开发实习生"
 round: "一面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941273986338390016"

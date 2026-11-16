@@ -4,6 +4,7 @@ company: 江波龙
 position: 嵌入式软件
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/20a67723a3304bb1a6ccb804ccb5bcaa
 tags: ["嵌入式", "ARM", "FIQ", "Cache一致性", "MMU", "内存管理"]

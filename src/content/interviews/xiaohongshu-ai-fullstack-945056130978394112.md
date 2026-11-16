@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI 全栈"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945056130978394112
 tags: ["小红书","AI应用","模型选型","评测","系统设计","高并发"]

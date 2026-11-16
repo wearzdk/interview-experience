@@ -4,6 +4,7 @@ company: 网易易盾
 position: 技术支持实习生
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c67c7a9e1de34650abd81fe1d87ebffc
 tags: ["技术支持","Agent平台","RAG","多模态分流","上下文管理","沟通场景"]

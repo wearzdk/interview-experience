@@ -4,6 +4,7 @@ company: 华为
 position: 性能测试（OD）
 round: "一面 / 二面 / 主管面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950322582916456448
 tags: ["华为","OD","性能测试","压测","JMeter","全链路压测","社招","定级"]

@@ -4,6 +4,7 @@ company: "腾讯云"
 position: "产品经理"
 round: "一面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/862453148659486720
 tags: ["AI产品", "项目深挖", "操作系统", "实习", "产品经理"]

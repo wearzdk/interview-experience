@@ -4,6 +4,7 @@ company: 实在智能
 position: Java日常实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-12'
 result: 通过
 source: 牛客网
 tags: ["Java","RabbitMQ","WebSocket","数据结构"]

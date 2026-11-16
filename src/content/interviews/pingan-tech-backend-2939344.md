@@ -4,6 +4,7 @@ company: 平安科技
 position: 后端开发
 round: 一面、二面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c66bd7dc631642758a84001b1343bcc0
 tags: ["平安科技","后端开发","秋招","Agent","MCP","异步编程","Python"]

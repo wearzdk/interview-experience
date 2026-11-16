@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940049485051199488
 tags: ["笔试","华为","机考","模拟","单调栈","二叉搜索树","算法"]

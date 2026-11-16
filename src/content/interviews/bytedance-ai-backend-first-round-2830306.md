@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI后端暑期实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["MySQL","索引","线程与进程","Java并发","Spring循环依赖"]
 summary: "字节跳动AI后端暑期实习一面面经，重点考查MySQL事务隔离级别与索引原理、B+树与B树区别、联合索引实现、线程与进程差异、Java线程传参以及Spring循环依赖解决方案。算法环节考查打家劫舍变种。"

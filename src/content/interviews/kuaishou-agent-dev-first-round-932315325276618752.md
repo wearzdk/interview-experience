@@ -4,6 +4,7 @@ company: 快手
 position: Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932315325276618752
 tags: ["Agent","大模型","分布式","多智能体","Kubernetes","LLM"]

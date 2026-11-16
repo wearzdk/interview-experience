@@ -4,6 +4,7 @@ company: 龙旗科技
 position: 笔试
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/090cefa822444af283bfb6aaa76b85d3
 tags: ["龙旗科技","笔试","言语理解","资料分析","图形推理","性格测试"]

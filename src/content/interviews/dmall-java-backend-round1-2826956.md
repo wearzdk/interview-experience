@@ -4,6 +4,7 @@ company: 多点Dmall
 position: Java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 base: 武汉
 source: 牛客网
 tags: ["Java","项目经验","AI应用","代码规范","CRUD","后端开发"]

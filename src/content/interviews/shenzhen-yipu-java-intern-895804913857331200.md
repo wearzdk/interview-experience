@@ -4,6 +4,7 @@ company: 深圳益普科技
 position: Java开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 base: 深圳
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/895804913857331200

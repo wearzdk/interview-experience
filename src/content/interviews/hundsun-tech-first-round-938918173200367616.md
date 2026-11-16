@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "技术岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 result: "已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938918173200367616

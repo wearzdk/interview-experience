@@ -4,6 +4,7 @@ company: "快手"
 position: "全栈开发实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/030c7fea65c74b4aba551876011c3001
 tags: ["全栈", "分布式锁", "LiteFlow", "Agent", "MySQL", "AI编程"]

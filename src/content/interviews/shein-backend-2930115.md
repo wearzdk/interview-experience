@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/08da697f35e542eba9d55ecdad1c1639
 tags: ["SHEIN", "后端开发", "HTTP", "Session", "Cookie", "TCP", "IOC"]

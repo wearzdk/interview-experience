@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931831727310270464"
 tags: ["嵌入式","C语言","Bootloader","中断","SPI","IIC","串口"]

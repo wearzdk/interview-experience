@@ -3,6 +3,7 @@ title: "27 届大疆嵌入式软件凉经：秋招复盘与嵌入式备考清单
 company: "大疆"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-07'
 result: 已挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937046333817389056

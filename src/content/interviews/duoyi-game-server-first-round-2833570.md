@@ -4,6 +4,7 @@ company: 多益网络
 position: 游戏服务端开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Redis","多线程","Linux","数据库优化","进程通信"]
 summary: "多益网络游戏服务端开发一面面经。面试涵盖项目登录全流程设计、数据库查询优化、Linux常用指令、进程间通信、线程安全、Redis缓存雪崩、LRU/LFU内存淘汰算法及Java基础等核心技术点。"

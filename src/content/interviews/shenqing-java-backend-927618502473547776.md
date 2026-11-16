@@ -4,6 +4,7 @@ company: 深轻科技
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/927618502473547776
 tags: ["Java", "Redis", "MySQL", "RabbitMQ", "WebSocket"]

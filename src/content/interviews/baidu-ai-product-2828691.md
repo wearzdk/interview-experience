@@ -4,6 +4,7 @@ company: "百度"
 position: "AI产品经理"
 round: "一面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "Agent", "SSE", "用户研究", "项目深挖", "实习"]

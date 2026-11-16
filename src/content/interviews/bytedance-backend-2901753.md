@@ -3,6 +3,7 @@ title: 字节日常实习后端一面凉经（中国交易与广告）
 company: 字节跳动
 position: 后端开发实习生
 date: '2026-09'
+collectedAt: '2026-09-02'
 source: 牛客网
 tags: ["Java", "RAG", "Redis", "消息队列", "系统设计"]
 summary: 字节后端实习一面，涵盖 RAG 召回、缓存一致性、Redis 持久化、消息幂等和循环依赖检测。

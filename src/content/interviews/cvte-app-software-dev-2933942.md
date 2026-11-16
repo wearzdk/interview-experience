@@ -4,6 +4,7 @@ company: "CVTE"
 position: "应用软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/877fecb894fb4218b0a5b3dda15fb0da
 tags: ["CVTE","SSE","WebSocket","算法","网络","AI工程"]

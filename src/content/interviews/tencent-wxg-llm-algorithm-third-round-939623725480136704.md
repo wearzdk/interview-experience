@@ -4,6 +4,7 @@ company: "腾讯"
 position: "大模型算法"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939623725480136704
 tags: ["腾讯","大模型算法","强化学习","PPO","GRPO","DPO","多模态"]

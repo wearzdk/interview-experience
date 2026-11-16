@@ -4,6 +4,7 @@ company: 北京宇信科技
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-08'
 base: 北京
 source: 牛客网
 tags: ["Java","Spring Boot","MyBatis","MySQL","Redis","Linux"]

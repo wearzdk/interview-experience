@@ -4,6 +4,7 @@ company: 字节跳动
 position: "后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d94ba0f203e443eca51ea42fb9ddfd5b
 tags: ["字节跳动","后端","CAS","DPDK","eBPF","Linux内核","Go GC"]

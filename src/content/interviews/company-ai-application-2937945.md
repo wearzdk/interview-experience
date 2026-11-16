@@ -3,6 +3,7 @@ title: "小厂 AI 应用开发面：RAG 幻觉、三级上下文压缩与工具�
 company: "某公司"
 position: "AI 应用开发"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c9dd06bab88247348a5c42fd89646f3b
 tags: ["AI应用开发","RAG","Agent","上下文压缩","提示词注入","Rerank","Checkpoint"]

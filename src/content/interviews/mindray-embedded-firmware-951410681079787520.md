@@ -4,6 +4,7 @@ company: 迈瑞医疗
 position: 嵌入式软件工程师（固件方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951410681079787520
 tags: ["迈瑞医疗","嵌入式固件","FreeRTOS","PID控制","Flash存储","SPI","C语言","医疗设备"]

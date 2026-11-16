@@ -4,6 +4,7 @@ company: 小红书
 position: Java后端开发
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/904418985184194560
 tags: ["算法","AI项目","Redis","快速排序"]

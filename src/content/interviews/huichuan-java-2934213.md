@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["线程池","双亲委派","类加载","MySQL","慢查询","Binlog","死锁"]
 summary: "汇川技术 Java 一面无手撕，八股多由实习延伸：线程池七个参数与执行链路、线程池分层隔离、双亲委派与类卸载、同名类被不同 ClassLoader 加载的后果、left/right join、慢查询排查、索引失效、Binlog 三种格式与大分页。"

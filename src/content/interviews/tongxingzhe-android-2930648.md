@@ -4,6 +4,7 @@ company: "同行者科技"
 position: "Android 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dff9d956b9724af986ea7f489fb9270d
 tags: ["Android", "Kotlin", "协程", "Handler", "Activity", "一面"]

@@ -4,6 +4,7 @@ company: "星际悦动"
 position: "嵌入式软件"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ac79b768a8ca4352abe01ddd95642824
 tags: ["星际悦动","嵌入式","AI面试","丢包","职业规划","行为面试"]

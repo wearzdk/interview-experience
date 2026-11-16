@@ -4,6 +4,7 @@ company: 钉钉（阿里巴巴）
 position: Java 后端开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Kafka","秒杀系统","RAG"]
 summary: "钉钉 Java 后端暑期实习一面，共约 40 题，涵盖秒杀系统设计、Redis Lua 脚本、Caffeine 本地缓存、Kafka 消息顺序、MySQL 慢 SQL 与主从同步、CAS/ABA/死锁、JVM 锁升级，以及 RAG 知识库系统评估等核心知识点，无手撕算法题。"

@@ -4,6 +4,7 @@ company: 顺丰
 position: Java 开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/14f456589be14d5790930051c53af157
 tags: ["Java","Redis","Lua","Kafka","分布式","缓存穿透"]

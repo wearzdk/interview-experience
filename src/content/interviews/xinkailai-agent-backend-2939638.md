@@ -4,6 +4,7 @@ company: "新凯来"
 position: "AI Agent 开发"
 round: "技术面 + HR 面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6d2f788fc8e04992ad371645235058fa
 tags: ["新凯来","AI Agent","Agent 评估","MySQL","线程池","HR 面","社招"]

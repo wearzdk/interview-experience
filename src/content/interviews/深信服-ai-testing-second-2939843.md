@@ -4,6 +4,7 @@ company: 深信服
 position: AI 测试开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/62f4bd9e4b3c4d1d9af38612df8be4da
 tags: ["深信服","AI测试开发","测试用例生成","正交组合","因子约束","大模型","职业规划"]

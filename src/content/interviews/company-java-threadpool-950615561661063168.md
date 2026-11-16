@@ -3,6 +3,7 @@ title: "Java 线程池核心参数与拒绝策略：面试考点全解"
 company: "某公司"
 position: "后端开发"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950615561661063168
 tags: ["Java","线程池","并发","拒绝策略","JUC"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7a74a0c581d541488cc8c3cd08a4b036
 tags: ["百度","Java后端","一面","LRU","慢查询","CAS","Netty"]

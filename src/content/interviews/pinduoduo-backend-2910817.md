@@ -3,6 +3,7 @@ title: "拼多多服务端一面：HashMap、文件 IO 与数组移除"
 company: "拼多多"
 position: "服务端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "HashMap", "IO", "算法"]
 round: "一面"

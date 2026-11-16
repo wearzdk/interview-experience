@@ -3,6 +3,7 @@ title: "久远银海 Java 开发：线下笔试 + 面试真题"
 company: "久远银海"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 tags: ["Java", "MyBatis", "MySQL", "秒杀", "分库分表", "索引"]
 summary: "久远银海西安分公司线下笔试加面试：笔试为 Java 基础、SQL 与少量前端的选择加大题；面试围绕秒杀设计、Lua 扣减、压测数据来源、MyBatis 占位符差异与联合索引依据展开，全程约 20 分钟。"

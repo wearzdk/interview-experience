@@ -3,6 +3,7 @@ title: "国轩高科电池工艺工程师校招面：材料退化、方案被否
 company: "国轩高科"
 position: "电池工艺工程师"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940739223974387712"
 tags: ["国轩高科","电池工艺","工艺工程师","材料退化","项目管理","职业规划","秋招"]

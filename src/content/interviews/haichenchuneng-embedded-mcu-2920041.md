@@ -3,6 +3,7 @@ title: "海辰储能嵌入式 MCU 岗面试"
 company: "海辰储能"
 position: "嵌入式 MCU 工程师"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["嵌入式","C语言","FreeRTOS","DMA","中断"]
 summary: "海辰储能嵌入式 MCU 岗（深圳）面试：问题集中在 C 语言关键字、中断与 DMA、FreeRTOS 任务调度、信号量与互斥锁、优先级反转及其解决办法，以及多任务优先级的设置思路。"

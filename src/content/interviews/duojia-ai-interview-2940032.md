@@ -3,6 +3,7 @@ title: "AI 面里停下来想几秒可能就算答完：四种切换规则与进
 company: "多家公司"
 position: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3cc8de14690843d0ae660e7fc9049c8d
 tags: ["AI面试","面试经验","象屿地产","饿了么","雅诗兰黛","小鹏","OPPO","行为面试"]

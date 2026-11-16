@@ -4,6 +4,7 @@ company: 国内银行
 position: Java后端开发
 round: 技术面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932032156925165568
 tags: ["银行科技岗","Java","JVM","类加载","垃圾回收","内存结构","并发"]

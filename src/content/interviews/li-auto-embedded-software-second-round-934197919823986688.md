@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934197919823986688
 tags: ["嵌入式", "FreeRTOS", "SPI", "I2C", "MQTT", "Modbus", "OTA"]

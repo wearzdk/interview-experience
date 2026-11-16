@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932326261840412672
 tags: ["链路追踪","Agent","RAG","可观测性","MySQL","网络"]

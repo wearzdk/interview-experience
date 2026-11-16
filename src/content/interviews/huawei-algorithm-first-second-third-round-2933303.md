@@ -4,6 +4,7 @@ company: "华为"
 position: "算法工程师（大模型）"
 round: "一二三面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/db120ae0156249078ffd635bd66f3772
 tags: ["华为", "算法", "大模型", "AgenticRAG", "PPO", "DPO", "GRPO", "vLLM", "多卡训练"]

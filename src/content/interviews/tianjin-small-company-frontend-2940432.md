@@ -4,6 +4,7 @@ company: 天津某中小厂
 position: 前端开发
 round: 笔试与无领导小组讨论
 date: '2026-11'
+collectedAt: '2026-11-13'
 base: 天津
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7d3b568017fd49d5b1b01ae4c7553424

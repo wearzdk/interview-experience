@@ -4,6 +4,7 @@ company: "东方财富"
 position: "Java开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f5f6e17c6b064779be9121a88e771d1e
 tags: ["Java", "Redis", "MySQL", "Kafka", "线程池", "Linux"]

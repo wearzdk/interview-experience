@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "嵌入式软件"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938807894735060992
 tags: ["汇川","嵌入式软件","三面","项目深挖","求职动机","HR面"]

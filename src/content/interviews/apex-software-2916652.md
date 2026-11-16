@@ -4,6 +4,7 @@ company: "顶点软件"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["社招","项目深挖","Redis","分布式锁","Javaagent","HR面"]
 summary: "顶点软件社招技术一面与 HR 面面经：技术面以项目为主、八股很少，覆盖接口性能调优（javaagent 分析 + 线程池异步）、数据迁移需求、Redis 分布式锁同步序号及其 Redisson 实现原理、Java 死锁治理与 AI 使用看法，面试官最后点评「回答问题要突出技术而不是需求背景」；HR 面问需求流程、项目性质、offer 选择与看重什么。"

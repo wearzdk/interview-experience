@@ -4,6 +4,7 @@ company: "淘天集团"
 position: "Agent算法"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931957859154132992"
 tags: ["淘天集团","Agent算法","大模型训练","SFT","Muon优化器","KV Cache","ReAct","多头注意力"]

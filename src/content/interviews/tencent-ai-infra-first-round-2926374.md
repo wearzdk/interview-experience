@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI Infra"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5383d265153245b4b1ab4a60f924c1a2
 tags: ["腾讯","混元","AI Infra","张量并行","流水线并行","数据并行","通信优化","推荐系统"]

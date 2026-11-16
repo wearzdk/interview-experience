@@ -3,6 +3,7 @@ title: "软件测试面试题：测试人员在团队里到底扮演什么角色
 company: "某公司"
 position: "软件测试工程师"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944754464588578816
 tags: ["软件测试","测试左移","质量保障","缺陷密度","覆盖率","团队协作"]

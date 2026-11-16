@@ -3,6 +3,7 @@ title: "Java 秋招一面复盘：HashMap 扩容、锁升级与项目深挖踩�
 company: "未知公司"
 position: "Java 后端"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737069524000768"
 tags: ["Java后端","八股文","HashMap","锁升级","缓存一致性","面试复盘","秋招"]

@@ -4,6 +4,7 @@ company: 拼多多
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring","并发编程"]
 summary: "拼多多AI后端开发实习生一面面经。重点考察项目架构、分布式锁与秒杀系统库存扣减、Canal消息队列保证、Spring Bean循环依赖及Java基础（类加载、线程池、String对象）。涵盖Redis三级缓存与MySQL事务机制，适合后端开发求职者备考。"

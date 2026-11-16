@@ -4,6 +4,7 @@ company: "传音控股"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/638bf51a30ef4e3aa3595abed576f617
 tags: ["传音控股","测试开发","自动化测试","Agent测试","记忆功能","Playwright","大模型评测","面试真题"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/59e9ad65d55347d5b4d3e7ddc4c0d672
 tags: ["百度", "后端开发", "一面", "ArrayList", "ConcurrentHashMap", "volatile", "MVCC", "二分查找"]

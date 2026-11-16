@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b1e1f5809134975a7febbe76b756f5e
 tags: ["阿里巴巴", "AI Agent", "Skill", "防幻觉", "分布式事务", "Redis", "ConcurrentHashMap"]

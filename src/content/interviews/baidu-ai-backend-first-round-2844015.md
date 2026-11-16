@@ -4,6 +4,7 @@ company: 百度
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-28'
 source: 牛客网
 tags: ["Java并发","JVM","Redis","分布式锁","设计模式"]
 summary: "百度AI后端开发实习一面面经，重点考察Java多线程并发（ConcurrentHashMap、CAS）、JVM内存管理与垃圾回收机制、Redis分布式锁设计与应用场景，以及常用设计模式的实战理解。"

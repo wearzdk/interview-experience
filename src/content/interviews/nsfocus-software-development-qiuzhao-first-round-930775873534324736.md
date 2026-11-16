@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "软件研发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/930775873534324736
 tags: ["C++","gdb","TLS","进程间通信","Linux IO","系统安全"]

@@ -4,6 +4,7 @@ company: 量子泛娱
 position: Java 实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","Redis","JVM","MySQL索引","ThreadLocal","Spring"]
 summary: "量子泛娱 Java 实习一面，30 分钟无手撕，围绕实习项目展开，涉及线程池调优、ThreadLocal 内存泄漏、Redisson 看门狗、联合索引失效、G1 vs CMS、CAS ABA 问题、SpringBoot 自动装配、缓存击穿、AI Agent 文档分块等核心知识点，适合准备 Java 实习面试的同学参考备考。"

@@ -4,6 +4,7 @@ company: XTransfer
 position: 高级开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-16'
 result: 通过
 source: 牛客网
 tags: ["Java","分布式系统","Redis","MySQL","并发编程"]

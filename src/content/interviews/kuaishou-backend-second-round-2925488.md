@@ -4,6 +4,7 @@ company: "快手"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f502036c44f47f197e73d0d7476b5e0
 tags: ["快手","后端开发","ClickHouse","Redis","Raft","AI Coding"]

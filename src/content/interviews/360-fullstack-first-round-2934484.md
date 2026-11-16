@@ -4,6 +4,7 @@ company: "360"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/81a265f9346a455bac983d6a59854b79
 tags: ["360","全栈","Redis","热点key","AI编程","Code Agent"]

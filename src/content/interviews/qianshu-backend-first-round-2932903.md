@@ -4,6 +4,7 @@ company: "千曙科技"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b1c541706664287a1d31849d3b4731e
 tags: ["千曙科技", "一面", "文件系统", "项目深挖", "现场编码", "系统设计"]

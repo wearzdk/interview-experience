@@ -4,6 +4,7 @@ company: "宁德时代"
 position: "工业 Agent"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931692725089366016"

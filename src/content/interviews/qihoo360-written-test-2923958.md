@@ -4,6 +4,7 @@ company: "360"
 position: 笔试
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dbff6bbe66be4ed48ced2846e71067b5
 tags: ["笔试","360","二分","区间动态规划","回文串"]

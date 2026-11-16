@@ -3,6 +3,7 @@ title: "AI 面第一题：8 份原帖里的自我介绍，时长从 1 分钟到 
 company: 多公司汇总
 position: AI面试
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/26132a344ee04bb0a2c4a0087fabf490
 tags: ["AI面试", "自我介绍", "面试复盘", "求职技巧"]

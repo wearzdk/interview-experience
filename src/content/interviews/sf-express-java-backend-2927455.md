@@ -4,6 +4,7 @@ company: "顺丰科技"
 position: "Java后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7f4c4c9ffb0d4f3faf9565537c3e0dfe"
 tags: ["Java后端", "AI服务", "MySQL死锁", "Prompt优化", "秋招"]

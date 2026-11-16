@@ -4,6 +4,7 @@ company: "中信银行"
 position: "信息科技岗（软件开发中心）"
 round: "技术面+人力面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938203353866043392"
 tags: ["中信银行","信息科技岗","软件开发中心","Java","Golang","双亲委派","银行面试","校招流程"]

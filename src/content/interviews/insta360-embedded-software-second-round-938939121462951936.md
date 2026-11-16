@@ -4,6 +4,7 @@ company: "影石"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938939121462951936
 tags: ["嵌入式","操作系统","系统调用","内存管理","进程与线程","影石"]

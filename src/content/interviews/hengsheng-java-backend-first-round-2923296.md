@@ -4,6 +4,7 @@ company: "恒生"
 position: "Java后端"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fc217e0c90d140d29e0183ff8748c36b"
 tags: ["Java","HashMap","并发编程","synchronized","volatile","锁升级","单例模式"]

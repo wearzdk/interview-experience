@@ -4,6 +4,7 @@ company: 腾讯
 position: AI全栈开发实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["Java基础","并发编程","计网","MySQL","Redis","Spring"]
 summary: "腾讯AI全栈开发实习一面面经，涵盖Java基础（集合、并发）、计算机网络（HTTPS、TCP握手）、MySQL、Redis缓存策略及Spring微服务架构设计。无手撕算法环节，重点考察后端技术栈深度与应用场景解决能力。"

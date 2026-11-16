@@ -4,6 +4,7 @@ company: "中国电信"
 position: "计算机类"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/dd783903a4584ab39aabb40bd131cfa3"
 tags: ["中国电信","笔试","行测","计算机基础","编程题","hot100","校招"]

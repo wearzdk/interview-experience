@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["RAG","问题重写","混合检索","Java","HashMap","设计模式"]
 summary: "经纬恒润 Java 一面 35 分钟：实习项目占大半，技术问题集中在 RAG——问题重写与子问题拆分、上下文窗口满了怎么办、多路混合检索与过度检索率，之后是 static、HashMap 与设计模式，末尾问学历背景与期望薪资。"

@@ -3,6 +3,7 @@ title: "猛犸软件油田实施岗面试：驻场意愿、接口测试与现场
 company: "猛犸软件"
 position: "油田实施"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1713b0708ccc481ea130b4b789668eff
 tags: ["猛犸软件","实施工程师","驻场","Spark","Hadoop","接口测试","职业规划"]

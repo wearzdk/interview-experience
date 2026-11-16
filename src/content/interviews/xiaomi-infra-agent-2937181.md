@@ -4,6 +4,7 @@ company: 小米
 position: 基础架构（Agent 沙箱）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0ab2c08a8f934009b7ff0a958eea0954
 tags: ["沙箱","Agent Harness","Context","Memory","LRU"]

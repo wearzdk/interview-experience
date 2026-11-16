@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["计算机网络","Java并发","集合框架","AI工程化","算法"]
 summary: "字节跳动AI后端开发岗位春招一面面试真题，涵盖计算机网络协议栈、HTTP原理、ARP、Java线程池核心参数与拒绝策略、HashMap扩容机制、Token鉴权、MCP协议及AI代码自动审核流程等技术要点，并附带手撕算法题，助你深度复习。"

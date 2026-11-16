@@ -4,6 +4,7 @@ company: 小鹏汽车
 position: 电机结构开发培训生
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2d57ffe6c3ff453aa516d5fdc08077d5
 tags: ["小鹏汽车","电机结构","27届秋招","结构设计","公差","反问"]

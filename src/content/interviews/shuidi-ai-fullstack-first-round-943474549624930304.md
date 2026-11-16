@@ -4,6 +4,7 @@ company: "水滴"
 position: "AI全栈工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7435e374507e4bef8b28bb2e5af831b9
 tags: ["水滴","AI全栈","MySQL","索引失效","MVCC","Redis","线程池","Agent"]

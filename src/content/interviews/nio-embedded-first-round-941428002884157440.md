@@ -4,6 +4,7 @@ company: "蔚来"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941428002884157440
 tags: ["蔚来","嵌入式","C语言","操作系统","进程间通信","指针"]

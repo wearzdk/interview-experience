@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件"
 round: "多轮面试合集"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938187852230180864"
 tags: ["华为", "嵌入式", "FreeRTOS", "串口DMA", "I2C总线", "链接脚本", "机考", "秋招"]

@@ -4,6 +4,7 @@ company: 滴滴
 position: Java开发工程师
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-16'
 source: 牛客网
 tags: ["Java","MySQL","并发编程","JVM","算法"]
 summary: "滴滴Java开发岗位面经，涵盖HashSet底层原理、锁机制、并发可见性、MySQL优化及JVM Full GC排查方案。本文整理了详细的面试题与核心考点解析，助你备战互联网大厂面试。"

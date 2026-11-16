@@ -4,6 +4,7 @@ company: "保伦电子"
 position: "安卓开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931595944469024768
 tags: ["Android","音视频","H264","OkHttp","多线程"]

@@ -4,6 +4,7 @@ company: "小米"
 position: "AI Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940357369693810688
 tags: ["小米","AI Agent","金融风控","保险理赔","可观测性","幂等","手撕"]

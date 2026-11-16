@@ -4,6 +4,7 @@ company: 美团
 position: 容器平台Java开发
 round: 一面二面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "MCP", "RAG"]
 summary: "美团容器平台Java开发面经，覆盖数据库与缓存、消息队列、Agent权限、RAG以及线上排障。"

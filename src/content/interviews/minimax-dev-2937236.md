@@ -4,6 +4,7 @@ company: MiniMax
 position: 开发工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f67e2954263c432ba72073be6ee64dbc
 tags: ["Agent 观测","沙箱","流式输出","回文串","系统设计"]

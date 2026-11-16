@@ -4,6 +4,7 @@ company: "保融科技"
 position: "技术支持"
 round: "群面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2eb974d14c7e4305900d809b53048eb5"
 tags: ["保融科技","技术支持","群面","客户沟通","SQL","操作系统","Java","Linux"]

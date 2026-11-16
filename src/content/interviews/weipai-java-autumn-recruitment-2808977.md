@@ -4,6 +4,7 @@ company: 微派
 position: Java后端开发
 round: 三轮技术面+HR面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 排序挂
 source: 牛客网
 tags: ["Java","Redis","MySQL","HTTP-WebSocket","分布式锁"]

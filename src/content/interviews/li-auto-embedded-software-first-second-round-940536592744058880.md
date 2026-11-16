@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "嵌入式软件（智能座舱）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940536592744058880
 tags: ["理想汽车","嵌入式软件","智能座舱","Android","Binder","SurfaceFlinger","虚拟化","进程间通信"]

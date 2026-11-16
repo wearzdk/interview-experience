@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/be137233de1c4102a7939a39de4e2a02
 tags: ["字节跳动","网络","TCP","ARP","HTTP","手撕代码"]

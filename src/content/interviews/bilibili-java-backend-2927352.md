@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "Java后端"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d2150475019f47d4a2a1c8fbf6c03ed9"
 tags: ["Java", "AQS", "线程安全", "AI Agent", "职业规划"]

@@ -3,6 +3,7 @@ title: "华勤数据开发面经：数仓分层、Hive 与 Spark SQL 细节追�
 company: "华勤"
 position: "数据开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5f58689d032547a5b213f7dcd4297202
 tags: ["华勤","数据开发","Hive","Spark","数仓分层","BI","供应链"]

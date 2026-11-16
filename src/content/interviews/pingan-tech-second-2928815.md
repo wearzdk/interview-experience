@@ -4,6 +4,7 @@ company: "平安科技"
 position: "全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/4af13a9e53ae45b88479c1a04488ee14"
 tags: ["平安科技", "全栈开发", "二面", "RAG", "分块策略", "AI幻觉", "TDD", "项目经历"]

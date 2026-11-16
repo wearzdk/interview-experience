@@ -4,6 +4,7 @@ company: "新东方"
 position: "Java 开发（AI Agent 方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["MySQL","B+树","聚簇索引","联合索引","Spring Boot","自动装配"]
 summary: "新东方 Java 一面 50 分钟：前半段问学习路径与项目，后半段硬核：为什么用 B+ 树、聚簇与非聚簇索引、主键重排序的代价、非聚簇索引能否范围查询、联合索引 (a,b,c) 在 a=1 b>2 c=3 下怎么走，以及 Spring Boot 自动装配原理。"

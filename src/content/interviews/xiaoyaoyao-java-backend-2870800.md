@@ -4,6 +4,7 @@ company: 小药药
 position: Java后端开发
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-04'
 base: 武汉
 source: 牛客网
 tags: ["MySQL","并发编程","分布式","AI工具"]

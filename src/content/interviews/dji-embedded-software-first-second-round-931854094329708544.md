@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式软件开发"
 round: "一面+二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931854094329708544"
 tags: ["嵌入式","大疆","FreeRTOS","中断","缓冲区","HardFault","环形缓冲区"]

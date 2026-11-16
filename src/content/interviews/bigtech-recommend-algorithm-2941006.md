@@ -3,6 +3,7 @@ title: "大厂推荐算法面经 10 问：DPO、GRPO、DAPO、GSPO 与强化学�
 company: 某互联网公司
 position: 推荐算法工程师
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/25490eff63a949088fae9501d0d6d1e3
 tags: ["推荐算法","强化学习","DPO","GRPO","PPO","VeRL","大模型"]

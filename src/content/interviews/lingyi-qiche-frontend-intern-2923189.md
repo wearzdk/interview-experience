@@ -3,6 +3,7 @@ title: "零一汽车前端开发实习面经：项目难点与 NestJS 选型"
 company: "零一汽车"
 position: "前端开发实习"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/be82d3bd89974899b49c194c63f894e5"
 tags: ["零一汽车","前端开发","实习面试","NestJS","技术选型","项目难点","反问环节"]

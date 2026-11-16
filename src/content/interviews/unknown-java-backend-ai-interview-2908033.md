@@ -4,6 +4,7 @@ company: 某公司
 position: Java后端开发
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "Spring Boot", "MySQL", "Redis", "AI面试"]
 summary: "Java后端岗位AI面试复盘，主要涉及HashMap、线程池、MySQL索引、Redis缓存穿透和项目经历，重点考察知识准确性与表达逻辑。"

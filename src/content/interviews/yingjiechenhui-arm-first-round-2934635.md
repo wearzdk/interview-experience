@@ -4,6 +4,7 @@ company: "英杰晨晖"
 position: "ARM开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/89e1a070f8eb4734a6fa9d381a421dd8
 tags: ["嵌入式","ARM","双模态模型","STM32","串口","FreeRTOS"]

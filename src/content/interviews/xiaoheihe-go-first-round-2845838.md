@@ -4,6 +4,7 @@ company: 小黑盒
 position: go开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 source: 牛客网
 tags: ["Go","网络协议","IO多路复用","数据库","Redis","架构设计"]
 summary: "小黑盒Go开发岗位一面面试题整理。涵盖SSE与WebSocket协议区别、HTTP2与HTTP3应用、IO多路复用epoll原理、B+树并发控制、WAL日志恢复、分布式缓存设计、Redis集群一致性与Raft算法，以及向量召回算法等深度技术问题。"

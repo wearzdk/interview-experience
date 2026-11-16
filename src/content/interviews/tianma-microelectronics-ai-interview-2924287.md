@@ -4,6 +4,7 @@ company: "天马微电子"
 position: "综合"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/88ebd4593a0140afa2b94122a6638adf
 tags: ["AI面试","自我介绍","英语面试","性格测试","线上测评","秋招"]

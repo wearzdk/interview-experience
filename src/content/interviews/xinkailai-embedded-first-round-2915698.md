@@ -4,6 +4,7 @@ company: 新凯来
 position: 嵌入式软件开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["嵌入式","RTOS","状态机","C语言","滑动窗口","白板编程"]

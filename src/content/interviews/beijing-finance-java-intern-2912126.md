@@ -3,6 +3,7 @@ title: "北京某金融公司 Java 实习面试：Agent、索引与 Redis 热点
 company: "北京某金融公司"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-17'
 result: "已获 Offer"
 source: "牛客网"
 tags: ["Java", "Go", "Agent", "MySQL", "Redis", "Spring Boot"]

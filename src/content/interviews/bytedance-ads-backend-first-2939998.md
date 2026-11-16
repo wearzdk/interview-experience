@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（广告与交易）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3f209deee7941bc840f7e2cfff6eceb
 tags: ["字节跳动","广告与交易","Kafka","消息积压","系统设计","登录页","滑动窗口","无重复子串","ACM模式"]

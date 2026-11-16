@@ -4,6 +4,7 @@ company: "满帮"
 position: "全栈开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940644933872984064"
 tags: ["Redis", "分布式锁", "秒杀", "缓存一致性", "MySQL索引", "RAG"]

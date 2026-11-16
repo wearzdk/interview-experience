@@ -4,6 +4,7 @@ company: 中科创达
 position: java
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 base: 天津
 source: 牛客网
 tags: ["Java","多线程","JVM","网络协议","数据结构"]

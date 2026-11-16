@@ -4,6 +4,7 @@ company: 快手
 position: 广告大模型算法
 round: HR面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937743864821972992
 tags: ["HR面","求职动机","职业规划","实习转正","论文","大模型算法"]

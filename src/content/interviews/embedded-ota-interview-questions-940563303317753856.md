@@ -3,6 +3,7 @@ title: "27 届嵌入式 OTA 面试题汇总：分区划分、掉电恢复与 Boo
 company: "牛客网用户分享"
 position: "嵌入式软件（OTA 方向）"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940563303317753856
 tags: ["嵌入式","OTA升级","IAP","Bootloader","Flash分区","CRC校验","掉电恢复","版本回滚"]

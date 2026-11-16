@@ -4,6 +4,7 @@ company: 快手
 position: 前端开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 天津
 source: 牛客网
 tags: ["Java", "消息队列", "Spring", "计算机网络", "前端", "算法"]

@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9178a627a0a4ba59f08f41626709fbd
 tags: ["联芸科技","嵌入式","知识蒸馏","INT8量化","cache一致性","RTOS"]

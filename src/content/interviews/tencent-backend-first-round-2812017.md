@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 凉经
 source: 牛客网
 tags: ["Java","Go","Agent","RAG","缓存设计","设计模式"]

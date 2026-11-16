@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "多模态大模型"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932594519835443200
 tags: ["大模型","多模态","Transformer","LoRA","RLHF","DPO"]

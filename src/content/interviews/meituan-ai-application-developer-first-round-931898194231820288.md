@@ -4,6 +4,7 @@ company: "美团"
 position: "AI应用开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931898194231820288"
 tags: ["美团","AI应用开发","Agent","ReAct","RAG","混合检索","AI编程"]

@@ -4,6 +4,7 @@ company: 快手
 position: 大模型应用开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过
 base: 杭州
 source: 牛客网

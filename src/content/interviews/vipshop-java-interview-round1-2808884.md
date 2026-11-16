@@ -4,6 +4,7 @@ company: 唯品会
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java并发","MySQL索引","线程池","Spring AOP","性能优化"]
 summary: "唯品会校招Java开发一面面经。面试涵盖Java并发锁机制、线程池调优、Spring AOP原理、MySQL索引结构及B+树优化、生产环境GC问题排查及大表查询性能优化等核心技术点，适合校招技术岗位备考参考。"

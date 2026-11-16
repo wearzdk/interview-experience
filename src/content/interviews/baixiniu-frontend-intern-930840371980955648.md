@@ -4,6 +4,7 @@ company: "白犀牛"
 position: "前端开发实习生"
 round: "一面+二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930840371980955648"
 tags: ["前端", "实习", "JavaScript", "TCP", "操作系统", "算法"]

@@ -4,6 +4,7 @@ company: "坤电科技"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/53d0b7481e664c338ed029357d7e81c4
 tags: ["坤电科技", "笔试", "双机位", "算法", "SQL", "Hot100"]

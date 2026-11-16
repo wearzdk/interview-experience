@@ -4,6 +4,7 @@ company: "MetaAPP"
 position: "全栈开发"
 round: "AI面试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Python", "深拷贝", "可变对象", "异常处理", "字典", "AI面试", "职业性格测评"]
 summary: "MetaAPP 全栈偏后端 AI 面试复盘：问题结构为 Python 基础 + 项目 + 竞赛 + 团队沟通，AI 面之后还有一轮性格测评。基础部分考察类与实例的区别、读取大文件为什么不一次性 read、try-except-finally 执行顺序、可变与不可变对象、*args 与 **kwargs、深浅拷贝、字典查找为什么快、list 与 tuple 的区别与适用场景。"

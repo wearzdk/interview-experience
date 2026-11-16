@@ -4,6 +4,7 @@ company: 新凯来
 position: 嵌入式软件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937998092576505856
 tags: ["嵌入式", "C语言", "SPI", "I2C", "Bootloader", "RTOS"]

@@ -4,6 +4,7 @@ company: "腾讯云智"
 position: "后端开发实习"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-21'
 source: "牛客网"
 tags: ["Java", "Redis", "MySQL", "算法", "限流"]
 summary: "腾讯云智武汉腾讯会议工作室后端实习一面，围绕 Java 集合、实习项目里的文章缓存与指纹限流设计、MySQL 索引下推和 Redis 底层结构展开，算法题是手写双向链表实现 LRU。"

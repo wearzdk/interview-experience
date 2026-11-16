@@ -4,6 +4,7 @@ company: "智能低碳研究院"
 position: "前端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/79bdc228d689429fbf747fb0f66fbe7c"
 tags: ["前端", "Vue", "React", "JavaScript", "事件循环", "Node.js"]

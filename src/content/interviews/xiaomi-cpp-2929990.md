@@ -4,6 +4,7 @@ company: "小米"
 position: "C++开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e4612ad8a521450c91355dad24a846b7"
 tags: ["小米", "C++开发", "智能指针", "进程与线程", "内存管理", "手撕"]

@@ -3,6 +3,7 @@ title: "安克规划控制算法挂经：强化学习弊端、学习方法与智
 company: "安克"
 position: "规划控制算法工程师（扫地机、割草机）"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "挂了"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/623e8d0b858d430781fb874fe9f33ef8"

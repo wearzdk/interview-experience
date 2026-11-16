@@ -4,6 +4,7 @@ company: "上汽大通"
 position: "整车研发储备生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/10d3652f7c8744e496a39904c5dcfe12"
 tags: ["汽车", "底盘开发", "校招", "职业规划", "DFMEA"]

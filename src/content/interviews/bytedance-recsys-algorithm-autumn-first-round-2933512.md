@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "推荐算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7f95add6c2624791881c2dc7ec21305e
 tags: ["推荐算法","生成式召回","SID","RQ-VAE","RQ-Kmeans","DIN","PyTorch","负采样"]

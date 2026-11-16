@@ -4,6 +4,7 @@ company: BIGO
 position: Android 开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Android","笔试","算法","滑动窗口","区间合并","字符串处理"]
 summary: "BIGO 安卓岗笔试复盘：10 道单选、5 道多选加 3 道 ACM 模式编程题。编程题为合并区间、滑动窗口最大值两道 LeetCode 原题，以及统计 SUCCESS、FAIL、PEND 出现次数的字符串处理题。"

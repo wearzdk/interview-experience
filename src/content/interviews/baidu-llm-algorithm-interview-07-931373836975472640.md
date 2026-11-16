@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931373836975472640"
 tags: ["大模型算法", "GRPO", "强化学习", "算子优化", "Tensor Core", "持续学习", "训练加速"]

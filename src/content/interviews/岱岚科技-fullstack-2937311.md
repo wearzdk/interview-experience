@@ -4,6 +4,7 @@ company: 岱岚科技
 position: 全栈开发（实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7898cffabab94a99831e3a8a27361761
 tags: ["岱岚科技","全栈开发","实习","多端开发","限流","PDF解析","3D建模","AI Coding"]

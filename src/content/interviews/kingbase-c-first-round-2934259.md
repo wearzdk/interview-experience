@@ -4,6 +4,7 @@ company: "电科金仓"
 position: "C开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ae9879db57914799ba5fddc713ab4b84
 tags: ["电科金仓","C语言","内存管理","野指针","调试工具","数据库"]

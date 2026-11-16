@@ -4,6 +4,7 @@ company: 京东
 position: 新锐之星储备店长
 round: "一面、二面"
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a949f46da757496f88fc601d00965bbf
 tags: ["京东","新锐之星","储备店长","零售","门店管理","新媒体运营","校招"]

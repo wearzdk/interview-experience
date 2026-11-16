@@ -4,6 +4,7 @@ company: 麦吉太文
 position: 游戏前端开发
 round: "一面、二面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949334490525036544
 result: 二面挂

@@ -3,6 +3,7 @@ title: 默契破冰（玩吧）Java后端社招面经：深度业务场景与IM�
 company: 默契破冰（玩吧）
 position: java后端开发（社招）
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","分布式事务","线程池","IM系统设计","本地缓存"]
 summary: "默契破冰（玩吧）Java后端社招面试，重点考察高并发场景排查、线程池底层机制、分布式事务方案及IM系统架构设计。涉及Apollo配置中心、Redis一致性、WebSocket长连接及本地缓存设计，深度贴合互联网垂直业务场景。"

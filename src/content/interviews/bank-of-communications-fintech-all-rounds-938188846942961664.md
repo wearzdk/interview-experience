@@ -4,6 +4,7 @@ company: "交通银行"
 position: "信息科技岗（金融科技、软件开发）"
 round: "一面+二面+群面+笔试"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938188846942961664"
 tags: ["交通银行","信息科技岗","金融科技","银行面试","无领导小组讨论","手撕代码","Java","MySQL"]

@@ -4,6 +4,7 @@ company: "华为"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1162340283714dab98b1d74efb41d405
 tags: ["大模型算法","注意力机制","GQA","MLA","MoE","强化学习","LoRA","双指针"]

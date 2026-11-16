@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/76b62ea6a32748298aadc395afd16afa
 tags: ["SHEIN", "后端开发", "MySQL", "事务隔离", "OpenResty", "502", "排障"]

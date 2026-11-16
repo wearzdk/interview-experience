@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "嵌入式软件"
 round: 四面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931979867938127872
 tags: ["科大讯飞","嵌入式","主管面","四面","实习","职业规划","秋招"]

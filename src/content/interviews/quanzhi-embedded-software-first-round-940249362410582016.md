@@ -4,6 +4,7 @@ company: "全志科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940249362410582016
 tags: ["嵌入式","Linux","U-Boot","设备树","驱动","应届生"]

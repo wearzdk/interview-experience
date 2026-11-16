@@ -4,6 +4,7 @@ company: 平安产险
 position: 数据管培生
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931213728526118912
 tags: ["数据管培生","一面","求职意愿","非技术面","金融科技"]

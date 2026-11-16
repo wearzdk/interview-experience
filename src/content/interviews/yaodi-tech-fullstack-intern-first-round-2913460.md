@@ -4,6 +4,7 @@ company: 耀狄科技
 position: 全栈开发（实习）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["全栈开发","Vue","React","SSE","AI辅助开发","Next.js","实习面试"]
 summary: "耀狄科技全栈开发实习一面面经，0918 下午场，难度不高：围绕实习经历、弱网性能排查、AI 辅助开发提效、Vue3 理解、Vue 与 React 区别、Subagent 通信、AI 服务接入与 SSE、以及对话中断如何续上。"

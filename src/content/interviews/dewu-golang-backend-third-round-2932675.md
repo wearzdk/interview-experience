@@ -4,6 +4,7 @@ company: "得物"
 position: "Go 后端"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3a4f3b187ef948709047c1a3710c0efa
 tags: ["得物","Go","后端","实习转正","三面","AI提效"]

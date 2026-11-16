@@ -4,6 +4,7 @@ company: 某大厂
 position: 软件开发
 round: Team Leader 面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950817815819202560
 tags: ["某大厂","软件开发","Agent评测","压力面","项目管理","职业规划"]

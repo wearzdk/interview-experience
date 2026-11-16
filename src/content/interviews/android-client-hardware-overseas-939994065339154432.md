@@ -4,6 +4,7 @@ company: "硬件出海厂商"
 position: "Android 客户端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939994065339154432
 tags: ["Android","客户端开发","Fragment生命周期","ViewModel","LiveData","RecyclerView","多线程集合","JVM","GC","Binder","HTTP","TCP"]

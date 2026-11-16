@@ -4,6 +4,7 @@ company: 滴滴
 position: Spark引擎开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["滴滴","Spark","大数据","Java","最长递增子序列","手撕算法"]

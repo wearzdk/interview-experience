@@ -4,6 +4,7 @@ company: "阿里虎鲸文娱"
 position: "AI基础设施（C++）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["C++","AI基础设施","Copy-on-Write","性能优化","计算机网络","算法"]
 summary: "阿里虎鲸文娱 AI 基础设施方向一面：从腾讯实习的项目效果问起，深挖 Copy-on-Write 设计与性能插桩系统的采集展示，再考 C++ 多态、排序稳定性、网络五层模型，算法题是约瑟夫环。"

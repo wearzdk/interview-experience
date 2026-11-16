@@ -4,6 +4,7 @@ company: "小米"
 position: "无线通信协议软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2e660b5e7c54dfba6fea3510b5a73f0
 tags: ["小米","无线通信协议","3GPP","5G","C语言","嵌入式","秋招"]

@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["MySQL","Redis","数据结构","AI Agent","排序算法"]
 summary: "腾讯AI后台开发一面面经分享。面试重点考察了高并发MySQL架构设计、Redis底层数据结构与一致性策略，并涉及AI Agent模型及计算机基础排序算法，适合后端求职者参考学习。"

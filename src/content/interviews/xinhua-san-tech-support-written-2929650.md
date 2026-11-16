@@ -4,6 +4,7 @@ company: "新华三"
 position: "技术支持工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5ffeef0f5b4d484984201a7e21c0d2dc
 tags: ["笔试", "计算机网络", "技术支持", "逻辑题"]

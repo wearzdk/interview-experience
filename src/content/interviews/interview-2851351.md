@@ -3,6 +3,7 @@ title: 软通动力JAVA面（已挂）
 company: 某互联网公司
 position: 软件开发实习生
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: 凉经
 base: 江苏
 source: 牛客网

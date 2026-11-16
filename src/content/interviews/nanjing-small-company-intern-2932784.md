@@ -4,6 +4,7 @@ company: "南京某小厂"
 position: "后端开发（实习）"
 round: "实习面试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/255d5509c8364224bb8ca02462b32631
 tags: ["南京", "小厂", "后端实习", "简历面", "项目深挖", "凉经"]

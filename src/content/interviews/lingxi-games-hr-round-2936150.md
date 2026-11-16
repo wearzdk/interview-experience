@@ -4,6 +4,7 @@ company: 灵犀互娱
 position: 测试开发
 round: HR面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e0d6aae765cd42c18bec578b6de6c391
 tags: ["HR面", "测试开发", "游戏行业", "职业规划", "面试复盘"]

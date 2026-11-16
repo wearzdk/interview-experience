@@ -4,6 +4,7 @@ company: 华为OD
 position: Python开发工程师
 round: 机考+资格面+两轮技术面+两次主管面
 date: '2026-05'
+collectedAt: '2026-07-06'
 result: 已上岸
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/886316373901586432

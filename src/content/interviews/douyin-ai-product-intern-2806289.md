@@ -4,6 +4,7 @@ company: 抖音
 position: AI产品经理实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-30'
 source: 牛客网
 tags: ["AI产品", "产品设计", "指标体系", "MCP", "模型训练"]
 summary: "抖音AI产品实习一面围绕项目复盘、产品从0到1、Coze改进方向及MCP、SFT、预训练和强化学习等基础概念展开。"

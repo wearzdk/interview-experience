@@ -4,6 +4,7 @@ company: "寅家电子科技"
 position: "软件测试工程师（智能驾驶、智能座舱）"
 round: "一面+二面+HR面"
 date: "2026-11"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/51810f1599744ddc809a075bb2032e24"
 tags: ["寅家电子科技","车载测试","智能座舱","软件测试","自动化测试","adb","CANoe","苏州"]

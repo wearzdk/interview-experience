@@ -4,6 +4,7 @@ company: "OBSBOT寻影"
 position: "数据分析"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933379676863492096
 tags: ["AB实验", "数据分析", "指标体系", "P值", "面试记录"]

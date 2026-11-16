@@ -4,6 +4,7 @@ company: "原力灵机"
 position: "具身智能算法工程师"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 result: "已 OC"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942781072528375808"

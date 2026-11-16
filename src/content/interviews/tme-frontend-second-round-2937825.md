@@ -4,6 +4,7 @@ company: "腾讯音乐"
 position: "前端开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/95492f0c789e4b57a8596ee9720ea184
 tags: ["腾讯音乐","前端开发","微前端","JS沙箱","JSBridge","RAG","Zustand","秋招"]

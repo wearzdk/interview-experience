@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端AI开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Redis","RPC","HTTP3","TCP协议","大模型幻觉"]
 summary: "字节跳动后端AI开发实习生一面面试经验。考察内容覆盖Redis缓存一致性与穿透防护、RPC协议设计、HTTP版本演进与队头阻塞、TCP可靠传输机制、大模型幻觉优化等核心技术点，并包含一道基础数组实现栈的算法题。"

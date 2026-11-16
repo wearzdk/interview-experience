@@ -4,6 +4,7 @@ company: 猫眼
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8450f7fdbcd3427c9426e39b1c31e0ef
 tags: ["猫眼","前端","一面","CSS布局","HTTP缓存","事件循环","React","SSE","手撕"]

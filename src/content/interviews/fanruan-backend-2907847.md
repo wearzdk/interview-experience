@@ -4,6 +4,7 @@ company: 帆软
 position: 后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "MySQL", "索引", "WebSocket", "RAG"]
 summary: "帆软后端一面，覆盖 Agent/RAG 项目、数据库索引与查询优化、网络通信、JVM、并发资源治理和缓存设计，并包含一道逻辑题。"

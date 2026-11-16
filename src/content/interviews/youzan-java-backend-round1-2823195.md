@@ -4,6 +4,7 @@ company: 有赞
 position: Java 后端工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","MySQL","Redis","线程池","消息队列","分布式事务"]
 summary: "有赞 Java 后端一面面经，涵盖线程池原理与参数设置、MySQL 索引覆盖与主从同步、分库分表策略、Redis 缓存击穿/穿透/热点 Key、消息队列可靠性与幂等性、分布式事务及 RAG 优化等核心知识点，适合 Java 后端求职备考参考。"

@@ -5,6 +5,7 @@ position: "TikTok后端开发实习生"
 round: "二面"
 result: "凉经"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9d12c2c364474cfab591630570aa2ca1
 tags: ["后端", "微服务", "Redis", "MySQL", "消息队列", "算法"]

@@ -4,6 +4,7 @@ company: 经纬恒润
 position: 嵌入式软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bb54a972b16649b0ae35ddef2cbb825c
 tags: ["嵌入式", "SPI", "CAN", "FreeRTOS", "STM32", "AUTOSAR", "H264"]

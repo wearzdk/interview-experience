@@ -4,6 +4,7 @@ company: "华为"
 position: "硬件工程师"
 round: "社招"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945631128763871232
 tags: ["华为","OD","硬件工程师","社招","机考","定级","PCB"]

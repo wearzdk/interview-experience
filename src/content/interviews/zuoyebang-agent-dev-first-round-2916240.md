@@ -4,6 +4,7 @@ company: "作业帮"
 position: "Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Agent","评测体系","工具调用","Trace","幂等","可观测性"]
 summary: "作业帮 Agent 开发一面面经（9 月 23 日），整场围绕 Agent 工程化展开：工具调用幂等与断线重连、审计能力、真实对话 Trace 的收集回流、评测集构建与人工 Review、确定性指标与 Agent Reviewer 结合的评分报告，以及按低分 Case 定向调优。"

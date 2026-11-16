@@ -3,6 +3,7 @@ title: 广州精抖云全栈开发面试
 company: 精抖云
 position: 全栈开发工程师
 date: '2026-06'
+collectedAt: '2026-06-24'
 base: 广州
 source: 牛客网
 tags: ["Java","MySQL","全栈开发","集合框架","多线程"]

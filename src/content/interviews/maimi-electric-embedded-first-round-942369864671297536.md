@@ -4,6 +4,7 @@ company: "麦米电气"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942369864671297536"
 tags: ["麦米电气","嵌入式","C语言","static","volatile","函数指针","OTA升级","STM32"]

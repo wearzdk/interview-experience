@@ -4,6 +4,7 @@ company: "华为"
 position: "前端开发（OD）"
 round: "机考+资面+技术一面+技术二面+主管面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 base: "东莞"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8b06b696abfe48a6b2584dd240afc75e

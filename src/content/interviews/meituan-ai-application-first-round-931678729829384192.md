@@ -4,6 +4,7 @@ company: "美团"
 position: "AI应用开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: "已通过一面"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931678729829384192

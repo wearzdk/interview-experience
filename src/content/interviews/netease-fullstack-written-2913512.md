@@ -4,6 +4,7 @@ company: "网易"
 position: "全栈开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["笔试", "算法", "BFS", "动态规划", "AICoding", "Java"]
 summary: "9 月 19 日网易全栈岗笔试，一道编程题加一道 AI Coding。编程题是两人同时到达同一终点，相遇前每回合最多走一步、相遇后最多走两步，走不到要返回 -1 且有多组测试用例；AI Coding 只能验证能否运行，跑不了判题的真实用例。"

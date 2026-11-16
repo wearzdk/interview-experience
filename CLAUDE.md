@@ -24,7 +24,7 @@ bun preview    # 预览构建产物
 
 面经数据以 Markdown + frontmatter 形式存放在 `src/content/interviews/*.md`，Schema 定义在 `src/content/content.config.ts`：
 
-- 必填：`title`、`company`、`position`、`date`
+- 必填：`title`、`company`、`position`、`date`（面试月份 YYYY-MM）、`collectedAt`（收录进本站的北京日期 YYYY-MM-DD，sitemap 的 lastmod 由它派生，写入后不随后续小改动更新）
 - 选填：`round`、`result`、`base`、`source`（默认"牛客网"）、`tags`（字符串数组）、`summary`
 
 通过 Astro 的 `getCollection("interviews")` API 查询内容。
@@ -41,7 +41,8 @@ bun preview    # 预览构建产物
 
 - `src/consts.ts` — 站点标题、描述、小程序名，以及拼主站 utm 链接的 `mainSiteUrl(campaign)`
 - `src/styles/global.css` — 全局 CSS 变量（主色 #105fd9，与主站品牌蓝一致）+ 全局 `.co-badge`
-- `astro.config.mjs` — 站点 URL、sitemap 集成配置
+- `astro.config.mjs` — 站点 URL、sitemap 集成配置；lastmod 按 `collectedAt` 派生（详情页取自身，公司 / 岗位 / 标签页取其下最新一篇，首页与总览页取全站最新），新增页面类型若没有对应口径，构建直接失败
+- `edgeone.json` — EdgeOne Pages 响应头：`/sitemap-*.xml` 覆盖为 `max-age=0`（平台默认会给它下发一年 `immutable`）
 - `src/components/BaseHead.astro` — SEO meta 标签、OpenGraph
 
 ### 复用组件

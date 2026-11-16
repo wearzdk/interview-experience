@@ -3,6 +3,7 @@ title: "接口测试面试：返回 200 为什么还不能算测完"
 company: "某互联网公司"
 position: "测试开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931486705176018944"
 tags: ["软件测试","接口测试","幂等","异步处理","测试用例"]

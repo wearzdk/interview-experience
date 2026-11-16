@@ -3,6 +3,7 @@ title: "招银云创笔试记录：基础选择题与 01 背包"
 company: "招银云创"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "数据结构", "动态规划"]
 round: "笔试"

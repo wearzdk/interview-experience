@@ -4,6 +4,7 @@ company: 快手
 position: 测试开发（Agent 评测方向）
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2e044b336930429a9667909a27026382
 tags: ["测试开发","Agent评测","Rubric","多模型适配","故障归因","线上排查"]

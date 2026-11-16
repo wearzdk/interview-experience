@@ -4,6 +4,7 @@ company: 智加
 position: 自动驾驶软件工程师
 round: 一二三面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/26812880d26248e5a34b4358902509e8
 tags: ["自动驾驶","C++","RAG","Redis","微服务","HR面","职业规划"]

@@ -4,6 +4,7 @@ company: 模思智能（Moss）
 position: 多模态 voice 与 Agent 评测
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f37ffb0525d6404b986e24f97225e909
 tags: ["Agent评测","多模态","voice","Handoff","Rubric","上下文压缩","开源"]

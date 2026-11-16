@@ -3,6 +3,7 @@ title: 阶跃星辰 Java 后端面试 - 设计模式与高并发核心总结
 company: 阶跃星辰
 position: Java后端开发
 date: '2026-04'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["Java","设计模式","线程池","Redis分布式锁","TCP协议"]
 summary: "阶跃星辰Java后端面试经验分享，涵盖Java设计模式（责任链、策略、装饰器）、线程池7大参数及高并发陷阱、Redis分布式锁失效场景与实战、阻塞队列手撕以及TCP拆包粘包解决方案。内容侧重分布式系统设计与性能调优。"

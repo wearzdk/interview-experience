@@ -3,6 +3,7 @@ title: "熙牛医疗一面&二面"
 company: "熙牛医疗"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "Redis", "AI", "消息队列"]
 summary: "熙牛医疗一面&二面，整理面试中涉及的Java、Redis、AI、消息队列等重点问题，供求职者准备相关岗位面试时参考。"

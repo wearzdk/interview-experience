@@ -4,6 +4,7 @@ company: 连锁品牌数字化服务商
 position: AI 与数字化方向
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939181550954991616
 tags: ["数字化","连锁零售","数据口径","权限设计","AI应用","场景题"]

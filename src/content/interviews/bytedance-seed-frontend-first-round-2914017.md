@@ -4,6 +4,7 @@ company: 字节跳动
 position: 前端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["字节跳动","前端","手撕代码","React Hooks","并发控制","组件设计"]

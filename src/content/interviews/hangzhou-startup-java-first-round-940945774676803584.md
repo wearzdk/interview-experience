@@ -4,6 +4,7 @@ company: "某初创公司"
 position: "Java 后端"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940945774676803584"
 tags: ["Java后端","DDD","任务调度","用户画像","数据库设计","乐观锁","责任链","情感陪伴AI"]

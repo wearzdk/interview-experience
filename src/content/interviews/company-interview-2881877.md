@@ -3,6 +3,7 @@ title: "耐挂土豆丝面试回忆录-七月（深势科技）"
 company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-07'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","并发","计算机网络","RAG","面试经验","后端开发"]
 summary: "某公司Java后端开发工程师面试记录，覆盖Java、并发、计算机网络、RAG等考点，整理了面试流程与高频问题。"

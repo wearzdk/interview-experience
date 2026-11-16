@@ -4,6 +4,7 @@ company: 拼多多
 position: AI Agent
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938539542166913024
 tags: ["AI Agent","代码生成","上下文管理","B+树","LRU","分布式锁"]

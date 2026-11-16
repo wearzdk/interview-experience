@@ -3,6 +3,7 @@ title: "嵌入式面试高频八块：内存分区、中断、RTOS 与通信协�
 company: 通用
 position: 嵌入式软件
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949227994772414464
 tags: ["嵌入式","C语言","内存分区","中断","RTOS","通信协议","面试总结"]

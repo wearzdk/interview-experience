@@ -4,6 +4,7 @@ company: 吉利
 position: 开发
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d200601b9ec246a29e39af6baa5c0796
 tags: ["吉利","开发","AI面试","行为面试","测评"]

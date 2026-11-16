@@ -4,6 +4,7 @@ company: "荣耀"
 position: "用户体验工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1e0e53f82fd94de19956c23e97137038
 tags: ["荣耀", "用户体验", "校招", "实习项目", "反问"]

@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: 软件开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1e2687d8a26f4f5bb00374d366b5f16a
 tags: ["浩鲸科技","软件开发","薪资谈判","外包","出差","职业选择"]

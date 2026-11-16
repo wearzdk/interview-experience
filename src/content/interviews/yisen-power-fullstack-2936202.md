@@ -4,6 +4,7 @@ company: "易森动力"
 position: "全栈开发"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 base: "北京"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/0d4b41b3887f4055bf668af48f74ad99"

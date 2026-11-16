@@ -3,6 +3,7 @@ title: "刷题做对了却讲不清楚：面试前把「口述思路」补进练
 company: 牛客网用户分享
 position: 面试准备
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f6a77d1464a24df39384c7a3a1e319f6
 tags: ["面试技巧","刷题方法","口述思路","边界验证","线上面试"]

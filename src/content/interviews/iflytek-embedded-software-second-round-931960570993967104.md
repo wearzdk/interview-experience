@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "嵌入式软件"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931960570993967104"
 tags: ["科大讯飞","嵌入式软件","MCU选型","I2C","SPI","CAN","FreeRTOS","任务调度"]

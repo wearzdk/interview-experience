@@ -4,6 +4,7 @@ company: 中国铁塔
 position: 综合岗（AI 面试）
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9326834bb3b64e5b8e120fc5138c96a0
 tags: ["中国铁塔","AI面试","综合岗","行为面试","色觉测试","校招"]

@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "基座模型项目管理"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/20d08448943248a298eeb1c77c4b9df7
 tags: ["理想汽车", "项目管理", "一面", "智驾", "交付", "base地", "校招"]

@@ -4,6 +4,7 @@ company: 易点云
 position: 系统工程师
 round: 一面、二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dd0ee0401dde430bbdec8d4141ed3fe6
 tags: ["易点云","系统工程师","实习经历","项目深挖","面试流程"]

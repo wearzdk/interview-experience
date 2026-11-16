@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "AI Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 tags: ["AI Agent","MySQL","Redis","八股","面试复盘"]
 summary: "绿盟科技 Agent 开发岗一面记录，全程约 25 分钟。作者自我介绍没讲完就被打断，项目只问了一点，之后一直在问 MySQL 和 Redis 八股，Agent 相关内容完全没有涉及；作者推测与面试时会议屏幕位置让面试官产生怀疑有关。"

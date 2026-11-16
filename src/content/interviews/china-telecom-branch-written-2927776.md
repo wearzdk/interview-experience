@@ -4,6 +4,7 @@ company: "中国电信"
 position: "计算机类"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ad0ee002062d437db30f96d425e5ef4a"
 tags: ["中国电信","笔试","行测","计算机基础","滑动窗口","BFS","long溢出"]

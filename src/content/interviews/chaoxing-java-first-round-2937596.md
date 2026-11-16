@@ -4,6 +4,7 @@ company: "超星"
 position: "Java 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ddf7293c2302427683b17860b1fdb1e9
 tags: ["超星", "Java", "JVM", "OOM", "线程池", "Redis", "RAG", "Embedding"]

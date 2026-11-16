@@ -4,6 +4,7 @@ company: 联奕科技
 position: Java后端实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 挂
 base: 广州
 source: 牛客网

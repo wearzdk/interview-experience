@@ -4,6 +4,7 @@ company: "京东"
 position: "财务BP"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6066c762fe4e4bd2afea74599b07825d"
 tags: ["京东","财务BP","成本管控","预算分析","经营分析","秋招"]

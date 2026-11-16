@@ -3,6 +3,7 @@ title: "蔚来 大模型算法 秋招面经：代码智能体仓库级改造与�
 company: "蔚来"
 position: "大模型算法"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/930762829001424896
 tags: ["大模型算法", "代码智能体", "上下文工程", "RAG", "符号图", "代码检索", "提示注入"]

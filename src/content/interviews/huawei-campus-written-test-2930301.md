@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/94a8f92fadbd4417871999f790a13579"
 tags: ["华为","校招","机考","BFS","回溯","线段树","区间染色"]

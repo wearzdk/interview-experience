@@ -4,6 +4,7 @@ company: 阳光电源
 position: 后端开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-08'
 result: 已挂
 source: 牛客网
 tags: ["JWT", "鉴权", "Canal", "消息顺序", "一致性"]

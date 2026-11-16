@@ -4,6 +4,7 @@ company: 荣耀
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-19'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Kafka","并发编程"]
 summary: "荣耀Java开发实习生一面面经，重点考察三级缓存架构（Caffeine+Redis+DB）、分布式锁与缓存击穿、限流算法与Lua脚本、Kafka消费机制、MySQL隔离级别及高并发下的性能调优与故障排查。"

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 反作弊产品经理
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-16'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/863741726773555200
 tags: ["产品经理","风控","反作弊","数据分析","SQL"]

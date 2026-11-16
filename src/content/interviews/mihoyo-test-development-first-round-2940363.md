@@ -4,6 +4,7 @@ company: "米哈游"
 position: "测试开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/975969dfdbd34986a2f1d9eb4c794be5
 tags: ["米哈游", "测试开发", "C++", "C#", "操作系统", "链表", "AI 测试"]

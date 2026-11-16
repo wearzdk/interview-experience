@@ -4,6 +4,7 @@ company: "腾讯"
 position: "测试开发（企业微信）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8171618f020b40f5b88b59e15c22615e
 tags: ["腾讯","企业微信","测试开发","算法","Agent","推荐系统","Go"]

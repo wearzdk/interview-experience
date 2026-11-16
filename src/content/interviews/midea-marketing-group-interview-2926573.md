@@ -4,6 +4,7 @@ company: "美的"
 position: "国内营销"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4fce1457c42641c8a565f7d9454f1cc8
 tags: ["美的","群面","无领导小组讨论","营销","HR面","秋招流程"]

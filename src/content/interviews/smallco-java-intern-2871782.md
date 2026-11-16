@@ -4,6 +4,7 @@ company: 某小厂
 position: Java开发实习生
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-07'
 source: 牛客网
 tags: ["设计模式","C#","AI编程工具"]
 summary: "双非学生小厂Java实习一面，15分钟快速通过，主要围绕工厂设计模式的实现、跨语言（C#）开发经历，以及Trae、Claude Code、Codex等AI编程工具的使用对比展开。"

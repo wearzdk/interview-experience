@@ -4,6 +4,7 @@ company: "4399"
 position: 游戏服务器开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/82cc4235ab4b43c7bcc152a281bb0ee3
 tags: ["4399","游戏服务器","C++","智能指针","多态","多线程","红黑树","匹配系统","TCP","UDP","RAG"]

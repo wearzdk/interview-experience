@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: "一面、二面、三面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949320447437332480
 tags: ["字节跳动","后端实习","ShardingSphere","Redis","Kafka","RAG","虚拟内存","算法"]

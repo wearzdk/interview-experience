@@ -3,6 +3,7 @@ title: 致远互联Java日常实习面经
 company: 致远互联
 position: Java日常实习
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java集合","ArrayList","LinkedList","HashMap","面向对象"]
 summary: "致远互联Java日常实习面试考察，重点考查Java基础知识。面试内容涵盖ArrayList与LinkedList的区别与使用场景、HashMap的遍历方式、重载与重写的区别等核心Java技术点，适合准备实习的同学参考备考。"

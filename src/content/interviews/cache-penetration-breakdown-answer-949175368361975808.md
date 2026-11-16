@@ -3,6 +3,7 @@ title: "缓存穿透与击穿怎么答：空值缓存、布隆与互斥重建的
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949175368361975808
 tags: ["缓存穿透","缓存击穿","布隆过滤器","互斥锁","逻辑过期","限流"]

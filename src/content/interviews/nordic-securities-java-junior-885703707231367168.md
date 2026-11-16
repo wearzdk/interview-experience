@@ -4,6 +4,7 @@ company: 某证券公司（北欧办公室）
 position: Java Junior开发工程师
 round: 笔试
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/885703707231367168
 tags: ["Java","JavaScript","算法","海外求职"]

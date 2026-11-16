@@ -4,6 +4,7 @@ company: 深蓝互动
 position: 游戏测试
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938025172886429696
 tags: ["游戏测试", "战斗测试", "场景题", "测试用例", "开放世界"]

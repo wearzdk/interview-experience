@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-04'
 result: 未通过
 source: 牛客网
 tags: ["MySQL","Kafka","Redis","链表","事务ACID","幂等性"]

@@ -3,6 +3,7 @@ title: 经纬恒润 C/C++软件开发面经（凉经）
 company: 经纬恒润
 position: C++软件开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932043217489448960
 tags: ["C++", "Kafka", "智能指针", "epoll", "TCP", "线程模型"]

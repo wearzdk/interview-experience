@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "C++服务端开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931298463264800768"
 tags: ["C++", "内存排查", "TCP", "epoll", "Valgrind", "KV Cache", "多租户"]

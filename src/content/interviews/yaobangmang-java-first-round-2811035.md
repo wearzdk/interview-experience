@@ -4,6 +4,7 @@ company: 药帮忙
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Spring","Redis","Elasticsearch"]
 summary: "药帮忙Java开发岗位一面面经，面试内容涵盖项目经历、MySQL索引优化、HashMap底层原理、Spring AOP及事务失效场景、Redis数据结构及ES一致性方案等核心技术栈，适合Java后端校招备考参考。"

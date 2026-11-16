@@ -4,6 +4,7 @@ company: "小鹏汽车"
 position: "电机结构开发培训生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9647cb76111748208b237fa6b37d765c
 tags: ["小鹏汽车", "电机", "NVH", "传函分析", "校招"]

@@ -4,6 +4,7 @@ company: 货拉拉
 position: 后端开发实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","RocketMQ","HashMap","JVM","线程池"]
 summary: "货拉拉后端开发实习面试题汇总。考察重点涵盖RocketMQ事务消息、对账业务逻辑、Java基础（String、static、HashMap）、JVM调优及公平锁等。包含LeetCode经典题：无重复字符的最长字串。"

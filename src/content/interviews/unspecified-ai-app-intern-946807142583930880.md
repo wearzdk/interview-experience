@@ -3,6 +3,7 @@ title: "AI 应用开发实习转正面经：SymPy 判题链路与幻觉处理"
 company: 未注明
 position: "AI 应用开发（实习转正）"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946807142583930880
 tags: ["Agent", "判题", "SymPy", "幻觉", "线程池", "AI编程"]

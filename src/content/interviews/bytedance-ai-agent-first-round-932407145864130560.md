@@ -4,6 +4,7 @@ company: 字节跳动
 position: Agent开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932407145864130560
 tags: ["Agent开发","多Agent架构","上下文工程","父子文档索引","GRPO","JSON合并"]

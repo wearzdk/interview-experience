@@ -4,6 +4,7 @@ company: 四达时代
 position: java
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 result: 通过（拒二面）
 source: 牛客网
 tags: ["Java","HashMap","JVM","并发编程","Linux"]

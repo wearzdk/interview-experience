@@ -4,6 +4,7 @@ company: 沐瞳
 position: 数仓开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/99bbfd62e3d34357aeb5c9f4c4226ea5
 tags: ["数仓开发","数据仓库","面试体验","秋招"]

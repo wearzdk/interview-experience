@@ -4,6 +4,7 @@ company: "泸州老窖"
 position: "食品安全岗"
 round: "多轮面试合集"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941282447008751616"

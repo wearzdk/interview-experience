@@ -4,6 +4,7 @@ company: 广州鱼七网络科技
 position: Python开发（实习）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937786464207753216
 tags: ["Python", "实习面试", "项目经验", "算法题", "面向对象", "消息队列"]

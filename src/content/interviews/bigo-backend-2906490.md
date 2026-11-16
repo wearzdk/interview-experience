@@ -4,6 +4,7 @@ company: bigo
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["Redis","TCP","系统设计","并发"]
 summary: "bigo后端二面涉及Redis String编码、TCP连接队列、实时热榜系统设计和高并发场景，含手撕算法。"

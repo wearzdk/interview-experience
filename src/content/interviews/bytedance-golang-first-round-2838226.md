@@ -4,6 +4,7 @@ company: 字节跳动
 position: Golang开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 result: 挂
 source: 牛客网
 tags: ["Golang","RAG","JVM","大模型","并发编程"]

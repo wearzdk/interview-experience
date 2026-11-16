@@ -3,6 +3,7 @@ title: "字节跳动 iOS 社招面经：RunLoop、项目深挖与最长无重复
 company: "字节跳动"
 position: "iOS"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/63fba2df117e48478834a1b6793bc388"
 tags: ["字节跳动","iOS","社招","RunLoop","算法","最长无重复子串","AI","项目面"]

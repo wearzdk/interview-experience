@@ -3,6 +3,7 @@ title: "小米 Java 二面：并发初始化、线程协作与最长子串"
 company: "小米"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "并发编程", "Spring", "Agent", "算法"]
 round: "二面"

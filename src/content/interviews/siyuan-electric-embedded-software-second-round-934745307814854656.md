@@ -4,6 +4,7 @@ company: "思源电气"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934745307814854656
 tags: ["嵌入式", "volatile", "字节序", "通信协议", "职业规划", "综合面"]

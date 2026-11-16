@@ -4,6 +4,7 @@ company: "搜狐"
 position: "内容运营实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/91646858165d450fb7f96ddf74f37270
 tags: ["搜狐","实习","内容运营","视频剪辑","电话面试","简历深挖"]

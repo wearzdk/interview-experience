@@ -3,6 +3,7 @@ title: "大三找实习复盘：投递节奏、面试表现与心态"
 company: "牛客网用户分享"
 position: "实习求职"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e985872430a04a2f8378e6bf20e4a916
 tags: ["找实习","求职节奏","面试复盘","心态","大三"]

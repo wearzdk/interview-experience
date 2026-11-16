@@ -4,6 +4,7 @@ company: "哈特利夫"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/929776400586768384"
 tags: ["Java", "广告归因", "幂等", "Kafka", "限流"]

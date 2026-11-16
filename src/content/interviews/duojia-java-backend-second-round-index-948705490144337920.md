@@ -4,6 +4,7 @@ company: 某公司
 position: Java 后端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948705490144337920
 tags: ["Java","MySQL","索引失效","优化器","区分度","skip scan"]

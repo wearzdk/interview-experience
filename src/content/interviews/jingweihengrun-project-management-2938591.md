@@ -4,6 +4,7 @@ company: 经纬恒润
 position: 项目管理
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9121b2071194df28e719d3e1daa1643
 tags: ["经纬恒润","项目管理","校招","PPT面试","薪资","职业规划"]

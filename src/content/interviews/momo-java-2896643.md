@@ -3,6 +3,7 @@ title: "陌陌8.25Java海外业务笔试"
 company: "陌陌"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","MySQL","并发","计算机网络","算法","数据库"]
 summary: "陌陌Java后端开发工程师面试记录，覆盖Java、MySQL、并发、计算机网络等考点，整理了面试流程与高频问题。"

@@ -4,6 +4,7 @@ company: "库卡"
 position: "HRBP 实习"
 round: "实习面试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2391b3c15abb4ad485fcded7651a2b57
 tags: ["库卡", "HRBP", "人力资源", "实习面试", "招聘", "行为面试"]

@@ -4,6 +4,7 @@ company: "用友"
 position: "软件开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931337335352938496"
 tags: ["笔试","多关键字排序","区间合并","图论","JSON"]

@@ -4,6 +4,7 @@ company: 某公司
 position: 音视频技术（AI Agent 方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8de272e0772646f69f128fa6196c9ef5
 tags: ["秋招","AI Agent","音视频","一致性哈希","gRPC","Netty","Go并发","MySQL索引","算法"]

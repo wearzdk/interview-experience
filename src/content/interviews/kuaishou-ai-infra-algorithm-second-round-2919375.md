@@ -4,6 +4,7 @@ company: "快手"
 position: "AI Infra 算法"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/34b0e91cbc3549ae9da50dcb4d824729"
 tags: ["快手","AI Infra","分布式训练","流水线并行","分布式推理","吞吐与延时","高并发","手撕代码"]

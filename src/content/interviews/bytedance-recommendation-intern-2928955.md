@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "推荐算法实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b1c21204dc174dab82206bb3a2f94902"
 tags: ["字节跳动", "推荐算法实习", "多智能体协作", "ASR清洗", "长序列建模", "最大正方形", "滑动窗口"]

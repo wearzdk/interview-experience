@@ -4,6 +4,7 @@ company: OPPO
 position: 系统工程师
 round: AI面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4ded5fd17caf4b4491d5913434e2db74
 tags: ["OPPO","系统工程师","AI面试","行为面试","英文面试"]

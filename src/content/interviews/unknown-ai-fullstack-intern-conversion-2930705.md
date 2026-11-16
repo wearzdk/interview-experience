@@ -4,6 +4,7 @@ company: "某公司"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/facaecedc70e4fffbc4e556ba7b7998d
 tags: ["AI全栈", "RAG", "Agent", "Function Calling", "LangGraph", "实习转正"]

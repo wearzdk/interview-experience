@@ -4,6 +4,7 @@ company: "古茗"
 position: "后端开发管培生"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cbe8e022b10e471095291bdc2b02d0d2"
 tags: ["古茗", "后端开发", "分布式事务", "限流", "并发编程", "Linux"]

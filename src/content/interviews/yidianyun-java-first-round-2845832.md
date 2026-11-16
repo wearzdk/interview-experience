@@ -4,6 +4,7 @@ company: 易点云
 position: Java
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 source: 牛客网
 tags: ["Java","JVM","MySQL","Redis","Elasticsearch","线程池"]
 summary: "易点云Java岗位一面面经，重点考察项目实战与核心八股。涵盖OpenAPI封装优化、RAG检索引擎、JVM内存模型与GC调优、MySQL索引失效与事务隔离、Redis及ES数据一致性方案。"

@@ -4,6 +4,7 @@ company: "华为 OD"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944198819858685952
 tags: ["华为OD","前端","社招","机考","事件循环","闭包","Vue","性能优化"]

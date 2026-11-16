@@ -4,6 +4,7 @@ company: "宁德时代"
 position: "产品研发"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9a96991e0e344828f0a3925ce238cfc
 tags: ["宁德时代", "AI面", "英语测评", "管培生", "秋招"]

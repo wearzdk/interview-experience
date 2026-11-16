@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（日常实习）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931568372028829696
 tags: ["算法","二叉树","AI工具","实习面试"]

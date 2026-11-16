@@ -4,6 +4,7 @@ company: 得物
 position: 后端开发
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3f6d422256cc4fdc88006dee5e9ab208
 tags: ["笔试","秒杀系统","AI Coding","并发","幂等"]

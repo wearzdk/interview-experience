@@ -4,6 +4,7 @@ company: 得物
 position: 后端开发
 round: AI面
 date: '2026-04'
+collectedAt: '2026-04-24'
 source: 牛客网
 tags: ["Java基础","集合框架","SQL数据库","Kafka","Redis"]
 summary: "得物后端AI面试题整理，涵盖Java基础、ArrayList与LinkedList底层原理、SQL查询优化、Kafka消息堆积处理、Redis分布式锁与数据一致性方案，以及项目协作与问题解决能力考核，适合后端开发求职者复习备考。"

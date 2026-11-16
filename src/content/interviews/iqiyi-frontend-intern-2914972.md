@@ -3,6 +3,7 @@ title: 爱奇艺前端日常实习面试（React 与浏览器基础）
 company: 爱奇艺
 position: 前端开发（日常实习）
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["React","setState","事件委托","Promise","HTTP缓存","Git","TCP"]
 summary: "爱奇艺前端日常实习面经，约 30 分钟。题目以 React 与浏览器基础为主：setState 的同步异步、事件委托、useMemo 与 useCallback、HTTP 状态码与 304、git pull 与 fetch，另手写每秒自增的计时组件。"

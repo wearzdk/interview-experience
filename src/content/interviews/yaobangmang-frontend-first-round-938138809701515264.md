@@ -4,6 +4,7 @@ company: "药帮忙"
 position: "前端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "面试官告知准备二面"
 base: "武汉"
 source: "牛客网"

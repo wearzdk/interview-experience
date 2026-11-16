@@ -4,6 +4,7 @@ company: "多益网络"
 position: "软件工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/299670d9533248988ce253c7b9bd1e49
 tags: ["多益网络","软件工程师","校招","项目深挖","场景题","手写代码","AI 应用"]

@@ -4,6 +4,7 @@ company: "招银网络科技"
 position: "Java开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "分布式锁", "微服务", "大模型"]
 summary: "9 月 16 日线下二面，从实习中的 KV Cache 聊到项目锁设计，技术面后进入 HR 面。"

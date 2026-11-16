@@ -4,6 +4,7 @@ company: "不鸣科技"
 position: "自动化测试（实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a7fbdcd10de84a3c9e7f0ef11c1cdc74
 tags: ["不鸣科技", "自动化测试", "Python", "Java", "TCP", "HTTP", "MVC", "MVVM"]

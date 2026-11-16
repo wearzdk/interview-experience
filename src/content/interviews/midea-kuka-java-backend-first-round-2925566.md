@@ -4,6 +4,7 @@ company: "美的库卡"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/16c4007759df4d2ba07e6e735b2f1ce6
 tags: ["美的库卡","Java后端","一面","抢票系统","防超卖","数据库优化","网络排查"]

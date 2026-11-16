@@ -4,6 +4,7 @@ company: 苏州凌志软件
 position: 对日开发工程师（Java）
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 result: 已过
 base: 苏州
 source: 牛客网

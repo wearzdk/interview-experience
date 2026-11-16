@@ -4,6 +4,7 @@ company: "360"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/665ec39f24a84d5e8cfc0a8b964eac40
 tags: ["360", "笔试", "贪心", "字符串", "回文", "Python"]

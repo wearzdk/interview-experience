@@ -4,6 +4,7 @@ company: 度小满
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Agent","Redis","MySQL","SSE","支付系统","系统设计","上下文工程"]
 summary: "度小满一面面经，9.18 下午场，重基础并考察 AI 概念。覆盖 Work Memory 设计、Agent 组成与 Skill 编排、文档抽取 JSON、Redis 与 MySQL 一致性、支付幂等与超时取消、限流熔断降级等。"

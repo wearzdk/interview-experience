@@ -3,6 +3,7 @@ title: "10.14 浪潮软件开发面试：缓存一致性、Kafka 与分页索引
 company: "浪潮"
 position: "软件开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/48861bc7bc02440d854c463194fb6b88
 tags: ["浪潮","软件开发","缓存一致性","Kafka","分库分表","索引优化","分页查询"]

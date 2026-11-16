@@ -4,6 +4,7 @@ company: "CVTE视源股份"
 position: "人力资源"
 round: "群面+综合面试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737290282848256"
 tags: ["CVTE","视源股份","人力资源","HR面","群面","职业规划","校招"]

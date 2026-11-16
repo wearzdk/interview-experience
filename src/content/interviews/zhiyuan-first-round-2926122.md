@@ -4,6 +4,7 @@ company: "智元机器人"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ce8901b0d6d44d2dbcd855e9292b0e50
 tags: ["智元","后端开发","TCC","分布式事务","缓存","缓存击穿","流量治理","GC","Go"]

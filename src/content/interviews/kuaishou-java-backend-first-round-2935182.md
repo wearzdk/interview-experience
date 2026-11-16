@@ -4,6 +4,7 @@ company: "快手"
 position: "Java后端"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ef59e5a5f47f45ec984300886d85e10a"
 tags: ["快手","Java","面向对象","ConcurrentHashMap","AQS","synchronized","ThreadLocal","MongoDB","并发"]

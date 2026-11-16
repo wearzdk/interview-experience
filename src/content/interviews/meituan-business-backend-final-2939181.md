@@ -4,6 +4,7 @@ company: "美团"
 position: "业务后台（Agent 应用）"
 round: "综合终面"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5c29f7b688584f398557681109eb5efc
 tags: ["美团","业务后台","校招","Agent","本体建模","OWL","DDD","SAGA","AI Coding"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 业务岗
 round: "群面 / 业务面 / 交叉面 / HRBP 面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/87df4afea55f4891970ba6bd4aab26ed
 tags: ["字节跳动","业务岗","群面","业务面","交叉面","HRBP","情景题","校招"]

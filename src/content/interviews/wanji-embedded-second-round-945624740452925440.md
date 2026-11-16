@@ -4,6 +4,7 @@ company: "万集科技"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945624740452925440
 tags: ["万集科技","主管面","车路协同","智能交通","嵌入式","职业规划"]

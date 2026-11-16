@@ -3,6 +3,7 @@ title: "敦煌网 推荐算法面经：特征评估、MMoE、SID 构建与传统
 company: "敦煌网"
 position: "推荐算法"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["推荐算法", "MMoE", "SID", "SFT", "特征工程", "手撕代码"]
 summary: "敦煌网推荐算法岗面经：围绕实习业务场景展开，依次考察特征好坏怎么判断、MMoE 结构、SID 构建流程、SFT 流程和传统推荐链路，最后手撕最大子数组和。"

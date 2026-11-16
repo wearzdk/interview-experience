@@ -3,6 +3,7 @@ title: "达实智能 Java 面经：项目追问、ES 选型与 JWT 轮换"
 company: "达实智能"
 position: "Java 后端开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/92cae92aeeda4d448d34e0b298a2284e
 tags: ["Java","达实智能","Elasticsearch","SpringBoot","MyBatis","JWT","Docker"]

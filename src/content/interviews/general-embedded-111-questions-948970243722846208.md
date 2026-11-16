@@ -4,6 +4,7 @@ company: 通用
 position: 嵌入式软件开发
 round: "面试题库"
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948970243722846208
 tags: ["嵌入式","C++","Linux","网络编程","单片机","面试题库"]

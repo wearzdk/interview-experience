@@ -4,6 +4,7 @@ company: 唯品会
 position: 广告中台实习生
 round: 一二面
 date: '2026-07'
+collectedAt: '2026-07-09'
 source: 牛客网
 tags: ["Java","线程池","Redis","MySQL","Elasticsearch","算法"]
 summary: "唯品会广告中台实习生一二面面经，覆盖首页多接口并发、线程池拒绝策略、ThreadLocal、缓存击穿、MySQL 同步 ES、深度分页和数组算法。"

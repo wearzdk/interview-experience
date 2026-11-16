@@ -4,6 +4,7 @@ company: "某公司"
 position: "大数据开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cf749a9f99eb475992ad6cc6f110e521
 tags: ["大数据开发","Kafka","Spark","MySQL","笔试"]

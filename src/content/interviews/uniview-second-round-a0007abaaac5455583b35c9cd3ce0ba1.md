@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "研发岗"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 result: "二面未通过（当场告知）"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a0007abaaac5455583b35c9cd3ce0ba1

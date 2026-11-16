@@ -4,6 +4,7 @@ company: 小药药
 position: Java实习生
 round: 一面/二面
 date: '2026-07'
+collectedAt: '2026-07-06'
 base: 武汉
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/901984251132792832

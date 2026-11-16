@@ -4,6 +4,7 @@ company: 货拉拉
 position: 后端开发实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java基础","RocketMQ","HashMap","JVM调优","并发编程"]
 summary: "货拉拉后端开发实习生一面面试总结。涵盖RocketMQ事务消息原理、业务对账设计、Java基础知识（String不可变性、static、反射）、HashMap实现机制、Java线程池参数与JVM Full GC调优策略，并包含LeetCode算法题手撕。"

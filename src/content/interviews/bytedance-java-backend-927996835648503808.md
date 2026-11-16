@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端
 round: 多轮技术面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/927996835648503808
 tags: ["Java", "JVM", "分布式事务", "系统设计", "压测"]

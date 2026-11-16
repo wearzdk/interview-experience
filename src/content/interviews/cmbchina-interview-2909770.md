@@ -3,6 +3,7 @@ title: "攒人品 招银网络科技一面"
 company: "招银网络科技"
 position: "技术岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 tags: ["Java", "Redis", "网络", "索引"]
 summary: "招银网络科技技术岗位面经，整理了原帖中的主要追问，覆盖Java、Redis、网络、索引等主题，适合准备相关岗位面试时参考。"
 ---

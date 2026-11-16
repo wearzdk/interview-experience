@@ -3,6 +3,7 @@ title: "快手 AI Agent 开发凉经：如何定义 Agent？"
 company: 快手
 position: AI Agent 开发
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938541475766206464

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "前端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bee63e7d2e4a4c5da8b2a7aa643d0961"
 tags: ["前端", "JavaScript", "事件循环", "Vue Router", "AI面试", "凉经"]

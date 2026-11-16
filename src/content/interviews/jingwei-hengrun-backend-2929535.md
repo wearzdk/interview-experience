@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/299eaa20753546b89e5ad19117da4716"
 tags: ["经纬恒润", "后端开发", "项目搭建", "工程规范", "二面"]

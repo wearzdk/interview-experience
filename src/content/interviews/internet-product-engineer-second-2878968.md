@@ -4,6 +4,7 @@ company: 某互联网大厂
 position: Product Engineer 产品工程师
 round: 二面
 date: '2026-07'
+collectedAt: '2026-07-22'
 result: 通过
 source: 牛客网
 tags: ["产品工程师","大模型调优","电商","Python","数据结构"]

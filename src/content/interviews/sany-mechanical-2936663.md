@@ -4,6 +4,7 @@ company: "三一集团"
 position: "机械工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f642091d9f04a45a0bc4e3231762d1a
 tags: ["机械工程师","结构设计","竞品调研","专利","工作强度","秋招"]

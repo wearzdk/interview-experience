@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 算法"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941992971027636224
 tags: ["Agent", "RAG", "大模型", "上下文工程", "AI编程"]

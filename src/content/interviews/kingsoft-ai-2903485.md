@@ -3,6 +3,7 @@ title: "金山软件 AI全栈一面"
 company: "金山软件"
 position: "AI开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "Spring", "并发", "TCP", "AI", "大模型", "RAG"]
 summary: "金山软件 AI全栈一面，整理面试中涉及的Java、MySQL、Spring、并发等重点问题，供求职者准备相关岗位面试时参考。"

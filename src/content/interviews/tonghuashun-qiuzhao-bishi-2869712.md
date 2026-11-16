@@ -4,6 +4,7 @@ company: 同花顺
 position: 秋招开发工程师（笔试）
 round: 笔试
 date: '2026-06'
+collectedAt: '2026-07-01'
 source: 牛客网
 tags: ["Java","MySQL","算法","Prompt工程","Transformer"]
 summary: "同花顺27届秋招笔试面经，选择题考察Java基础语法和MySQL知识，编程题以模拟与库函数使用为主，另外还考了Prompt编写设计原则和Transformer架构原理等AI相关内容。"

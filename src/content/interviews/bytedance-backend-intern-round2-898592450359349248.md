@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/898592450359349248
 tags: ["Java","RAG","ReAct","反射","SQL"]

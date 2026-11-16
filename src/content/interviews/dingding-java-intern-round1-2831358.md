@@ -4,6 +4,7 @@ company: 钉钉
 position: Java 研发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-10'
 source: 牛客网
 tags: ["OCR","RAG","Embedding","Elasticsearch","JVM"]
 summary: "钉钉暑期实习Java研发一面面经。面试深度考察OCR技术细节、RAG架构（ES+Milvus）、Embedding模型原理、大模型Prompt与Context Engineering，以及JVM内存管理等核心Java后端与AI工程化知识。"

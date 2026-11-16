@@ -4,6 +4,7 @@ company: 正运动技术
 position: 工控软件开发（C++）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/495c0478b41947c7b0fe4b79e8fc0bfb
 tags: ["正运动技术","工控软件开发","交叉编译","glibc","Qt","扫描线算法","多线程"]

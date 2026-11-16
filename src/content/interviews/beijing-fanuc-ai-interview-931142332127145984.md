@@ -4,6 +4,7 @@ company: 北京发那科
 position: 售后服务工程师
 round: AI面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931142332127145984
 tags: ["AI面试","售后服务","校招","面试流程","求职"]

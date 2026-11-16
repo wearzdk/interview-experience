@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大数据开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/75ed5504938642829df4d01fab17ccbe
 tags: ["大数据开发","Agent","MCP","知识库","SQL"]

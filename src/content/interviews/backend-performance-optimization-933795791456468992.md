@@ -3,6 +3,7 @@ title: "后端接口性能优化：从 15.8 秒到 300 毫秒"
 company: "某公司"
 position: "后端开发"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933795791456468992
 tags: ["性能优化", "Arthas", "Redis", "Dubbo", "SQL优化", "分页接口"]

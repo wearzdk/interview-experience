@@ -4,6 +4,7 @@ company: "高驰"
 position: "全栈开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6655306fcaba4873811c5db4b638625c"
 tags: ["高驰", "全栈", "库存", "秒杀", "Redis", "JUC", "MySQL"]

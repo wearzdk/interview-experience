@@ -4,6 +4,7 @@ company: "安克创新"
 position: "嵌入式软件开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940736117706444800"
 tags: ["安克创新","嵌入式","CortexM","FreeRTOS","HardFault","I2C","Linux","秋招"]

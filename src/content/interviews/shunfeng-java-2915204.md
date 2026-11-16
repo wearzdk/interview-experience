@@ -3,6 +3,7 @@ title: 顺丰 Java 线下面（一面 + 二面）
 company: 顺丰
 position: Java
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","线程池","Spring","消息队列","MVCC","JVM"]
 summary: "顺丰 Java 线下面试记录，一面二面连着面、全程不到一小时。两轮都从拷打实习开始，八股覆盖线程池核心参数、IoC 与 AOP、RabbitMQ 的交换机类型、MVCC、JVM 内存区域以及哪些区域不会 OOM；二面还问了实习里的优化动机、多表关联查询、死信队列和死锁。"

@@ -3,6 +3,7 @@ title: "SHEIN Agent开发秋招面经：Java基础与Transformer"
 company: "SHEIN"
 position: "Agent开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["Java", "ConcurrentHashMap", "Transformer", "多头注意力", "多模态", "BLIP2"]
 summary: "SHEIN Agent 开发秋招面经，约 50 分钟，按 Java 基础 20 分钟、项目深挖 20 分钟、Transformer 与 AI 10 分钟推进，题目涉及 ConcurrentHashMap、多头注意力与 BLIP2 架构。"

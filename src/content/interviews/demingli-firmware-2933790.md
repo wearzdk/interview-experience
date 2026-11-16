@@ -4,6 +4,7 @@ company: "德明利"
 position: "固件工程师（嵌入式）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a73afba02d0a45fb885d8975227ce8b0
 tags: ["德明利","固件","FreeRTOS","互斥锁","信号量","内存对齐","volatile"]

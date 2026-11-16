@@ -4,6 +4,7 @@ company: "拼多多"
 position: "大模型算法"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942443622866116608
 tags: ["拼多多", "大模型算法", "模型内化", "Agent", "强化学习", "评测指标"]

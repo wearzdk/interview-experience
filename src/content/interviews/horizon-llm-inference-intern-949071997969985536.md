@@ -4,6 +4,7 @@ company: 地平线
 position: LLM 推理平台（日常实习）
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949071997969985536
 tags: ["地平线","LLM","推理优化","实习","面试复盘","项目深挖"]

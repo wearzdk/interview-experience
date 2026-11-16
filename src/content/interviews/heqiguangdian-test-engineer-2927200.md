@@ -3,6 +3,7 @@ title: "和其光电测试工程师社招面：离职原因、自动化覆盖率
 company: "和其光电"
 position: "测试工程师（社招）"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/19faa5ae2c32400784c7ec51f924af21
 tags: ["和其光电","测试工程师","社招面试","自动化测试","测试用例","iperf","职业规划"]

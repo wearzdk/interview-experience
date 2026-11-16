@@ -3,6 +3,7 @@ title: "Agent 应用工程师面试题库：工具调用、记忆检索与线上
 company: "某互联网公司"
 position: "Agent 应用工程师"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930796688640397312"
 tags: ["Agent","大模型应用","Function Calling","RAG","Prompt Injection","可观测性","成本优化"]

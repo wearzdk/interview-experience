@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式软件"
 round: "题库"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942362193473855488"
 tags: ["嵌入式","面试题库","C语言","Linux","FreeRTOS","网络编程","单片机"]

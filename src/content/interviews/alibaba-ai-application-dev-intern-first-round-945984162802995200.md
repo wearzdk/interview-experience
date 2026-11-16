@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "AI 应用开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945984162802995200
 tags: ["阿里巴巴","AI应用开发","Agent","长期记忆","Milvus","Mem0","向量检索","RAG","ToolCall","执行框架"]

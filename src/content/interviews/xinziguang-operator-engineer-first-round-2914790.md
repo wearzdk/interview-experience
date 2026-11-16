@@ -4,6 +4,7 @@ company: "新紫光"
 position: "算子工程师"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["算子开发","CUDA","GPU架构","roofline","性能优化","C++"]
 summary: "新紫光算子工程师一面，25 分钟、没手撕、八股很少：重点问 ncu 与 nsys 的区别与作用、常用卡的存储架构与带宽量级、峰值性能与计算单元和寄存器、roofline 模型、大模型算子，以及 C++ 的 inline。"

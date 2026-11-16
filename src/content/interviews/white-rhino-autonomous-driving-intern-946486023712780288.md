@@ -4,6 +4,7 @@ company: "白犀牛"
 position: "自动驾驶算法实习生"
 round: "一二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946486023712780288
 tags: ["白犀牛","自动驾驶","实习","C++","智能指针","几何","立方根","最短路径","Dijkstra","A星","归并排序"]

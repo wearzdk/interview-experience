@@ -4,6 +4,7 @@ company: 海康威视
 position: 嵌入式软件开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932401726231941120
 tags: ["嵌入式软件","行为面试","职业规划","团队协作","优先级管理"]

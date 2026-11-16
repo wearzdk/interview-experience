@@ -4,6 +4,7 @@ company: "某公司"
 position: "软件开发"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/78329dcd413c40e18e0c9b2a069047d9"
 tags: ["笔试", "ACM模式", "算法", "数组", "字符串"]

@@ -3,6 +3,7 @@ title: "兴业银行 金融科技 AI 面：选一门语言，然后被追问设�
 company: "兴业银行"
 position: "金融科技"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/97e682c9bcb14c04a7bff2ff8e9d79a1
 tags: ["兴业银行","AI 面试","编程语言","SRP","OCP","软件设计","宝洁八大问"]

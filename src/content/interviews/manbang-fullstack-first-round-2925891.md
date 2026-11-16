@@ -4,6 +4,7 @@ company: "满帮"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1562021bb25f4abaa0272c6f58987a29
 tags: ["满帮","全栈开发","ConcurrentHashMap","Redis","消息队列","线程池","幂等"]

@@ -4,6 +4,7 @@ company: "晶晨半导体"
 position: "嵌入式软件工程师"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["嵌入式","笔试","Makefile","管道","C语言","中断"]
 summary: "晶晨半导体嵌入式软件岗秋招笔试，9 月 29 日：10 道单选，三道问答（程序分析、Makefile、管道原理）、一段翻译、两道编程题，附加题问 ISR 注意事项与嵌入式结合 Agent 的系统设计。"

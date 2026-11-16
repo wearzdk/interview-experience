@@ -3,6 +3,7 @@ title: 美团 AI 产品经理转正实习面经
 company: 美团
 position: AI 产品经理
 date: '2026-05'
+collectedAt: '2026-07-21'
 source: 牛客网
 tags: ["美团","AI产品经理","产品迭代","用户场景","AI Coding"]
 summary: "美团 AI 产品转正实习面试记录，业务面深挖硬件产品迭代与竞品分析，AI Coding 环节重点追问用户、核心功能和方案价值。"

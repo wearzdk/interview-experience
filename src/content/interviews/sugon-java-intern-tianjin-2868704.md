@@ -4,6 +4,7 @@ company: 中科曙光
 position: Java实习生
 round: 技术面
 date: '2026-06'
+collectedAt: '2026-06-27'
 base: 天津
 source: 牛客网
 tags: ["Java","多线程","JVM","Spring","SpringCloud","微服务","实习"]

@@ -3,6 +3,7 @@ title: 神州信息-Java开发岗面试题
 company: 神州信息
 position: Java开发
 date: '2026-05'
+collectedAt: '2026-05-05'
 result: 凉经
 base: 北京
 source: 牛客网

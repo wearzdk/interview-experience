@@ -4,6 +4,7 @@ company: "Boss直聘"
 position: "产品经理"
 round: "一面+二面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 tags: ["AI产品", "Agent", "RAG", "商业化", "产品经理"]
 summary: "Boss直聘产品经理面经，原帖记录了一面+二面中的核心追问，重点涉及AI产品、Agent、RAG、商业化等内容，适合准备相关岗位面试时参考。"

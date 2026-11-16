@@ -4,6 +4,7 @@ company: "广东亿讯科技"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d03b372e14ff401d834bea9d594a9c9e
 tags: ["前端", "React", "虚拟列表", "SSE", "鉴权", "性能优化"]

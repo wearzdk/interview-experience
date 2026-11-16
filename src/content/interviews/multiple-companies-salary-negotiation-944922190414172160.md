@@ -3,6 +3,7 @@ title: "谈薪电话与口头 OC 怎么接：应届生薪资谈判的实操方�
 company: "多家互联网公司"
 position: "校招"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944922190414172160
 tags: ["谈薪", "口头OC", "校招", "offer", "薪资结构"]

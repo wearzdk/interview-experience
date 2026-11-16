@@ -3,6 +3,7 @@ title: "小红书-27届实习 Product Engineer 产品工程师-商业平台技�
 company: "小红书"
 position: "Java后端开发工程师"
 date: '2026-06'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","Kafka","RabbitMQ","RocketMQ","并发"]
 summary: "小红书Java后端开发工程师面试记录，覆盖Java、Redis、Kafka、RabbitMQ等考点，整理了面试流程与高频问题。"

@@ -4,6 +4,7 @@ company: 500强外企
 position: Java全栈实习
 round: 两轮
 date: '2026-04'
+collectedAt: '2026-04-09'
 result: OC
 base: 成都
 source: 牛客网

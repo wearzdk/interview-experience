@@ -3,6 +3,7 @@ title: "高途后端一面：JVM、权限系统与 LRU"
 company: "高途"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["JVM", "MySQL", "Redis", "OAuth2", "算法"]
 round: "一面"

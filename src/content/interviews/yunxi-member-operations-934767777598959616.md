@@ -4,6 +4,7 @@ company: "云徙科技"
 position: "会员运营"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934767777598959616
 tags: ["会员运营", "餐饮行业", "用户分层", "沉睡召回", "公私域联动", "多市场适配"]

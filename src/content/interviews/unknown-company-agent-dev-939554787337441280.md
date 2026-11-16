@@ -3,6 +3,7 @@ title: "上海初创小厂面经：Agent 项目与 AI 编程工作流"
 company: "未知公司"
 position: "Agent开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939554787337441280
 tags: ["Agent","LLM","提示词工程","AI编程","MCP","上下文管理","实习"]

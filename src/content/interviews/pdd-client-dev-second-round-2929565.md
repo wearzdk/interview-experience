@@ -5,6 +5,7 @@ position: "客户端开发"
 round: "二面"
 result: "凉经"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bc5fe92a562f4b749bb8b50ccfbb73b3
 tags: ["客户端", "C++", "Lua", "游戏引擎", "动态链接", "TLS", "算法"]

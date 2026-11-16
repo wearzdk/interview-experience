@@ -4,6 +4,7 @@ company: 某互联网公司
 position: 软件开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 山东
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "微服务", "Spring", "计算机网络"]

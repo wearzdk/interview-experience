@@ -4,6 +4,7 @@ company: "TCL"
 position: "嵌入式软件开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931629474360066048
 tags: ["嵌入式","BootLoader","Ring Buffer","流水线","零拷贝","模型量化"]

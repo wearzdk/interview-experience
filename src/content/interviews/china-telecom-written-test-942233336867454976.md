@@ -4,6 +4,7 @@ company: "中国电信"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942233336867454976
 tags: ["中国电信", "笔试", "哈希表", "滑动窗口", "C++"]

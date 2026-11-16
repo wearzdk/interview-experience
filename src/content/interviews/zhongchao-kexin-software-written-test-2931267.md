@@ -4,6 +4,7 @@ company: "中钞科信"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/77edf7111da247f8af9c1e52749375d9
 tags: ["中钞科信","软件开发","笔试","C++","Qt","OpenCV","SQL"]

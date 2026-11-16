@@ -4,6 +4,7 @@ company: "途虎养车"
 position: "全栈开发"
 round: "业务面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941663673221644288
 tags: ["全栈", "RAG", "知识库", "Node.js", "事件循环", "性能优化"]

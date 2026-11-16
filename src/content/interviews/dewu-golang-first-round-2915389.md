@@ -5,6 +5,7 @@ position: Golang工程师
 base: 长沙
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Golang","Kafka","Redis集群","缓存","MySQL索引","MVCC","场景设计"]
 summary: "得物Golang工程师（长沙）岗位9月22日一面，先问项目再出场景题：两个表的混合数据如何分页并按时间排序输出，随后连续考察Kafka性能、缓存三剑客、Redis集群slot迁移、B+树、聚簇索引与MVCC。"

@@ -3,6 +3,7 @@ title: "海康慧影 BSP 方向软件开发面经"
 company: "海康慧影"
 position: "嵌入式软件开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ce92412de23049c6a66512d250ae967a
 tags: ["嵌入式","BSP","Linux","RTOS","信号量","结构体对齐","uboot"]

@@ -4,6 +4,7 @@ company: 度小满
 position: AI全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931241025345978368
 tags: ["全栈","HTTP","TCP","MySQL索引","Redis","GMP","AI问答","算法"]

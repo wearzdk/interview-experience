@@ -4,6 +4,7 @@ company: "信锐网科"
 position: "AI应用开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938087969317982208"
 tags: ["信锐网科","AI应用开发","秋招","推理服务","Protobuf","容量评估","AI辅助编程","上下文压缩"]

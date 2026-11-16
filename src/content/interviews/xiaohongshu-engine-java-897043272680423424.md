@@ -4,6 +4,7 @@ company: 小红书
 position: 引擎架构Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/897043272680423424
 tags: ["Redis","线程池","AOP","大Key","可观测性"]

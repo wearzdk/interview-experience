@@ -4,6 +4,7 @@ company: "MetaApp"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7eba0be644e5468da29b2bdc0c3c035e"
 tags: ["MetaApp", "前端开发", "多端适配", "动画", "Promise", "Vue"]

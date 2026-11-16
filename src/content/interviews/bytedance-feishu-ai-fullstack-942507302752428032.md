@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI全栈开发（飞书）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942507302752428032
 tags: ["字节跳动","AI全栈开发","缓存","慢查询","LRU","MySQL","堆"]

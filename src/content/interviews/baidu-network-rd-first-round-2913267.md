@@ -4,6 +4,7 @@ company: 百度
 position: C++ 网络研发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["C++","网络编程","epoll","TCP","操作系统","智能指针"]
 summary: "百度网络研发一面面经，9.11 面试。考察 Reactor 框架与 epoll 封装、RDMA 远程读、QUIC 对比 HTTP、TCP 状态机与 TIME_WAIT、TLS 握手、进程线程通信、智能指针与虚函数，手撕合并 k 个有序链表。"

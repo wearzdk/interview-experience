@@ -3,6 +3,7 @@ title: "卓成机器人全栈开发实习面试"
 company: "卓成机器人"
 position: "全栈开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f102d523ed9f44789e282aa108ec99a6
 tags: ["全栈开发","实习面试","AI 编程","设计稿还原","前端渲染","高频低频数据"]

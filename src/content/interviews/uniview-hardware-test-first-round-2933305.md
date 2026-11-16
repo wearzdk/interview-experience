@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "硬件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43e4e7889ca346f3a4ef479104070b80
 tags: ["宇视科技", "硬件测试", "一面", "UART", "I2C", "SPI", "CAN", "电源测试", "可靠性"]

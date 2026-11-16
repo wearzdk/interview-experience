@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 全栈开发（实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c1afa60c2b9e4b25a39e27c31fed3d8c
 tags: ["字节跳动","AI全栈","MCP","A2A","Skill","多Agent","Token优化","最长回文子串"]

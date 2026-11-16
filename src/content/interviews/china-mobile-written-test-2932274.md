@@ -4,6 +4,7 @@ company: "中国移动"
 position: "校招笔试（行测 + 性格测评）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cc24135da1be4dc797d0a18653a2581e
 tags: ["中国移动","运营商","校招笔试","行测","性格测评","笔试复盘"]

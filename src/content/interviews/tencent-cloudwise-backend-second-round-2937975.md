@@ -4,6 +4,7 @@ company: "腾讯云智"
 position: "后台开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/757e4ec036fe42bba4f311dd26cb7574
 tags: ["腾讯云智","后台开发","联合索引","线程池","Kafka","TCP","MCP","算法"]

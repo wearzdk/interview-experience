@@ -4,6 +4,7 @@ company: "小米"
 position: "安卓开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 result: "进二面"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/27424c8609eb43c9aee0b0cbb57584eb

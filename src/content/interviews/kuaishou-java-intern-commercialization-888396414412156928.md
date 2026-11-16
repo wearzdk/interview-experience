@@ -4,6 +4,7 @@ company: 快手
 position: Java开发实习生（商业化）
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/888396414412156928
 tags: ["Java","ConcurrentHashMap","MVCC","MySQL","Redis"]

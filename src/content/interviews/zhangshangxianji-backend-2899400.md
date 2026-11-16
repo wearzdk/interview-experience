@@ -4,6 +4,7 @@ company: 掌上先机
 position: 后端开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-08-29'
 source: 牛客网
 tags: ["Java", "JVM", "MySQL", "Spring Boot", "并发编程"]
 summary: "掌上先机后端开发一面面经，考察 Java 集合与并发、线程池、JVM 垃圾回收、MySQL 索引、HTTP 与 Spring 循环依赖。"

@@ -4,6 +4,7 @@ company: "通用"
 position: "AI Agent"
 round: "面试自测"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944987318727839744
 tags: ["AI Agent","停止条件","评测","死循环","成本控制"]

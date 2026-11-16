@@ -4,6 +4,7 @@ company: OBSBOT 寻影
 position: 嵌入式开发工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 base: 深圳
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950767353547980800

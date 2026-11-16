@@ -4,6 +4,7 @@ company: "某小厂"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/067e9a7c702a4c2eb87ac95c952bdea2"
 tags: ["某小厂", "后端开发实习", "一面", "Java", "Spring", "AI 编程", "项目经历"]

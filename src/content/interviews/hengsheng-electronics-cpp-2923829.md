@@ -3,6 +3,7 @@ title: 恒生电子 C 与 C++ 开发工程师面经（10.10）
 company: 恒生电子
 position: C++
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/03f8c638be594bcfa80e1976bca0144f
 tags: ["C++","TCP","进程与线程","Linux","通信库","AI编程"]

@@ -4,6 +4,7 @@ company: 小米
 position: AI 全栈工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948589725877559296
 tags: ["小米","AI全栈","Agent","Redis","线程池","上下文压缩","Skill","手撕","面试复盘"]

@@ -4,6 +4,7 @@ company: "中国石油"
 position: "校招笔试（思想素质 + 行测）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8ece334bf4bb4303a396c084323decd4
 tags: ["中国石油","校招笔试","行测","思想素质","双机位监考","笔试复盘"]

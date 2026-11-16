@@ -4,6 +4,7 @@ company: 思朗科技
 position: GPU 驱动开发
 round: 一面 / 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/75a169c7aca64f4c91814982f92cc6cd
 tags: ["思朗科技","GPU驱动","KMD","UMD","MMU","TLB","DMA","OpenSBI","字符设备","Linux内核"]

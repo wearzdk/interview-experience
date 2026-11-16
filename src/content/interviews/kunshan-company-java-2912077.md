@@ -3,6 +3,7 @@ title: "昆山某公司 Java 后端面试：项目独立性、Redis 与泛型"
 company: "昆山某公司"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "Redis", "Spring", "Docker", "项目经验"]
 summary: "约十分钟的面试，先追问项目的设计与实现是否独立完成，再考 HyperLogLog、分布式锁、AOP 和泛型。"

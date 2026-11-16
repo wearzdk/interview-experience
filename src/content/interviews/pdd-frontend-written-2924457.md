@@ -4,6 +4,7 @@ company: "拼多多"
 position: "前端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7d1601ad6c5a4d2e90026e24d39f3339
 tags: ["拼多多","前端笔试","JavaScript","事件循环","HTTP","手写题","n皇后"]

@@ -4,6 +4,7 @@ company: "中国银行"
 position: "未注明"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f2647053ba5d4dc0a21c8a39ddbb537c"
 tags: ["中国银行","笔试","行测","英语","计算机基础","银行秋招"]

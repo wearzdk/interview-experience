@@ -3,6 +3,7 @@ title: "面试明明知道却讲不出来：项目追问怎么答，来自一篇
 company: "牛客网用户分享"
 position: "技术岗"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939449355348492288
 tags: ["面试表达","项目介绍","面试复盘","追问","沟通技巧","求职方法"]

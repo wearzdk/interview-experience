@@ -4,6 +4,7 @@ company: "掌阅科技"
 position: "数据分析"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/946172645333045248"
 tags: ["掌阅科技","数据分析","校招","业务面","竞品分析","指标体系","行为面","反问"]

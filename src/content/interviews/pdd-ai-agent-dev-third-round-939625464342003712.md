@@ -4,6 +4,7 @@ company: "拼多多"
 position: "AI Agent 开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939625464342003712
 tags: ["拼多多","Agent","上下文管理","断点恢复","幂等","RAG","B+树"]

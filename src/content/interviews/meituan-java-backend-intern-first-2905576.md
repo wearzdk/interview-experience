@@ -4,6 +4,7 @@ company: 美团
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "并发编程", "线程池", "算法", "RAG"]
 summary: "美团Java后端日常实习一面，考察RAG评测、Java锁与线程池、线程协作，以及链表基础算法。"

@@ -4,6 +4,7 @@ company: "某公司"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7a9f8b8beafd490190cef40fe0af6afc
 tags: ["Agent开发", "AI编程", "实习转正", "前端交互", "校招"]

@@ -4,6 +4,7 @@ company: "Funplus"
 position: "服务端开发"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a9cf6a59fda3487d8bbbe713ac834022"
 tags: ["Funplus", "服务端", "笔试", "算法"]

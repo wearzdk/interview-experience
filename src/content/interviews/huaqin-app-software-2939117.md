@@ -4,6 +4,7 @@ company: 华勤
 position: 应用软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6e0405bb625f4a6095f64332f5172419
 tags: ["华勤","应用软件开发","行为面试","秋招","加班"]

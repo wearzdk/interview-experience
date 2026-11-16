@@ -3,6 +3,7 @@ title: "蚂蚁集团 AI Agent 开发面经：记忆设计、多 Agent 协作与�
 company: "蚂蚁集团"
 position: "AI Agent 开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f2126e0d7f3745babb33e8c672253618
 tags: ["蚂蚁集团", "AI Agent", "MCP", "多Agent", "KV Cache", "B+树", "Python", "手撕"]

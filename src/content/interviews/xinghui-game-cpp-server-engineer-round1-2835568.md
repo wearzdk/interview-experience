@@ -4,6 +4,7 @@ company: 星辉游戏
 position: C++服务端工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["C++","Redis","数据结构","STL","算法"]
 summary: "星辉游戏26届春招C++服务端工程师一面面经。面试涵盖C++基础（vector扩容、map原理）、Redis基本数据结构及应用、算法题（最小公倍数计算）及场景设计题。面试官对校招生考察侧重基础语法与数据结构。"

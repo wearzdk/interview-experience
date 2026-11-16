@@ -4,6 +4,7 @@ company: 华为
 position: AI 算法工程师
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948632550891593728
 tags: ["华为","笔试","机考","大模型","KV缓存","软max","量化","残差网络","模拟"]

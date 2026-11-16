@@ -4,6 +4,7 @@ company: "得物"
 position: "搜索推荐"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5fb196623ce746d7bda00f6cce386869
 tags: ["得物", "搜索推荐", "Java", "HashMap", "JVM", "GC", "Top K"]

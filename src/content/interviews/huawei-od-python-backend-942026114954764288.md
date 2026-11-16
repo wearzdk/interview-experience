@@ -4,6 +4,7 @@ company: "华为OD"
 position: "Python 后端"
 round: "多轮面试"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942026114954764288
 tags: ["Python", "华为OD", "社招", "算法", "项目复盘"]

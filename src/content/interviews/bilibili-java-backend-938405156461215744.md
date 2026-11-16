@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: Java开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938405156461215744
 tags: ["Java","线程池","AQS","JVM","GC治理","Agent"]

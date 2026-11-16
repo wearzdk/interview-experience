@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: Java开发实习生
 round: 初试
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 淘汰
 base: 福州
 source: 牛客网

@@ -4,6 +4,7 @@ company: "传音控股"
 position: "C++"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944265034941599744
 tags: ["传音控股", "C++", "智能指针", "虚函数", "STL", "内存管理", "手撕代码"]

@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["AI Agent","ReAct","MCP协议","Redis","Java"]
 summary: "美团AI后端开发实习生一面面试，重点考察AI Agent架构设计、ReAct范式实现、MCP协议理解及长短期记忆机制。同时考察了Redis过期淘汰策略、Java基础及AI辅助编程工具的使用与规范。"

@@ -4,6 +4,7 @@ company: "乐享元游"
 position: "数据开发"
 round: "复试"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["数仓分层","ODS","DWD","分桶","ETL","Agent","数据服务"]
 summary: "乐享元游数据开发复试：围绕小米 ETL 项目深挖 ODS 分层与清洗、去重依据、存储与建表分区分桶设计、多表关联合并位置、实时还是离线，以及 AI 检测优化、知识库对接、数据对外服务与 Agent 项目上线效果。"

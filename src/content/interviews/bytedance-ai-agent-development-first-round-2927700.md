@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/9cd459d87a754e07a490ba7f1c03b495"
 tags: ["字节跳动","AI-Agent","RAG","MCP","多Agent","MySQL","Redis","秋招"]

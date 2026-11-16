@@ -4,6 +4,7 @@ company: 字节跳动
 position: 推荐算法
 round: 一二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2a9931a186b642e1b15faa3bf8b5ab6d
 tags: ["字节跳动","剪映","推荐算法","算法岗面经","大模型"]

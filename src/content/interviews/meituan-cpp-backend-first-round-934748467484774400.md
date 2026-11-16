@@ -4,6 +4,7 @@ company: "美团"
 position: "C++ 后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934748467484774400
 tags: ["C++", "RPC", "服务治理", "高可用", "限流", "STL", "性能优化"]

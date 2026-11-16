@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "SLAM 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3260e4c62b3c46fb89896f0371856f1d

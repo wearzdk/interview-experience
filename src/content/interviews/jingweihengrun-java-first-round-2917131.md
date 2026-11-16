@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "Java开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: "牛客网"
 tags: ["Java","MySQL","MVCC","Spring","微服务","Docker"]
 summary: "经纬恒润 Java 开发一面（9 月 24 日）几乎全程八股：MySQL 从索引结构、回表、联合索引问到 redo/undo log、MVCC、脏读与锁；随后连问 Spring Bean 生命周期、AOP 代理、自定义 Starter、Docker 与 CI/CD，几乎没聊项目。"

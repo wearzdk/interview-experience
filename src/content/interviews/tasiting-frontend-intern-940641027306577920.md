@@ -4,6 +4,7 @@ company: "塔斯汀"
 position: "前端开发实习"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940641027306577920"
 tags: ["前端", "JavaScript", "深拷贝", "低代码", "工程化", "实习"]

@@ -4,6 +4,7 @@ company: 快手
 position: 前端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["React","单向数据流","useMemo","useLayoutEffect","SSE","手写题"]
 summary: "快手电商前端二面面经，题目集中在 React 原理：单向数据流的优缺点、useMemo 与 memo 的区别、useEffect 与 useLayoutEffect 执行顺序、SSE 原理与低版本兼容，手撕同步 localStorage 的 Hook。"

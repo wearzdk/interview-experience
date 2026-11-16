@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "嵌入式软件开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f29ba42b77ff4811b4ff0b4a6d0baffc

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["大模型","强化学习","注意力机制","推理加速","算法"]
 summary: "字节跳动大模型算法秋招一面面经：十道题覆盖基座模型选型与备选评估、数据方案与公开数据集、DAPO 与 GRPO 的差异、强化学习选型考量、上下文压缩与有效长度、长程 Agent 优化方向、FlashAttention 分块原理与 PagedAttention 的 KV Cache 管理，末尾手撕 Self-Attention。"

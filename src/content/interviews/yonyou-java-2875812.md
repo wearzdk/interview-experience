@@ -3,6 +3,7 @@ title: "北京用友金融java面经"
 company: "用友"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Spring","数据库","面试经验"]
 summary: "用友Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、Spring等考点，整理了面试流程与高频问题。"

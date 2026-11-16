@@ -3,6 +3,7 @@ title: "大疆硬件面：30 分钟只问简历里的电源与 FOC，一层一�
 company: "大疆"
 position: "硬件工程师（电源与嵌入式）"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4a3c106562348568f9f0d75378dfec4
 tags: ["大疆","硬件","电源设计","DC-DC","FOC","CAN","测试测量"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6dafc1b05029449eae079c82e0c3cf94
 tags: ["字节跳动", "后端", "RAG", "Redis", "算法", "实习"]

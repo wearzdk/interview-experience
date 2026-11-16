@@ -3,6 +3,7 @@ title: "快手 AI Platform 一面：奇偶重排、显存观测与 MoE 负载均
 company: 快手
 position: AI 平台开发
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/762f8d3c098c472cb0d4255d00bccdde
 tags: ["快手","AI平台","GPU","显存","MoE","负载均衡","性能分析"]

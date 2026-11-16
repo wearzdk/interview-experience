@@ -4,6 +4,7 @@ company: "拼多多"
 position: "后端研发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fe5801f5334b46eb907a28524a173388
 tags: ["拼多多", "笔试", "逆序对", "堆", "滑动窗口", "前缀和", "线段树"]

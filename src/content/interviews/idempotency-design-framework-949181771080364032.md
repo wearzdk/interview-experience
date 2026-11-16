@@ -3,6 +3,7 @@ title: "幂等设计的回答框架：重复来源、幂等键与三层手段"
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949181771080364032
 tags: ["幂等","幂等键","唯一索引","Redis","状态机","事务","消息队列"]

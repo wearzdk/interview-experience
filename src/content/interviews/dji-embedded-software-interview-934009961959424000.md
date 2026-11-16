@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式软件"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934009961959424000
 tags: ["嵌入式","RTOS","C语言","中断","环形缓冲区","内存对齐","手撕算法"]

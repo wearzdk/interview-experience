@@ -4,6 +4,7 @@ company: "得物"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0dc0d609082c48e6b2de9073925d208e
 tags: ["得物","Java","线程池","Spring 事务","MySQL","Agent"]

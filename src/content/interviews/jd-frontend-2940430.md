@@ -4,6 +4,7 @@ company: 京东
 position: 前端开发（日常实习）
 round: AI 面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a695d2be6ad54517b53d349587cd783f
 tags: ["京东","前端开发","React","Zustand","Vite","XSS","AI面试"]

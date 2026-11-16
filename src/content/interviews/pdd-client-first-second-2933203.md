@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d401d03bff77486aa9da366a96a77d76
 tags: ["拼多多", "客户端", "颜色分类", "死锁", "HTTPS", "LRU", "读写锁"]

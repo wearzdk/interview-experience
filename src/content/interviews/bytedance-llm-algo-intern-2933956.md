@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0fcc42da3b12418d9fb40b27f76893de
 tags: ["字节跳动","大模型","强化学习","奖励模型","Attention"]

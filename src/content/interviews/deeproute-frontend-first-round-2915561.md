@@ -4,6 +4,7 @@ company: 元戎启行
 position: 前端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["前端","闭包","事件循环","React Hooks","Promise","笔试题"]

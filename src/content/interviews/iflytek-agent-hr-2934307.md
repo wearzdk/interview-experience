@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Agent 应用开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["HR面","行为面试","职业规划","Offer沟通"]
 summary: "科大讯飞 Agent 开发岗 HR 面：实习业务与工具、为什么不留实习公司、怎么看公司推进 Agent 与组织调整、几段实习的差别、最大难点、学生会经历、同事评价、地点与 offer 情况，末尾附反问与答复。"

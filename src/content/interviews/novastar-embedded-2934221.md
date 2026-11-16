@@ -4,6 +4,7 @@ company: "诺瓦星云"
 position: "嵌入式工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["FreeRTOS","bootloader","SPI","ADC","MEMS","串口","指针"]
 summary: "诺瓦星云嵌入式一面：项目来源与分工、MEMS-FPI 扫描控制的数据转换与 SPI 速率、bootloader A/B 双分区、FreeRTOS 四种任务状态与切换、FreeRTOS 移植步骤、函数指针与指针函数、NTC 输出错传怎么排查、串口接收大数组的设计、ADC 分辨率与实际精度。"

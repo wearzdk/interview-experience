@@ -4,6 +4,7 @@ company: "海康威视"
 position: "测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1d62e090c14144ff97ba5fffd14f7c92
 tags: ["海康威视","测试工程师","自动化测试","测试用例设计","性能压测","IoT","职业规划"]

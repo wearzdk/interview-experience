@@ -4,6 +4,7 @@ company: 腾讯
 position: 内容运营实习
 round: "一面、二面、HR 面"
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7576bf5d77014507979f17fb1f0dec73
 tags: ["腾讯","内容运营","IP 二创","短视频","AIGC","账号起量","实习"]

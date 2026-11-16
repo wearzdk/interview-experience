@@ -4,6 +4,7 @@ company: "汇顶科技"
 position: "嵌入式软件工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950761282947264512
 tags: ["汇顶科技","嵌入式","Linux驱动","串口","SPI","内存分区","笔试回顾","秋招"]

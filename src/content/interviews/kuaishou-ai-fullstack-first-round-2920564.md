@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Agent","可观测性","分布式锁","Redis","MCP","线上排查"]
 summary: "快手 AI 全栈一面（发券营销），9 月 24 日：围绕 Agent 可观测性、用户反馈答案不满意时的归因排查、Redis 分布式锁的可靠性、MCP 的适用场景与一次主站故障的定位恢复展开。"

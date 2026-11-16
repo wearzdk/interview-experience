@@ -4,6 +4,7 @@ company: 柠檬微趣
 position: 游戏测试
 round: AI面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/04370c50483249c7a96bf7b2e8af3c8c
 tags: ["游戏测试","AI面","测试流程","bug优先级","概率与随机","版本上线","排查思路"]

@@ -4,6 +4,7 @@ company: "同行者科技"
 position: "测试"
 round: "笔试+一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7614085d72874100a4ed82464181f5e7
 tags: ["软件测试","测试用例设计","接口测试","Python","数据库","实习"]

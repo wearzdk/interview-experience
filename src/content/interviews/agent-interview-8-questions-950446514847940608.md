@@ -3,6 +3,7 @@ title: "AI 岗 Agent 八股：被问烂的 8 个问题与答题框架"
 company: 通用
 position: AI 应用开发（Agent 方向）
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950446514847940608
 tags: ["Agent","ReAct","Function Calling","多Agent","记忆机制","工具调用","评估","上下文工程","提示注入","面试框架"]

@@ -4,6 +4,7 @@ company: "龙旗科技"
 position: "生产计划工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/315e91453d654262afe92cbfa8a01c60
 tags: ["龙旗科技","生产计划","ERP","制造业","校招","职业规划"]

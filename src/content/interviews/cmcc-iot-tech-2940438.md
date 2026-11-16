@@ -4,6 +4,7 @@ company: 中移物联
 position: 技术岗
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b3628a550de7424b9b9bc2c606b910ca
 tags: ["中移物联","技术岗","求职动机","公司与产品认知","工作地点"]

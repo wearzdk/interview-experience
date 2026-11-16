@@ -4,6 +4,7 @@ company: 新大陆
 position: Java后端开发
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-04'
 base: 福建
 source: 牛客网
 tags: ["集合框架","MySQL","计算机网络","操作系统","Docker"]

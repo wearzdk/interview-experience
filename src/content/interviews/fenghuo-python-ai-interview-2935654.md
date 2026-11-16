@@ -4,6 +4,7 @@ company: "烽火通信"
 position: "软件开发（Python）"
 round: "AI 面试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3d19b84e82b64fa6a35239ece1d9e6c3
 tags: ["烽火通信","AI面试","Python","连接池","并发","MySQL索引","强连通分量","pandas","英语口语"]

@@ -4,6 +4,7 @@ company: "小红书"
 position: "后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/4ab62221668140c8bad86f75a4fb02d2"
 tags: ["后端开发", "AI编程", "Agent", "MCP", "Skill", "上下文压缩"]

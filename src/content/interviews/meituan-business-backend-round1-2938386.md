@@ -4,6 +4,7 @@ company: 美团
 position: 业务后台开发（AI Agent 方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9fdac36b1fab433ea71fdafaf0bcfceb
 tags: ["美团","业务后台","Agent","插件化","Redis","MySQL","AI Coding"]

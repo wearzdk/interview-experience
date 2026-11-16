@@ -4,6 +4,7 @@ company: 快手
 position: Java日常实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["Java","JVM","JUC","Redis","线程池"]
 summary: "快手Java日常实习一面面经，时长35分钟。面试官重点考察了Java基础、JVM运行时数据区、JUC并发编程、线程池核心参数与执行流程、Redis持久化机制及线程模型，并结合实习经历进行项目深度交流。"

@@ -4,6 +4,7 @@ company: "虎牙"
 position: "后端容器岗"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/34719cc78c564de382ed5979bea84c82"
 tags: ["虎牙","AI编码","CICD","代码评审","Kubernetes","后端"]

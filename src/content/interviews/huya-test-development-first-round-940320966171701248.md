@@ -4,6 +4,7 @@ company: "虎牙"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940320966171701248
 tags: ["虎牙","测试开发","AI测试","大模型","UI自动化","操作系统","SQL"]

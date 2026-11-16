@@ -4,6 +4,7 @@ company: "超聚变"
 position: "软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "并发", "线程池", "Redis", "MySQL", "MQ", "OOM排查"]
 summary: "超聚变软件开发一面面经，9 月 30 日。围绕 Agent 项目追问技术难点后，重点考察 Java 锁与 synchronized、线程状态与线程池参数推演、四核 8G 机器 OOM 排查思路、Redis 过期策略、MySQL MVCC 与 MQ 消息不丢。"

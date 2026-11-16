@@ -4,6 +4,7 @@ company: "润科通用"
 position: "算法工程师"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 base: "成都"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/0a66289e81094251bc359667d7681e14"

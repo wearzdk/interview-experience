@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发工程师（中国广告）
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/884557598727380992
 tags: ["Java","单例模式","CAS","限流","MySQL"]

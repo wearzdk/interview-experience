@@ -4,6 +4,7 @@ company: "多益网络"
 position: "游戏服务端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bc9f43a79c934dfd9612892ec3a56ff0
 tags: ["多益网络","游戏服务端","大根堆","BFS","最短路径","Redis","持久化","MCP","多智能体","回放系统"]

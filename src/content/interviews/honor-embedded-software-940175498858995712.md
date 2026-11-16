@@ -4,6 +4,7 @@ company: "荣耀"
 position: "嵌入式软件"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940175498858995712
 tags: ["嵌入式","C语言","FreeRTOS","I2C","SPI","中断","蓝牙","竞赛"]

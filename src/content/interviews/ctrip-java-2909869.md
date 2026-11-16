@@ -3,6 +3,7 @@ title: "携程秋招 Java 一面：分布式锁与数据库查询"
 company: "携程"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Redis", "MySQL", "分布式事务"]
 round: "一面"

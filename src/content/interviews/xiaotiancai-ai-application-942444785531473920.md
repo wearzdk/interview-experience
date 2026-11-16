@@ -4,6 +4,7 @@ company: "小天才"
 position: "AI应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942444785531473920
 tags: ["小天才", "AI应用开发", "Agent", "空转控制", "知识库", "评测指标", "算法题"]

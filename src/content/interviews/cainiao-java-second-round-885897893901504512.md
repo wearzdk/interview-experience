@@ -4,6 +4,7 @@ company: 菜鸟直管
 position: Java开发工程师
 round: 二面
 date: '2026-04'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/885897893901504512
 tags: ["QPS优化","本地缓存","分布式锁","索引优化"]

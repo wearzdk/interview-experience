@@ -3,6 +3,7 @@ title: "iMile 后端一面：幂等、缓存一致性、分布式 ID 与 ES 连�
 company: iMile
 position: 后端开发
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f2c0afd57a5245c780c00e7752ae097b
 tags: ["iMile","后端","幂等","分布式锁","缓存一致性","MQ","分布式事务","Lua","MapStruct","MySQL","ES","分布式ID","雪花算法","Agent"]

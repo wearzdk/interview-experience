@@ -4,6 +4,7 @@ company: "电科金仓"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931512994545041408"
 tags: ["Redis","Spring","MySQL","Bitmap","ZSet"]

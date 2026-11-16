@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/17726814a74b4c5c97c4c87f5eb49283
 tags: ["字节跳动","全栈开发","AI Coding","消息可靠性","幂等去重","事务ACID","手撕"]

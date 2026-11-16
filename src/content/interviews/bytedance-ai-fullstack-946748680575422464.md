@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 全栈（日常实习）"
 round: "一面+二面+HR面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 result: "HR 面后挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946748680575422464

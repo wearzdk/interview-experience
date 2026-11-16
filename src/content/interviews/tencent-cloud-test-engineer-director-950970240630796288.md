@@ -4,6 +4,7 @@ company: 腾讯云
 position: 测试工程师
 round: 总监面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950970240630796288
 tags: ["腾讯云","测试工程师","JVM","Spring","MySQL","索引","循环依赖","总监面"]

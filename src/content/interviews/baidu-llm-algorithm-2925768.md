@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8eabfefc27d845f9ab6d6e147849aad3
 tags: ["百度","大模型算法","多模态","注意力机制","PagedAttention","Agent"]

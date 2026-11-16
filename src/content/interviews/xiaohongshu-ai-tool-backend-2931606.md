@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI 应用开发"
 round: "leader 面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c2e2b6649d6a4d80aeb57edf44fbdac8
 tags: ["小红书","AI应用开发","消息队列","幂等","分库分表","Redis","稳定性"]

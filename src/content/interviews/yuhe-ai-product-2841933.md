@@ -3,6 +3,7 @@ title: "AI产品经理面试-语核科技 面了2小时汗流浃背"
 company: "语核科技"
 position: "AI产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "Agent", "RAG", "用户研究", "项目深挖", "产品经理"]

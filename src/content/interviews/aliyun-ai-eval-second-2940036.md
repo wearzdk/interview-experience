@@ -4,6 +4,7 @@ company: 阿里云
 position: AI 评测工程师（MaaS）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2cce296790c846ef8ddf4a1e657045fc
 tags: ["阿里云","AI评测","MaaS","benchmark","评测集","LLM-as-judge","多模态","实验偏差","case study"]

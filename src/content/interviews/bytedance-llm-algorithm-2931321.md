@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 result: "三面已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/94d852ace37f4bbe85219d48ad3384ab

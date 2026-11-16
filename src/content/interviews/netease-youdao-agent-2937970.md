@@ -4,6 +4,7 @@ company: "网易有道"
 position: "Agent 开发"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a1b6af64ee440ffb7919636cacd803a
 tags: ["网易有道","Agent","记忆系统","RAG","多Agent","workflow","插件热加载","教育场景"]

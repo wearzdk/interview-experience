@@ -3,6 +3,7 @@ title: "嵌入式大厂面试 100+ 场总结：高频题单与「把一条链路
 company: "多家嵌入式方向公司"
 position: "嵌入式软件开发"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942708292382384128"
 tags: ["嵌入式","C语言","RTOS","中断","I2C","SPI","DMA","CAN","Bootloader","OTA","Linux驱动","V4L2"]

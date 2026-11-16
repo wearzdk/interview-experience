@@ -4,6 +4,7 @@ company: 好未来
 position: Java日常实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/900527481256505344
 tags: ["Java","Spring","FactoryBean","八股"]

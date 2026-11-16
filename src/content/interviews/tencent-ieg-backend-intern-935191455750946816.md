@@ -4,6 +4,7 @@ company: "腾讯IEG"
 position: "后台开发实习生"
 round: "二面+HR面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935191455750946816
 tags: ["后台开发","日常实习","项目深挖","微调","HR面"]

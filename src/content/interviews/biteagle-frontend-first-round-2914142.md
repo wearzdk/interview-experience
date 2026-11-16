@@ -4,6 +4,7 @@ company: "比特鹰"
 position: "前端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["比特鹰","前端开发","React","Fiber","Vue","秋招","一面"]
 summary: "比特鹰秋招前端一面面经：面试官自称 HR 面却问了技术，先聊实习、项目、为什么选前端与如何学习，再深入 React Fiber 架构、更新流程、React 19 新特性、Vue 与 React 的区别，最后问公司业务了解程度、能否接受单休、职业规划与薪资预期。"

@@ -4,6 +4,7 @@ company: "保融"
 position: "Java 开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f453bbcd6fb4b92aa590cdb1eecc52f
 tags: ["保融", "Java", "笔试", "SQL", "编程题"]

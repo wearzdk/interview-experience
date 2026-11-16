@@ -3,6 +3,7 @@ title: 阿里Java后端开发面经02
 company: 阿里巴巴
 position: Java后端开发工程师
 date: '2025-12'
+collectedAt: '2026-08-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923311191181512704
 tags: ["Java", "并发编程", "JVM", "MySQL", "Spring Boot", "秒杀系统"]

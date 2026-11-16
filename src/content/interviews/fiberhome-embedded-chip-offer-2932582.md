@@ -4,6 +4,7 @@ company: "烽火通信"
 position: "嵌入式软件（芯片方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60c7dd73392f42f7b0190a49e62444fb
 tags: ["烽火通信","嵌入式","芯片","I2C","Modbus","IAP","SOC选型","offer"]

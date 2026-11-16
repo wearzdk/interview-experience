@@ -4,6 +4,7 @@ company: 滴滴
 position: Java后端
 round: 一面
 date: '2026-03'
+collectedAt: '2026-03-26'
 base: 北京
 source: 牛客网
 tags: [Java, 网络, 消息队列, 高并发, 算法]

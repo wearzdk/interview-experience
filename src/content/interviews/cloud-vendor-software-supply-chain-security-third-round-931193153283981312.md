@@ -4,6 +4,7 @@ company: 某头部云厂商
 position: 软件供应链安全
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931193153283981312
 tags: ["供应链安全","Rust","build.rs","SLSA","eBPF","CI安全"]

@@ -4,6 +4,7 @@ company: 快手
 position: 电商后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java基础","分布式锁","MySQL","RAG","链表算法","多线程"]
 summary: "快手电商后端一面面经，涵盖Java异常体系、Object类方法、hashCode与equals规范、wait/notify与Thread.sleep区别、深浅拷贝、反转链表II算法、Redis分布式锁实现、MySQL原子性保证，以及RAG系统设计与向量化概念，适合Java后端求职备考参考。"

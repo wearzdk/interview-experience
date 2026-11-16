@@ -4,6 +4,7 @@ company: "思特威"
 position: "智能体开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931548779361075200
 tags: ["RAG","Agent","LLM","向量检索","用户画像","实习经历"]

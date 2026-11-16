@@ -4,6 +4,7 @@ company: 汇川技术
 position: 测试开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["测试开发","测试用例设计","接口自动化","Python","深浅拷贝","多线程"]
 summary: "汇川技术9月18日测试开发一面，围绕实验室项目与接口自动化项目深挖，场景题要求为Web登录功能设计测试用例，八股覆盖Python的break与continue、深浅拷贝、多线程与多进程的异同。"

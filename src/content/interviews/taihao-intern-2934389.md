@@ -4,6 +4,7 @@ company: "北京泰豪装备科技"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["Java","面向对象","MySQL","Redis","RabbitMQ","装箱拆箱"]
 summary: "泰豪装备实习面 20 分钟：岗位以 C#/.NET 为主但按 Java 简历提问，覆盖面向对象三大特性、MySQL 与 Redis 的区别、装箱拆箱、RabbitMQ 的作用，以及一个退款实时处理的场景题。"

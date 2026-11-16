@@ -4,6 +4,7 @@ company: "用友金融"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "MySQL", "Redis", "Spring", "MyBatis", "Git"]
 summary: "一面主要确认 Java 与数据库基础、项目参与情况和实习安排，反问涉及业务、代码评审与出差。"

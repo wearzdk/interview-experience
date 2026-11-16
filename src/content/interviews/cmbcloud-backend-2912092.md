@@ -4,6 +4,7 @@ company: "招银云创"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "JVM", "MySQL", "Redis", "Spring AI"]
 summary: "9 月 16 日一面，从项目选型和文件保存问起，覆盖面向对象、JVM、SQL、Redis 持久化与团队协作。"

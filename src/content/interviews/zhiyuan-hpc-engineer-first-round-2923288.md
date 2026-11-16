@@ -4,6 +4,7 @@ company: "智元机器人"
 position: "高性能计算工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/348cc63ad67545f38eb498263c2eeb89"
 tags: ["智元机器人","高性能计算","AI Infra","DCU","GPU","AVX-512","warp 分支","大语言模型"]

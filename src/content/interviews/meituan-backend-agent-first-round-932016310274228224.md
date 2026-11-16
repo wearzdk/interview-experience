@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932016310274228224
 tags: ["美团","后端开发","Agent","MCP","Java并发","JVM","MySQL","Redis"]

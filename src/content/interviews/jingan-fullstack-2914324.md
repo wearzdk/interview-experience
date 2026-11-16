@@ -5,6 +5,7 @@ position: "全栈开发"
 round: "笔试+一面"
 result: "挂"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 tags: ["Java", "HashMap", "MySQL", "Redis", "RocketMQ", "JVM", "Docker"]
 summary: "靖安科技全栈开发秋招：9 月 16 日笔试、9 月 18 日一小时一面。八股覆盖 HashMap 与线程安全改造、MySQL 数据结构与慢查询定位、Redis 数据结构与分布式锁、RocketMQ 防重复消费、JVM 内存结构与 GC，随后是离职原因、项目推进等场景题，结尾还有 A 方法调用 B 方法时事务是否生效的经典陷阱；面试官额外追问了 C++ 与硬件接入经验，最终以技能与岗位有偏差被挂。"

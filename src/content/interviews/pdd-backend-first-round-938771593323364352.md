@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938771593323364352
 tags: ["MySQL","SQL优化","索引","Redis","缓存一致性","消息队列","Spring事务","手撕算法"]

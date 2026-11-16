@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端AI开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 source: 牛客网
 tags: ["TCP","Redis","Java并发","CAS","数据结构"]
 summary: "字节跳动暑期后端AI开发一面面经，面试主要围绕项目实习经历、计算机网络TCP协议、Redis缓存机制、Java并发编程（synchronized/AQS/CAS）及AI应用实践进行深度拷打，最后考察了算法与数据结构编程题。"

@@ -3,6 +3,7 @@ title: 35 家 AI 公司面经统计：考得最多的是机器学习基础，Tra
 company: 牛客网用户分享
 position: AI岗位求职
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937796073798516736
 tags: ["AI岗位", "机器学习基础", "Transformer", "项目复盘", "高频考点", "备考建议"]

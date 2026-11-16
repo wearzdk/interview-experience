@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 后端开发
 round: 多轮
 date: '2026-09'
+collectedAt: '2026-09-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/926676420443607040
 tags: ["C++", "Go", "网络编程", "MySQL", "Redis"]

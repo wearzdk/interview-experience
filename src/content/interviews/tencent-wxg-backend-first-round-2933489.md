@@ -4,6 +4,7 @@ company: "腾讯"
 position: "WXG 后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/99a5f99f52a44670b25881237cd8e4d3
 tags: ["腾讯", "WXG", "后端开发", "一面", "位运算", "链表", "概率题", "RAG", "Redis跳表"]

@@ -4,6 +4,7 @@ company: 正运动技术
 position: 嵌入式软件开发
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fccfd0716e5c41c699512d608049dfa6
 tags: ["正运动技术","嵌入式软件开发","运动控制","插补算法","系统设计","C++"]

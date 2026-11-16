@@ -4,6 +4,7 @@ company: "携程"
 position: "Java开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-19'
 source: "牛客网"
 tags: ["Java", "笔试", "算法", "数组", "贪心"]
 summary: "携程 9 月 20 日 Java 开发岗笔试，两道编程题加一道 AI 题；第一道是定长分组计数题，第二道与 AI 题原帖未保留题面。"

@@ -4,6 +4,7 @@ company: 海康威视
 position: 测试
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6cc73fd3ee114e858972c1e012b72732
 tags: ["软件测试","测试开发","AI效果校准","嵌入式测试","黑盒测试","职业规划"]

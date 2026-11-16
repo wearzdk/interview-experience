@@ -4,6 +4,7 @@ company: ZURU
 position: PMC计划员
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["PMC","物料计划","MRP","供应链","校招"]
 summary: "ZURU 初级 PMC 计划员一面面经，两位面试官约 25 分钟，围绕 ERP 沙盘大赛经历、产销平衡与 MRP 逻辑、岗位所需专业技能、工作地稳定性与薪资期望展开。"

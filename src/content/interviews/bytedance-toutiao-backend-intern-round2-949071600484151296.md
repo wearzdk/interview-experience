@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（暑期实习）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949071600484151296
 tags: ["字节跳动","今日头条","后端开发","实习","Redis","MySQL","RocketMQ","算法"]

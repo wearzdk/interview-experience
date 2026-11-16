@@ -4,6 +4,7 @@ company: 腾讯云
 position: 软件开发（C++ 与嵌入式方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950450235166171136
 tags: ["腾讯云","C++","static","内存分区","ACID","内存泄漏","STL","vector","哈希表","DNS","TCP","UDP","算法"]

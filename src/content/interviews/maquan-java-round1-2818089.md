@@ -4,6 +4,7 @@ company: 码全科技
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 杭州
 source: 牛客网
 tags: ["Java","项目经历","SQL优化","AI Coding","系统设计"]

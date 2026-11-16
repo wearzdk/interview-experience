@@ -4,6 +4,7 @@ company: 药明康德
 position: AI数据方向
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Agent","LangGraph","多智能体","RAG","知识库"]
 summary: "药明康德 AI 数据方向二面面经，连续 23 题深挖 Agent 框架：LangGraph 的 state 设计与合并策略、条件边与异常分支、快照持久化与人工介入恢复、多智能体两层编排的收益与代价、混合检索融合与知识库切分方案。"

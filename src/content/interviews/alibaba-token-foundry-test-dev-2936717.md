@@ -4,6 +4,7 @@ company: "阿里"
 position: "测试开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/49a32dc98b6846fc9e7bf330bbf408ae
 tags: ["测试开发","知识库","压测","自动化测试","Python","链表","Go"]

@@ -3,6 +3,7 @@ title: "科大讯飞线下面：HashMap 线程安全与项目细节拷打"
 company: "科大讯飞"
 position: "Java 后端开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/49c947391dc14fedb483b679fbf10f8b

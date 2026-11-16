@@ -4,6 +4,7 @@ company: 转转
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","并发编程","MySQL","Redis","Spring"]
 summary: "转转春招Java一面面经，重点考察HashMap底层原理、线程池、ConcurrentHashMap锁机制、MySQL索引优化与事务隔离、Redis缓存一致性及Spring循环依赖。包含两道经典算法题，覆盖Java基础八股与数据库核心知识。"

@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式驱动开发工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950765016095928320
 tags: ["联芸科技","嵌入式","驱动开发","Linux调度","多线程","FPGA","仿真验证","秋招"]

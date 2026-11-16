@@ -4,6 +4,7 @@ company: "高标科技"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2a16e750f52345299a9a147974af3870
 tags: ["高标科技","后端开发","MQTT","IoT","消息顺序","CAN","知识库"]

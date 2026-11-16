@@ -3,6 +3,7 @@ title: "融通供应链 Java 后端面经：RAG 精排、Redis 信号量与 JDK8
 company: "融通供应链"
 position: "Java后端"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/17434f82e2d94dca8ceefc05adc7600c"
 tags: ["融通供应链","Java","RAG","召回","精排","Redis","JVM","MyBatis"]

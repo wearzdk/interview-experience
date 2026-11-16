@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 后端AI开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 result: 凉经
 source: 牛客网
 tags: ["Java","HashMap","MySQL","红黑树","分布式"]

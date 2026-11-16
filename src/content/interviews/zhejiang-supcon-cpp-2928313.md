@@ -4,6 +4,7 @@ company: "浙江中控"
 position: "C++ 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5d9a4d33e98d480e9e61cbb1814f463a
 tags: ["浙江中控","C++","Qt","UDP","TCP","线程安全","嵌入式"]

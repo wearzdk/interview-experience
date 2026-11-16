@@ -3,6 +3,7 @@ title: 各家 AI 面到底考什么：从快手 3 道题到五征 64 道题
 company: 多家公司
 position: AI面试
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a24960bdcbc6417787877b6526381bd8
 tags: ["AI面试", "测评", "行测", "性格测评", "校招", "面经汇总"]

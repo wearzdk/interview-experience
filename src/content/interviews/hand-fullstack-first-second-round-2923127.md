@@ -4,6 +4,7 @@ company: "汉得信息"
 position: "全栈开发"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6a407d9282f64013af51d88be449b7d3"
 tags: ["全栈开发","电话面试","八股","项目展示","HR面","技术选型","校招流程"]

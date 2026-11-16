@@ -4,6 +4,7 @@ company: "江波龙"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933356238505508864
 tags: ["嵌入式", "FreeRTOS", "MCU选型", "音频采集", "OTA", "C++"]

@@ -4,6 +4,7 @@ company: 华云三维
 position: Java工程师实习
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "LangGraph", "Redis", "WebSocket", "认证"]
 summary: "华云三维Java工程师实习一面面经，围绕多Agent调度、失败恢复、代码质量、关系型与非关系型数据库、ThreadLocal、WebSocket和免登录设计展开。"

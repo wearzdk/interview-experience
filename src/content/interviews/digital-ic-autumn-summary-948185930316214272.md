@@ -3,6 +3,7 @@ title: "数字 IC 秋招面试总结：Setup/Hold、亚稳态、STA 与 AXI 握�
 company: "多家"
 position: "数字 IC 设计"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948185930316214272
 tags: ["数字IC", "芯片设计", "时序分析", "STA", "CDC", "AMBA", "UVM"]

@@ -4,6 +4,7 @@ company: 恒生电子
 position: AI应用开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f674f0f958c644629f024f95c7c104b6
 tags: ["AI应用开发","Agent框架","Redis","持久化","ThreadLocal","项目深挖"]

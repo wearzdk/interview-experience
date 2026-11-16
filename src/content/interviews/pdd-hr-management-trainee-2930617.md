@@ -4,6 +4,7 @@ company: "拼多多"
 position: "人力管培生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/609d4c0d62064e07a6be3d2dfcef9666
 tags: ["拼多多", "人力管培", "HR", "行为面试", "职业规划"]

@@ -4,6 +4,7 @@ company: 小红书
 position: AI后端开发
 round: 三轮技术面+HR面
 date: '2026-07'
+collectedAt: '2026-09-01'
 result: OC
 source: 牛客网
 tags: ["AI Agent", "内容审核", "MCP", "系统设计", "故障排查"]

@@ -4,6 +4,7 @@ company: "招商银行深圳分行"
 position: "信息科技岗"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cd38ade1525b41b2baa0e4cd265613bf"
 tags: ["笔试", "银行", "大模型", "Agent", "计网", "Java"]

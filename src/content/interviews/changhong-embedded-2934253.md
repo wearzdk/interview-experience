@@ -4,6 +4,7 @@ company: "长虹"
 position: "嵌入式软件开发"
 round: "面试"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9380f4cdad804f4aae2af5497b3354d5
 tags: ["长虹","嵌入式","成都","项目验收","AI取代性","面试复盘"]

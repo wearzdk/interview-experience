@@ -4,6 +4,7 @@ company: "某头部具身智能初创"
 position: "SLAM 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 base: "北京"
 source: 牛客网

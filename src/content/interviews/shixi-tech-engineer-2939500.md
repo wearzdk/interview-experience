@@ -4,6 +4,7 @@ company: 石犀科技
 position: 技术工程师
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f14f4a233a3948fb8c5b3304b35b047e
 tags: ["石犀科技","技术工程师","笔试","计算机网络","Linux","网络安全","虚拟化"]

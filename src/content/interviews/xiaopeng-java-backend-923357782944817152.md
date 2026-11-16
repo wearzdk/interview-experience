@@ -4,6 +4,7 @@ company: 小鹏汽车
 position: Java后端开发工程师
 round: 一面
 date: '2026-08'
+collectedAt: '2026-08-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923357782944817152
 tags: ["Java", "ThreadLocal", "Redis", "MySQL", "分布式锁"]

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "AI Infra"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8566c06947a0424396d9ee48e71f10b5
 tags: ["拼多多","AI Infra","CUDA","bank conflict","Triton","字符串乘法"]

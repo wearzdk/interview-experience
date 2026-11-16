@@ -3,6 +3,7 @@ title: "昂瑞微嵌入式面试（10.9）"
 company: "昂瑞微"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ba3e8be89da14fa491d9beeb85bb0b57
 tags: ["昂瑞微","嵌入式软件","RTOS","IIC","SPI","STM32","HardFault"]

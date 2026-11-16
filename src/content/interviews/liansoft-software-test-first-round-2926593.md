@@ -4,6 +4,7 @@ company: "联软科技"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/203f729cc99f48a9954f5aaeb9224a1f
 tags: ["软件测试","Linux","Docker","MySQL","慢查询","JMeter"]

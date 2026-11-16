@@ -4,6 +4,7 @@ company: 京东
 position: 后端AI开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-10'
 source: 牛客网
 tags: ["JVM","Java多线程","计算机网络","设计模式","算法"]
 summary: "京东后端AI开发岗位二面面试记录。考察核心技术栈，包括JVM内存结构与调优、线程与进程区别、计算机网络分层架构、Java线程池实现原理及TopK大数据处理算法。适合准备后端开发的同学参考复习。"

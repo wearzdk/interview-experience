@@ -3,6 +3,7 @@ title: "被追问「你怎么证明是它失效」：索引失效的验证顺序
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949177905471299584
 tags: ["MySQL","索引失效","EXPLAIN","隐式转换","最左前缀","优化器"]

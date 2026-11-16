@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1b6edb76c911423bad07655d5cc507d7
 tags: ["拼多多", "服务端开发", "大数据", "数据平台", "秋招"]

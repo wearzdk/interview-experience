@@ -4,6 +4,7 @@ company: "华为OD"
 position: "社招（多方向）"
 round: "主管面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947796433963413504
 tags: ["华为OD","主管面","社招","动机","稳定性","反问"]

@@ -4,6 +4,7 @@ company: "传音控股"
 position: "Go 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7baff56cb4d3450ebd2c2c7065407c6c
 tags: ["传音控股","Go","GMP","混合写屏障","TCC","Saga","分布式锁","幂等","雪花算法"]

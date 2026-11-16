@@ -3,6 +3,7 @@ title: "八股背了，换个问法就不会？原因在这"
 company: "某公司"
 position: "软件工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/936739857697632256
 tags: ["面试技巧","HashMap","八股","追问","学习方法"]

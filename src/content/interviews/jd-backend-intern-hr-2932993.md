@@ -4,6 +4,7 @@ company: "京东"
 position: "后端开发实习"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6d3c57f6aece4c63b8de6831853d4313
 tags: ["HR面","实习","京东","职业规划","AI工具","后端开发"]

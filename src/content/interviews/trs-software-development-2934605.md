@@ -4,6 +4,7 @@ company: "拓尔思"
 position: "软件开发"
 round: "面试"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9039fd08fa9a45aeb4b47648575b96e8
 tags: ["拓尔思","成都","AI辅助开发","面试体验","驻场"]

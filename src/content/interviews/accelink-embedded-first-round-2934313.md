@@ -4,6 +4,7 @@ company: "光迅科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fa0bd6ca84b746c19f9f86f5ce248102
 tags: ["光迅科技","嵌入式","SPI","RTOS","任务划分","秋招"]

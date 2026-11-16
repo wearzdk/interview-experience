@@ -4,6 +4,7 @@ company: "百度"
 position: "Go 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6244ce994f5d4ecdbb6a47f6e4469d08
 tags: ["百度","Go","GMP","切片","MySQL","Redis","Kubernetes"]

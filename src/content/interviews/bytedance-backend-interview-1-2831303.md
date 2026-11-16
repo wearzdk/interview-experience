@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-10'
 source: 牛客网
 tags: ["缓存策略","TCP协议","HTTP协议","大模型","分布式系统"]
 summary: "字节跳动后端开发一面面经，重点考察缓存技术（Guava/Caffeine）、分布式缓存一致性、TCP/HTTP协议细节（队头阻塞与QUIC）、大模型幻觉优化及算法实现。适合准备大厂后端面试的求职者复盘核心技术栈。"

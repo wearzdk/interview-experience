@@ -4,6 +4,7 @@ company: 阿里云
 position: AI应用开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["阿里云","AI应用开发","大模型幻觉","RAG","MCP","分库分表","并发编程"]

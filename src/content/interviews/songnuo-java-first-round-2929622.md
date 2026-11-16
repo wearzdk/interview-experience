@@ -4,6 +4,7 @@ company: "松诺"
 position: "Java开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7d7d2f3e423243118ead97f3b0ea8e82
 tags: ["Java", "并发", "JVM", "分布式锁", "HTTP", "MQTT"]

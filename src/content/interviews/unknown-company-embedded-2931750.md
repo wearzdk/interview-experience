@@ -3,6 +3,7 @@ title: "嵌入式面试为什么一被追问就卡壳：变量位置、中断禁
 company: "未知公司"
 position: "嵌入式开发"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d345fab7a0de4253b739e5ab451cffc4
 tags: ["嵌入式","C语言","中断","DMA","RTOS","链接脚本","HardFault"]

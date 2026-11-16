@@ -3,6 +3,7 @@ title: "北京景行锐创（西安 base）后端一面：纯八股，从 HashMa
 company: "景行锐创"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b187fb07cdc4842ab88e66ab9a82912
 tags: ["景行锐创", "后端开发", "Java", "MySQL", "Redis", "JVM", "Linux"]

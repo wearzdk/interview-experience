@@ -4,6 +4,7 @@ company: "高驰"
 position: "全栈开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 result: "一面通过，约二面"
 source: "牛客网"
 tags: ["Java", "并发", "MySQL", "事务", "全栈"]

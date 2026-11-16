@@ -3,6 +3,7 @@ title: 龙旗科技 嵌入式面经 C 语言限定符与内存布局
 company: 龙旗科技
 position: 嵌入式软件开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931683952744493056
 tags: ["嵌入式","C语言","const","volatile","内存布局","编译与链接"]

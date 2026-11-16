@@ -4,6 +4,7 @@ company: 滴滴
 position: 数据分析师
 round: SQL 面试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ef232ec8249747a5bb4bf5ba03e84ddf
 tags: ["滴滴","数据分析","SQL","窗口函数","连续登录","留存","面试题"]

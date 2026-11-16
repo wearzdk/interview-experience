@@ -4,6 +4,7 @@ company: 埃科光电
 position: 嵌入式软件开发
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/02865e9c0a1541bcbf7f1785cab19cab
 tags: ["埃科光电","嵌入式","FreeRTOS","实时性","MQTT","校招"]

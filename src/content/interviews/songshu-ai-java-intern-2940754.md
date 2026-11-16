@@ -4,6 +4,7 @@ company: 松鼠AI
 position: Java 后端（实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d56695959d2a497b8fa8c352cc3f92ce
 tags: ["松鼠AI","Java后端","实习面试","AI工具","需求交付"]

@@ -4,6 +4,7 @@ company: "贝壳"
 position: "后端开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/41274468fc0b4c57a8393bc39e6dfd39
 tags: ["贝壳","后端","面试体验","项目","新技术"]

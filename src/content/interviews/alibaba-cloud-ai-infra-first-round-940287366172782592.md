@@ -4,6 +4,7 @@ company: "阿里云"
 position: "AI Infra"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940287366172782592
 tags: ["阿里云","AI Infra","实习项目","AI诊断","CodeReview","代码解读"]

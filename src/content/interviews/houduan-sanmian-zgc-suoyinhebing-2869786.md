@@ -4,6 +4,7 @@ company: 某中大厂
 position: 后端开发工程师
 round: 三面
 date: '2026-07'
+collectedAt: '2026-07-01'
 result: OC
 source: 牛客网
 tags: ["JVM","ZGC","MySQL","索引","面试技巧"]

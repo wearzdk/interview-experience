@@ -4,6 +4,7 @@ company: "记忆科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946696036511158272
 tags: ["记忆科技","嵌入式","I2C","驱动框架","传感器","static","struct与union","指针"]

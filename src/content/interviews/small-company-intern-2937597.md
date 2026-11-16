@@ -4,6 +4,7 @@ company: "小公司"
 position: "后端开发实习"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c90934c079af4a79b6d0d79817f90366
 tags: ["实习", "小公司", "线下面试", "AI编程"]

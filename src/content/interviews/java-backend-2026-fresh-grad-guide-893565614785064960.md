@@ -3,6 +3,7 @@ title: 26届校招双非Java后端笔试面试全覆盖复习笔记
 company: 15家大厂（校招综合复习）
 position: Java后端开发工程师
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/893565614785064960
 tags: ["Java","校招","笔试","面试","双非"]

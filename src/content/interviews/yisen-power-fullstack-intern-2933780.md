@@ -4,6 +4,7 @@ company: "易森动力"
 position: "全栈开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9db8f67ebfc24120941cb490194102b1
 tags: ["易森动力","全栈","Vue","TypeScript","Vite","微前端","monorepo"]

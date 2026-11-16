@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent开发"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940390952902914048
 tags: ["字节跳动","AI Agent","动态UI渲染","流式渲染","MCP","Skill","后端协议","面试合集"]

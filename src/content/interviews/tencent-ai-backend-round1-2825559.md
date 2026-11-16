@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 凉经
 source: 牛客网
 tags: ["Java","Redis","TCP-IP","Linux","Git","多线程"]

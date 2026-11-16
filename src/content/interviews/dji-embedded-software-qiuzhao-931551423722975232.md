@@ -3,6 +3,7 @@ title: "27 届大疆嵌入式软件凉经与秋招复盘"
 company: "大疆"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931551423722975232

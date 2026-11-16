@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 result: "未通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947982288917110784

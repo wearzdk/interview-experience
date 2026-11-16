@@ -4,6 +4,7 @@ company: "欣旺达"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939486691545436160
 tags: ["欣旺达","Java","Spring AOP","RocketMQ","synchronized","ReentrantLock","CAS"]

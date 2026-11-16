@@ -4,6 +4,7 @@ company: 国内银行
 position: Java后端开发
 round: 技术面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932990033009590272
 tags: ["计算机网络","银行科技岗","OSI","DNS","HTTP","HTTPS"]

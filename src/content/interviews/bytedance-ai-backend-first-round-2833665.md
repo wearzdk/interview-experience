@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["微服务","Redis","Nacos","JWT","分布式事务"]
 summary: "字节跳动AI后端开发实习一面面经。面试深度拷打微服务项目，重点考察Nacos服务发现与CAP理论、JWT安全机制、分布式ID（Leaf）、秒杀系统架构、Redis缓存穿透与逻辑过期方案。八股文涉及Java GC、HTTPS原理及一致性哈希，并包含LeetCode 667题手撕。"

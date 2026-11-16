@@ -4,6 +4,7 @@ company: "携程"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["Java", "Redis", "MySQL", "并发", "熔断", "JVM"]
 summary: "9 月 18 日约四十分钟的一面，从项目中的缓存同步延迟和订单耗时追问到熔断与恢复，没有手写算法。"

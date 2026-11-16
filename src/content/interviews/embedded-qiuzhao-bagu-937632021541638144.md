@@ -3,6 +3,7 @@ title: 嵌入式秋招二面怎么准备：20 道高频八股与「定义+场景
 company: 嵌入式大厂
 position: 嵌入式软件开发
 date: '2026-10'
+collectedAt: '2026-10-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937632021541638144
 tags: ["嵌入式","八股文","秋招","面试准备","RTOS","DMA"]

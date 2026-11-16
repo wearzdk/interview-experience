@@ -3,6 +3,7 @@ title: "科大讯飞机器人软件开发实习：KDL 逆解、ROS2 架构与机
 company: "科大讯飞"
 position: "机器人软件开发（实习）"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f3582bad9ebb4358a10d55089cbe34ac
 tags: ["科大讯飞","机器人软件开发","实习","ROS2","运动学","ACT","C++"]

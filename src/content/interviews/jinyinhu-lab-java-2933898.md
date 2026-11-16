@@ -4,6 +4,7 @@ company: "金银湖实验室"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d2b8b358524a4fa3b09fe7b2a408256b
 tags: ["Java","集合","HashMap","多态","泛型","Spring Boot"]

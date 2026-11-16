@@ -3,6 +3,7 @@ title: "化工岗位求职自我介绍模板：基础版、岗位适配版与简
 company: 化工行业
 position: 化工技术岗
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938452151821418496
 tags: ["化工","自我介绍","求职准备","面试开场"]

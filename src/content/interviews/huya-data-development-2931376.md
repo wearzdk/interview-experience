@@ -4,6 +4,7 @@ company: "虎牙"
 position: "数据开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ba14c8de51e04777ba9139f82a106393
 tags: ["虎牙","数据开发","数仓分层","缓慢变化维","DQC","数据倾斜","Spark"]

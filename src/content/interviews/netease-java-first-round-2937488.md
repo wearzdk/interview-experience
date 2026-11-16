@@ -4,6 +4,7 @@ company: "网易"
 position: "Java 后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4c1df8fbdc54581999d4ad857404288
 tags: ["网易", "Java", "HashMap", "ThreadLocal", "volatile", "线程池", "手撕"]

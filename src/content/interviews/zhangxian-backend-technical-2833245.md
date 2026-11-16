@@ -4,6 +4,7 @@ company: 掌先
 position: 后端开发
 round: 技术面
 date: '2026-04'
+collectedAt: '2026-04-13'
 result: 挂
 source: 牛客网
 tags: ["Java","JVM","MySQL","并发编程","数据结构"]

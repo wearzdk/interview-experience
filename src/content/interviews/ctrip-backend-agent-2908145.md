@@ -4,6 +4,7 @@ company: 携程
 position: 后端Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "并发", "字符串", "计算机网络", "Agent"]
 summary: "携程后端Agent开发一面面经，深挖实习，并考察并发自增、字符串常量池和浏览器访问域名后的网络协议链路。"

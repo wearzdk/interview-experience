@@ -4,6 +4,7 @@ company: "阿里"
 position: "产品经理"
 round: "一面+二面+业务面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 base: "南京"
 source: 牛客网

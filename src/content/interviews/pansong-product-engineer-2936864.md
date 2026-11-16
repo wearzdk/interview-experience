@@ -4,6 +4,7 @@ company: "磐松私募"
 position: "产品工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a61af2f6140d4066893c9f6ea33cf582
 tags: ["磐松私募","产品工程师","行为面试","职业规划","协作"]

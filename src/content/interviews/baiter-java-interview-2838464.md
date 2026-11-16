@@ -4,6 +4,7 @@ company: 百特云享
 position: Java后端日常实习
 round: 复面
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["Java","Redis","JWT","MySQL","并发编程"]
 summary: "百特云享Java后端实习复面面经。面试核心围绕项目实现逻辑、JWT登录鉴权流程、Redis分布式锁的应用、MySQL索引优化及Spring事务处理。适合准备Java后端实习面试的同学参考，重点梳理鉴权机制与高并发场景处理。"

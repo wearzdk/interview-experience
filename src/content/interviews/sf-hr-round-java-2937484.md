@@ -4,6 +4,7 @@ company: "顺丰"
 position: "Java 后端开发"
 round: "三面（HR）"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2ac086d2a1c4cd6a63811f272b962d9
 tags: ["顺丰", "Java后端", "HR面", "秋招"]

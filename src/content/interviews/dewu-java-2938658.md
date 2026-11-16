@@ -4,6 +4,7 @@ company: 得物
 position: Java 开发
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/38320efc12e046fcb97f5471c8024aff
 tags: ["得物","Java","线程池","JVM","ThreadLocal","MySQL","B+树","系统设计"]

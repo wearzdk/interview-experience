@@ -3,6 +3,7 @@ title: "百度前端面试：JSX 与 Babel、SSE 流式输出与 RAG 多路召�
 company: "百度"
 position: "前端开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fc061fe55af84effb8014ed6c60db92d
 tags: ["百度","前端开发","React","JSX","Babel","SSE","Webpack","RAG"]

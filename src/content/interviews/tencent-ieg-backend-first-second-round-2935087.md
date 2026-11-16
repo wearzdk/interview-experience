@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/989b68f4749c400799725f7e0a290ae8"
 tags: ["腾讯","IEG","IO多路复用","epoll","TCP","CLOSE_WAIT","Go","C++"]

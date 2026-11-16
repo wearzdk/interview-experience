@@ -3,6 +3,7 @@ title: "27实习美团暑期AI产品凉经分享"
 company: "美团"
 position: "AI产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 source: 牛客网
 tags: ["AI产品", "项目深挖", "实习", "产品经理"]

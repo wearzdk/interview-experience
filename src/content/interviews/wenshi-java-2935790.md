@@ -4,6 +4,7 @@ company: 稳石信息科技
 position: Java 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bd6c6084b22847deae80d2a367079a46
 tags: ["Java", "实习", "海康SDK", "修饰符", "代码输出题"]

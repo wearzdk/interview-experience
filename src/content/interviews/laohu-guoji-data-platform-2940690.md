@@ -4,6 +4,7 @@ company: 老虎国际
 position: 数据平台开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b4fe121c700742b7a4e6af590446fd71
 tags: ["老虎国际","数据平台","Iceberg","Spark","Flink","YARN","Kafka","数据倾斜","链表"]

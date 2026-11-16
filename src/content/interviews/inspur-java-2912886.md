@@ -4,6 +4,7 @@ company: "浪潮数字企业"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["Java", "项目经验", "AI应用", "校招"]
 summary: "两位业务主管和一位 HR 参与，分别围绕 Java、实习项目、AI 相关经历和工作地点交流，全程不到二十分钟。"

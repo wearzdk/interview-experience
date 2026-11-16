@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Spring","MySQL","Redis","操作系统","计算机网络","动态规划"]
 summary: "字节跳动后端实习一面，考察Spring三层架构、Redis缓存一致性、MySQL B+树索引、操作系统死锁与CAS、TCP-UDP网络基础，以及最大连续子数组和手撕算法，面试风格偏基础扎实度考查。"

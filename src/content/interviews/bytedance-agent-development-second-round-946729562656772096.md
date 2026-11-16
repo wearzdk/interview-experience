@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946729562656772096
 tags: ["字节跳动","Agent","Planning","记忆","Function Call","MCP","RAG","合并有序数组"]

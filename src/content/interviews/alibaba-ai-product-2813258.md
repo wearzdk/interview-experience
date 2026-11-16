@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: AI 产品经理
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-21'
 result: 凉经
 source: 牛客网
 tags: ["阿里巴巴","AI产品经理","MCP","RAG","微调","权限管理"]

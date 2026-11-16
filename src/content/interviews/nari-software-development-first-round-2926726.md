@@ -4,6 +4,7 @@ company: "国网南瑞"
 position: "软件研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "已过（拒 offer）"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/03a2014f936f4e20b9573ab88e25da39

@@ -4,6 +4,7 @@ company: 安恒信息
 position: 测试开发（日常实习）
 round: 一面、二面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4bac4aa8ddf4426bb1c0718fb418f500
 tags: ["安恒信息","测试开发","实习","自动化测试","Agent评测","AI辅助测试"]

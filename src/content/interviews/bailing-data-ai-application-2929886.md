@@ -4,6 +4,7 @@ company: "佰聆数据"
 position: "助理AI应用开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 tags: ["AI应用开发","Python","FastAPI","RAG","BM25","向量检索","AgentScope"]
 summary: "佰聆数据助理 AI 应用开发（转正实习）一面记录：Python JSON 校验与 FastAPI 底层、元组与列表、微调学习率判断、KNN/HNSW 与 BM25/向量检索的融合、AgentScope 建 Agent 与温度参数的底层原理。"

@@ -4,6 +4,7 @@ company: 联合电子
 position: 嵌入式软件开发
 round: HR面
 date: '2026-09'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b48dfca0b25949a5ac6c3cfd4996801f
 tags: ["联合电子", "HR面", "英文面试", "汽车电子", "校招"]

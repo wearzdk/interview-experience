@@ -4,6 +4,7 @@ company: "某公司"
 position: "商业产品经理"
 round: "面经汇总"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/891328632507932672
 tags: ["AI产品", "Agent", "RAG", "商业化", "数据分析", "产品经理"]

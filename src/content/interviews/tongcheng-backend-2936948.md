@@ -4,6 +4,7 @@ company: "同程旅行"
 position: "后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1b208c20f9ee473087515b216b4e1b84
 tags: ["同程旅行","后端","HTTP","MySQL","索引","Java","JVM","压测","AI 编程"]

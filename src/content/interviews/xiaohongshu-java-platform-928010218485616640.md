@@ -4,6 +4,7 @@ company: 小红书
 position: Java平台开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928010218485616640
 tags: ["Java", "线程池", "AQS", "Kafka", "MySQL"]

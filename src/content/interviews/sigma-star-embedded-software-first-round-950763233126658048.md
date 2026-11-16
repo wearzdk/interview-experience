@@ -4,6 +4,7 @@ company: "星宸科技"
 position: "嵌入式软件开发工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950763233126658048
 tags: ["星宸科技","嵌入式","U-boot","Linux内核移植","rootfs","Cortex-A","Cortex-M","ARM","秋招"]

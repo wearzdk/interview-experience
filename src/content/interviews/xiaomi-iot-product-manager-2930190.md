@@ -4,6 +4,7 @@ company: "小米"
 position: "IoT软件产品经理"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/92b8159e1a6845d69ecbaf4df0b6b3b3
 tags: ["小米", "IoT软件产品经理", "产品思维", "数据指标", "智能硬件", "经历深挖"]

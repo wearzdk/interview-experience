@@ -3,6 +3,7 @@ title: "星龙数智 Java 后端面经复盘：从 JVM 到 RAG 落地"
 company: "星龙数智"
 position: "Java开发"
 date: "2026-05"
+collectedAt: '2026-09-21'
 source: "牛客网"
 tags: ["Java", "JVM", "线程池", "Redis", "RAG", "向量数据库"]
 summary: "北京星龙数智科技 2026 年 5 月 7 日的面试复盘，前段是 Java 与 JVM 基础（类加载、双亲委派、内存区域、GC 算法、异常体系、线程池、ThreadLocal），后段转到 RAG 项目的文档处理、召回率优化与向量库选型。"

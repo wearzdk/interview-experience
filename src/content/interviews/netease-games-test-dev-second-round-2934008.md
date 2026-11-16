@@ -4,6 +4,7 @@ company: 网易互娱
 position: 游戏测试开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-28'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e09aeb1d22604a3a8f480af4c428f008

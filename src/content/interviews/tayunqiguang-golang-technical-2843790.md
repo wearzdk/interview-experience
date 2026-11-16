@@ -4,6 +4,7 @@ company: 踏云齐光
 position: Golang 开发
 round: 技术负责人直面
 date: '2026-04'
+collectedAt: '2026-04-27'
 base: 上海
 source: 牛客网
 tags: ["Golang","DDD","MySQL设计","并发编程"]

@@ -4,6 +4,7 @@ company: "得物"
 position: "后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941632179652599808
 tags: ["得物", "RAG", "LangChain4j", "多轮对话", "MongoDB", "可观测性"]

@@ -4,6 +4,7 @@ company: "睿联"
 position: "前端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["前端","Vue","Vue3","React","Fiber","组合式API"]
 summary: "睿联前端秋招一面，从实习经历切入，追问 Vue2 与 Vue3 的差异、选项式与组合式 API 的区别与混用场景，以及 watch 的参数，并对比 React Fiber 与 React16 之前的 Stack Reconciler。"

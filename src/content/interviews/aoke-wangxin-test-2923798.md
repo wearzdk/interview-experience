@@ -4,6 +4,7 @@ company: 澳柯网信
 position: 测试
 round: 两轮
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 已挂
 base: 北京
 source: 牛客网

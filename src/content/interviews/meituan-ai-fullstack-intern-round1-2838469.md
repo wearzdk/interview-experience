@@ -4,6 +4,7 @@ company: 美团
 position: AI全栈开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["RAG","混合检索","Agent开发","HTTP协议","V8垃圾回收","MySQL索引"]
 summary: "美团AI全栈开发实习一面面经，重点考察RAG检索策略（混合检索、RRF调参）、Agent幻觉处理、HTTP协议版本区别、Java核心机制、V8引擎GC及向量数据库底层算法，适合备战大厂AI研发岗位的求职者参考。"

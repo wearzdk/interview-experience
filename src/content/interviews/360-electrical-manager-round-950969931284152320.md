@@ -4,6 +4,7 @@ company: "360"
 position: 电气
 round: 主管面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950969931284152320
 tags: ["360","Java","八股","集合","并发","ThreadLocal","项目复盘"]

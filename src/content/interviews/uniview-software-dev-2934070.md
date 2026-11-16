@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "C++驱动开发"
 round: "技术/HR/主管"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7b59834c49224c87bbb60dbbd83f2fcd
 tags: ["宇视科技","C++","驱动","Linux","FreeRTOS","HR面","西安"]

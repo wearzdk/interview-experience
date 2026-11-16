@@ -3,6 +3,7 @@ title: 搜狐新闻实习面经：我是如何通过面试加入狐厂的
 company: 搜狐
 position: 新闻采编实习
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3ae156f79210486bbe74b5124bc6eabf
 tags: ["新闻采编","媒体实习","简历","作品集","面试经验"]

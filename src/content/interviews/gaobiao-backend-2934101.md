@@ -4,6 +4,7 @@ company: "高标"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cf06d50b74b44322bb15f5c759977871
 tags: ["高标","后端","Go","视频拉流","DDS","协程","AI辅助开发"]

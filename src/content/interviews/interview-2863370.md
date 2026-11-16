@@ -4,6 +4,7 @@ company: 某互联网公司
 position: 移动端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: 凉经
 base: 浙江
 source: 牛客网

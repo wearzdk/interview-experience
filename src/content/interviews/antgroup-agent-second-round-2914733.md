@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "AI 应用开发（Agent 方向）"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Agent","AgentRuntime","权限管理","AI Native","知识库","职业规划"]
 summary: "蚂蚁二面 13 问：Agent Runtime 设计、知识库与 Skills 的分工及覆盖验证、读写操作的鉴权与风险控制、长任务中 Plan 的作用，以及 AI Native 分阶段规划与自研 Agent 还是做插件的取舍。"

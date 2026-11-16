@@ -4,6 +4,7 @@ company: 应用软件
 position: 移动端开发工程师
 round: 笔试
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 山东
 source: 牛客网
 tags: ["Java", "MySQL", "计算机网络", "算法"]

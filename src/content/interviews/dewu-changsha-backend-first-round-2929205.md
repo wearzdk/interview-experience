@@ -4,6 +4,7 @@ company: "得物"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["Java", "并发", "Spring", "MySQL", "消息队列"]
 summary: "得物长沙后端一面，2026-10-18，围绕线程池、ThreadLocal、ConcurrentHashMap、锁升级、Spring IOC/循环依赖、事务失效、MySQL 隔离级别、多级缓存和 MQ 可靠性展开。"

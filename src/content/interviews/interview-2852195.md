@@ -4,6 +4,7 @@ company: 腾讯
 position: 软件开发实习生
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: 凉经
 base: 广东
 source: 牛客网

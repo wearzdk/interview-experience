@@ -4,6 +4,7 @@ company: "平安金融科技"
 position: "算法工程师"
 round: "面试"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/757a6e939c66451d8ceeadf70a8c7859
 tags: ["平安金融科技", "算法工程师", "面试复盘", "项目表达", "岗位匹配"]

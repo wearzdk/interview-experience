@@ -3,6 +3,7 @@ title: 元戎启行 OC 了，讲讲我的来时路（AI Infra 方向求职复盘
 company: 元戎启行
 position: AI Infra
 date: '2026-10'
+collectedAt: '2026-10-08'
 result: OC
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938031590012219392

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/179e7138168c4845ba1607a2a3548868
 tags: ["拼多多","服务端开发","实习项目","系统架构","MCP","权限隔离","二分查找"]

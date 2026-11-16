@@ -4,6 +4,7 @@ company: 传音控股
 position: Java开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "并发", "项目经验", "行为面"]
 ---

@@ -4,6 +4,7 @@ company: "核桃编程"
 position: "班主任"
 round: "校招面试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940735719532732416"
 tags: ["核桃编程","班主任","少儿编程","家长沟通","职业规划","销售转化","秋招"]

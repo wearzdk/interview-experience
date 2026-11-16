@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发实习生
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 未通过
 source: 牛客网
 tags: ["Java","Redis","MySQL","Nginx","JVM垃圾回收","网络安全"]

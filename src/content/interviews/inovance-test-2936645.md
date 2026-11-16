@@ -4,6 +4,7 @@ company: "汇川"
 position: "测试工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9d1528d41a8940a0b449d28b836f3a02
 tags: ["测试","测试用例","UI自动化","AI 助手","登录测试","编程基础"]

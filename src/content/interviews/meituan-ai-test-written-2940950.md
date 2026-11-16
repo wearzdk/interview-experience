@@ -4,6 +4,7 @@ company: 美团
 position: "测试开发（AI 方向）"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/377abc71cace4aabbbee42082372cbb2
 tags: ["美团","测试开发","笔试","机器学习","SQL","AI Coding"]

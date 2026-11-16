@@ -4,6 +4,7 @@ company: "华盛通"
 position: "Java后端实习"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2c73abb03d564fd6beb08ee5511ec613
 tags: ["华盛通","Java","WebSocket","加密解密","缓存击穿","实习面试"]

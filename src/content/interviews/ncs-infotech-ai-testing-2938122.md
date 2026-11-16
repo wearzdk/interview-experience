@@ -4,6 +4,7 @@ company: "恩士迅信息科技"
 position: "AI 测试工程师"
 round: "一面+二面"
 date: "2026-11"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c85592facf93452586407b389ec3d490"
 tags: ["恩士迅信息科技","AI测试","测试用例","目标检测","模型评测","提示词工程","数据标注","苏州"]

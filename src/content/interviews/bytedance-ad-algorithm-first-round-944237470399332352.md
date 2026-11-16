@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "广告算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944237470399332352
 tags: ["字节跳动","广告算法","大模型","SFT","DPO","GRPO","强化学习","KL散度"]

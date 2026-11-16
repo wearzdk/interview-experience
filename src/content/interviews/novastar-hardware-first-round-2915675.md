@@ -4,6 +4,7 @@ company: 诺瓦星云
 position: 硬件工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["硬件","电源设计","纹波","SPI","IIC","EMC","多层板"]
 summary: "诺瓦星云硬件岗一面面经，9月20日面试。围绕电源项目与通信项目展开：纹波的测量方法与降低手段、buck/boost/LDO三种电源拓扑、SPI与IIC通信协议、多层板设计、器件选型、Flash与EMC。"

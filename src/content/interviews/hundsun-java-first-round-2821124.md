@@ -4,6 +4,7 @@ company: 恒生电子
 position: Java开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 录用
 source: 牛客网
 tags: ["Java","八股文","项目经验","AI应用","金融业务"]

@@ -4,6 +4,7 @@ company: "金蝶"
 position: "软件开发（AI）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f235b1c46a0040c1980bd79190f8e2f6
 tags: ["金蝶","Java","ERP","进程与线程","TCP","MySQL事务隔离级别","项目深挖"]

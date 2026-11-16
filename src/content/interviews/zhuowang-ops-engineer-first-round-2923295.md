@@ -4,6 +4,7 @@ company: "卓望"
 position: "运维工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b02f2be0018d4be686e89adb314eb8ca"
 tags: ["运维", "校招", "卓望", "操作系统", "研运一体化", "职业规划", "项目经历"]

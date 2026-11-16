@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933733520864706560
 tags: ["AI Agent", "Harness", "工具调用", "RAG", "上下文管理", "手撕算法"]

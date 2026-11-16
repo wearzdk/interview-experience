@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["AI大模型","Java基础","MySQL优化","JVM","算法"]
 summary: "腾讯2027暑期实习AI后台开发一面面经，考察重点涵盖AI工程化落地（AICR、提示词工程、记忆机制）、Java后端基础（线程进程、虚拟线程）、MySQL索引优化、JVM垃圾回收及经典链表算法题。"

@@ -4,6 +4,7 @@ company: "联影"
 position: "C++开发"
 round: "一面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923983281882681344
 tags: ["C++", "面向对象", "系统设计", "性能"]

@@ -3,6 +3,7 @@ title: 招银网络后端开发面经（一面/二面/HR 面）
 company: 招银网络
 position: 后端开发
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring","AOP","Agent"]
 summary: "招银网络后端开发三场面经记录。一面考察线程池、MySQL 存储引擎与 B+ 树，手撕螺旋矩阵；二面集中在 AOP 执行顺序、事务失效原因、数据库连接池与 Spring Bean 管理；HR 面围绕实习成就、班干部经历与问题处理展开。"

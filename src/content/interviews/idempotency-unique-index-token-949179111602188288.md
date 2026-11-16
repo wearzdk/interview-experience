@@ -3,6 +3,7 @@ title: "幂等方案别只背四件套：唯一索引、Token 与状态机的取
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949179111602188288
 tags: ["幂等","唯一索引","Token","状态机","消息队列","支付回调"]

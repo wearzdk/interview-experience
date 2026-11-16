@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: Java后端开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java基础","Spring","Redis","MySQL","Agent架构"]
 summary: "本面经分享了阿里巴巴Java后端开发岗面试过程。面试核心涵盖Java并发编程、Spring自动装配与Bean生命周期、MySQL索引原理与性能优化、Redis高可用策略以及AI Agent开发前沿技术，适合准备大厂面试的候选人参考。"

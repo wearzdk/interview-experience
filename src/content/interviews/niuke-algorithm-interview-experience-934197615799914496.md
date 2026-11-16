@@ -3,6 +3,7 @@ title: "算法岗面试方法论：心态、自我介绍、不会的题与反问
 company: "牛客网用户分享"
 position: "算法"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934197615799914496
 tags: ["面试经验", "算法岗", "自我介绍", "反问环节", "编程题", "职业规划"]

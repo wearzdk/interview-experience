@@ -4,6 +4,7 @@ company: "陕西金种子"
 position: "人工智能研发"
 round: "初面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942827508418764800
 tags: ["陕西金种子", "人工智能研发", "初面", "国企", "微调"]

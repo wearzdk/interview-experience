@@ -4,6 +4,7 @@ company: "美团、阿里"
 position: "AI 应用开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a9e773c96cae4a8ebbca23d84f59cb8c
 tags: ["美团","阿里","Agent","RAG","MCP","向量检索","知识库"]

@@ -4,6 +4,7 @@ company: 招银网络科技
 position: 运维研发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["运维研发", "Linux", "Docker", "内核", "故障排查", "面试复盘"]
 summary: "招银网络科技运维研发岗线上二面记录，全程围绕简历展开：Linux 能力有什么成果可证、在校期间的主动性成果、端口占用排查、Docker 升级怎么做、对 Linux 内核了解到什么程度，整体偏履历与表达能力考察。"

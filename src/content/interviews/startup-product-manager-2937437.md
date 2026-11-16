@@ -4,6 +4,7 @@ company: "初创公司"
 position: "产品经理"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7df8d42ab0aa4e1893a83fbbeb058bf0
 tags: ["产品经理", "社招", "toB", "toC", "用户体验", "商业化"]

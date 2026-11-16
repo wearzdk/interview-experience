@@ -4,6 +4,7 @@ company: "某互联网公司"
 position: "业务中台后端"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939507473310814208
 tags: ["业务中台","MySQL索引","Redis","跳表","RSA","Skill与MCP","JVM GC","优惠券库存"]

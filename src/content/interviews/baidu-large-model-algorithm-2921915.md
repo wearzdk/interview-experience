@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["大模型","多模态","注意力机制","KV Cache","PagedAttention"]
 summary: "百度大模型算法岗一面二面面经。一面考多模态架构、视觉语言 Adapter、ViT 特征提取与自注意力原理，并手撕最大正方形；二面深入 MHA/MQA/GQA 与 KV Cache 显存、PagedAttention 和代码补全 Agent 的工程实现。"

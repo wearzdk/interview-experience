@@ -4,6 +4,7 @@ company: "帆软"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ab1aebffbc2444be83595326efcdc155
 tags: ["帆软", "后端开发", "一面", "Agent", "多线程", "手撕"]

@@ -4,6 +4,7 @@ company: 足下科技
 position: 高性能计算（算子与推理优化）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["高性能计算","算子优化","CUDA","推理加速","初创公司"]

@@ -4,6 +4,7 @@ company: "卓望"
 position: "人工智能工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948185029677477888
 tags: ["卓望", "AI工程师", "Python", "LoRA", "QLoRA", "微调", "初始化"]

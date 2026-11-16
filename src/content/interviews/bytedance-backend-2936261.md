@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发（日常实习）"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e312be50f5234cfdad9a560c80f4e755"
 tags: ["字节跳动", "后端", "日常实习", "Redis", "算法", "面试复盘"]

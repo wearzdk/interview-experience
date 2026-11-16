@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944882575372275712
 tags: ["蚂蚁集团", "Agent", "RAG", "ReAct", "上下文压缩", "检索评估"]

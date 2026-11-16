@@ -3,6 +3,7 @@ title: "Redis 持久化怎么答：RDB、AOF 与 fork 时的 Copy-On-Write"
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949175343980572672
 tags: ["Redis","RDB","AOF","混合持久化","Copy-On-Write","主从复制"]

@@ -3,6 +3,7 @@ title: 9.2顺丰提前批一面
 company: 顺丰
 position: Java后端开发
 date: '2026-09'
+collectedAt: '2026-09-02'
 source: 牛客网
 tags: ["Java", "Kafka", "Redis", "数据库", "项目面"]
 summary: 顺丰提前批一面，围绕项目中的热点探测、Kafka 灾难回放、限流、Redis 哨兵和数据库索引展开。

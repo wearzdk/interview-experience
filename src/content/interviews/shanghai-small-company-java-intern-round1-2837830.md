@@ -4,6 +4,7 @@ company: 上海小公司
 position: Java实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 result: 未通过
 base: 上海
 source: 牛客网

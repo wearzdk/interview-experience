@@ -4,6 +4,7 @@ company: "小红书"
 position: "端侧推理"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942544580111499264
 tags: ["小红书","端侧推理","端侧RAG","函数调用","量化","HyDE","重排"]

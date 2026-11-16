@@ -3,6 +3,7 @@ title: 蔚来-软件开发实习生面经
 company: 蔚来
 position: 软件开发实习生
 date: '2026-09'
+collectedAt: '2026-09-02'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "消息队列", "实习"]
 summary: 蔚来软件开发实习生一面，重点考察项目复盘、消息最终一致性、Redis 与 MySQL 优化及网络基础。

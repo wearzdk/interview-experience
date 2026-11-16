@@ -4,6 +4,7 @@ company: "佰维存储"
 position: "固件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fd56104e4ce14201aa217be5728ed61d
 tags: ["佰维存储","固件","PCB","项目交付","实习"]

@@ -4,6 +4,7 @@ company: 科大讯飞
 position: AI后训练
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938445793403338752
 tags: ["AI后训练","数据质量","实习深挖","大模型","效果验证"]

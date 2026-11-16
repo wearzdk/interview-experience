@@ -4,6 +4,7 @@ company: "长鑫存储"
 position: "Agent开发"
 round: "技术面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/9d70e1b461fc481dba8f7d6875577d95"
 tags: ["长鑫存储","Agent开发","CodeAgent","Coordinator","多Agent","上下文压缩","任务规划","容错"]

@@ -3,6 +3,7 @@ title: "北森客开实习生(实习转正) 2026.10.13"
 company: "北森"
 position: "Java 开发（客开实习生）"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cecac304535c4b3c99e6ff117908251e
 tags: ["北森","Java","HashMap","并发","ETL","实习转正"]

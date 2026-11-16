@@ -4,6 +4,7 @@ company: 建信融通
 position: 后端开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/893188475493568512
 tags: ["Java","Spring AI","大模型","上下文管理"]

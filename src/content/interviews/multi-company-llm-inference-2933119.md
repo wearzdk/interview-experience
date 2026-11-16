@@ -3,6 +3,7 @@ title: "10 月大模型推理五场面试合集：量化、KV Cache 与 CUDA 执
 company: "多家公司"
 position: "大模型推理与量化"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f80f421b5bcf4dc08cc51e99f129c3ce
 tags: ["大模型推理","模型量化","KV Cache","FlashAttention","CUDA","手撕"]

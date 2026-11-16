@@ -4,6 +4,7 @@ company: "杉川机器人"
 position: "IT 产品开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8136f48605064451a19f306cdd895ec8
 tags: ["杉川机器人","全栈","TimescaleDB","线程池","CAS","ConcurrentHashMap","MySQL","B+树"]

@@ -4,6 +4,7 @@ company: CVTE
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932319671578030080
 tags: ["Java","Agent","JVM","集合","TCP","HTTPS"]

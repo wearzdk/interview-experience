@@ -4,6 +4,7 @@ company: 柏楚电子
 position: Java后端
 round: 终面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c09e8aff4d4b4ef882150275eddefbdc
 tags: ["实习项目","技术栈深挖","线程池","Java","终面","反问"]

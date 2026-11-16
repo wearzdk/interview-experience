@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","JVM","Redis","多线程","数据结构"]
 summary: "字节跳动后端暑期实习一面面试经验分享。面试涵盖Java内存模型(JMM)、volatile原理、GC机制、Redis高性能原因及持久化机制，重点考察高并发项目经验及算法题（栈实现队列）。适用于备战大厂面试的后端求职者参考。"

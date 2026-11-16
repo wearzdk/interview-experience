@@ -4,6 +4,7 @@ company: 平安产险
 position: "后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/613c8056be0a4dff8131e6d362736696
 tags: ["平安产险","后端","业务场景","布隆过滤器","索引失效","进制转换"]

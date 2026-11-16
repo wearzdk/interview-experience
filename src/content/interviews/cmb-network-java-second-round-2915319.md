@@ -4,6 +4,7 @@ company: 招银网络
 position: Java后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["Java","并发编程","深分页","MySQL","DDD","RabbitMQ","贫血模型"]

@@ -4,6 +4,7 @@ company: "联想"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933863969914126336
 tags: ["C++","多态","虚函数表","Linux","网络分层","嵌入式"]

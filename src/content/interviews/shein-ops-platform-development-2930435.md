@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "运维平台开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 base: "南京"
 source: "牛客网"
 tags: ["SHEIN","运维平台开发","Redis锁","Docker","Gin","健康检查","Go","秋招"]

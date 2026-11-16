@@ -4,6 +4,7 @@ company: 融和元储能源
 position: 软件测试工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7f4b769f2d8143c4af72ab822deac42c
 tags: ["软件测试","自动化测试","嵌入式测试","电力监控","接口测试","冒烟测试","回归测试","Linux"]

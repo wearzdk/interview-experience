@@ -4,6 +4,7 @@ company: "多家股份制银行"
 position: "信息科技岗"
 round: "多轮面试合集"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938218302235492352"
 tags: ["银行面试","信息科技岗","浦发银行","兴业银行","民生银行","无领导小组讨论","Java","Spring","Redis"]

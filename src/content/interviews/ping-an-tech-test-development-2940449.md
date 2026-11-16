@@ -4,6 +4,7 @@ company: 平安科技
 position: 测试开发
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-13'
 result: 已 OC
 base: 成都
 source: 牛客网

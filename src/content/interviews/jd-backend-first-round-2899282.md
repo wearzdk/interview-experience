@@ -4,6 +4,7 @@ company: 京东
 position: 后端开发工程师
 round: 一面
 date: '2026-08'
+collectedAt: '2026-08-29'
 source: 牛客网
 tags: ["Java", "Python", "Agent", "LangGraph", "跨语言系统"]
 summary: "京东后端开发一面，围绕知识树优化、Agent 技术选型以及 Java、Python、C++ 的语言差异和跨语言系统衔接展开。"

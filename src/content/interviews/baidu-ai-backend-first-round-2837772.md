@@ -4,6 +4,7 @@ company: 百度
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 source: 牛客网
 tags: ["Java并发","JVM","Redis","MySQL"]
 summary: "百度AI后端开发实习生面试题整理，涵盖Java并发集合、ConcurrentHashMap原理、CAS机制、JVM垃圾回收机制、Redis分布式锁及慢查询优化等核心后端技术，助你快速查漏补缺，备战大厂面试。"

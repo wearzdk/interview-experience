@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "维护工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d8d61eb7939447f6861261b2dca87629
 tags: ["维护工程师", "RAG", "向量数据库", "部署", "客户沟通", "职业规划"]

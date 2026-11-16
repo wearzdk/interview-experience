@@ -4,6 +4,7 @@ company: 美团
 position: AI后端
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java","Redis","Spring","JVM","计算机网络"]
 summary: "美团AI后端暑期实习一面面经。重点考察项目架构设计（分库分表、布隆过滤器、RPC框架）、Java并发编程（volatile底层）、JVM原理、Spring循环依赖、Redis缓存一致性及计算机网络基础，附带手撕算法题反转链表与字符串解码。"

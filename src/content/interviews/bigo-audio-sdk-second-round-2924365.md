@@ -4,6 +4,7 @@ company: "BIGO"
 position: "音频 SDK 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 result: "凉经（大概率）"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/794dd8f6665043bc847fbb7eed7f97f2

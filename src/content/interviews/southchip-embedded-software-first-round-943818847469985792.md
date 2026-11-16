@@ -4,6 +4,7 @@ company: "南芯"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943818847469985792
 tags: ["南芯","嵌入式","Cortex-M","启动流程","向量表","中断","RISC","MSP","FreeRTOS"]

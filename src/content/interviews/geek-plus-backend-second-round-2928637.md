@@ -4,6 +4,7 @@ company: "极智嘉"
 position: "后端开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/38049bfa70d54d2a8438352497d15cac
 tags: ["极智嘉", "调度", "机器人", "隐私合规", "具身智能", "职业规划"]

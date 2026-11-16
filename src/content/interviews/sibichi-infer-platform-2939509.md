@@ -4,6 +4,7 @@ company: 思必驰
 position: 训推平台开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d0213ef1a15c4ed7bf175f6b326ca597
 tags: ["思必驰","训推平台","大模型推理","Transformer","KV Cache","推理优化"]

@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI Infra 算法工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["AI Infra","分布式训练","并行策略","集合通信","大模型"]
 summary: "腾讯混元 AI Infra 一面面经，围绕大模型训练的四种并行展开：TP 的切分维度与通信、集合通信量怎么算与何时判定通信瓶颈、DP 与 TP 的取舍及训练与推理的差异、PP 的 Stage 划分与 Bubble，以及 CP 在长上下文场景下的跨卡 Attention。"

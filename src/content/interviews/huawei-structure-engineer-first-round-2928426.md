@@ -4,6 +4,7 @@ company: "华为"
 position: "结构与材料工程师-结构"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/859addd3f1aa444ba5386205d28b6c12
 tags: ["华为","结构与材料工程师","结构工程师","振动","模态分析","秋招"]

@@ -3,6 +3,7 @@ title: 福建电子口岸Java开发面试
 company: 福建电子口岸
 position: Java开发工程师
 date: '2026-05'
+collectedAt: '2026-06-24'
 base: 福建
 source: 牛客网
 tags: ["Java","JVM","Spring","MySQL","RabbitMQ","ELK"]

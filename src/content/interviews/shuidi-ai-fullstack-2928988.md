@@ -4,6 +4,7 @@ company: "水滴"
 position: "AI全栈工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/19a587c7a8ce418fb3b1ee733b05d867"
 tags: ["水滴", "AI全栈工程师", "Go", "Kafka", "SSE", "RAG", "MCP"]

@@ -4,6 +4,7 @@ company: 未披露公司
 position: 后端开发实习生
 round: 面试
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["Spring AI","WebSocket","MySQL","Redis","Nginx"]
 summary: "后端实习面试围绕Spring AI流式调用、WebSocket、MySQL索引、Redis认证和Nginx代理展开，适合零实习同学复盘基础。"

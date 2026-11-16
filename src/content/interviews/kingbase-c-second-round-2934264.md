@@ -4,6 +4,7 @@ company: "电科金仓"
 position: "C开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/de5ce7e4f3c6498b894fed15ee75d641
 tags: ["电科金仓","C语言","CAN总线","CANFD","启动流程","嵌入式"]

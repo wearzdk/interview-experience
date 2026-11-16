@@ -4,6 +4,7 @@ company: "58同城"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-17'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941138590514356224
 tags: ["58同城","Agent","MCP","SQL生成","JVM","Spring","MySQL"]

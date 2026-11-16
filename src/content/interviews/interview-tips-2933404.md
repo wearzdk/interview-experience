@@ -4,6 +4,7 @@ company: "求职通用"
 position: "面试方法"
 round: "经验"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ec536222aa6149c8af5a3ddc88a40423
 tags: ["面试技巧", "岗位描述", "反问", "求职方法"]

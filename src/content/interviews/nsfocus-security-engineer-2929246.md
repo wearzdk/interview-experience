@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "安全工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["网络安全", "网络协议", "路由协议", "安全设备", "Linux"]
 summary: "绿盟科技安全工程师一面，25 分钟，围绕网络体系架构、RIP/OSPF、网络设备安全配置、Linux 服务安全防护和常见安全设备展开。"

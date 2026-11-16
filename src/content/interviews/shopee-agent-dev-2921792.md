@@ -4,6 +4,7 @@ company: "虾皮"
 position: "Agent 开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Agent","大模型","代码定位","知识图谱","LoRA","故障归因"]
 summary: "虾皮 Agent 开发一面面经，全程围绕三个项目深挖：微调与 Prompt 的选型、代码仓库 Description 的粒度与失效纠正、故障归因系统的日志排查与效果评估，以及知识图谱问答的 Query 拆解与实体排序。"

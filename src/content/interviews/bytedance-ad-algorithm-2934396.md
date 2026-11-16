@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "广告算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["推荐算法","归一化","AUC","DPO","MoE","KV Cache","位置编码"]
 summary: "字节广告算法一面十问：生成式召回怎么改结构、常用归一化、去掉负样本后 AUC 怎么变、DPO 公式、MoE 激活分布、SGD 与 Adam、KV Cache 与正余弦位置编码手撕。"

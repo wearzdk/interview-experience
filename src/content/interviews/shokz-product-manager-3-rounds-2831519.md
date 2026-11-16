@@ -4,6 +4,7 @@ company: 韶音科技
 position: IT产品经理管培生
 round: 三轮
 date: '2026-04'
+collectedAt: '2026-04-10'
 source: 牛客网
 tags: ["Redis","MySQL","B+树","Spring AOP","线程安全","产品思维"]
 summary: "分享韶音科技IT产品经理管培生面试经历。涵盖三轮面试，一面HR面，二面涉及Redis、MySQL索引优化、B+树、Spring AOP及多线程等核心Java技术考点，三面侧重项目经历与AI辅助开发工具的使用，助你掌握面试重点。"

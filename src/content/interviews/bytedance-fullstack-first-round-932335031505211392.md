@@ -4,6 +4,7 @@ company: "字节"
 position: "全栈（偏前端）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932335031505211392
 tags: ["前端","全栈","Canvas","Web Worker","双Token","埋点"]

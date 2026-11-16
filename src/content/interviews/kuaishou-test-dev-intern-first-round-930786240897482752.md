@@ -4,6 +4,7 @@ company: "快手"
 position: "测试开发实习"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930786240897482752"
 tags: ["测试开发","实习","测试用例设计","接口测试","AI测试","幂等","灰度发布"]

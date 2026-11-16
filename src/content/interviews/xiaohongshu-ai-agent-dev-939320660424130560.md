@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939320660424130560"
 tags: ["小红书","AI Agent开发","HashMap","ConcurrentHashMap","TLS","RAG","上下文工程","手撕算法"]

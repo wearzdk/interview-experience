@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大数据开发
 round: 多轮
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e24f17876bd9417cbc705ffe408d3370
 tags: ["大数据开发","Agent","手撕算法","面经复盘"]

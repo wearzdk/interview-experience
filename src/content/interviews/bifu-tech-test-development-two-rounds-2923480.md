@@ -4,6 +4,7 @@ company: "比孚信息科技"
 position: "测试开发"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/56d5fc9a901b4ff3ae9f6960d90bb8e4"
 tags: ["测试开发","测试用例设计","接口测试","JWT","性能测试","Selenium","SWE-Bench","Agent评测"]

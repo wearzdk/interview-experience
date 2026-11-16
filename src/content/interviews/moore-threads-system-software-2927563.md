@@ -4,6 +4,7 @@ company: "摩尔线程"
 position: "系统软件开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6a761cc988be42adb06700f537a3c5c9"
 tags: ["系统软件", "内核", "驱动", "网络编程", "C++", "面试复盘"]

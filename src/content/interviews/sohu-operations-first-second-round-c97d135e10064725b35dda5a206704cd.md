@@ -4,6 +4,7 @@ company: "搜狐"
 position: "运营"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c97d135e10064725b35dda5a206704cd
 tags: ["搜狐","运营","业务面","情景面试","面试流程","实习","反问"]

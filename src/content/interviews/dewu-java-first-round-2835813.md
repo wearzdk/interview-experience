@@ -4,6 +4,7 @@ company: 得物
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["Java","Redis","MySQL","线程池","数据库调优"]
 summary: "得物Java开发一面面试经验分享。面试时长50分钟，侧重项目场景设计与八股文考察。涵盖Redis缓存雪崩穿透、MySQL索引调优与隔离级别、线程池参数配置及Java并发编程等核心技术点。"

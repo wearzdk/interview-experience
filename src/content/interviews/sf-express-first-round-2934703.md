@@ -4,6 +4,7 @@ company: 顺丰
 position: Java后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/519b214520b940fa8e364a3ab152a676
 tags: ["顺丰", "Java", "Redis", "MySQL", "ThreadLocal", "布隆过滤器"]

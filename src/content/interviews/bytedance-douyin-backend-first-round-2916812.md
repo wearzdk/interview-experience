@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 result: "已挂"
 source: 牛客网
 tags: ["后端","Redis","限流算法","并发编程","算法"]

@@ -3,6 +3,7 @@ title: 滴滴 Java 后端面试：唯一索引使用场景
 company: 滴滴
 position: Java
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["MySQL","唯一索引","数据库索引","Java","数据一致性"]
 summary: "滴滴 Java 岗位面试真题整理，涵盖 MySQL 唯一索引使用场景，包括唯一性约束、业务字段设计（用户名、手机号、身份证）及索引性能权衡，适合备战滴滴 Java 后端面试的求职者参考。"

@@ -4,6 +4,7 @@ company: "昂瑞微"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/62555d94726a4dd6aea2c7280642001d
 tags: ["昂瑞微","嵌入式软件","二面","DMA","bootloader","FreeRTOS","ARM汇编"]

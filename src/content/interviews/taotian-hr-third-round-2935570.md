@@ -4,6 +4,7 @@ company: "阿里巴巴（淘天集团）"
 position: "技术岗"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2711fd031e64473ba5149b9bd248ca79
 tags: ["淘天","HR面","跨专业","实习复盘","API指标","业务理解","求职城市"]

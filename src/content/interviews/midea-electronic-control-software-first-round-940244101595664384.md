@@ -4,6 +4,7 @@ company: "美的"
 position: "电控软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940244101595664384
 tags: ["嵌入式","STM32","电控","项目面试","STAR","秋招"]

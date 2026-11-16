@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "C++开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/9ef7d519ca0645d084373db10aa86908"
 tags: ["经纬恒润","C++","项目深挖","PPT面试","薪资沟通","秋招"]

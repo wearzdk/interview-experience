@@ -4,6 +4,7 @@ company: "北京中古科技"
 position: "测试工程师"
 round: "初面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/70b3d84ea0174ffca679ba9d6d89cb6a
 tags: ["测试工程师", "社招", "测试用例", "性能测试", "Fiddler", "JMeter", "弱网测试"]

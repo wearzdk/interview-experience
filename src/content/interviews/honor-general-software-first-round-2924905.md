@@ -4,6 +4,7 @@ company: 荣耀
 position: 通用软件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/688807e42d5f484c84414b326ebf7489
 tags: ["通用软件开发","中台架构","性能优化","高并发","大模型幻觉","上下文管理"]

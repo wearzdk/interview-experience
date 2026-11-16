@@ -4,6 +4,7 @@ company: "西安初创小厂"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/67cde5754892465eb1484d82dd7a0c65
 tags: ["后端开发", "一面", "SpringAI", "推荐系统", "B+树", "秒杀", "JWT", "Agent工作流"]

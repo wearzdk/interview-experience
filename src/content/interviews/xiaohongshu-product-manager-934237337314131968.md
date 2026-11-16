@@ -4,6 +4,7 @@ company: "小红书"
 position: "产品经理"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934237337314131968
 tags: ["产品经理", "商业化", "AI数据标注", "社区治理", "需求分析", "用户增长"]

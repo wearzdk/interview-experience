@@ -4,6 +4,7 @@ company: 美团
 position: Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947080725491150848
 tags: ["Agent", "RAG", "SFT", "DPO", "评测", "手撕代码"]

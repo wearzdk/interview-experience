@@ -4,6 +4,7 @@ company: 某公司
 position: 软件开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3b9f0a9f955844068b6d7fb63a966e67
 tags: ["某公司","软件开发","二面","性能优化","场景题","操作系统","算法"]

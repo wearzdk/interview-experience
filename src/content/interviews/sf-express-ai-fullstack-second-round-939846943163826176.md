@@ -4,6 +4,7 @@ company: "顺丰"
 position: "AI 全栈"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939846943163826176
 tags: ["顺丰","AI全栈","Agent","MCP","对话记忆","MongoDB","Redis","知识库"]

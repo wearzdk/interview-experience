@@ -3,6 +3,7 @@ title: "几天面三家：联通、三绿科技与华润银行的题单"
 company: "中国联通、三绿科技、华润银行"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9363faa95d3940149d6a4fad3c0ea84e
 tags: ["中国联通", "华润银行", "后端开发", "Spring Batch", "微服务", "熔断限流"]

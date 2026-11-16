@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端开发工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5cdbc04536564aeb9c93e9a70b084475
 tags: ["C++","死锁","优先队列","二叉树","手撕","服务端"]

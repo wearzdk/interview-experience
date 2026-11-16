@@ -3,6 +3,7 @@ title: "合肥某头部企业 软件开发实习面试：33 题追问 RAG、MySQ
 company: "合肥某头部企业"
 position: "软件开发"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["RAG", "MCP", "LangChain", "MySQL", "MVCC", "Docker", "AI Coding"]
 summary: "合肥某头部企业软件开发实习生面试汇总：原定半小时却追问了一个小时，33 道题几乎全围绕医疗问答项目——RAG 切分与 Embedding、BM25 与 MMR、MCP 协议、LangChain 与 AI Coding 工作流，随后是 MySQL 隔离级别与 MVCC、Undo Log、深分页、连接池、JVM 排查与 Nginx、Docker 基础。"

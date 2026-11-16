@@ -4,6 +4,7 @@ company: 淘天集团
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-12'
 source: 牛客网
 tags: ["搜索架构","JVM调优","Redis","线程池","配置中心"]
 summary: "淘天后端社招一面，面试涵盖搜索系统架构设计、JVM GC排查与大对象定位、Redis ZSet原理与并发安全、线程池参数优化、配置中心RefreshScope实现原理、RPC架构及Agent设计，考察深度技术积累。"

@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "硬件工程师"
 round: "终面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/277233b702d74912afc589e4e41b1f5a
 tags: ["汇川技术","硬件工程师","终面","项目复盘","AI工具","硬件测试","职业规划"]

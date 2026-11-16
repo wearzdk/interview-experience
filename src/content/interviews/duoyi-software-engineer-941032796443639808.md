@@ -4,6 +4,7 @@ company: "多益网络"
 position: "软件工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941032796443639808"
 tags: ["多益网络", "Java", "MySQL", "Redis", "Spring", "Kafka", "幂等"]

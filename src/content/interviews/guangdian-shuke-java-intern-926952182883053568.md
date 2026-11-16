@@ -3,6 +3,7 @@ title: 广电数科 Java开发实习生面经
 company: 广电数科
 position: Java开发实习生
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/926952182883053568
 tags: ["Java", "Spring", "Redis", "JVM", "消息队列", "大模型"]

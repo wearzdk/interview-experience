@@ -5,6 +5,7 @@ position: "AI应用研发工程师"
 round: "一面"
 result: "进二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942167972557119488
 tags: ["RAG", "Agent", "文档切片", "混合检索", "权限控制", "PII脱敏"]

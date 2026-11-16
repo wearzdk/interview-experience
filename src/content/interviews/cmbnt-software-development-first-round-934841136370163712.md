@@ -4,6 +4,7 @@ company: "招银网络科技"
 position: "软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934841136370163712
 tags: ["Java", "HashMap", "Spring", "MySQL", "SSE", "系统设计", "合并区间"]

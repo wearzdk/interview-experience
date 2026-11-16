@@ -4,6 +4,7 @@ company: "智物起源"
 position: "Java 后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1b5fd0a732434b0dbd598272cf8846fa
 tags: ["智物起源","Java后端","RAG","Agent","提示词工程","评测","可观测性","AI工具"]

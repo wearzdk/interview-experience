@@ -3,6 +3,7 @@ title: "白驹科技前端面经：实习迁移难点与跨域闭包"
 company: "白驹科技"
 position: "前端开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 base: "广州"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eb2a37370a6d4d1189e6d88c01c37e76

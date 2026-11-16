@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: Java 后端
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9cb6735612c349eda0538736c184d2f3
 tags: ["浩鲸科技","Java","AI工具","ES","深分页","Redis","缓存击穿","缓存雪崩","缓存穿透","分布式锁","线程池","JVM","Flink","高并发"]

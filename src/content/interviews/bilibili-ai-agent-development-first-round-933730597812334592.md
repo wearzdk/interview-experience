@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "AI Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933730597812334592
 tags: ["AI Agent","RAG","LangChain","意图识别","工具调用","记忆系统","手撕算法"]

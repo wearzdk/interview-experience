@@ -4,6 +4,7 @@ company: 航旅纵横
 position: Java后端开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-05-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","系统设计","后端开发"]
 summary: "航旅纵横Java开发岗位二面面经，涵盖自我介绍、项目经验深挖、AI编程工具使用探讨、程序员核心竞争力分析，以及Redis点赞系统与MySQL评论系统设计的场景题，重点考察数据库设计与查询优化能力。"

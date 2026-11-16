@@ -4,6 +4,7 @@ company: 中科通达
 position: Java实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 武汉
 source: 牛客网
 tags: ["Java","集合框架","业务流程设计","压力面试"]

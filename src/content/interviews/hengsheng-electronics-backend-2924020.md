@@ -4,6 +4,7 @@ company: 恒生电子
 position: 后端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/74cd324196e449c8b115e0d46dccc6fb
 tags: ["后端","分布式事务","Spring","MySQL","AI幻觉"]

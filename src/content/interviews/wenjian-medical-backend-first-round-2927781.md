@@ -4,6 +4,7 @@ company: "稳健医疗"
 position: "后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/33c63a1139c64138b4a2b152f816c0e8"
 tags: ["稳健医疗","后端开发","SpringCloud","性能排查","AI Coding","实习转正"]

@@ -4,6 +4,7 @@ company: 小米
 position: Java开发工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["Redis","Java","RAG","线程池","安全"]
 summary: "小米Java一面聚焦Redis分布式锁与缓存治理、CAS和幂等、RAG检索优化、线程池及大模型注入防护，并手撕并发LRU。"

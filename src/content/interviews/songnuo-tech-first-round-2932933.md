@@ -4,6 +4,7 @@ company: "松诺"
 position: "技术岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1662aa93e9104e84a73305f22977f95c
 tags: ["松诺", "技术面", "八股", "笔试题", "项目经验", "HR面"]

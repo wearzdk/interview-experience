@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "抖音开放平台（前端与 Agent 方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f73acafa8a1d4123a3ec0324a446691f
 tags: ["Agent","Vue","性能指标","意图识别","工具调用","有限状态机","实习深挖"]

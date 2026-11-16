@@ -4,6 +4,7 @@ company: "金舟软件"
 position: "安卓开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931974289211785216
 tags: ["安卓开发","性能优化","FFmpeg","音视频","多渠道打包","面试经验"]

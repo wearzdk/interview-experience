@@ -4,6 +4,7 @@ company: 汇川技术
 position: 测试开发工程师
 round: 秋招面试
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["测试开发","自动化测试","Playwright","Agent测试","接口测试","职业规划"]
 summary: "汇川技术秋招测试开发岗面经，整体偏履历沟通、技术问得不深：从自我介绍、实习与研究生项目讲起，重点追问为什么自建 Playwright Web 自动化框架、为什么转到测试开发，以及腾讯云实习里做专家 skill 测试与人群挖掘 skill 的经历，最后是反问环节。"

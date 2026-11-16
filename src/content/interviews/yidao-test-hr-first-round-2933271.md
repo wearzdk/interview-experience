@@ -4,6 +4,7 @@ company: "亿道集团"
 position: "测试工程师"
 round: "一面（HR）"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b7c5d20d71243819f24f63bc4a02390
 tags: ["亿道集团", "测试工程师", "HR面", "校招", "绩点", "深圳"]

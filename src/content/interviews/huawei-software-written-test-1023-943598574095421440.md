@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943598574095421440
 tags: ["华为", "机考", "笔试", "二分答案", "贪心", "优先队列", "模拟"]

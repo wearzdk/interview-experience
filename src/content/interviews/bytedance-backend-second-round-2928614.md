@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发工程师"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 result: "挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0f9c6347a3f1421a876ee2ff2854de06

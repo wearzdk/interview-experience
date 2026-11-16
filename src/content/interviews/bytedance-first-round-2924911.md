@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/309b593e512c48f48aa2098f3b4770e6
 tags: ["字节跳动","Agent","手撕代码","后端"]

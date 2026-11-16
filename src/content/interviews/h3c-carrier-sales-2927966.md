@@ -4,6 +4,7 @@ company: "新华三"
 position: "运营商拓展"
 round: "一面 / 二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bc9d97ada3e24b73892d3ee88174524f"
 tags: ["新华三", "运营商拓展", "售前", "压力面", "跨专业"]

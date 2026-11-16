@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（用户增长）
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-24'
 result: 挂
 source: 牛客网
 tags: ["RabbitMQ","Redis","JVM","联合索引","算法"]

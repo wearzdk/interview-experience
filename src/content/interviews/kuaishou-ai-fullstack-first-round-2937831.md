@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3f34ddb74b254e36a65515dbc4ebde08
 tags: ["快手","AI全栈","前端开发","跨域","CORS","React Router","AI Coding","算法"]

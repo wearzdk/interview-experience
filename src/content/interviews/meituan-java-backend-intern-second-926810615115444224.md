@@ -4,6 +4,7 @@ company: 美团
 position: Java后端
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "并发编程", "线程池"]
 summary: "美团Java后端日常实习二面，集中考察Java集合与并发、MySQL事务和索引、Redis缓存一致性，以及线程池和基础算法。"

@@ -4,6 +4,7 @@ company: 小红书
 position: Product Engineer
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-16'
 source: 牛客网
 tags: ["AI产品","Agent","上下文工程","结构化输出","AI编程"]
 summary: "小红书Product Engineer AI应用方向一面题目，重点考察检索Agent的上下文管理、大模型输出约束，以及使用AI编程工具拆解和实现需求的流程。"

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "软件开发"
 round: "三面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "Kafka", "Elasticsearch", "零拷贝", "PageCache", "压力面", "算法题"]
 summary: "字节跳动软件开发三面复盘，9 月 28 日。开局没有自我介绍，直接让讲一个能体现亮点的项目，随后围绕查询链路重构追问难点与 TP99 提升来源，再深挖 ES 分页漏数据、Kafka 高性能与顺序消费、PageCache 与零拷贝，最后是一道矩阵转置。"

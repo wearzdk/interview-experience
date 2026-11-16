@@ -4,6 +4,7 @@ company: 苏州凌志软件
 position: Java后端开发实习生（对日开发）
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-01'
 result: OC
 base: 苏州
 source: 牛客网

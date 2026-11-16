@@ -4,6 +4,7 @@ company: "汝原"
 position: "海外内容创作"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/531b96454556495e8d0f59f738a9b473
 tags: ["汝原","内容创作","海外运营","TikTok","产品卖点","面试题"]

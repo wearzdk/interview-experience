@@ -4,6 +4,7 @@ company: 传音
 position: 存储驱动工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["存储驱动","Linux内核","MMU","TLB","内存调试"]
 summary: "传音存储驱动工程师一面面经，约 30 分钟。技术问题覆盖 MMU、垃圾回收、TLB、踩内存机制、coredump 是否一定正常、内核内存 panic 怎么调试，以及实习最大难点，另问了家庭情况与英语能力并围绕 AI 聊了一圈。"

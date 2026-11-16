@@ -3,6 +3,7 @@ title: "华曻国科实施工程师面试：驻场适配、SQL 基础与操作�
 company: "华曻国科"
 position: "实施工程师"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/48817e05f41242c7be97ac78d9c4009b
 tags: ["华曻国科","实施工程师","驻场交付","SQL","操作手册","国家电网"]

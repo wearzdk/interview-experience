@@ -4,6 +4,7 @@ company: 全志科技
 position: 嵌入式软件开发（BSP 方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951072350915592192
 tags: ["全志科技","嵌入式","BSP","RTOS","内存管理","CPU缓存","流水线","IMU","秋招"]

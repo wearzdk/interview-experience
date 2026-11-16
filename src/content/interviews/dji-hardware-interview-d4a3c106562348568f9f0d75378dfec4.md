@@ -3,6 +3,7 @@ title: "大疆硬件开发（电源与嵌入式）面试：从电感选型、环
 company: "大疆"
 position: "硬件开发（电源与嵌入式）"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4a3c106562348568f9f0d75378dfec4
 tags: ["大疆","硬件开发","电源设计","DC-DC","嵌入式","校招"]

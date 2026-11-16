@@ -4,6 +4,7 @@ company: "小米"
 position: "安卓开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3119243cdec04fa28a9b0fafee029fcf
 tags: ["小米","安卓开发","校招","项目深挖","AI编程","反转链表"]

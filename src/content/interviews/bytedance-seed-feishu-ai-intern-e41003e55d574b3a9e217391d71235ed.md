@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Seed 飞书 AI 后端实习"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e41003e55d574b3a9e217391d71235ed
 tags: ["字节跳动","飞书","后端实习","RAG","缓存","消息队列","aicoding"]

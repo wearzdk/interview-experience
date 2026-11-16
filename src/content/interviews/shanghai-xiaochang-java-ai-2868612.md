@@ -4,6 +4,7 @@ company: 上海某自研小厂
 position: Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-27'
 base: 上海
 source: 牛客网
 tags: ["Java","AI应用","ReAct","KVCache","并发","缓存","算法"]

@@ -3,6 +3,7 @@ title: "星能玄光微波工程师面经：PPT 讲项目、数据追问与期�
 company: "星能玄光"
 position: "微波工程师"
 date: "2026-10"
+collectedAt: '2026-10-09'
 base: "合肥"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/268aa49d5793428db210c94ca8c7f9e7"

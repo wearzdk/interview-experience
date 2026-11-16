@@ -3,6 +3,7 @@ title: "背了三个月八股还是挂：嵌入式面试考的是定义的「延
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1d262745b9cd40468f0cfea597f46255
 tags: ["嵌入式","八股","volatile","DMA","RTOS","追问链","面试复盘"]

@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式软件开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931474384475213824"
 tags: ["嵌入式","存储固件","中断","DMA","项目复盘"]

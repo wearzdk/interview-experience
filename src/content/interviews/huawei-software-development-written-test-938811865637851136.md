@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938811865637851136
 tags: ["笔试","算法题","枚举","全排列","贪心","复杂度分析"]

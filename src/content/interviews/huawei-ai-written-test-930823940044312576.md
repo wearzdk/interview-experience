@@ -4,6 +4,7 @@ company: "华为"
 position: "AI 算法（机考）"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930823940044312576"
 tags: ["华为","机考","笔试","AI算法","RoPE","CUDA","KV Cache","FlashAttention"]

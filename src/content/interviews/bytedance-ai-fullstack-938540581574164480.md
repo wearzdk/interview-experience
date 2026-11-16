@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI 全栈
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938540581574164480

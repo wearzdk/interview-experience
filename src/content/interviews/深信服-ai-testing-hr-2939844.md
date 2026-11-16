@@ -4,6 +4,7 @@ company: 深信服
 position: AI 测试开发
 round: HR面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2fd5401d66c44ca59fd02fe4583b24df
 tags: ["深信服","HR面","AI测试开发","竞赛","实习","职业规划","offer选择"]

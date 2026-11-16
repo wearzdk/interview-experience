@@ -4,6 +4,7 @@ company: "美团"
 position: "AI后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/886316b114144a8da0ef3438ba028588
 tags: ["美团", "AI后端开发", "Agent", "RAG", "场景路由", "召回率", "营销投放"]

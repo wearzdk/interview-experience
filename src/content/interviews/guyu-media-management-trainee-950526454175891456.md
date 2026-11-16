@@ -4,6 +4,7 @@ company: "谷雨"
 position: "媒介投放（管培生）"
 round: "HR 电话面 / 业务一面 / 业务二面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950526454175891456
 tags: ["谷雨","媒介投放","管培生","电商","转行","简历项目"]

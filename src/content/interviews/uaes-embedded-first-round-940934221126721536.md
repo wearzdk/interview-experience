@@ -4,6 +4,7 @@ company: "联合汽车电子"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940934221126721536"
 tags: ["联合汽车电子","嵌入式软件","FOC","SVPWM","死区补偿","编码器","FreeRTOS","优先级反转"]

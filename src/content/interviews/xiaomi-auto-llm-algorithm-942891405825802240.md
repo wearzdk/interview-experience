@@ -4,6 +4,7 @@ company: "小米汽车"
 position: "大模型算法"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942891405825802240
 tags: ["小米汽车", "大模型算法", "GRPO", "DPO", "强化学习", "Reward", "评测"]

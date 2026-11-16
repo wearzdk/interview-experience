@@ -4,6 +4,7 @@ company: "石头科技"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948163593868996608
 tags: ["石头科技", "嵌入式", "电机控制", "FOC", "逆变器", "PID", "联调"]

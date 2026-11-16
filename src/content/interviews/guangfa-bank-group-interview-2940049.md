@@ -4,6 +4,7 @@ company: 广发银行
 position: 综合类岗位
 round: 群面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9287455bdf144ecfab38937002d1f022
 tags: ["广发银行","银行","群面","无领导小组","辩论","校招","流程"]

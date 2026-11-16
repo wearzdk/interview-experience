@@ -4,6 +4,7 @@ company: "中国移动"
 position: "软件开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/26a19da59c0745ec968d465c93875451
 tags: ["中国移动","软件开发","HR面","秋招","offer选择","轮岗","稳定性"]

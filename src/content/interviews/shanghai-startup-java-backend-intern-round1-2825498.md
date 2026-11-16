@@ -4,6 +4,7 @@ company: 上海某初创公司
 position: Java后端实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 base: 上海
 source: 牛客网
 tags: ["Java基础","JVM内存模型","多线程","MySQL索引","数据库事务","Git"]

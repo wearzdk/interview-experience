@@ -4,6 +4,7 @@ company: "BIGO"
 position: "测试开发"
 round: "三面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932361637028171776
 tags: ["测试开发","UI自动化","Playwright","AI测试","接口自动化","场景题"]

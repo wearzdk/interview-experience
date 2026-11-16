@@ -4,6 +4,7 @@ company: 奥克斯
 position: 嵌入式软件
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2e9f2326a99d45e3ab221192917e1929
 tags: ["笔试","嵌入式","C语言","校招","测评平台"]

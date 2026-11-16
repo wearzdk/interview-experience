@@ -4,6 +4,7 @@ company: "腾讯"
 position: "算法岗"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931014914062184448"
 tags: ["算法", "感知哈希", "RAG", "Redis", "Golang", "智力题"]

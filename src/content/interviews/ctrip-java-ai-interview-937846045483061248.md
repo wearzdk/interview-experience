@@ -4,6 +4,7 @@ company: 携程
 position: Java开发
 round: AI面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937846045483061248
 tags: ["Java","并发","CAS","MySQL","RAG","Redis","排行榜","AI面试"]

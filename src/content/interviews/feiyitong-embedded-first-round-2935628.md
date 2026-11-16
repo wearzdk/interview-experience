@@ -4,6 +4,7 @@ company: "飞易通"
 position: "嵌入式软件工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ffea744497f541339c7427bd40021f46
 tags: ["飞易通","嵌入式","Linux驱动","低功耗","量化","DLA","英伟达","竞赛"]

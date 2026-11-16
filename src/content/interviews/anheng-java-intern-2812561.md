@@ -3,6 +3,7 @@ title: 安恒信息 Java开发实习面经
 company: 安恒信息
 position: Java开发实习
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","Elasticsearch","多线程","分布式事务","RAG"]
 summary: "安恒信息Java开发实习面试题汇总。涉及Arthas指令、Redis内存淘汰与集群模式、Spring初始化、线程池队列、Elasticsearch更新策略、HashMap与TreeMap、CountDownLatch底层、分布式事务XA与TCC、RAG原理及AI辅助编程工具等核心技术点。"

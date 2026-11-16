@@ -4,6 +4,7 @@ company: "滴滴"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["RBAC","MySQL","索引","Redis","滑动窗口","权限设计"]
 summary: "滴滴出行技术后端一面约 55 分钟：先深挖项目背景、个人职责与最大挑战，再考察 RBAC 模型与完整权限校验流程、Redis 数据结构、MySQL 索引与 B+Tree、联合索引最左前缀，最后手撕长度为 K 的无重复子串数量并追问指针移动条件。"

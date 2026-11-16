@@ -4,6 +4,7 @@ company: 快手
 position: Java 后端开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 疑似挂
 source: 牛客网
 tags: ["Java","多线程","缓存一致性","Spring事务","SQL索引优化","Kafka幂等性"]

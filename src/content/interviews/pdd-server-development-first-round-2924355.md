@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/11c5ce9613414e3bb36a3ae08a0df55a
 tags: ["Kafka","幂等","向量数据库","MySQL主从","RAG","智能体","算法题"]

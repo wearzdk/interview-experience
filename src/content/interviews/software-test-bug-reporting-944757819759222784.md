@@ -3,6 +3,7 @@ title: "软件测试面试题：怎么提一个 Bug、提交单里必须写清�
 company: "某公司"
 position: "软件测试工程师"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944757819759222784
 tags: ["软件测试","缺陷管理","Bug提单","JIRA","禅道","严重程度","优先级"]

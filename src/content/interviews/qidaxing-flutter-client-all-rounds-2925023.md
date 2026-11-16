@@ -4,6 +4,7 @@ company: 启达星
 position: Flutter 客户端开发
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7908212d4dc8452ea65a5238753f7c27
 tags: ["Flutter","客户端","HTTPS","哈希表","R8混淆","RAG","动态规划"]

@@ -3,6 +3,7 @@ title: "vivo Agent 开发线下一面：Harness 与 Agent 工程"
 company: "vivo"
 position: "Agent开发"
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932016298563809280

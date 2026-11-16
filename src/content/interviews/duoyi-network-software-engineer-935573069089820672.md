@@ -4,6 +4,7 @@ company: "多益网络"
 position: "软件工程师"
 round: "一面、HR面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935573069089820672
 tags: ["RAG","检索","Agent","HR面","校招"]

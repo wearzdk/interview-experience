@@ -4,6 +4,7 @@ company: "华测导航"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931521651043291136"
 tags: ["C语言","Linux","进程通信","死锁","模型量化"]

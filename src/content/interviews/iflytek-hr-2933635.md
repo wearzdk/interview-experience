@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "校招"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d6a0686abd724e83a387b7ddbadfca28
 tags: ["科大讯飞", "HR面", "自我介绍", "校招", "职业规划"]

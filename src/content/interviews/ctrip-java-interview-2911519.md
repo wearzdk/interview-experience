@@ -3,6 +3,7 @@ title: "携程 Java 开发面试：并发集合、异步任务与千万用户排
 company: "携程"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "ConcurrentHashMap", "CompletableFuture", "Redis", "HTTP"]
 summary: "原帖记录自动化面试中的连续追问，涉及并发容器、异步编排、实习协作和排行榜设计。"

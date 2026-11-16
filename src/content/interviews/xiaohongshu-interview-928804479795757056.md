@@ -3,6 +3,7 @@ title: "小红书笔试 小红书9月13日机考笔试题与解析"
 company: "小红书"
 position: "笔试岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 sourceUrl: https://www.nowcoder.com/discuss/928804479795757056
 tags: ["Java", "AI", "缓存", "C++"]
 summary: "小红书笔试岗位面经，整理了原帖中的主要追问，覆盖Java、AI、缓存、C++等主题，适合准备相关岗位面试时参考。"

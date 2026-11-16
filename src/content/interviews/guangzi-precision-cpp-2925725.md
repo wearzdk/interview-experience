@@ -3,6 +3,7 @@ title: "光子精密 C++ 面经：智能指针、vector 扩容与线程同步"
 company: "光子精密"
 position: "C++ 开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b4384c8f2e8846c583cb423c40c87632
 tags: ["光子精密","C++","智能指针","vector","多线程","TCP","八股"]

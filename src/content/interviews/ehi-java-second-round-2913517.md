@@ -4,6 +4,7 @@ company: 一嗨租车
 position: Java开发工程师
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-19'
 source: 牛客网
 tags: ["Java", "Spring", "Redis", "本地缓存", "智力题"]
 summary: "一嗨租车 Java 二面记录，先深挖两段实习的项目难点（智能路由、策略模式），再追问 Spring 注解与单例、海量数据优化和多级缓存的淘汰与多实例一致性，最后是魔方智力题、职业规划和手写 update 语句。"

@@ -4,6 +4,7 @@ company: "货拉拉"
 position: "HR 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ba9f268225864ea79e43ea0771a03a71
 tags: ["货拉拉", "HR实习生", "招聘", "行为面试", "职业规划"]

@@ -4,6 +4,7 @@ company: "中科创达"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944674533917679616
 tags: ["脉脉", "中科创达", "Agent", "Python", "聚簇索引", "幂等", "vibecoding"]

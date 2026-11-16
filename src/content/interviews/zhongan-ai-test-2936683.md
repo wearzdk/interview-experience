@@ -4,6 +4,7 @@ company: "众安信科"
 position: "AI 测试实习生"
 round: "初面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c319d519b99648f28982aff2010116c1
 tags: ["测试实习","AI测试","数据权限","意图识别","性能压测","自动化测试"]

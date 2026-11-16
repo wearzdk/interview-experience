@@ -4,6 +4,7 @@ company: 深势科技
 position: 全栈开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 湖南
 source: 牛客网

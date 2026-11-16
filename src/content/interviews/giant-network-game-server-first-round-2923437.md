@@ -4,6 +4,7 @@ company: "巨人网络"
 position: "游戏服务器开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/908b4ac457ad4503aa0a66f37619b11d"
 tags: ["巨人网络","游戏服务器开发","服务器校验","客户端篡改","数据安全","加密解密","AI工具"]

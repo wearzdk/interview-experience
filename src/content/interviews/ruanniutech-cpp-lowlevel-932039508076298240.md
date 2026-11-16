@@ -3,6 +3,7 @@ title: "软牛科技 C++ 底层开发面经：STL 实现与资源管理"
 company: "软牛科技"
 position: "C++底层开发"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/932039508076298240"
 tags: ["C++","STL","智能指针","内存管理","Qt","网络编程","多线程"]

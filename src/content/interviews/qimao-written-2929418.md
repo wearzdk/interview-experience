@@ -4,6 +4,7 @@ company: "七猫"
 position: "校招"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/52b468275a0d4484a16a8b248cc83099
 tags: ["笔试", "在线测评", "七猫", "校招"]

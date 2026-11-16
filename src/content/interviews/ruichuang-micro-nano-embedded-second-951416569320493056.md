@@ -4,6 +4,7 @@ company: 睿创微纳
 position: 嵌入式软件开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951416569320493056
 tags: ["睿创微纳","嵌入式","TOF测距","激光测距","内存泄漏","需求分析","固件调试","ARM"]

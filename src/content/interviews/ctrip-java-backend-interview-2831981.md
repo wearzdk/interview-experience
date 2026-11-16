@@ -4,6 +4,7 @@ company: 携程
 position: Java后端开发
 round: 一面、二面
 date: '2026-04'
+collectedAt: '2026-04-12'
 source: 牛客网
 tags: ["Java","MySQL","Redis","JVM","线程池"]
 summary: "分享2026年4月携程暑期实习Java后端面试经验。涵盖Java基础、JVM调优、MySQL索引优化、Redis缓存架构及线程池并发编程等核心技术点，并包含面试官对消息队列与大模型应用场景的深度提问，助你高效备战实习招聘。"

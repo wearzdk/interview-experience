@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "并发编程", "算法"]
 summary: "快手后端一面面经，项目深挖占据主要时间，基础题覆盖Java集合与并发、MySQL事务索引、Redis数据结构和缓存问题，手撕合并区间。"

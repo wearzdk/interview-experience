@@ -4,6 +4,7 @@ company: 某具身智能公司
 position: 研发实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2277937b12e6422fb8b6e5ca3b428101
 tags: ["具身智能","实习","Agent","软件工程","AI Native","权限中台","OAuth","产品思维"]

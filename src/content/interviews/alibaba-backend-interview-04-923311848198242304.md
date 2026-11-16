@@ -3,6 +3,7 @@ title: 阿里后端开发面经04
 company: 阿里巴巴
 position: 后端开发工程师
 date: '2025-09'
+collectedAt: '2026-08-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923311848198242304
 tags: ["Java", "异常处理", "HashMap", "ConcurrentHashMap", "Kafka", "分布式"]

@@ -4,6 +4,7 @@ company: 中国平安
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 通过
 source: 牛客网
 tags: ["Java","Redis","JVM","Spring","AQS","AI编程"]

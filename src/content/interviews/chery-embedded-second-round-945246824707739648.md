@@ -4,6 +4,7 @@ company: "奇瑞"
 position: "嵌入式开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945246824707739648
 tags: ["奇瑞","嵌入式开发","启动流程","Bootloader","FreeRTOS","CAN总线","volatile"]

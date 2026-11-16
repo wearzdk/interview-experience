@@ -4,6 +4,7 @@ company: "麒麟软件"
 position: "后端研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dac0e63bf3014df387e37d39c165d813
 tags: ["麒麟软件","后端研发","TCP","Redis","设计模式","延迟队列","Kafka","Agent"]

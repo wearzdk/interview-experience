@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "全栈开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 tags: ["RAG","线程池","Java","HashMap","面试真题"]
 summary: "字节全栈一面面经，时长一小时：前半段从 RAG 的完整链路、向量化到效果评估一路追问，后半段切到线程池参数、拒绝策略与主线程执行策略的取舍，收尾是 Java 值传递、HashMap 遍历删除、String 拼接和 try-finally 中的 return 等基础题。"

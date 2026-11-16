@@ -4,6 +4,7 @@ company: "帆软"
 position: "未注明"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/04a68f45799440b5a2a6fa1de0558e74
 tags: ["帆软","笔试","复杂度分析","时间复杂度","空间复杂度","场景题"]

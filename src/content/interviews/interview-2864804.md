@@ -3,6 +3,7 @@ title: 面筋
 company: 某互联网公司
 position: 全栈开发工程师
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 北京
 source: 牛客网
 tags: ["Java", "MySQL", "微服务", "Spring", "LLM", "算法"]

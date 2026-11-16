@@ -4,6 +4,7 @@ company: 华为OD
 position: Python后端
 round: 多轮面试合集
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932758082130628608
 tags: ["Python","后端开发","机试","KMP","二叉树","项目深挖"]

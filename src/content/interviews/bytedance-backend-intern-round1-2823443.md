@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["MySQL","Redis","TCP-IP","Java","算法","分布式"]
 summary: "字节跳动移动OS部门后端开发实习一面，涵盖MySQL聚簇索引、事务隔离级别、间隙锁、深分页优化，Redis热key与数据结构，TCP三次握手，以及SQL手写和分割回文串回溯算法题，适合Java转Go方向后端求职者备考参考。"

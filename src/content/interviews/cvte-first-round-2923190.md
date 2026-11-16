@@ -4,6 +4,7 @@ company: "CVTE"
 position: "未透露"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/322426c1329d4ddba3ade14943878e0c"

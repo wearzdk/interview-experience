@@ -3,6 +3,7 @@ title: "嵌入式面试体检清单：C 语言、中断、总线、RTOS 与项�
 company: "牛客网用户分享"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934114942691606528
 tags: ["嵌入式", "C语言", "中断", "I2C", "SPI", "FreeRTOS", "设备树", "项目排障"]

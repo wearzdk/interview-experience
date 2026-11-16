@@ -3,6 +3,7 @@ title: "深圳初创小厂后端面经：MongoDB 选型、WebSocket 稳定性与
 company: "深圳初创小厂"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/63f36351402f4e74a9e788a7ad4514bb
 tags: ["深圳", "初创公司", "后端开发", "MongoDB", "Redis", "WebSocket", "重试", "两数之和"]

@@ -3,6 +3,7 @@ title: "上海某公司后端面试：Spring、消息可靠性与秒杀库存"
 company: "某公司"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-16'
 base: "上海"
 source: "牛客网"
 tags: ["Java", "Spring", "Spring Boot", "RabbitMQ", "MySQL", "Redis"]

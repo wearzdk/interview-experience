@@ -4,6 +4,7 @@ company: 美团
 position: AI 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/81c18457e66148f0a62771e3939995b2
 tags: ["Go","内存池","pprof","幂等","上下文压缩"]

@@ -4,6 +4,7 @@ company: "安踏"
 position: "零售管理培训生"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已拿offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940739047079542784"

@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-08'
 source: 牛客网
 tags: ["Agent","RAG","Redis","TCP-IP","数据库分库分表","设计模式"]
 summary: "美团AI后端开发一面面试经验，涵盖Agent循环与RAG知识库架构，考察Redis分布式锁与缓存一致性方案，涉及TCP网络协议、数据库分表设计、SOLID原则及多线程并发场景，并包含海量数据处理算法题。"

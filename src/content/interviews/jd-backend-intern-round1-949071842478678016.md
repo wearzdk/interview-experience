@@ -4,6 +4,7 @@ company: 京东
 position: 后端开发（暑期实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949071842478678016
 tags: ["京东","后端开发","实习","线程池","布隆过滤器","Redis","MySQL","锁"]

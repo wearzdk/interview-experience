@@ -4,6 +4,7 @@ company: "小米"
 position: "通用"
 round: "面试心态"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944962690915602432
 tags: ["小米","面试心态","场景题","压力面","复盘"]

@@ -4,6 +4,7 @@ company: "阿里云"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931372910768377856"
 tags: ["RAG", "AI Agent", "混合检索", "Query改写", "PII脱敏", "向量数据库", "存储"]

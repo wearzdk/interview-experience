@@ -4,6 +4,7 @@ company: "珠海博明视觉"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4f46e181b4ce4d2d90178b8b1463557a
 tags: ["软件测试","测试用例","SQL","接口测试","自动化测试","视觉检测"]

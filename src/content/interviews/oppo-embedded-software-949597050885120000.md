@@ -4,6 +4,7 @@ company: OPPO
 position: 嵌入式软件开发
 round: 一面、二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949597050885120000
 tags: ["OPPO","嵌入式","Linux驱动","SPI","I2C","中断","Cache一致性","U-Boot"]

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "AI Infra（大模型推理）"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930808011218571264"
 tags: ["AI Infra","大模型推理","推测解码","vLLM","KV Cache","FlashAttention","算法题"]

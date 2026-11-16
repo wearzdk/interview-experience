@@ -4,6 +4,7 @@ company: 恒生电子
 position: 维护工程
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2a43969156b54fc39437d0e06a7cfafd
 tags: ["维护工程","实习经历","职业规划","面试流程"]

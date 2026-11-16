@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/87eff7d39f6e46aba6594a5c95e06569
 tags: ["Java","系统设计","短视频","跨团队协作"]

@@ -3,6 +3,7 @@ title: "面试被问到盲区怎么周旋：五类窘境的应对话术"
 company: 通用
 position: 面试方法
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/69c187529b744458a6494fe852341c43
 tags: ["面试技巧","简历追问","盲区","结构化表达","情境题","复盘"]

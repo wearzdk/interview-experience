@@ -4,6 +4,7 @@ company: "文远知行"
 position: "全栈开发实习"
 round: "一二面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 result: "挂"
 source: "牛客网"
 tags: ["SSR","Vue","前端工程化","JWT","Serverless","面试真题"]

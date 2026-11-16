@@ -4,6 +4,7 @@ company: "壁仞科技"
 position: "高性能异构工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["壁仞科技","高性能计算","CUDA","HIP","C++","异构计算","手撕代码"]

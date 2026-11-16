@@ -3,6 +3,7 @@ title: "28 届两次面试记录：Java 后端项目拷打与一场全栈面试"
 company: "未知公司"
 position: "Java 后端"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a83a7636e4894a6f962a265cba38c743
 tags: ["Java后端","布隆过滤器","SQL优化","分布式事务","Redis","JWT","面试复盘"]

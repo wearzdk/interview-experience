@@ -3,6 +3,7 @@ title: "测试面试：脚本自愈怎么避免掩盖真 bug？先划清「修�
 company: 牛客网用户分享
 position: 软件测试面试准备
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940052350863949824
 tags: ["软件测试", "自动化测试", "脚本自愈", "失败重试", "断言", "面试答题"]

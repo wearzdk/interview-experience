@@ -4,6 +4,7 @@ company: 深圳市益普科技
 position: JAVA实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 深圳
 source: 牛客网
 tags: ["Java","MySQL","Redis","RBAC","Git"]

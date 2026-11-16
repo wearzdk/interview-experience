@@ -3,6 +3,7 @@ title: 27届重庆Java小厂面经
 company: 某互联网公司
 position: 软件开发工程师
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: OC
 base: 重庆
 source: 牛客网

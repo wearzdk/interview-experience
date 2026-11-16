@@ -4,6 +4,7 @@ company: 蚂蚁国际
 position: Java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-06'
 result: 挂
 source: 牛客网
 tags: ["Java并发","虚拟线程","JVM","Spring","分布式事务"]

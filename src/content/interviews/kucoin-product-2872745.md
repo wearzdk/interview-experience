@@ -3,6 +3,7 @@ title: "KuCoin平台产品面经（已OC）"
 company: "KuCoin"
 position: "产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "Agent", "用户研究", "项目深挖", "产品经理"]

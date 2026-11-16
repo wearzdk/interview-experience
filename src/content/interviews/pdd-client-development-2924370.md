@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a771acf42d684690a35dc5ba458e2693
 tags: ["客户端开发","TCP","HTTP","C++","智能指针","算法题"]

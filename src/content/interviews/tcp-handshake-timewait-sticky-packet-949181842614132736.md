@@ -3,6 +3,7 @@ title: "TCP 三次追问：两次握手为何不行、TIME_WAIT 在等什么、�
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949181842614132736
 tags: ["TCP","三次握手","TIME_WAIT","粘包","半连接队列","SYN Flood"]

@@ -4,6 +4,7 @@ company: "长安汽车"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935178823157444608
 tags: ["嵌入式","综合面试","职业规划","团队协作","沟通"]

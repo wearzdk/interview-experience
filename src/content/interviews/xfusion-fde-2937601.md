@@ -4,6 +4,7 @@ company: "超聚变"
 position: "FDE（前向部署工程师）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/896e72d04eb14e5e92a845c1922602ff
 tags: ["超聚变", "FDE", "重试", "幂等", "分库分表", "DDD", "压测"]

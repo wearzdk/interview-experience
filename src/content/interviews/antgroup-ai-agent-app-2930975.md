@@ -3,6 +3,7 @@ title: "蚂蚁集团 AI Agent 应用面经：12 道题的回答思路与追问�
 company: "蚂蚁集团"
 position: "AI Agent 应用开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/665333fc21e249579b34fdf3f87c1592
 tags: ["蚂蚁集团", "AI Agent", "面试复盘", "RAG", "MCP", "工具调用", "手撕"]

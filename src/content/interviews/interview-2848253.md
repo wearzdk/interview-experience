@@ -4,6 +4,7 @@ company: 腾讯
 position: 数据分析师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 湖北
 source: 牛客网
 tags: ["Java", "计算机网络", "LLM", "算法", "设计模式"]

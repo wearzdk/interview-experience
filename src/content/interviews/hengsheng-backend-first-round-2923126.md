@@ -4,6 +4,7 @@ company: "恒生"
 position: "后端"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b36cc4c54575402988c0e2b47d2e9966"
 tags: ["恒生","后端","秒杀","Redis","MySQL","索引优化","B+树","项目面"]

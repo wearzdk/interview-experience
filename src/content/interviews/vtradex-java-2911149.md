@@ -3,6 +3,7 @@ title: "唯智信息技术 Java 实习一面：JVM 与业务项目"
 company: "唯智信息技术"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "JVM", "Redis", "Spring"]
 round: "一面"

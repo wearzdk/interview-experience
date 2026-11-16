@@ -3,6 +3,7 @@ title: C++数据库开发面经总结
 company: 多家C++后端方向公司
 position: C++开发工程师
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/898926724425994240
 tags: ["C++","数据库开发","MySQL","面试备考"]

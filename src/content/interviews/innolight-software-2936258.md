@@ -3,6 +3,7 @@ title: "中际旭创软件开发面经：白板画项目结构 + I2C 完整读�
 company: "中际旭创"
 position: "软件开发"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/63642e1d468e460084a876f5ddc52f33"
 tags: ["中际旭创", "软件开发", "嵌入式", "I2C", "白板", "光模块"]

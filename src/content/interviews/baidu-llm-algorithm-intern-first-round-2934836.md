@@ -4,6 +4,7 @@ company: 百度
 position: 大模型算法实习
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43ce725c40d14cbeb5ffaa38972e0c90
 tags: ["百度", "大模型", "SFT", "DPO", "GRPO", "强化学习", "MHA"]

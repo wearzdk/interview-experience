@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发（Go）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fc9cd2f4ef8e44dd865510bb447d1122"
 tags: ["字节跳动","后端开发","Go","GMP调度","垃圾回收","Redis","MySQL","RAG"]

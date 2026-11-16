@@ -3,6 +3,7 @@ title: "智驾新程定位算法：相机标定公式与 RANSAC"
 company: "智驾新程"
 position: "定位算法"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e403303d259f474e88f16320e640aeef
 tags: ["智驾新程","定位算法","标定","C++智能指针","ROS2","RANSAC","手撕代码"]

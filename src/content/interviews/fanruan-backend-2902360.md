@@ -3,6 +3,7 @@ title: "帆软二面 面经"
 company: "帆软"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["MySQL", "Redis", "JVM", "Spring", "并发", "消息队列"]
 summary: "帆软二面 面经，整理面试中涉及的MySQL、Redis、JVM、Spring等重点问题，供求职者准备相关岗位面试时参考。"

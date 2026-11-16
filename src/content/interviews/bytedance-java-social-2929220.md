@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["Java", "ThreadLocal", "并发", "锁", "算法"]
 summary: "字节跳动 Java 后端社招一面，围绕两份工作的离职原因、项目边界、ThreadLocal 实现与线程隔离、Java 本地锁、服务端锁和过期时间，以及一道找重复数的算法题展开。"

@@ -4,6 +4,7 @@ company: "腾讯"
 position: "产品经理"
 round: "群面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 source: 牛客网
 tags: ["产品设计", "实习", "产品经理"]

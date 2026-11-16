@@ -3,6 +3,7 @@ title: "转转全栈面试记录：算法口述与 Java、MySQL 基础"
 company: "转转"
 position: "全栈开发"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["Java", "MySQL", "全栈", "算法"]
 summary: "面试先口述两道算法题，再考察 Java 和 MySQL 基础。原帖主要记录体验与反馈，没有披露具体题干。"

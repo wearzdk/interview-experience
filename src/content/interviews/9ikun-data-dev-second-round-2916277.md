@@ -4,6 +4,7 @@ company: "9ikun"
 position: "数据开发"
 round: "二面"
 date: '2026-08'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["数据开发","湖仓一体","Iceberg","数据治理","DQC","Agent"]
 summary: "9ikun（神秘私募）数据开发二面面经，8 月 10 日：从湖仓一体的选型理由与缺点、数据治理难点，一路追问到分层 DQC 的实现规则、指标口径边界，以及 Agent 项目如何保证分析结果可信。"

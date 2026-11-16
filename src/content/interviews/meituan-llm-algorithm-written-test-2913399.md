@@ -4,6 +4,7 @@ company: 美团
 position: 大模型算法
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","Transformer","RLHF","ViT","操作系统","计算机网络","算法笔试"]
 summary: "美团 9.19 笔试复盘：10 道单选几乎都与 AI 相关，覆盖多 Agent 共享事实、Transformer-XL、ZeRO-3 显存、KMP 与二分比较次数、RLHF 与 PPO、子网掩码和 ViT；编程题为两数相乘后因子数量最大值。"

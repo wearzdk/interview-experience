@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "维护工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1dd0d1d9974e4c14ad256e8aba74159e
 tags: ["维护工程师", "Java", "SQL", "Linux", "RAG", "客户沟通", "职业规划"]

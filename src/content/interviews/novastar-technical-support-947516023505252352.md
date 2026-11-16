@@ -4,6 +4,7 @@ company: "诺瓦星云"
 position: "技术支持"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947516023505252352
 tags: ["诺瓦星云","技术支持","数电模电","职业规划","出差"]

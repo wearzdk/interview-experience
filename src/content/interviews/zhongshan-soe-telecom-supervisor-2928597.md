@@ -4,6 +4,7 @@ company: "中山国企分公司"
 position: "通信监理"
 round: "一面（领导面）"
 date: "2026-10"
+collectedAt: '2026-10-18'
 base: "中山"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c5f90c52c83c41369570925e6b3d0732

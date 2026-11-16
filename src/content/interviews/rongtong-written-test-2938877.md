@@ -4,6 +4,7 @@ company: 中国融通
 position: 校招笔试
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c9c599d4f8b04ba799b374aa18d95554
 tags: ["中国融通","校招","笔试","行测","资料分析","申论作文"]

@@ -4,6 +4,7 @@ company: 博思软件
 position: Python开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Python","数据结构","算法复杂度","操作系统","协程","TCP"]
 summary: "博思软件Python开发二面面经，先拷打项目，再问基础八股。覆盖Python是编译型还是解释型、编译与解释的区别、二叉搜索树与平衡树的时间复杂度、常见排序算法复杂度、协程进程线程的区别与操作系统可见性、HTTP与HTTPS的区别以及TCP和UDP。"

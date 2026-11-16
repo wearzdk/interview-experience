@@ -3,6 +3,7 @@ title: "华盛通 Java 实习生一面：GC、网络、Spring 事务与 RAG 八�
 company: "华盛通"
 position: "Java 实习生"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/45c6d1c751e84ec2b3974ec2e4af9e06
 tags: ["华盛通","Java实习","JVM","JWT","Spring AOP","MySQL索引","线程池","RAG"]

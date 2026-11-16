@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: AI 应用研发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b4b8431d196a4e92b92b2b1b64c9d7d7
 tags: ["Redis","bigkey","hotkey","MySQL","B+树","提示词注入","上下文压缩","Agent"]

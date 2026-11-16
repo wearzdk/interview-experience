@@ -4,6 +4,7 @@ company: 元启视界
 position: Java 开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","HashMap","MySQL","索引优化","Spring","数据库"]
 summary: "元启视界 Java 开发春招一面面经，涵盖 HashMap put 流程、扩容机制、负载因子、ORDER BY + LIMIT 重复数据问题、索引优化等核心考点，并包含实习项目技术难点拷打，适合备战 Java 后端春招的同学参考。"

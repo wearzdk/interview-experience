@@ -4,6 +4,7 @@ company: 华为
 position: 软件开发工程师
 round: 笔试
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932464769020284928
 tags: ["笔试","字符串处理","状态机","BFS","最短路","YANG"]

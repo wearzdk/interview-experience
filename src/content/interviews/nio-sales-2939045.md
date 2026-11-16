@@ -4,6 +4,7 @@ company: 蔚来
 position: 销售顾问
 round: HR终面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8330d5bf3cb84ce5a51ec18ee8fa2c83
 tags: ["蔚来","销售顾问","HR面","行为面试","薪资谈判"]

@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "智能体（Agent）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9348f95402fc4d598b076417a994df0f
 tags: ["蚂蚁集团","智能体","MCP","LangGraph","向量检索","知识图谱","RAG"]

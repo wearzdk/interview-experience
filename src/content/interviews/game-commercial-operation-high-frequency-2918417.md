@@ -3,6 +3,7 @@ title: "游戏商业化运营面试高频题：如何既提流水又不惹反感
 company: "某公司"
 position: "商业化运营"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/66fd34e1b6ce446b9268dc9e0cfa74e4"
 tags: ["商业化运营","游戏运营","付费转化","玩家体验","商城促销","数据分析","面试真题"]

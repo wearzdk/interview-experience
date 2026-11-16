@@ -4,6 +4,7 @@ company: "鼎桥通信"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1488645eb5434cc388ab8b5b44d3ade9
 tags: ["鼎桥","嵌入式","通信","稳定性","测试方案","AI辅助编码","项目管理"]

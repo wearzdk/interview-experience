@@ -3,6 +3,7 @@ title: "希望森兰技术岗面试：15 分钟里重点问了 FreeRTOS 实现�
 company: "希望森兰"
 position: "技术岗"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945259859006472192
 tags: ["希望森兰","技术岗","FreeRTOS","IIC","SPI","嵌入式","校招"]

@@ -4,6 +4,7 @@ company: 龙旗科技
 position: Java实习生
 round: 一面+二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring Boot","微服务","RAG"]
 summary: "龙旗科技Java实习面经，涵盖一面八股文考察及二面项目深挖。涉及Java基础、多线程、Redis缓存机制、MySQL索引优化、Spring Cloud微服务架构、容器化K8s及Agent开发与RAG工作流等核心知识点。"

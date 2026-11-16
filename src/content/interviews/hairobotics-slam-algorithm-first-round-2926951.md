@@ -4,6 +4,7 @@ company: "海柔创新"
 position: "SLAM 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0fabde0c61b54c90af527c51d845437b

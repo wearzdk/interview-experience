@@ -4,6 +4,7 @@ company: 滴滴
 position: AI 应用（Java 后端）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2201dc2f401148b8b314002fc9184f0e
 tags: ["滴滴","Java","AI 应用","DDD","Agent","大模型","秋招"]

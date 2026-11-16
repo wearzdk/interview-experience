@@ -4,6 +4,7 @@ company: "平安科技"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "Spring Boot", "JVM", "RAG", "Agent", "HashMap"]
 summary: "约三十分钟的一面，从 Spring 与内存溢出排查转向 RAG 项目，再追问 HashMap、元空间和垃圾回收。"

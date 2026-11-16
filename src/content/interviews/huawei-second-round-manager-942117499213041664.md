@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发"
 round: "二面、主管面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942117499213041664
 tags: ["华为", "Agent", "LangGraph", "行为面", "职业规划", "手撕"]

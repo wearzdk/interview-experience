@@ -4,6 +4,7 @@ company: 海底捞
 position: AI 工程师（实习）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/17ac832a4f644705a52b007f351bd485
 tags: ["AI工程师","LLM as a judge","Agent评估","DPO","GRPO","bad case","手撕代码"]

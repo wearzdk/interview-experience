@@ -4,6 +4,7 @@ company: 恒生电子
 position: 技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/25b6d9879377450988fe3589b8cfdd6f
 tags: ["AI Coding","代码质量","Agent","职业规划","实习经历"]

@@ -5,6 +5,7 @@ position: "嵌入式软件开发（存储与文件系统方向）"
 round: "三轮技术面+HR面"
 base: "深圳"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931499457365966848"
 tags: ["嵌入式","存储","文件系统","掉电保护","C语言"]

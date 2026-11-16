@@ -4,6 +4,7 @@ company: "通用"
 position: "AI测试"
 round: "面试八股"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945350081010556928
 tags: ["AI测试","测试用例","质量评估","需求覆盖","badcase"]

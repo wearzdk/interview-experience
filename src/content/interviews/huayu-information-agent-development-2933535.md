@@ -4,6 +4,7 @@ company: "华宇信息"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cdf15b93310e40f6936168a93db504c7
 tags: ["Agent开发","MCP","SSE","WebSocket","RAG","沙箱","上下文压缩","Spring"]

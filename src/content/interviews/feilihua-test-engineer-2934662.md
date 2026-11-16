@@ -4,6 +4,7 @@ company: 菲利华
 position: 检测工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5fde1f8b810f4572b961b729d2a99183
 tags: ["检测工程师", "制造业", "校招", "HR面", "反问"]

@@ -4,6 +4,7 @@ company: "龙旗科技"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932357066453188608
 tags: ["嵌入式","嵌入式软件","龙旗科技","二面","实习经历","职业规划"]

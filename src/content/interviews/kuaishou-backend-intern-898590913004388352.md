@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/898590913004388352
 tags: ["Agent","RAG","向量检索","ReAct","线程池"]

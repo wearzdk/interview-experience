@@ -4,6 +4,7 @@ company: 小红书
 position: 增长
 round: 一二面
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9761e83c4c142c2a3bba57b545df113
 tags: ["小红书","增长","Agent","harness","ReAct","大模型"]

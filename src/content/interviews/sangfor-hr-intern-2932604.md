@@ -4,6 +4,7 @@ company: "深信服"
 position: "HR 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9040e5b44cca4c30964633968f9a7104
 tags: ["深信服","HR实习","招聘","面试","到面率","情景题"]

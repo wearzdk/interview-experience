@@ -4,6 +4,7 @@ company: 中科创达（ThunderSoft）
 position: Java 开发工程师
 round: 群面（多对多）
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 未通过
 source: 牛客网
 tags: ["Java基础","高并发","数据库","集合框架","锁与死锁","消息队列"]

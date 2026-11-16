@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（AI方向）
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-27'
 source: 牛客网
 tags: ["Redis分布式锁","Java字符串","MySQL优化","多进程同步"]
 summary: "字节跳动后端AI开发实习生二面面经，涵盖Redis分布式锁工作流程、Java StringBuffer与StringBuilder区别、HashCode原理及MySQL查询优化策略。助你高效备考后端开发核心技术。"

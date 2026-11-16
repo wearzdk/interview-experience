@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI Infra 算法工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9f0d9a86bf34559a918e5446c84c6fc
 tags: ["腾讯","AI Infra","张量并行","集合通信","流水线并行","推理优化","分布式训练"]

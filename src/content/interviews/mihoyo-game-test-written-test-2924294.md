@@ -4,6 +4,7 @@ company: "米哈游"
 position: "游戏测试"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cdf9c46f59584a618750fbe6c0805901
 tags: ["笔试","游戏测试","测试用例","兼容性测试","日志分析","系统设计","秋招"]

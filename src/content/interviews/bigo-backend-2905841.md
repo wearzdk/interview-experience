@@ -4,6 +4,7 @@ company: Bigo
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "并发", "操作系统", "RAG"]
 summary: "Bigo 后端开发一面，覆盖网络、操作系统、MySQL、Redis、Java 并发、RAG 召回和慢 SQL 优化。"

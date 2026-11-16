@@ -4,6 +4,7 @@ company: "CVTE 视源股份"
 position: "应用开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/56b7d880e1f74f70bb0a254564c4bec1
 tags: ["CVTE","应用开发","LangGraph","Agent","Redis","设计模式","线程池","Java"]

@@ -4,6 +4,7 @@ company: "帆软"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940584969087340544
 tags: ["帆软","后端开发","Spring","单例模式","volatile","HashMap","CAS","数据库范式"]

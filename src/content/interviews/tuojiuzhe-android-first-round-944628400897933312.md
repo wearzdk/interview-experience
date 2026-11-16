@@ -4,6 +4,7 @@ company: "拓久柘电子科技"
 position: "Android 系统开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944628400897933312
 tags: ["拓久柘", "Android", "系统开发", "Framework", "点击事件", "开机流程", "NFC", "驱动移植"]

@@ -4,6 +4,7 @@ company: 诺瓦星云
 position: 技术支持工程师
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3470c3b9fdba44edb7b386042940d683
 tags: ["诺瓦星云","技术支持","终面","全国出差","实习深挖","薪资意向"]

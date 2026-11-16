@@ -4,6 +4,7 @@ company: 小红书
 position: Product Engineer（AI 与全栈方向）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939146811707506688
 tags: ["全栈开发","Node.js","MySQL","RAG","AI工作流","系统设计","秒杀","手撕代码"]

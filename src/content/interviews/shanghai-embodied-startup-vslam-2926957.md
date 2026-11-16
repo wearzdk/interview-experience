@@ -4,6 +4,7 @@ company: "上海某初创具身公司"
 position: "VSLAM 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/94909b3426554db1819a080dd65eafed

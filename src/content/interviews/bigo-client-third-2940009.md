@@ -4,6 +4,7 @@ company: BIGO
 position: 客户端开发（Android）
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1859a59f0bf94286b02ae93c3787e786
 tags: ["BIGO","客户端","三面","HR面","AIGC","RAG","状态机","跨团队协作","客户端指标","CSDN","薪酬"]

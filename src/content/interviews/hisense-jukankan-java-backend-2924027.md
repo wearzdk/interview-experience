@@ -4,6 +4,7 @@ company: 海信聚好看
 position: Java后端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d85c761c1e93484d9bdde8037807b11d
 tags: ["AI Agent","Redis","限流","JVM","ThreadLocal"]

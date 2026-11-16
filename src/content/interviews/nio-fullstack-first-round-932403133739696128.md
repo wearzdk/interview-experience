@@ -4,6 +4,7 @@ company: 蔚来
 position: 全栈开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932403133739696128
 tags: ["全栈开发","场景设计","缺陷检测","计算机视觉","数据集划分"]

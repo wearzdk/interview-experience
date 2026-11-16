@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/88e22e99028942bcbac1ed57395f2e60
 tags: ["前端", "React", "Electron", "Go", "Agent", "算法"]

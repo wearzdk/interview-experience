@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0f97ac1022d146a094a252ed64fa23ca
 tags: ["百度", "后端开发", "二面", "HTTPS", "TLS握手", "HTTP2", "多路复用", "AI编程工具"]

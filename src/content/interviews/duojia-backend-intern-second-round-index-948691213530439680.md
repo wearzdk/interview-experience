@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发（实习）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948691213530439680
 tags: ["MySQL","索引失效","执行计划","联合索引","ICP","后端实习"]

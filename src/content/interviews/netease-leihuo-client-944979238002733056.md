@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "游戏客户端"
 round: "一轮 B 面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944979238002733056
 tags: ["网易雷火","游戏客户端","操作系统","共享内存","mmap","虚拟内存","B+树"]

@@ -4,6 +4,7 @@ company: 字节跳动（豆包）
 position: 客户端开发（Android）
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Android","客户端","Activity生命周期","事件分发","内存泄漏","Agent工程化","算法"]
 summary: "字节豆包团队客户端一面面经，9月22日、时长88分钟。两道编码题（带parent指针的二叉树最近公共祖先、含ab子序列的子序列数量取模），随后是业务链路、Skill深挖与Agent工程化追问，最后是Activity生命周期、内存泄漏等客户端基础。"

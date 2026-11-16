@@ -4,6 +4,7 @@ company: 百度
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 tags: ["Java", "JVM", "MySQL", "Redis", "GC"]
 summary: "百度后端一面面经，重点考察 Java 锁与 synchronized、垃圾回收器及调优、MySQL 索引和日志、MVCC、事务隔离及 Redis 持久化。"

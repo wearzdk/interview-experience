@@ -4,6 +4,7 @@ company: "海能达"
 position: "基带硬件工程师"
 round: "一面+技术面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6784124e02b9464ab90458beb0cba019"
 tags: ["海能达","基带硬件","秋招","传感器选型","PCB","SPI","IIC","UART"]

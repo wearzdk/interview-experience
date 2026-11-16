@@ -4,6 +4,7 @@ company: 拼多多
 position: 软件开发工程师
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932094533007867904
 tags: ["笔试","算法","前缀和","二分答案","模拟"]

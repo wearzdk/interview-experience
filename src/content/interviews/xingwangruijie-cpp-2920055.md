@@ -4,6 +4,7 @@ company: "星网锐捷"
 position: "C++ 开发工程师"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["C语言","笔试","Linux","TCP","数据结构"]
 summary: "星网锐捷 C/C++ 岗笔试：9 月 29 日，25 道单选加 2 道编程题，选择题集中在 Linux 常用指令、堆与栈、TCP 网络和 IP 地址，编程题其中一道是经典的「烧饼问题」。"

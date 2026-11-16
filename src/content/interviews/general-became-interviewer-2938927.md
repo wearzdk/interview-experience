@@ -4,6 +4,7 @@ company: 通用
 position: 面试准备
 round: 面试官视角
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c34a0116ff564fdeb190c89fa76eb688
 tags: ["面试准备","面试官视角","实习生","岗位匹配","反问"]

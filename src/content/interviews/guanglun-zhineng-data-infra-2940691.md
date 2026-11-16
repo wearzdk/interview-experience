@@ -4,6 +4,7 @@ company: 光轮智能
 position: 数据平台开发（Data Infra）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dca3343f2af0456fb5f1553a022d3d09
 tags: ["光轮智能","Data Infra","Iceberg","数仓分层","数据倾斜","Spark","DQC"]

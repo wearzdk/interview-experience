@@ -4,6 +4,7 @@ company: 精智达
 position: 测试开发
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/30ba027aecc747209a4e35cf327addfe
 tags: ["精智达","测试开发","HR面","职业规划","AI测试","城市选择"]

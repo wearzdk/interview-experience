@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/51cd1f865629448fb15baa44974a3536"
 tags: ["腾讯","WXG","后台开发","拓扑排序","字符串解析","幂等","分布式锁","single-flight","MongoDB","CodingAgent","上下文压缩"]

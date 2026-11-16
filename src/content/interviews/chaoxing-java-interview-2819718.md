@@ -4,6 +4,7 @@ company: 超星
 position: Java工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 已OC
 source: 牛客网
 tags: ["Java","MySQL","Spring","JVM","MVC"]

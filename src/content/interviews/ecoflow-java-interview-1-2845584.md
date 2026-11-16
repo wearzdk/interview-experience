@@ -4,6 +4,7 @@ company: 正浩创新
 position: Java 开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-30'
 result: 凉经
 source: 牛客网
 tags: ["Redis","gRPC","MySQL","JVM","并发编程"]

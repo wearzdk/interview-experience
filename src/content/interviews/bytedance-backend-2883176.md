@@ -3,6 +3,7 @@ title: "字节跳动 后端开发（27届秋招提前批）一面完整面经"
 company: "字节"
 position: "Java后端开发工程师"
 date: '2026-01'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Spring","并发","计算机网络"]
 summary: "字节Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、Spring等考点，整理了面试流程与高频问题。"

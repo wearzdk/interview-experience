@@ -4,6 +4,7 @@ company: 爱诗科技
 position: AI 全栈
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cc97934bd9fd44f895ee638619cef44c
 tags: ["爱诗科技","AI全栈","秋招","限流","Redis","令牌桶","HashMap","链表"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "搜广推引擎架构工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935858952644939776
 tags: ["搜广推","HNSW","Agent","TCP","算法"]

@@ -3,6 +3,7 @@ title: "美团语音面试公开帖整理：项目、网络与系统设计"
 company: "美团"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["系统设计", "TCP", "RAG"]
 summary: "根据多份公开帖汇总的面试流程与考点，包含语音问答、项目追问和系统设计。"

@@ -5,6 +5,7 @@ position: 嵌入式软件
 round: 一面二面
 base: 深圳
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947059676875612160
 tags: ["嵌入式", "C语言", "云台", "姿态解算", "图像链路", "DMA"]

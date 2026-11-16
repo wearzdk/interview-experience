@@ -4,6 +4,7 @@ company: 华为OD
 position: Java开发
 round: 机考+资格面+两轮技术面+主管面
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 tags: ["Java", "机考", "项目经验", "算法", "主管面"]
 summary: "华为OD Java岗位完整流程面经，覆盖三题机考、资格面、Java基础与项目技术面、LeetCode 17手撕题以及主管面综合素质考察。"

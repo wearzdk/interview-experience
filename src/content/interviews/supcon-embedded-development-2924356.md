@@ -3,6 +3,7 @@ title: "中控技术嵌入式开发（系统软件）面经：FreeRTOS 任务设
 company: "中控技术"
 position: "嵌入式开发（系统软件）"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e9274bdd5bca4d5187533ba06e6a1763
 tags: ["嵌入式","FreeRTOS","Modbus","任务调度","驱动开发","Linux"]

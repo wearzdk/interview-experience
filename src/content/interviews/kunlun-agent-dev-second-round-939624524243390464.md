@@ -4,6 +4,7 @@ company: "昆仑万维"
 position: "AI Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939624524243390464
 tags: ["Agent","行程规划","RAG","推荐系统","双塔模型","手撕","校招"]

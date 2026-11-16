@@ -3,6 +3,7 @@ title: "荣耀数据开发工程师面经：数仓分层、数据倾斜与学习
 company: "荣耀"
 position: "数据开发工程师"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f591a459b65417b9f226b93af6a444b
 tags: ["荣耀","数据开发","数仓分层","数据倾斜","学习方法","跨部门沟通","秋招"]

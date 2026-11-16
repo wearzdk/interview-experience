@@ -4,6 +4,7 @@ company: 快手
 position: "AI 应用开发"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ae703fcc0bd34d2797702681ada7f2b0
 tags: ["MySQL", "B+树", "索引", "Agent", "模型网关", "上下文管理", "MCP"]

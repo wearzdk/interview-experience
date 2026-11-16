@@ -4,6 +4,7 @@ company: "盛趣、B站、腾讯"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/88e86e58c83147f8a8a917c4f9df3be9
 tags: ["盛趣", "前端开发", "B站", "腾讯", "事件循环", "LRU", "TypeScript"]

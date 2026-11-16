@@ -4,6 +4,7 @@ company: 华银数字科技
 position: 技术岗
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3731078713645fe879351c20532bd02
 tags: ["华银数字科技","笔试","行测","资料分析","图形推理","性格测试"]

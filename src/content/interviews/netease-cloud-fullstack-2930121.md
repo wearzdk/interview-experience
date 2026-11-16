@@ -3,6 +3,7 @@ title: "网易云 全栈面经：缓存三大问题、事务失效与模型幻�
 company: "网易云"
 position: "全栈开发"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/67179ab313c14822b5e1dd6751f169eb
 tags: ["全栈","Redis","缓存击穿","缓存雪崩","缓存穿透","Spring事务","大模型","幻觉"]

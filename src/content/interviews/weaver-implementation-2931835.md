@@ -3,6 +3,7 @@ title: "泛微校招实施岗时间线：HR 电话、主管面、HR 面到 OC"
 company: "泛微"
 position: "实施工程师"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/522e6754b9c34c37ad1ef3f45156cf6e
 tags: ["泛微","实施工程师","校招","时间线","软实力","OC"]

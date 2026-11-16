@@ -4,6 +4,7 @@ company: "多家公司"
 position: "综合"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/da2a97499d474ea78e963de1aad4f705
 tags: ["AI面试","行为面试","宝洁八大问","自我介绍","英语面试","追问","面试流程"]

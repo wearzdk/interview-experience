@@ -4,6 +4,7 @@ company: "西门子"
 position: "AI 工程师"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f7af8d07cca54ecdb86baeabc470e03d
 tags: ["西门子", "AI工程师", "笔试", "行为面试", "OOP", "VibeCoding"]

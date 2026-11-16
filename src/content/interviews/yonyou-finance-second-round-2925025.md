@@ -4,6 +4,7 @@ company: 用友金融
 position: Java 开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ecfd6bb8365848f4a9d4d8f83a11cad9
 tags: ["Java","国密算法","消息队列","索引失效","JVM","全链路日志"]

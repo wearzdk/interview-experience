@@ -4,6 +4,7 @@ company: TCL
 position: C++开发工程师
 round: HR面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2ba6f46061b34fd9998b7d44614b304e
 tags: ["TCL", "C++", "HR面", "校招", "嵌入式"]

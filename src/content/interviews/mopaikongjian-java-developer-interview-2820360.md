@@ -3,6 +3,7 @@ title: 摩派空间Java开发面经
 company: 摩派空间
 position: Java开发
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","集合","MySQL","数据库索引","消息队列"]
 summary: "摩派空间Java开发面经。面试内容涵盖项目经验深度挖掘及Java核心八股文，包括集合底层实现、MySQL索引原理、数据库底层机制以及主流消息队列（MQ）种类。面试流程包括笔试与多对一现场面试。"

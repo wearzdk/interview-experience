@@ -4,6 +4,7 @@ company: 古茗
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2f38d09d05df4f61aa39463f69614f29
 tags: ["古茗","前端","JS Bridge","事件循环","重绘重排","跨域","AI Coding"]

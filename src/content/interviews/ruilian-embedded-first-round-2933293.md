@@ -4,6 +4,7 @@ company: "睿联技术"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5c4eb84ec554400ca5ce988d93016a11
 tags: ["睿联", "嵌入式", "一面", "IO多路复用", "同步互斥", "TCP粘包", "RAII", "static", "多态"]

@@ -4,6 +4,7 @@ company: "第四范式"
 position: "C++ 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948167317395927040
 tags: ["第四范式", "C++", "虚函数", "智能指针", "STL", "哈希表", "手撕"]

@@ -4,6 +4,7 @@ company: 巨杉数据库
 position: AI 应用开发实习生
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/01f68f8f23bf4efd97a0b40b064317aa
 tags: ["实习","AI编码","JVM","Redis","MySQL","Spring"]

@@ -4,6 +4,7 @@ company: "CVTE"
 position: "硬件研发"
 round: "一面+HR面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["硬件", "PCB", "IIC", "Boost电路", "示波器", "二极管"]
 summary: "9 月 18 日 CVTE 硬件研发面试，技术面约四五十分钟，问题围绕 PCB 布局、IIC 与 SPI 区别、开漏输出与上拉电阻选择、二极管分类、示波器测纹波和 Boost 升压原理；HR 面约二十几分钟，次日就出结果。"

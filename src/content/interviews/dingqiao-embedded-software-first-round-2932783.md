@@ -4,6 +4,7 @@ company: "鼎桥"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/57bc10cd08a14ad0b93f4439c3a1408d
 tags: ["鼎桥", "嵌入式", "Linux内核", "驱动移植", "设备树", "C++", "TCP"]

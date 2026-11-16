@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3d554c6d99e74b93a673fa9c39e9d113
 tags: ["字节跳动","Agent","动态UI渲染","MCP","Skill","流式渲染","前端性能优化","闭包"]

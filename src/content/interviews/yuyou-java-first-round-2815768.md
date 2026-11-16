@@ -4,6 +4,7 @@ company: 愉游
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","HashMap","并发编程","分布式系统"]
 summary: "愉游Java开发岗位一面面经，面试涵盖Java集合框架（HashMap、ConcurrentHashMap）、Redis缓存设计（雪崩、排行榜、Bitmap签到）、分布式系统逻辑过期与幂等性保障、并发控制（synchronized）及排序算法，适合中高级开发者参考备考。"

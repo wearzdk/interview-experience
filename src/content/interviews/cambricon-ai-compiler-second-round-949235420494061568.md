@@ -4,6 +4,7 @@ company: 寒武纪
 position: AI 编译器开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949235420494061568
 tags: ["寒武纪","AI编译器","ONNX","算子融合","内存复用","tiling","C++"]

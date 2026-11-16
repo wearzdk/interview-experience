@@ -3,6 +3,7 @@ title: "27届华为嵌入式软件线下面凉经：附25场嵌软大厂面经�
 company: "华为"
 position: "嵌入式软件"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938081357211648000"

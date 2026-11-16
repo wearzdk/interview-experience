@@ -4,6 +4,7 @@ company: "国腾量子"
 position: "Android 开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 result: "一面通过"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931882744609533952"

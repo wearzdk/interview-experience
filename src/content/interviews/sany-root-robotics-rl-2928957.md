@@ -4,6 +4,7 @@ company: "三一树根"
 position: "强化学习算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/53d2967fbb8449e7a3589186a15c4df9"
 tags: ["三一树根", "强化学习算法", "Attention", "贝尔曼方程", "交叉熵", "位置编码", "MDP"]

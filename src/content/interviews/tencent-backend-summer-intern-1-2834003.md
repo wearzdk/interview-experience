@@ -4,6 +4,7 @@ company: 腾讯云智
 position: 后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Kafka","并发编程"]
 summary: "腾讯云智后台开发暑期实习一面面经，考察重点包括Java内存模型、JVM垃圾回收机制、线程池核心参数调优、数据库索引优化与事务隔离级别、Redis分布式锁及消息队列Kafka/RabbitMQ的消息丢失与积压处理等后端核心技术。"

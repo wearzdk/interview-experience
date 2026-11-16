@@ -4,6 +4,7 @@ company: "FunPlus"
 position: "测试工程师"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["测试理论", "等价类", "边界值", "Linux", "Redis", "软链接"]
 summary: "9 月 19 日 FunPlus 测试工程师笔试，15 道单选加 5 道不定项、2 道填空、2 道问答。考点集中在回归测试、冒烟测试、边界值、等价类、判定表法等测试理论，以及 free 命令、软硬链接、Redis 和 apk 安装验证。"

@@ -3,6 +3,7 @@ title: "搜狐运营实习面经与心路历程：双非硕的投递到入职复
 company: 搜狐
 position: 运营
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: OC
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/98a8f6ea63ec4b238b7c752ff62f5632

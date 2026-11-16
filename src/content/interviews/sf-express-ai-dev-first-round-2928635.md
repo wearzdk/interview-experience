@@ -4,6 +4,7 @@ company: "顺丰科技"
 position: "AI开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/463a64c7df7e4efaac8c6ad32648b454
 tags: ["顺丰科技", "RAG", "知识库", "Agent", "Workflow", "Docker", "评测"]

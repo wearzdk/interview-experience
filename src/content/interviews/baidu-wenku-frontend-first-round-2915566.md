@@ -4,6 +4,7 @@ company: 百度
 position: 前端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 result: 已过
 source: 牛客网
 tags: ["前端","SSR","webpack","事件循环","性能优化","手写代码"]

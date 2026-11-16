@@ -3,6 +3,7 @@ title: "原粒半导体 AI 高性能算子开发实习面经：SIMD、Reduce 与
 company: 原粒半导体
 position: "AI 高性能算子开发（实习）"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946847510876745728
 tags: ["算子开发", "SIMD", "循环展开", "IEEE754", "PingPong", "性能优化"]

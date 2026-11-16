@@ -4,6 +4,7 @@ company: 美团
 position: AI全栈开发日常实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-14'
 source: 牛客网
 tags: ["AI Agent","MCP","渐进式披露","大模型开发","数据结构"]
 summary: "美团AI全栈开发日常实习一面面经，面试重点考察大模型Agent架构设计、记忆机制（短期/长期记忆）、MCP协议对比及渐进式披露实现。面试包含项目深度拷打、代码演示及LeetCode链表算法题。"

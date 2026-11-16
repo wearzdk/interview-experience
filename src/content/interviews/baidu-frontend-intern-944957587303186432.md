@@ -4,6 +4,7 @@ company: "百度"
 position: "前端开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "已凉"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944957587303186432

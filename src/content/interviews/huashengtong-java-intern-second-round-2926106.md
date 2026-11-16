@@ -4,6 +4,7 @@ company: "华盛通"
 position: "Java 后端（实习）"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fd30324de36044c69ab16437026163d4
 tags: ["华盛通","Java","RAG","序列化","HTTP","SpringMVC","多线程","ThreadLocal","HashMap","MySQL","Spring事务"]

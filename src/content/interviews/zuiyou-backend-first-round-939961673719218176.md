@@ -4,6 +4,7 @@ company: "最右"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939961673719218176
 tags: ["最右","后端开发","秒杀","Lua","Redis","缓存穿透","Feed流","分页","可见性","二叉树","算法"]

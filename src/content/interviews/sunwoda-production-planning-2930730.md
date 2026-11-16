@@ -4,6 +4,7 @@ company: "欣旺达"
 position: "生产计划（PC、MC）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b866e8ddc75d4e60a5620e428c0eadb1
 tags: ["欣旺达", "欣动能源", "生产计划", "PC", "MC", "MRP", "校招"]

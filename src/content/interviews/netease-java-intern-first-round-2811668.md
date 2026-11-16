@@ -4,6 +4,7 @@ company: 网易有道
 position: Java服务端日常实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","并发编程","JVM","Linux","算法"]
 summary: "网易有道Java服务端日常实习一面面经，面试时长50分钟。涵盖Java基础（Integer缓存、Stream与for对比）、JVM内存管理与OOM排查、并发编程（线程池与阻塞）、Linux命令与权限、幂等性实现及扫码登录流程等核心考点。"

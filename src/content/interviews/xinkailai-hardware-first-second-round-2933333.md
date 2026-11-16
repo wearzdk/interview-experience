@@ -4,6 +4,7 @@ company: "新凯来"
 position: "单板硬件开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/be1a0424df024d8e9e669641075d4bfb
 tags: ["新凯来", "硬件开发", "一面", "二面", "PCB", "I2C", "Buck电路", "SPI"]

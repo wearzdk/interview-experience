@@ -4,6 +4,7 @@ company: 快手
 position: 产品经理（实习）
 round: 实习面试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948612140850573312
 tags: ["快手","产品经理","实习","Agent","数据产品","埋点","用户增长","AI产品"]

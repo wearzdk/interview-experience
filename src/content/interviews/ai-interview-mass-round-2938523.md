@@ -4,6 +4,7 @@ company: "多家公司"
 position: "AI 面试"
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5a3a365cf73949d8aa93aed58c2456ce
 tags: ["AI面试","海面","校招流程","行为面试","笔试","面试节奏"]

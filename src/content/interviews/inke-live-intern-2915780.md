@@ -4,6 +4,7 @@ company: 映客直播
 position: Java后端开发（实习）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Redis","MySQL","分布式锁","网络","Lua"]
 summary: "映客直播实习一面面经，一小时里以 Redis 与 MySQL 八股为主：ZSet 用法与 Lua 原子性、消息丢失补偿、URL 到渲染的网络链路、GET 与 POST 的边界、HTTPS、索引取舍与最左前缀、delete 后的空间回收与低选择性字段，还有按钮防抖、分布式锁、排行榜精度等实战设计题。"

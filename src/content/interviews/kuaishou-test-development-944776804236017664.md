@@ -3,6 +3,7 @@ title: "快手测试开发面经合集：四场面试的题单与压测思路"
 company: "快手"
 position: "测试开发"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944776804236017664
 tags: ["快手", "测试开发", "MySQL", "性能测试", "测试用例", "手撕"]

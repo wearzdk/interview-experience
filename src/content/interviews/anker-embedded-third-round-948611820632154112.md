@@ -4,6 +4,7 @@ company: 安克创新
 position: 嵌入式软件开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948611820632154112
 tags: ["安克创新","嵌入式","三面","跨部门协作","职业规划","校招"]

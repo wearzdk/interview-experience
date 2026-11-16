@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "Agent 平台开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947983580246859776
 tags: ["阿里巴巴", "淘天", "Agent", "架构设计", "工具调用", "Prompt注入", "手撕"]

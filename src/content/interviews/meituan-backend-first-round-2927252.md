@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dccc55bdca4a470ba50ebf31b32fc5e5
 tags: ["美团","后端开发","RabbitMQ","幂等","分层存储","多Agent","线程池","MySQL慢查询"]

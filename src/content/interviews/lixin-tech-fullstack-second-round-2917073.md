@@ -4,6 +4,7 @@ company: "力鑫科技"
 position: "全栈开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: "牛客网"
 tags: ["Java","并发编程","SQL优化","数据迁移","RAG","职业规划"]
 summary: "力鑫科技全栈开发二面（9 月 24 日）近 40 问：从绩点排名、实习离职原因，到线程安全对象池与 ConcurrentHashMap、QPS 测算口径、20 秒慢 SQL 排查，最后是 1.6T 数据库上云迁移场景题并围绕带宽与增量位点连环追问。"

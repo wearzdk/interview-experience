@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发（Agent方向）
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["腾讯","社招","Agent","意图识别","上下文工程","KV Cache","可观测性"]
 summary: "腾讯社招二面，围绕 Agent 项目的技术细节逐个追问：项目语言选型与 Go 的 Agent 框架、意图识别的具体实现与准确率如何验证、多意图请求怎么处理、上下文工程与 memory 模块的做法、KV Cache 命中率优化、多轮对话的上下文压缩是同步还是异步、agent 线上部署规模与用户量、全链路可观测性用什么存储、整体效果评测怎么做。"

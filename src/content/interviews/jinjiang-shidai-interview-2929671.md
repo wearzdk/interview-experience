@@ -4,6 +4,7 @@ company: "金匠时代"
 position: "软件开发"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ad3e5f54a3434f458f356d4236788245
 tags: ["校招", "项目介绍", "AI编程", "性格面", "HR面"]

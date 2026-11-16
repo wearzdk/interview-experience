@@ -3,6 +3,7 @@ title: "广州小厂 ai 全栈开发面"
 company: "广州小厂"
 position: "全栈岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 tags: ["Java", "MySQL", "AI", "索引", "全栈"]
 summary: "广州小厂全栈岗位面经，整理了原帖中的主要追问，覆盖Java、MySQL、AI、索引、全栈等主题，适合准备相关岗位面试时参考。"
 ---

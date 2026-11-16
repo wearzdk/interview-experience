@@ -4,6 +4,7 @@ company: "深度求索"
 position: "AI基础设施"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944550924578459648
 tags: ["深度求索","AI基础设施","FlashAttention","CUDA","性能分析","RL","手撕"]

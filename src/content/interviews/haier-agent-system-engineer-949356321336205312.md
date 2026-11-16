@@ -4,6 +4,7 @@ company: 海尔
 position: Agent 系统工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949356321336205312
 tags: ["海尔","Agent","GRPO","DPO","强化学习","多智能体","评测指标"]

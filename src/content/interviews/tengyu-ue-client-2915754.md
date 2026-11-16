@@ -4,6 +4,7 @@ company: 腾娱
 position: UE客户端开发
 round: 一面+二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["UE","图形学","渲染管线","C++","游戏客户端"]
 summary: "腾娱UE客户端开发实习一二面汇总，一面以图形学为主，覆盖渲染管线、VAO/VBO/EBO、深度测试、Phong 与 Blinn-Phong、PBR、Shadow Map、PCF、SSAO、MSAA/SSAA、各向异性过滤与延迟渲染，并追问智能指针、A* 寻路和哈希冲突；二面偏聊天，聊游戏经历、客户端方向、加班和 AI 对初级程序员的影响。"

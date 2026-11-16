@@ -4,6 +4,7 @@ company: "未知公司"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4a6085de368346ab904154e5c0cb9c00
 tags: ["笔试","编程题","算法","奇数","字符串"]

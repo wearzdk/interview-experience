@@ -4,6 +4,7 @@ company: 万丈金数
 position: 服务端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-24'
 base: 广州
 source: 牛客网
 tags: ["Java","MySQL","Spring","Redis","计算机网络","系统设计"]

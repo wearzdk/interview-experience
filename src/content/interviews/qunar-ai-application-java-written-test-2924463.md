@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI应用开发（Java）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9ec70ed08a5b4e53999ed9e11d08961d
 tags: ["笔试","算法","增量更新","操作系统","SQL","Agent","AI编程","Java"]

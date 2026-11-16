@@ -4,6 +4,7 @@ company: "得物"
 position: "Golang 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/aa7b89e25bf14ce686658c043e6087b0"
 tags: ["得物","Golang","内存逃逸","Go Map","Gin","goroutine","Agent","DDS"]

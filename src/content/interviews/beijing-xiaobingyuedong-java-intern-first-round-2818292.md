@@ -4,6 +4,7 @@ company: 北京小冰悦动科技有限公司
 position: Java实习
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过
 base: 北京
 source: 牛客网

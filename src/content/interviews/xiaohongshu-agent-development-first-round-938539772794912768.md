@@ -4,6 +4,7 @@ company: 小红书
 position: Agent 开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938539772794912768
 tags: ["MCP","SSE","Streamable HTTP","记忆管理","Redis","最长递增子序列"]

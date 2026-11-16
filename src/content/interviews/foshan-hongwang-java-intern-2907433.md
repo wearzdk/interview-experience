@@ -3,6 +3,7 @@ title: 佛山宏旺Java实习生面经
 company: 佛山宏旺
 position: Java开发
 date: '2026-06'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "JVM", "MyBatis", "RPC", "SQL"]
 ---

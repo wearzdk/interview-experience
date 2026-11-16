@@ -4,6 +4,7 @@ company: "长虹"
 position: "机器人系统软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/faa6f81e27694aa1b887ccc0370c692d
 tags: ["长虹","机器人","ROS2","DDS","TensorRT","Python","AUTOSAR"]

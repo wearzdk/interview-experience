@@ -4,6 +4,7 @@ company: "阳光雨露"
 position: "画质测评"
 round: "初面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943553006824325120
 tags: ["阳光雨露", "画质测评", "测试", "社招", "ISP", "HDR"]

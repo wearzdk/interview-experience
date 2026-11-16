@@ -4,6 +4,7 @@ company: "未知公司"
 position: "Agent开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939580601693229056
 tags: ["Agent开发","ReAct","Harness","BM25","RAG","RAGAS","幻觉治理"]

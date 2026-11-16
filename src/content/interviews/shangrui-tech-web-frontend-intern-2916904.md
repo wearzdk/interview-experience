@@ -3,6 +3,7 @@ title: "尚睿科技 Web 前端实习面试：从 React 与 Vue 差异问到 HTT
 company: "尚睿科技"
 position: "Web 前端开发（实习）"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["前端","React","Vue","Vite","Webpack","浏览器渲染"]
 summary: "尚睿科技 Web 前端方向实习面试，9 月 21 日：先从实习经历与离职原因切入，再连问 Vue 与 React 的差异、React 18、国际化开发方案、Vite 与 Webpack、虚拟列表、性能测量，最后落在输入 URL 到渲染、DNS 解析与 HTTP 版本差异。"

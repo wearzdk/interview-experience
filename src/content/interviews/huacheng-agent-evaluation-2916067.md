@@ -4,6 +4,7 @@ company: 华橙
 position: Agent评测
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Agent","AI测试","知识库","Skill","大模型评测"]
 summary: "华橙 Agent 评测岗二面，围绕企业知识库建设、Skill 的构建方式与公司内推广效果、新需求下大模型如何一次理解到位展开追问，另有转测试岗的动机与抗压类行为题。面试官最后建议：精简 AI 测试亮点，重点突出量化指标。"

@@ -4,6 +4,7 @@ company: "MetaAPP"
 position: "前端开发"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4e92a9e1204d484096a0ceffcc0c82fa
 tags: ["MetaAPP","前端开发","AI面试","箭头函数","事件委托","内存泄漏","垃圾回收","JavaScript"]

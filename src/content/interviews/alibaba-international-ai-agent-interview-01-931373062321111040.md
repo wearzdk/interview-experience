@@ -4,6 +4,7 @@ company: "阿里国际"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931373062321111040"
 tags: ["AI Agent", "多Agent协作", "记忆系统", "MCP", "工具调用", "上下文管理", "算法题"]

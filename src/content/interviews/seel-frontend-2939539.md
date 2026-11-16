@@ -4,6 +4,7 @@ company: Seel
 position: 前端开发（实习）
 round: "一面、二面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4589730b16724f5f8d20680a766e90ec
 tags: ["Seel","前端","实习","React","useLayoutEffect","事件循环","AI编程"]

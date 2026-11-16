@@ -3,6 +3,7 @@ title: "翻了十几份 AI 面复盘：开场两分钟会被拆开追问，最�
 company: "多家公司"
 position: "AI 面试"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e87ca0f3ca8d449a9b1e7a7fdf99fa76
 tags: ["AI面试","秋招","自我介绍","追问逻辑","期望薪资","加班排班","面试复盘"]

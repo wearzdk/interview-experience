@@ -4,6 +4,7 @@ company: "视源科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940247782533677056

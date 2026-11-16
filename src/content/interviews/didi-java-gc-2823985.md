@@ -3,6 +3,7 @@ title: 滴滴 Java 后端面试：GC机制与垃圾判断方法
 company: 滴滴
 position: Java
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","GC","垃圾回收","可达性分析","JVM","引用计数"]
 summary: "滴滴 Java 后端面试题整理，涵盖 JVM 垃圾回收机制（GC）、引用计数法与可达性分析法判断垃圾对象的原理，以及 GC Roots 的构成（栈引用、静态变量、常量等），适合备战 Java 后端岗位的候选人参考复习。"

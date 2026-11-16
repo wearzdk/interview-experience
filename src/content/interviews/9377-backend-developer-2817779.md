@@ -3,6 +3,7 @@ title: 9377游戏后端开发面经
 company: 9377游戏
 position: 后端开发工程师
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","JVM","分布式"]
 summary: "9377游戏后端开发岗位面经。主要考察内容包括：断点续传实现、OOM排查优化、Excel大文件流式导出、MySQL与Redis数据一致性方案、XXL-JOB分布式任务调度、以及InnoDB存储引擎机制。适合Java后端面试备考。"

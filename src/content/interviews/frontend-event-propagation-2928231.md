@@ -4,6 +4,7 @@ company: "某公司"
 position: "前端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["前端","DOM事件","事件冒泡","stopPropagation","面试复盘"]

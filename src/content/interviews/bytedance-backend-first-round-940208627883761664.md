@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940208627883761664

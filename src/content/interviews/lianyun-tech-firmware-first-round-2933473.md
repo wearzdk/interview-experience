@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "固件研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e685c68290014c6fb715c7ba49c79970
 tags: ["联芸科技", "固件研发", "一面", "Cache", "性能调优", "RTOS", "链表", "芯片"]

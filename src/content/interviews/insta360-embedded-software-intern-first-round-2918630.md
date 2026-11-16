@@ -4,6 +4,7 @@ company: "影石"
 position: "嵌入式软件开发（实习）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["嵌入式", "C语言", "I2C", "SPI", "Linux驱动", "设备树", "中断", "uboot"]
 summary: "影石 BSP 方向嵌入式软件开发实习一面，45 分钟全程八股追问：const、static、volatile 的作用，编译四个过程、内存对齐、I2C 原理与 NACK 和总线拉死排查、SPI 四种模式，以及平台设备总线、字符设备驱动、设备树与中断下半部。"

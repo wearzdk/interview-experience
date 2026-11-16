@@ -4,6 +4,7 @@ company: "小红书"
 position: "PE"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-21'
 source: "牛客网"
 tags: ["Java", "HashMap", "并发", "JVM", "向量检索", "MQ"]
 summary: "小红书 PE 岗一面，50 分钟，前半段围绕实习项目里的混合检索与召回链路，后半段回到 Java 基础，问 HashMap、无保护共享变量、CAS 与 volatile、垃圾回收，以及接口响应变慢的排查思路，手撕 LRU。"

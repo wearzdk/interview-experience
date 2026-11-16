@@ -4,6 +4,7 @@ company: 科大讯飞
 position: 后端开发（Agent 方向）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/745d905b852a4e6a9a236e533fa62995
 tags: ["科大讯飞","Agent","多智能体","Harness","AI Coding","Java","秋招"]

@@ -4,6 +4,7 @@ company: 垣信卫星
 position: "在轨测试"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4adc63d59346472a97349f98180cd6a1
 tags: ["垣信卫星","卫星通信","在轨测试","PRACH","5G NTN","载荷"]

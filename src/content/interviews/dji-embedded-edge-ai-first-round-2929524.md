@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式端侧AI"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8a39c702fbae4bb29e044906d030ec0e
 tags: ["嵌入式", "DSP", "SIMD", "算子优化", "性能分析", "内存泄漏"]

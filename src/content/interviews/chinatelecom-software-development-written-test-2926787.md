@@ -4,6 +4,7 @@ company: "中国电信"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/50a1ea0a56f1497fa417a628cf236bd9
 tags: ["中国电信","笔试","行测","数据结构","计算机网络","操作系统","ACM模式"]

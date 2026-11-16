@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大数据开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cfc607bc67f44807a5783c43d1eaed12
 tags: ["字节跳动", "大数据开发", "Hadoop", "建模", "一面"]

@@ -4,6 +4,7 @@ company: "大疆"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a56df3d71224e149d7d610021978e2c
 tags: ["大疆","笔试","C++","合并有序数组","双指针"]

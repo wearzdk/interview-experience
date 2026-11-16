@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "前端基建"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8352902d1fe04b559be1e7ea9a1243f7
 tags: ["字节跳动","前端基建","性能优化","LCP","TTU","LLM路由","并发控制"]

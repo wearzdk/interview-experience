@@ -4,6 +4,7 @@ company: "文远知行"
 position: "算法工程"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944630571160829952
 tags: ["文远知行", "算法工程", "一面", "C++", "代码纠错", "最短路", "岗位匹配"]

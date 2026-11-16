@@ -4,6 +4,7 @@ company: "虾皮"
 position: "大模型后训练日常实习"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 tags: ["虾皮","大模型后训练","SWE Agent","GRPO","DAPO","信用分配","LoRA"]
 summary: "虾皮大模型后训练日常实习一面二面题目整理：一面从两张训练卡能否放下 7B 模型切入，覆盖显存估算、Qwen2.5 基座选型、SWE Agent 工具与 32K 上下文局限，深挖 NGRPO 选型、不用 DAPO 过滤失败样本组的考量、GRPO 的固有缺点、梯度范数、Reward 停滞排查与 KL 散度崩盘；二面问 VERL 框架取舍、Agent 强化学习的信用分配、数据集来源与处理、OPSD 的 Forward KL 选择以及 LoRA 微调原理。"

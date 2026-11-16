@@ -4,6 +4,7 @@ company: "比特鹰"
 position: "前端开发"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/18f9724142c341709a7c15e09ebeabef
 tags: ["比特鹰","前端开发","HR面","Vue2","Vue3","学习方法","职业规划"]

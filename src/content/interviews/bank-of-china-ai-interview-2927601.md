@@ -4,6 +4,7 @@ company: "中国银行"
 position: "综合岗（省分行及软件中心）"
 round: "AI面试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/54277ef7b81746c19f5649b4ff39d020"
 tags: ["中国银行","AI面试","行为面试","企业文化","视频面试","银行校招"]

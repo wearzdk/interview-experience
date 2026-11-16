@@ -3,6 +3,7 @@ title: 双非本科逆袭大厂后端开发实习Offer复盘
 company: 大厂（实习offer复盘）
 position: 后端开发实习生
 date: '2026-05'
+collectedAt: '2026-07-06'
 result: 已拿offer
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/889915863103459328

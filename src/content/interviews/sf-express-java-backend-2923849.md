@@ -4,6 +4,7 @@ company: 顺丰
 position: Java后端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f69668dcd05a40628dfcb61e0704247a
 tags: ["Java","线程池","Redis","Kafka","Agent","LangGraph"]

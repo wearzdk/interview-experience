@@ -4,6 +4,7 @@ company: 上海银行
 position: Java 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a6d0231c07ee450484c90c7e816cada4
 tags: ["上海银行","Java后端","并发","DDD","Spring","MySQL","CICD","大模型接入"]

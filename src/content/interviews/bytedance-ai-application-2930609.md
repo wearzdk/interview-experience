@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f6c15b4049da496a8214a1234a2045ed
 tags: ["字节跳动", "AI应用开发", "Spring", "AOP", "反射", "MySQL", "幻读"]

@@ -4,6 +4,7 @@ company: 中国电信
 position: 智能云网工程师
 round: 专业面
 date: '2026-10'
+collectedAt: '2026-10-10'
 base: 深圳
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8ee76c8e99ca4f758756524535f51d36

@@ -4,6 +4,7 @@ company: "滴滴"
 position: "实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2be175287d0e4ce8a6f8aad98e3b39c1
 tags: ["滴滴", "实习", "RAG", "LRU", "算法题", "论文"]

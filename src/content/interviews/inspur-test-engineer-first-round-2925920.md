@@ -4,6 +4,7 @@ company: "浪潮"
 position: "测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/df5227c7bc694a84acb92c42831ce7f8
 tags: ["浪潮","测试工程师","测试流程","测试用例生成","结果分析","BMC","BIOS","校招"]

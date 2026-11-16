@@ -3,6 +3,7 @@ title: "卓越教育后端开发面经：索引、Redis 与幂等组件"
 company: "卓越教育"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/84ff04f6ff2c4db2bcb62ee60bd6a784
 tags: ["卓越教育","后端开发","MySQL索引","Redis","幂等设计","AI工具"]

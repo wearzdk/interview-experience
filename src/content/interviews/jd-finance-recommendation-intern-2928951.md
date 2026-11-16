@@ -4,6 +4,7 @@ company: "京东金融"
 position: "推荐算法实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ecc02b93de0643c797cbc516e736fea7"
 tags: ["京东金融", "推荐算法实习", "用户画像", "多级图谱召回", "多目标精排", "大模型"]

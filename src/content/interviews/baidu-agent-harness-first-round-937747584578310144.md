@@ -4,6 +4,7 @@ company: 百度
 position: "Agent Harness（后端）"
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937747584578310144
 tags: ["后端","操作系统","MySQL","索引","性能排查","Agent"]

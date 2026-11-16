@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "嵌入式软件"
 round: "一面 + HR 面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e06a07796fa643ce86bc02624a9bc399
 tags: ["宇视科技","嵌入式","内存管理","中断","AI工具","HR面"]

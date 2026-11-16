@@ -4,6 +4,7 @@ company: "米哈游"
 position: "测试开发"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942593999552905216"
 tags: ["米哈游","测试开发","测试用例","游戏测试","缺陷定位","Unity","Vulkan"]

@@ -4,6 +4,7 @@ company: "昆仑万维"
 position: "多模态算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2b41f626926d4284bf98a5973eabc1ca
 tags: ["昆仑万维", "多模态算法", "TTS", "音频tokenizer", "DPO", "评测"]

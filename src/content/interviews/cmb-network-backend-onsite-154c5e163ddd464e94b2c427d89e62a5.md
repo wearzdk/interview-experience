@@ -4,6 +4,7 @@ company: "招银网络"
 position: "后端开发"
 round: "线下面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/154c5e163ddd464e94b2c427d89e62a5
 tags: ["招银网络","后端开发","类设计","合并有序链表","余额查询","SQL优化","线下面试"]

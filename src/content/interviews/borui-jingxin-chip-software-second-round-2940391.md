@@ -4,6 +4,7 @@ company: "博瑞晶芯"
 position: "芯片软件工程师"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/65b428228b53400ea65cee604610826f
 tags: ["博瑞晶芯", "芯片软件", "ARM", "MMU", "AMBA", "APB", "多核一致性"]

@@ -4,6 +4,7 @@ company: 上海某小厂
 position: Java后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/299bc56dbdd24f009cd2b91cf77ab8d8
 tags: ["Java", "RAG", "Redis", "MySQL", "Linux", "海量数据"]

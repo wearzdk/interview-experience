@@ -4,6 +4,7 @@ company: "零跑汽车"
 position: "中间件开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bba4777797f74cbda74799de11e25fbb"
 tags: ["C++", "STL", "模板", "中间件", "面试复盘"]

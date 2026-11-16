@@ -4,6 +4,7 @@ company: "元戎启行"
 position: "软件工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934397413215731712
 tags: ["C++", "智能指针", "多态", "epoll", "TCP", "操作系统", "手撕代码"]

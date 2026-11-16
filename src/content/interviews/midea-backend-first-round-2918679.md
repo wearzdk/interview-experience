@@ -4,6 +4,7 @@ company: "美的"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "线程池", "MySQL", "MVCC", "Spring Boot", "LoRA", "开源源码"]
 summary: "美的后端开发一面面经，9 月 28 日，约 30 分钟无手撕。考察 Java 线程池原理与参数、InnoDB 锁机制、MVCC 与幻读、脏读与幻读的区别、Spring Boot 自动配置与 Starter，并追问项目最难的点、读源码经历与 LoRA 微调。"

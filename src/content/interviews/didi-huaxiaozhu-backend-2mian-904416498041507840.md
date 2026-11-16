@@ -4,6 +4,7 @@ company: 滴滴（花小猪打车）
 position: 后端开发
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/904416498041507840
 tags: ["AI项目","Code Review","Agent","实习经历"]

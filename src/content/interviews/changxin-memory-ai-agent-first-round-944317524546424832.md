@@ -4,6 +4,7 @@ company: "长鑫存储"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944317524546424832
 tags: ["长鑫存储", "AI Agent", "ReAct", "MCP", "RAG", "Redis", "秒杀"]

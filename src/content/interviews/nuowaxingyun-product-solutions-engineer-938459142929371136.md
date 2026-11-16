@@ -4,6 +4,7 @@ company: 诺瓦星云
 position: 产品与解决方案工程师
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938459142929371136

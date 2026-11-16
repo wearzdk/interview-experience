@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942006786846883840
 tags: ["大模型", "算法", "Transformer", "项目复盘", "手撕"]

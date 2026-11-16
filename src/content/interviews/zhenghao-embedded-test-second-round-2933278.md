@@ -4,6 +4,7 @@ company: "正浩创新"
 position: "嵌入式测试"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0d77f656f6154df4ac2e2c0999808221
 tags: ["正浩创新", "嵌入式测试", "二面", "覆盖率", "Bootloader", "I2C", "SPI", "故障排查"]

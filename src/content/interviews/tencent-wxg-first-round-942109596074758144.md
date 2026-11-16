@@ -5,6 +5,7 @@ position: "微信读书后端"
 round: "一面"
 result: "挂"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942109596074758144
 tags: ["腾讯", "WXG", "大数乘法", "C++", "Agent", "评测", "手撕"]

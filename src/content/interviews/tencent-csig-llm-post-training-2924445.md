@@ -4,6 +4,7 @@ company: "腾讯"
 position: "大模型算法（后训练）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6670c6dd7f654332b933d0c04e9b9631
 tags: ["腾讯","CSIG","大模型","后训练","PPO","GRPO","多模态","量化"]

@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发
 round: 一面+二面+三面+四面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ec74ba645667467092406ddaec624a4c
 tags: ["拼多多","Redis","CAP","消息队列","操作系统","计算机网络","手撕代码","凉经"]

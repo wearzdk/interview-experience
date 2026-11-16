@@ -4,6 +4,7 @@ company: "蔚来"
 position: "大模型算法"
 round: "实习一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/930755708008558592
 tags: ["大模型","Agent","智能座舱","自动驾驶","多模态","RAG","实习面经"]

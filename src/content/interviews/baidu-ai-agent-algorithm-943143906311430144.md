@@ -4,6 +4,7 @@ company: "百度"
 position: "AI 智能体算法"
 round: "一面、二面、三面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943143906311430144
 tags: ["百度","AI智能体","Agent","多模态","评测","JVM","MySQL","Redis"]

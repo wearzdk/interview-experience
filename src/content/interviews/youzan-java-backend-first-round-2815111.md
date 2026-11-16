@@ -4,6 +4,7 @@ company: 有赞
 position: Java后端
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","RocketMQ","MySQL","线程池","Spring"]
 summary: "有赞Java后端一面面经，重点考察长耗时阻塞处理、Redisson分布式锁、分片上传与断点续传、RocketMQ特性、线程池执行流程、MySQL索引优化（联合索引与回表）、CAS ABA问题及Spring IOC/AOP等核心八股。"

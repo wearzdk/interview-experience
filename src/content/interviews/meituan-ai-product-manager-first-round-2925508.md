@@ -4,6 +4,7 @@ company: "美团"
 position: "AI产品经理"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e6631e9a694c46aab0c53d76b529b075
 tags: ["美团","AI产品经理","RAG","向量化","微调","数据库选型"]

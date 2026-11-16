@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: 数据开发（实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c7b1b4486cda4f1a859a39ee157a7424
 tags: ["熙牛医疗","数据开发","数据治理","数仓建模","SQL","Hive","HDFS"]

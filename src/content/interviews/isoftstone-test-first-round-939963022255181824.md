@@ -4,6 +4,7 @@ company: "软通动力"
 position: "测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939963022255181824
 tags: ["软通动力","测试工程师","社招","Web测试","App测试","抓包","JMeter","Selenium","Linux","机器人"]

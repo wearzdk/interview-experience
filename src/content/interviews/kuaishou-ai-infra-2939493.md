@@ -4,6 +4,7 @@ company: 快手
 position: AI Infra
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3a5fdb45523f4e998993245ccb6a8164
 tags: ["快手","AI Infra","C++","操作系统","Linux","多路归并","CAP","体系结构"]

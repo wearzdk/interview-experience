@@ -4,6 +4,7 @@ company: "靖安科技"
 position: "Java后端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","并发编程","MySQL","Redis","MQTT","SSE"]
 summary: "靖安科技一面面经，两位面试官轮流从简历出发连环追问 97 问：Java 基础与集合、synchronized 与线程池、MySQL 索引与事务、Redis 缓存一致性与 Lua 防超卖、MQ 与网络协议、JWT 与会话安全，以及无人机平台的物模型、轨迹插值和知识库 Agent 设计。"

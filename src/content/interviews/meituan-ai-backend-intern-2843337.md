@@ -3,6 +3,7 @@ title: 美团AI后端开发实习面经
 company: 美团
 position: AI后端开发实习生
 date: '2026-04'
+collectedAt: '2026-04-27'
 source: 牛客网
 tags: ["Java","MySQL","Redis","JVM","并发编程"]
 summary: "美团AI后端开发实习面试经验分享。面试覆盖Java线程池与同步机制、悲观锁/乐观锁、JVM垃圾回收与排查、MySQL索引优化与幻读解决、Redis缓存一致性及分布式锁等核心技术，助你备战后端面试。"

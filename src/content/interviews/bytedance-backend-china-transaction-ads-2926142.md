@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/67eb951172c5407290d37294f62723d5
 tags: ["字节跳动","后端开发","并发","幂等","一致性","Kafka","TCP","Java并发","C++","算法"]

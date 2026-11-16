@@ -3,6 +3,7 @@ title: "百度测试开发一面：测试基础、QPS 口径与 Agent 双层循�
 company: 百度
 position: 测试开发
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d3911dfe52ba42cfb0cbe8d20912e804
 tags: ["百度","测试开发","软件测试","测试用例","Linux","Docker","QPS","Agent","Harness","ReAct","评测","最长无重复子串"]

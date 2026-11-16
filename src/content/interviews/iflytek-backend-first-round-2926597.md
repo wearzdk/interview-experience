@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f5d9c82b29a24cac93b72f44b65836ea

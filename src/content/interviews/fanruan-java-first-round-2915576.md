@@ -4,6 +4,7 @@ company: 帆软
 position: Java后端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","单例模式","volatile","类加载","双亲委派","HashMap","快排"]
 summary: "帆软Java后端一面面经。覆盖手写单例与volatile、类加载过程与双亲委派及如何破坏、CPU 100%的定位方法、HashMap结构与resize及并发问题、ConcurrentHashMap、乐观锁、快排退化与优化、摩尔投票及找出1/3的变形题。"

@@ -3,6 +3,7 @@ title: "中广核数字科技岗线下面经：技术面与 HR 面"
 company: "中广核集团"
 position: "数字科技岗"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931693764215603200"
 tags: ["数字科技", "国企面试", "TCP", "HR 面", "线下面试", "秋招"]

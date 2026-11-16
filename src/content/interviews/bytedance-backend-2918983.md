@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "线程池", "CAS", "MySQL", "Redis", "计算机网络", "操作系统"]
 summary: "字节业务中台后端一面面经：开头问优势劣势、秋招进展和怎么学一门技术栈，之后是集中的八股考察——手撕前 K 个高频元素，浏览器输入网址到页面渲染的网络过程、TCP 与 UDP 区别、操作系统调度算法、进程与线程，以及 CAS、InnoDB 事务实现、binlog、redo 与 undo log、Redis 持久化、数据结构与 zset 底层。"

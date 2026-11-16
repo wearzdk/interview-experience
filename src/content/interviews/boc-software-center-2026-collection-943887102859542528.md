@@ -4,6 +4,7 @@ company: "中国银行"
 position: "信息科技岗（软件开发）"
 round: "面试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943887102859542528
 tags: ["中国银行","银行科技岗","软件开发","结构化面试","求职动机","AI落地"]

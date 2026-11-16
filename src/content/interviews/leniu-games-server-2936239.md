@@ -4,6 +4,7 @@ company: "乐牛游戏"
 position: "服务端开发"
 round: "AI面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bfdf32d2729a47b9bf25aec4a76f6bb9"
 tags: ["乐牛游戏", "服务端", "AI面试", "MySQL", "JVM", "秋招"]

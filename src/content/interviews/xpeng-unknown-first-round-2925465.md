@@ -4,6 +4,7 @@ company: "小鹏汽车"
 position: "未知岗位"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8c7c57f0d01a45f2a3c80c4ddbe4a2bf

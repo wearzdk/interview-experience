@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8fe9712ce08f4af79a1829b7ae089f7f
 tags: ["科大讯飞","嵌入式","Unix域套接字","伪终端","双通道","SQLite","AI辅助开发"]

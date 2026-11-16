@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "后端开发"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931982271995793408
 tags: ["SHEIN","Redis","Lua","缓存一致性","库存扣减","RAG","秋招"]

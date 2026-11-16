@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "Java后端"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["Java","笔试","SQL","滑动窗口","动态规划"]
 summary: "恒生电子 9 月 23 日 Java 笔试记录：单选不定项覆盖 Java 基础、数据结构、计网与操作系统，三道编程题分别是长题干 SQL、统计连续三个字符构成 red 的子串个数、以及带半价折扣券的凑数问题。"

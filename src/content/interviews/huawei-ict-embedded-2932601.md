@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/96476c2de53d4c66a5cd1e61b00667bb
 tags: ["华为","ICT","嵌入式","IAP","Modbus","RTOS","手撕代码","面试流程"]

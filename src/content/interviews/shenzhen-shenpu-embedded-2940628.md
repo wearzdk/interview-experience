@@ -4,6 +4,7 @@ company: 深圳深浦电气
 position: 嵌入式软件开发
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c55b274fa78847e3a6f537073e60795d
 tags: ["深圳深浦电气","嵌入式","结构体对齐","FreeRTOS","Linux内核","环形缓冲区","机器视觉","外设"]

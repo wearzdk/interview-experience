@@ -4,6 +4,7 @@ company: "卓望"
 position: "技术岗"
 round: "AI 面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2dcc16b1678d42beac2c7f5270f6ff0c"
 tags: ["卓望", "AI面试", "Java", "Spring", "Redis", "MCP", "XSS", "Agent记忆"]

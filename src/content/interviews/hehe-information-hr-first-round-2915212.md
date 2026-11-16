@@ -4,6 +4,7 @@ company: 合合信息
 position: 技术岗
 round: HR面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["HR面","自我介绍","职业规划","本科就业","实习经历","期望薪资"]

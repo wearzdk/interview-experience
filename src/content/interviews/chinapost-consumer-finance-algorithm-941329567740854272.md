@@ -4,6 +4,7 @@ company: "中邮消费金融"
 position: "算法工程师"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941329567740854272"

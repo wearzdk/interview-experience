@@ -4,6 +4,7 @@ company: "萌力无限"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943101296721121280
 tags: ["萌力无限","AI应用开发","模型网关","视频理解","Docker","K8s","工具调用"]

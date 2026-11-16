@@ -3,6 +3,7 @@ title: "大促压测命中率掉到六成：缓存穿透的定位与四条防线
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949179091897380864
 tags: ["缓存穿透","Redis","缓存雪崩","布隆过滤器","限流","线上排查"]

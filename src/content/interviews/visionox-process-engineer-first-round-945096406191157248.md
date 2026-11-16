@@ -4,6 +4,7 @@ company: 维信诺
 position: 工艺工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945096406191157248
 tags: ["维信诺","OLED","工艺工程师","半导体显示","校招","产线"]

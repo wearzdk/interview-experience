@@ -4,6 +4,7 @@ company: 广州银行
 position: 金融科技培养生
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/edbfa401ee5e4f63b5aab8b10567097e
 tags: ["广州银行","银行笔试","金融科技","K8s","云计算","Java","MySQL"]

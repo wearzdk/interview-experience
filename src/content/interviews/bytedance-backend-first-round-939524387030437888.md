@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939524387030437888
 tags: ["字节跳动","后端","RAG","MySQL慢查询","Spring设计模式","缓存一致性","秒杀"]

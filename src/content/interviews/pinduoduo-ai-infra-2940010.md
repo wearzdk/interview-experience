@@ -3,6 +3,7 @@ title: "拼多多 AI Infra 一面：GPU 存储层次、编译链接与手写内�
 company: 拼多多
 position: AI Infra
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/05a39651ec5f497b973cc8ebd3e2431d
 tags: ["拼多多","AI Infra","GPU","存储层次","编译链接","头文件","vector","内存分配","core dump","内存泄漏","内存分配器","Best-Fit"]

@@ -3,6 +3,7 @@ title: 别把面评面脏了 大厂面评机制与冷却期科普
 company: 互联网大厂
 position: 通用
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931017232677634048
 tags: ["面试经验","面评","字节跳动","秋招","求职"]

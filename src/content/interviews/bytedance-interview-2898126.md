@@ -3,6 +3,7 @@ title: "8.27 字节三面秋招面经"
 company: "字节"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","并发","算法","AI应用","面试经验","后端开发"]
 summary: "字节Java后端开发工程师面试记录，覆盖Java、并发、算法、AI应用等考点，整理了面试流程与高频问题。"

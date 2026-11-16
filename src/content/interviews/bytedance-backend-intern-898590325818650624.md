@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/898590325818650624
 tags: ["向量检索","JVM","SSE","WebSocket","算法"]

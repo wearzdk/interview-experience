@@ -4,6 +4,7 @@ company: "小红书"
 position: "客户端研发"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939300628096876544"
 tags: ["小红书","客户端研发","Android","Flutter","Agent","RAG","Java","算法"]

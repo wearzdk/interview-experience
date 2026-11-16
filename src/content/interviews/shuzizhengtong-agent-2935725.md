@@ -4,6 +4,7 @@ company: 数字政通
 position: "Agent 研发"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e
 tags: ["Agent", "RAG", "LangGraph", "RabbitMQ", "DDS", "数据脱敏"]

@@ -4,6 +4,7 @@ company: "TCL"
 position: "C++开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/39023c44ee4f47499b6e5584635dd367
 tags: ["TCL","C++","知识蒸馏","模型部署","成都","技术面"]

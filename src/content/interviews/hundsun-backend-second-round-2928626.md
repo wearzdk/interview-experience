@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "后端开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/93f208b2751a4512963352bcdd954100
 tags: ["恒生电子", "Agent", "插件化", "MySQL", "SQL优化", "AI Coding"]

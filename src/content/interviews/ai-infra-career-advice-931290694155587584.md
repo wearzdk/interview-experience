@@ -3,6 +3,7 @@ title: "AI Infra 求职劝退贴：面试官建议与个人复盘"
 company: "某互联网大厂"
 position: "AI Infra"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931290694155587584"
 tags: ["AI Infra", "推理引擎", "CUDA", "算子优化", "职业规划", "秋招"]

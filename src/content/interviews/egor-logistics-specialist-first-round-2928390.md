@@ -4,6 +4,7 @@ company: "伊戈尔"
 position: "物流专员"
 round: "初面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/597ffeca768c496d9fc45438259e9911
 tags: ["伊戈尔","物流专员","HR面","校招","秋招"]

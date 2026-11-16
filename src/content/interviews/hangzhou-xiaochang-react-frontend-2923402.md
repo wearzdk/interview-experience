@@ -3,6 +3,7 @@ title: "杭州小厂React前端面试：props与state、受控组件、key与use
 company: "杭州某小厂"
 position: "React前端"
 date: "2026-10"
+collectedAt: '2026-10-09'
 base: "杭州"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b66986b6009745c8ad170f7906c7cc8f"

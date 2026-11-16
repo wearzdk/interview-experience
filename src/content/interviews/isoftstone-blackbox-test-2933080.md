@@ -4,6 +4,7 @@ company: "软通动力"
 position: "黑盒测试"
 round: "初面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c9462343ac45456fb7712211f64fac6f
 tags: ["软通动力","黑盒测试","社招","测试用例","HTTPS","抓包","SQL连接","Linux"]

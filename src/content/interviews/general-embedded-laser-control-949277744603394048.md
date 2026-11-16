@@ -3,6 +3,7 @@ title: "激光控制方向嵌入式面经：联锁保护、看门狗与 Bootload
 company: 通用
 position: 嵌入式软件开发
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949277744603394048
 tags: ["嵌入式","激光控制","联锁","看门狗","Bootloader","FreeRTOS","Cortex-M"]

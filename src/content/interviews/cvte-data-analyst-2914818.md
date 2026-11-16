@@ -3,6 +3,7 @@ title: CVTE 数据分析师面经（含 AI 取数助手设计）
 company: CVTE
 position: 数据分析师
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["数据分析","指标体系","NL2SQL","AI Agent","数据看板","经营分析"]
 summary: "CVTE 数据分析师岗位面经，面试时间 9.21。题目覆盖职业规划、指标口径冲突的处理、经营分析驾驶舱设计、看板加载 20 秒的定位优化，以及自然语言取数助手的设计与验收、幻觉抑制、多 Agent 纠错、AI 写 SQL 的注意事项与业务推广。"

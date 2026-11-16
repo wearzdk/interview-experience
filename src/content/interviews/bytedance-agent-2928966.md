@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/71da2b6d8a7b481bb1fa7eacd075281f"
 tags: ["字节跳动", "Agent算法", "Agent评估", "RAG", "混合召回", "向量检索"]

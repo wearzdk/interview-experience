@@ -4,6 +4,7 @@ company: "烽火通信"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a5c583dbb5ae4a519824a7d1e6bbe6ad
 tags: ["嵌入式","音视频","多路复用","线程模型","职业规划"]

@@ -3,6 +3,7 @@ title: "中科星图维天信后端面经：SingleFlight 选举、脑裂防护�
 company: "中科星图维天信"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3871d10e9786458faf95ad62c680f643
 tags: ["中科星图维天信", "后端开发", "Redis", "Lua", "SingleFlight", "JVM", "MySQL", "并发编程"]

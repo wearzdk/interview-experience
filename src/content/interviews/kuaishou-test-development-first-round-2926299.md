@@ -4,6 +4,7 @@ company: "快手"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5bfececc176f4bc7866d2f8898776e9a
 tags: ["快手","测试开发","计算机网络","OSI七层","TCP三次握手","搜索二维矩阵","AI Coding","校招"]

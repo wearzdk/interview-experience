@@ -4,6 +4,7 @@ company: "龙旗科技"
 position: "组包测试"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/10348fc3232c47c7a829fc0b403d7cc4
 tags: ["龙旗科技","组包测试","测试岗","人事面","项目经历","环境搭建","校招"]

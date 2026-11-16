@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发暑期实习生
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/889660178793046016
 tags: ["工作流引擎","DAG","优惠券","延迟队列","布隆过滤器"]

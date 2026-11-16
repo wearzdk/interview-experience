@@ -4,6 +4,7 @@ company: "浩鲸科技"
 position: "Java 后端（AI 方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["Agent","Skill","MCP","RAG","Spring","Kafka","AI协作"]
 summary: "浩鲸一面 20 问，前半段全在追 AI 落地的实现细节：工具和 Skill 怎么被调用、Skill 里的流程、AI 怎么获得 Skill、Skill 与 MCP 的区别、向量库与 RAG 场景；后半段回到 Spring Bean 生命周期、AOP/IOC、Kafka 结构与 MQ 选型。"

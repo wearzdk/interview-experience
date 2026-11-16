@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发（实习）"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9fee84e8e3ea411b992c19272ec6c912
 tags: ["百度","后端开发","实习面试","数据库备份","逻辑备份","物理备份","自适应分块","死锁排查","B+树","LSM树","Redis持久化","算法"]

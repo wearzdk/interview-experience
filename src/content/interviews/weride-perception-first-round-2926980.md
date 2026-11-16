@@ -4,6 +4,7 @@ company: "文远知行"
 position: "感知算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "一面已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/27b21d9d266a4a94bec4f39a2a830874

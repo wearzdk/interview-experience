@@ -3,6 +3,7 @@ title: "小厂智能体应用开发面经：PDF 切块、大模型 JSON 输出�
 company: "某互联网公司"
 position: "AI应用开发（智能体方向）"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "凉经"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d78471d0602c46d89795594f12a8995d"

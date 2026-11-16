@@ -3,6 +3,7 @@ title: "双非本硕自学嵌入式拿下 7 个 offer：秋招踩坑复盘"
 company: "某科技公司"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931555803880783872
 tags: ["嵌入式","秋招","八股文","FreeRTOS","DMA","面试复盘"]

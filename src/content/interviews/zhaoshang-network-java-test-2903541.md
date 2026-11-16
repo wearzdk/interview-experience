@@ -3,6 +3,7 @@ title: "招银网络科技笔试"
 company: "招银网络科技"
 position: "Java开发笔试"
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "算法", "背包问题"]
 summary: "招银网络科技Java笔试记录，包含Java、MySQL、Redis和模型训练相关选择题，以及Java补全、01背包和代码输出题。"

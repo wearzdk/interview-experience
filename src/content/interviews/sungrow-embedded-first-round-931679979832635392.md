@@ -4,6 +4,7 @@ company: "阳光电源"
 position: "嵌入式软件开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931679979832635392
 tags: ["嵌入式","C语言","野指针","STM32","SPI","MQTT"]

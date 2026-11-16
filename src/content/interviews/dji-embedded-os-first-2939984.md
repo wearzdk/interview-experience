@@ -4,6 +4,7 @@ company: 大疆
 position: 嵌入式软件（空间智能 OS）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/012343ffb14e4a0485c35f6304588bfd
 tags: ["大疆","嵌入式","Linux","RTOS","设备树","驱动","mmap","页缓存","中断","DMA","共享内存","性能排查","AI工具"]

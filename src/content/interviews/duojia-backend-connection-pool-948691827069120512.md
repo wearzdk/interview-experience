@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 面试复盘
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948691827069120512
 tags: ["连接池","HikariCP","长事务","连接泄漏","线程池","后端面试"]

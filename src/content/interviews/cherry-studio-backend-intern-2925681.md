@@ -3,6 +3,7 @@ title: "cherry studio后端开发实习生面经"
 company: "Cherry Studio"
 position: "后端开发实习生"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8e624bb1b5a04d4ab1718bffccf37fcb
 tags: ["Cherry Studio","RBAC","权限设计","Node.js","Outbox","LLM","结构化输出"]

@@ -4,6 +4,7 @@ company: BIGO
 position: 后台开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["RabbitMQ", "MySQL", "Redis", "Spring", "计算机网络"]
 summary: "BIGO后台开发一面面经，考察RabbitMQ可靠性、MySQL与Redis、Spring、JVM、网络协议、线程池和三数之和。"

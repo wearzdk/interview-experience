@@ -4,6 +4,7 @@ company: 阿里健康
 position: "Agent 算法工程师（实习）"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4543b76d09404ce7aa4530f448fb7715
 tags: ["Agent", "打标", "推荐排序", "DCN-V2", "BeamSearch", "多模态", "算法题"]

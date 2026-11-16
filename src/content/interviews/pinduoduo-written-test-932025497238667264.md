@@ -4,6 +4,7 @@ company: 拼多多
 position: 软件开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932025497238667264
 tags: ["拼多多","笔试","算法","动态规划","二维前缀和","二分","分块","C++"]

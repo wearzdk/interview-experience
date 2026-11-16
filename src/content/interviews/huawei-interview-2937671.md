@@ -4,6 +4,7 @@ company: 华为
 position: "未注明"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/03f930fd14714e23a4247d2c087b2ad2
 tags: ["华为","秋招","二面","实习项目","手撕代码","字符串加法"]

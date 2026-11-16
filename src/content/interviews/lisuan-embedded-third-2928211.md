@@ -4,6 +4,7 @@ company: "砺算科技"
 position: "嵌入式软件工程师"
 round: "三面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "已OC"
 source: "牛客网"
 tags: ["砺算科技","嵌入式","CPU Cache","稀疏矩阵","位运算","手撕代码"]

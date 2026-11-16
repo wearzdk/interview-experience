@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI产品经理"
 round: "二面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "商业化", "产品设计", "用户研究", "产品经理"]

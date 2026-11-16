@@ -4,6 +4,7 @@ company: "快手"
 position: "测试开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e86661727baa4505ae617f43a632f3de
 tags: ["测试开发", "项目深挖", "测试思维", "AI Coding", "Diff"]

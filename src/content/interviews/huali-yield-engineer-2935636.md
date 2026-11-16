@@ -4,6 +4,7 @@ company: "上海华力"
 position: "良率工程师"
 round: "混合面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9cb9a2399f424a1194da0e5e2852535b
 tags: ["上海华力","良率工程师","半导体","晶圆厂","倒班","校招"]

@@ -4,6 +4,7 @@ company: "映客"
 position: "后台开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bfc42626374c48d3b904cddf8956b24e
 tags: ["映客", "后台开发", "MySQL", "索引", "Redis", "Kafka", "幂等"]

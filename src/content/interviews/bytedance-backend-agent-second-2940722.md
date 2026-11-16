@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（Agent 方向）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/41d9a80535a0460bb8967a4ff0d1384b
 tags: ["字节跳动","Agent","Ontology","系统设计","延迟任务","Transformer","多头注意力","组合总和"]

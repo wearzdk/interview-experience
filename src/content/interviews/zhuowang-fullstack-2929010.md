@@ -4,6 +4,7 @@ company: "卓望"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/970ab759862745f4a7dd693ee69f0d66"
 tags: ["卓望", "全栈开发", "Java", "Spring", "并发编程", "Vue", "定时任务"]

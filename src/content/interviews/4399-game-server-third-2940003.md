@@ -4,6 +4,7 @@ company: "4399"
 position: 游戏服务器开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c67855ab26044aba864c02bccab79f44
 tags: ["4399","游戏服务器","三面","产品面","游戏行业","团队协作","职业规划","AI工具"]

@@ -3,6 +3,7 @@ title: "宁波欧达光电信息管培生面经：AI 降本、冷热分层与状
 company: "宁波欧达光电"
 position: "信息管培生"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9bba727848d447f68cddcb5acee953bf
 tags: ["宁波欧达光电", "信息管培生", "AI面试系统", "Redis", "MongoDB", "RAG", "MQ", "状态机"]

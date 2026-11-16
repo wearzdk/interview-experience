@@ -4,6 +4,7 @@ company: 某硬件出海公司
 position: 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950498468508729344
 tags: ["硬件出海","后端","英文面试","字节实习","AI协作","需求复盘","技术沉淀","重构"]

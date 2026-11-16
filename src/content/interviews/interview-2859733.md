@@ -3,6 +3,7 @@ title: 腾讯后台开发凉经
 company: 腾讯
 position: 软件开发实习生
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: OC
 base: 江苏
 source: 牛客网

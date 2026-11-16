@@ -4,6 +4,7 @@ company: "华讯网络"
 position: "技术服务、网络工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["网络工程","OSI","TCP","OSPF","BGP","VLAN","STP"]
 summary: "华讯网络技术服务/网络工程师一面：为什么来南方、绩点与四六级、OSI 与 TCP/IP 每层内容、TCP 三次握手、OSPF 与 BGP 了解到什么程度、VLAN 与 STP；面试官明确说理论概念优先，没问具体命令行与自动化。"

@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后端开发"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931015245965852672"
 tags: ["后端", "HashMap", "并发编程", "Golang", "系统设计", "AI协同开发"]

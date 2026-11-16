@@ -3,6 +3,7 @@ title: "吉比特游戏测试面试：测试流程、缺陷沟通与 AI 在测�
 company: "吉比特"
 position: "游戏测试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4b2e76e90abf42f3a6c2a094692c45b6
 tags: ["吉比特","游戏测试","测试用例","缺陷管理","自动化测试","大模型"]

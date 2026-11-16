@@ -4,6 +4,7 @@ company: 中电信翼康科技有限公司
 position: Java
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 base: 济南
 source: 牛客网
 tags: ["Java","MySQL","Redis","数据库索引","SQL"]

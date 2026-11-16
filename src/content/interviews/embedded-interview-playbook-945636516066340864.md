@@ -4,6 +4,7 @@ company: "通用"
 position: "嵌入式软件开发"
 round: "面试方法"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945636516066340864
 tags: ["嵌入式","FreeRTOS","外设驱动","面试方法","高频题","项目深挖"]

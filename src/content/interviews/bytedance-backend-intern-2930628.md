@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e16471db2fb044a587d358dd071a6f90
 tags: ["字节跳动", "后端实习", "HashMap", "Kafka", "Redis", "缓存一致性", "Lua"]

@@ -4,6 +4,7 @@ company: "通用"
 position: "AI测试"
 round: "面试八股"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945352331988566016
 tags: ["AI测试","大模型测试","非确定性","评测指标","测试策略"]

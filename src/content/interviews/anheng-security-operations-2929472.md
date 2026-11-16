@@ -4,6 +4,7 @@ company: "安恒信息"
 position: "安全运营"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/39f8a06130624c4aaeeaf8135cc73b75
 tags: ["安全运营", "项目深挖", "技术栈", "校招", "AI数字人"]

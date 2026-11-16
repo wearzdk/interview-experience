@@ -4,6 +4,7 @@ company: 美团
 position: Agent产品经理实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-16'
 result: 凉经
 source: 牛客网
 tags: ["AI产品","Agent","Vibe Coding","AI编程","Skill"]

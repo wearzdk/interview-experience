@@ -3,6 +3,7 @@ title: 阿里Java后端开发面经01
 company: 阿里巴巴
 position: Java后端开发工程师
 date: '2026-06'
+collectedAt: '2026-08-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923310928014082048
 tags: ["Java", "JVM", "并发编程", "分库分表", "分布式事务", "秒杀系统"]

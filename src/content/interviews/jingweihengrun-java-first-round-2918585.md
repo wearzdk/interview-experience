@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "Java后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "Kafka", "线程池", "MySQL", "线上排查", "并发"]
 summary: "经纬恒润 Java 秋招一面 28 分钟无手撕：ConcurrentHashMap 的 get 是否加锁、联合索引、Kafka 可靠性与重复消费、rebalance 成因、线程池与拒绝策略、消息堆积与扩消费者 TPS 不涨的排查。"

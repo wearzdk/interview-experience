@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60de6801d0ff4faf9d5a0fb773e16c46
 tags: ["网易云音乐","全栈开发","RAG","LangGraph","多Agent","索引优化","SDD"]

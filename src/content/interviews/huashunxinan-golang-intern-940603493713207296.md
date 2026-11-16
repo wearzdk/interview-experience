@@ -4,6 +4,7 @@ company: "华顺信安"
 position: "Golang 开发（实习）"
 round: "笔试+面试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940603493713207296
 tags: ["华顺信安","Golang","Gin","微服务","etcd","Docker","AI编程","B+树"]

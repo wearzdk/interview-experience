@@ -4,6 +4,7 @@ company: BIGO
 position: Java 开发
 round: 一二三面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f0ea1f84ab71447dad6e066647d18e62
 tags: ["Java","八股","手撕算法","多线程","转岗"]

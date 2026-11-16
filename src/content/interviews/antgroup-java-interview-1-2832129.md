@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: Java后端开发（转岗智能体与大模型）
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-12'
 source: 牛客网
 tags: ["JVM","Redis","MySQL","RocketMQ","Elasticsearch","ThreadLocal"]
 summary: "蚂蚁集团智能体与大模型部门Java后端暑期实习一面面经。重点考察JVM内存模型与垃圾回收、Redis应用场景、MySQL索引原理、ThreadLocal内存泄漏排查、RocketMQ事务消息及数据库与ES的一致性处理。"

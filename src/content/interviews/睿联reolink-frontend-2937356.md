@@ -4,6 +4,7 @@ company: 睿联 Reolink
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/348ac853e37240ada432a8b39dd6204b
 tags: ["睿联","Reolink","前端","事件循环","宏任务","微任务","Vue3","monorepo","白屏"]

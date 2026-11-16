@@ -4,6 +4,7 @@ company: "小红书"
 position: "国际化开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e7dc5d6d04474486b63951baedca0aee
 tags: ["小红书", "国际化", "秋招", "AI Agent", "RAG", "分布式锁", "HashMap", "算法"]

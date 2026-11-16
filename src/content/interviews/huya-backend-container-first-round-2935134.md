@@ -4,6 +4,7 @@ company: "虎牙"
 position: "后端容器岗"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/aa9459611b33413bb2df27b71d738a92"
 tags: ["虎牙","Kubernetes","容器","实习拷打","系统设计","后端"]

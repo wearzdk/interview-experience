@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI应用开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931251527124021248
 tags: ["AI Coding","笔试","Prompt","Code Review","RAG","Agent"]

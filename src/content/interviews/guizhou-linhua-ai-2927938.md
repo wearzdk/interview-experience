@@ -4,6 +4,7 @@ company: "贵州磷化"
 position: "技术岗"
 round: "AI 面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/0cb760d7af0745e69c06fe072e268cd5"
 tags: ["贵州磷化", "AI面试", "行为面", "自我介绍"]

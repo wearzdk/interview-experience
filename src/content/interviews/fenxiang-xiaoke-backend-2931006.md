@@ -3,6 +3,7 @@ title: "纷享销客后端面经：SingleFlight、线程池隔离与三数据源
 company: "纷享销客"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/17d0b67689474e659de4bd571b6cf47c
 tags: ["纷享销客", "后端开发", "SingleFlight", "Redis", "Lua", "线程池", "MongoDB", "AI Agent"]

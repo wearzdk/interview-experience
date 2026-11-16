@@ -4,6 +4,7 @@ company: "拓璞数控"
 position: "后端开发"
 round: "初面、加面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 result: "拿到直通 offer 名额"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c282c8f3da3f44d29d90408f5ad6d10a

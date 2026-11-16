@@ -4,6 +4,7 @@ company: 恒生电子
 position: C与C++工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fed0e465b83c468b831a577ffab5c505
 tags: ["C++","泛型编程","设计模式","同步非阻塞","IO多路复用","金融科技"]

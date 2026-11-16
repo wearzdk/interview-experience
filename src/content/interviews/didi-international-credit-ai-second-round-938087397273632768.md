@@ -4,6 +4,7 @@ company: "滴滴"
 position: "国际化信贷AI算法"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938087397273632768"
 tags: ["滴滴","国际化信贷","风控AI","算法面试","强化学习","合成数据","实验设计"]

@@ -4,6 +4,7 @@ company: "SHEIN"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dc0ddb122131402780ad3375f57305ba
 tags: ["SHEIN", "社招", "后端", "408", "HTTP", "操作系统"]

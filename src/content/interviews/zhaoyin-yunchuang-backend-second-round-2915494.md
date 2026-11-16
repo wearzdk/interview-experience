@@ -4,6 +4,7 @@ company: 招银云创
 position: 后端开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","集合","MySQL","索引","慢查询","幂等","支付"]
 summary: "招银云创后端开发二面面经，时长约20分钟，两道八股加一道场景题。题目包括ArrayList与LinkedList的选型、银行卡号加日期查询变慢的原因定位与索引效率分析，以及便利店重复点击支付按钮如何避免多次扣款。"

@@ -4,6 +4,7 @@ company: MPS
 position: "嵌入式软件开发"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a34a5a8b37cf412b9ce457ce93bb0f18
 tags: ["MPS","嵌入式","供电设计","低功耗","芯片选型","英文面试"]

@@ -3,6 +3,7 @@ title: "面试手撕二叉树层序遍历：代码模板与七种常见变形"
 company: "某公司"
 position: "算法工程师"
 date: "2026-11"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/948731708667338752"
 tags: ["二叉树","层序遍历","BFS","手撕代码","算法","队列","之字形遍历","右视图"]

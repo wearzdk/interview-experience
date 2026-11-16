@@ -4,6 +4,7 @@ company: 苏州科大国创
 position: Java初级开发
 round: 线下面试
 date: '2026-04'
+collectedAt: '2026-04-04'
 base: 苏州
 source: 牛客网
 tags: ["Java","微服务","接口测试","压测","Spring Boot","应届生"]

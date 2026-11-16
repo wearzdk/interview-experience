@@ -4,6 +4,7 @@ company: "快手"
 position: "Java AI 全栈"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944996286334255104
 tags: ["快手","Java","虚拟线程","ThreadLocal","ScopedValue","线程池","JVM"]

@@ -4,6 +4,7 @@ company: 九识智能
 position: 前端开发（实习）
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["前端","实习","项目面","场景题","TypeScript"]
 summary: "九识智能前端实习二面全程没有八股：围绕项目与实习经历提问但问得不深、几乎不追问，中间穿插公司业务场景题与职场场景题；手撕先是 TypeScript 类型规范，后换成另一道没读懂的题。"

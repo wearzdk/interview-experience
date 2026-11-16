@@ -4,6 +4,7 @@ company: 乌鸫科技
 position: Java开发工程师
 round: 一面+笔试
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/888927373163261952
 tags: ["Java","RAG","缓存架构","消息队列","AI Coding"]

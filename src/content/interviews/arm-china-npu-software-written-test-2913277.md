@@ -4,6 +4,7 @@ company: 安谋科技
 position: NPU 软件开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["C++","C语言","NPU","笔试","缓存"]
 summary: "安谋科技（Arm China）NPU 软件岗笔试复盘：题型为单选、多选（少选或错选不得分）与简答题，简答包含代码补全和缓存读写设计。题目几乎全是 C/C++，单选与多选分值占比高，平时用 C/C++ 开发的人难度不大。"

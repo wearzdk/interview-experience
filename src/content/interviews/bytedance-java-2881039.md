@@ -3,6 +3,7 @@ title: "字节AI全栈开发实习（小荷健康）一面｜项目深挖+JS+Jav
 company: "字节"
 position: "全栈开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","JVM","Spring","算法","数据库","面试经验"]
 summary: "字节全栈开发工程师面试记录，覆盖Java、JVM、Spring、算法等考点，整理了面试流程与高频问题。"

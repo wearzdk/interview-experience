@@ -4,6 +4,7 @@ company: "鸣鸣很忙"
 position: "后端开发管培生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ccf4ce1254c447229340e1170881baec"
 tags: ["Java", "支付", "幂等", "线程池", "缓存", "RAG", "场景题"]

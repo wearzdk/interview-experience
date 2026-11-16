@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: 全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["前端","性能优化","知识图谱","RAG","HTTP缓存","TypeScript","Agent","虚拟列表"]
 summary: "阿里巴巴全栈开发一面面经，全程 46 问且沿简历层层深挖。前半段考知识图谱实践与度量、可插拔 Agent Harness、长流程可靠性与电商通用方案；中段追问 LCP 预加载与虚拟列表；后段考 TypeScript、状态管理、构建优化与 HTTP 缓存。"

@@ -3,6 +3,7 @@ title: "项目是自己敲的，面试却像抄的：嵌入式项目复盘"
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934009951767261184
 tags: ["嵌入式", "项目深挖", "串口通信", "面试复盘"]

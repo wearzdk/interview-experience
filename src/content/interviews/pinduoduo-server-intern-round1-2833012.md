@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Java","MySQL","Redis","多线程","操作系统"]
 summary: "拼多多服务端研发实习生一面面经。涵盖Java锁机制、Spring Bean生命周期、TCP握手、多线程与进程通信、MySQL分库分表与索引原理、Redis缓存一致性及高并发处理方案。面试重点考察底层原理及项目场景落地能力。"

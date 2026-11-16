@@ -3,6 +3,7 @@ title: "系统测试开发面经：数字电路名词解释与四道 C 语言手
 company: "某公司"
 position: "系统测试开发"
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5e3e6d2e6583481792d01a4b57d87921
 tags: ["系统测试","C语言","FPGA","数字电路","Cache"]

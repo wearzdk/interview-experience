@@ -3,6 +3,7 @@ title: "英飞流全栈开发实习面试：React 原理与 JS 基础连问"
 company: "英飞流"
 position: "全栈开发（实习）"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["前端","React","JavaScript","Vite","Redis","全栈"]
 summary: "英飞流全栈开发实习面试，9 月 21 日，全程常规八股：ES6 新特性、React 各版本差异与事件机制、diff 算法、Vite 与 Webpack、CommonJS 与 ESM、闭包与 JS 继承，后端侧只问到对后端的了解和 Redis，整体偏基础。"

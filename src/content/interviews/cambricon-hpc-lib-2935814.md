@@ -4,6 +4,7 @@ company: 寒武纪
 position: 高性能计算库开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e65c6ad4eb7c464ebe47ffbf1ff1f212
 tags: ["高性能计算", "SIMD", "SIMT", "BankConflict", "Cache", "C++", "单元测试"]

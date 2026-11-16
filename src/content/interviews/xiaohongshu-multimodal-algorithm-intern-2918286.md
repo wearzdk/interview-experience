@@ -4,6 +4,7 @@ company: "小红书"
 position: "多模态算法"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 tags: ["多模态", "ViT", "Transformer", "残差连接", "手撕算法", "自动驾驶"]
 summary: "小红书多模态算法实习一、二面记录：一面围绕自动驾驶项目与多模态对齐论文深挖，追问 BERT 核心设计思想、ViT 与文本 Transformer 的结构差异及分类落地方式，手写整数平方根；二面继续项目与论文深挖，问 Transformer 原理与残差连接，手撕最长回文子串。"

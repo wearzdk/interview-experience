@@ -3,6 +3,7 @@ title: "美图go后端日常一面"
 company: "百度"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","MySQL","Go","面试经验","后端开发"]
 summary: "百度Java后端开发工程师面试记录，覆盖Java、MySQL、Go、面试经验等考点，整理了面试流程与高频问题。"

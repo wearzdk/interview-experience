@@ -4,6 +4,7 @@ company: "浩鲸科技"
 position: "软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934602158765277184
 tags: ["Java", "HashMap", "线程池", "MySQL", "Redis", "Spring Boot", "限流", "秒杀"]

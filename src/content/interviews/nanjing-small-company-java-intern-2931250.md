@@ -4,6 +4,7 @@ company: "南京某小厂"
 position: "Java 后端（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0da5ca7b308e49d985dd22aa5fe3a9fc
 tags: ["南京","Java后端","实习","Redis","Lua","本地消息表","RAG"]

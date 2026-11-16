@@ -4,6 +4,7 @@ company: 小鹏汽车
 position: 前端开发（仿真）
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["前端","SDD","Figma","AI编程","工程化","职业发展"]

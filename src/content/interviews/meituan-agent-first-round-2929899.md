@@ -4,6 +4,7 @@ company: "美团"
 position: "Agent开发（日常实习）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/2929899"
 tags: ["美团","Agent","RAG","切块策略","混合检索","父子索引","面试复盘"]

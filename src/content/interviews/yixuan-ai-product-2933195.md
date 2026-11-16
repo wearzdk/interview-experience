@@ -3,6 +3,7 @@ title: "亿轩信息 AI 产品岗面试：驻场外包、试岗与转正口径"
 company: "亿轩信息"
 position: "AI产品"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4e81b2f07df148fb94e6e4ceab1476c2
 tags: ["亿轩信息", "AI产品", "实习面试", "驻场外包", "沈阳", "转正"]

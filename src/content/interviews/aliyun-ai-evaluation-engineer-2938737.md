@@ -4,6 +4,7 @@ company: "阿里云"
 position: "AI 评测工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/472458811ea24fd9bc22dbd1780dbd9a
 tags: ["阿里云","AI评测","benchmark","MaaS","case study","模型评测"]

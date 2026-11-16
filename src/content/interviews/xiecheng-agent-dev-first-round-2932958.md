@@ -4,6 +4,7 @@ company: "携程"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4342f2fc67e1415bad22b2c3cd3b4819
 tags: ["携程", "Agent开发", "RAG", "召回率", "评测", "上下文工程", "LangGraph"]

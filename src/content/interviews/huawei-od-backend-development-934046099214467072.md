@@ -5,6 +5,7 @@ position: "后端开发"
 round: "多轮面试合集"
 result: "OC"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934046099214467072
 tags: ["华为OD","机试","手撕算法","项目深挖","HR面","AI工具"]

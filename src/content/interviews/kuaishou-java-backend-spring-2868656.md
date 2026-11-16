@@ -4,6 +4,7 @@ company: 快手
 position: Java后端开发工程师
 round: 三面+HR
 date: '2026-06'
+collectedAt: '2026-06-27'
 base: 广东
 source: 牛客网
 tags: ["Java","HashMap","并发","JVM","MySQL","RocketMQ","推荐系统"]

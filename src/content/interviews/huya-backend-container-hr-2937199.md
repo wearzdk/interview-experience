@@ -4,6 +4,7 @@ company: 虎牙
 position: 后端容器开发
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/429fe8cf4d8d4bd7a5cdd7cc159eb2c4
 tags: ["HR 面","实习","职业规划"]

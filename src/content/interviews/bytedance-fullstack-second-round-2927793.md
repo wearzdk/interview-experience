@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "全栈开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/3cac2a5686f5478f849d7e64a5a2e124"
 tags: ["字节跳动","全栈","SSE","WebSocket","知识图谱","MySQL","索引","Agent","多智能体","系统设计"]

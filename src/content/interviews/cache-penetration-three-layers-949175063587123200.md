@@ -3,6 +3,7 @@ title: "缓存穿透答题的三个层次：空值缓存、布隆过滤器与入
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949175063587123200
 tags: ["缓存穿透","空值缓存","布隆过滤器","限流","缓存击穿","缓存雪崩"]

@@ -4,6 +4,7 @@ company: 传音控股
 position: Java开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "Kafka", "Spring AI", "MCP", "快速排序"]
 summary: "传音控股秋招 Java 一面，结合 AI 项目考察 Kafka、Spring AI、MCP、异常处理和快速排序。"

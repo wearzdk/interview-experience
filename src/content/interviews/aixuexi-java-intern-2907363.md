@@ -3,6 +3,7 @@ title: 北京爱学习Java开发日常实习面经
 company: 北京爱学习
 position: Java开发
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "NIO", "并发", "Prompt工程"]
 ---

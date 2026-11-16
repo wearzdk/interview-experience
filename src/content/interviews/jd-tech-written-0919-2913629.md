@@ -4,6 +4,7 @@ company: "京东"
 position: "技术岗"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["笔试", "模拟题", "输入输出", "数论", "AICoding", "算法"]
 summary: "9 月 19 日京东技术岗笔试，两道编程题加一道 AI Coding。第一题是纯模拟题，作者用队列实现后用例能过但提交运行错误；第二题要求找出 i 小于 j 且 ai 乘 aj 有四个因子的组合并输出子数组。"

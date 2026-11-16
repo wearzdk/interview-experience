@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Java开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "线程安全", "线程池", "MVCC", "Agent", "MySQL"]
 summary: "科大讯飞 Java 一面面经：深挖项目与实习之后，考察 Agent 的设计范式、给项目增加付费模块要考虑什么，以及 Java 线程安全要解决什么问题与常用手段、线程池核心参数与拒绝策略、MySQL MVCC 的实现方式。"

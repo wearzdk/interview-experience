@@ -3,6 +3,7 @@ title: "日丰后端面经：简历筛了一个月，二面把 Sentinel 说成�
 company: "日丰"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e7d51b8142a041e78fb84309fbd65a55
 tags: ["日丰", "后端开发", "面试复盘", "Sentinel", "Seata", "八股"]

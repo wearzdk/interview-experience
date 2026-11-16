@@ -3,6 +3,7 @@ title: 嵌入式大厂面经汇总：从上百场面试看筛选主线与高频�
 company: 多家嵌入式方向公司
 position: 嵌入式软件
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938471076881776640
 tags: ["嵌入式","RTOS","Linux驱动","C语言内存","通信协议","面经汇总"]

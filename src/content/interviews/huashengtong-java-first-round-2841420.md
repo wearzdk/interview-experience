@@ -4,6 +4,7 @@ company: 华盛通
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-24'
 result: 挂
 source: 牛客网
 tags: ["Java并发","Redis分布式锁","MySQL索引","接口幂等","线上排查"]

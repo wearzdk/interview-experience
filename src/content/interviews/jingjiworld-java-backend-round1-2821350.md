@@ -4,6 +4,7 @@ company: 竞技世界
 position: Java后端
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","Netty","MySQL","Redis","SpringBoot","ConcurrentHashMap"]
 summary: "竞技世界 Java 后端一面，约20分钟，涉及 Netty 原理、支付最终一致性、大文件断点续传、ConcurrentHashMap 底层、MySQL 深度分页优化、SpringBoot 自动化配置及 Redisson 底层实现等核心技术点，适合准备游戏/互联网后端面试的候选人参考。"

@@ -4,6 +4,7 @@ company: 多家公司
 position: Java 后端与前端开发
 round: "多场"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a412891f78b40409373aab88c020831
 tags: ["外包","Java","前端","SpringBoot","ConcurrentHashMap","JVM","微服务","面经"]

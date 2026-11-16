@@ -4,6 +4,7 @@ company: "OPPO"
 position: "多媒体开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9b723d131a74bacae72bd1576346633
 tags: ["OPPO","嵌入式","Linux","驱动开发","文件系统","busybox","uboot","内核态"]

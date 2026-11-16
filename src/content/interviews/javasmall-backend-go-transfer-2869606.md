@@ -4,6 +4,7 @@ company: 某小厂
 position: Java后端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-30'
 base: 福建
 source: 牛客网
 tags: ["Java","Redis","MySQL","消息队列","并发编程"]

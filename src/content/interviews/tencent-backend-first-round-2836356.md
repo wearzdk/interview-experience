@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-16'
 result: 挂
 source: 牛客网
 tags: ["Java","MySQL","Redis","操作系统","数据结构"]

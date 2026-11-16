@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-05'
+collectedAt: '2026-05-05'
 source: 牛客网
 tags: ["Java","MySQL","Kafka","MyBatis","微服务"]
 summary: "腾讯AI后台开发实习面试复盘：涵盖Java基础（接口与抽象类、HashMap、线程安全）、MyBatis SQL注入防御、微服务熔断降级与限流、Kafka高并发架构、MySQL性能优化以及大模型工程化落地实践。"

@@ -4,6 +4,7 @@ company: TikTok
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "系统设计", "文件存储", "Agent", "反射", "算法"]
 summary: "TikTok 后端二面，重点围绕发票规则系统、分布式文件存储、CLI Agent 设计与 Java 反射机制展开。"

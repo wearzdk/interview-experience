@@ -4,6 +4,7 @@ company: "鼎桥科技"
 position: "未注明"
 round: "AI面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/856d2297f7e445be88d085ba72395e4e"
 tags: ["AI面试","宝洁八大问","简历项目追问","行为面试","AI认知","面试流程"]

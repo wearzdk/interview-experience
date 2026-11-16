@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "算子开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943400517017821184
 tags: ["理想汽车","算子开发","Attention","FlashAttention","Online Softmax","Mooncake","国产GPU","AI协作"]

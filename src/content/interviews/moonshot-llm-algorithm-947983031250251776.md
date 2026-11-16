@@ -4,6 +4,7 @@ company: "月之暗面"
 position: "大模型算法"
 round: "一二面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 result: "未通过（9.8 感谢信）"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947983031250251776

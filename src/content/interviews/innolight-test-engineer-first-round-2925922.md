@@ -4,6 +4,7 @@ company: "中际旭创"
 position: "测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已OC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cc1bb5c7c2c64b54a8d457fde619fa10

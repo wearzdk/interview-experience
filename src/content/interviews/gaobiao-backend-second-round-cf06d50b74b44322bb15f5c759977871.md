@@ -4,6 +4,7 @@ company: "高标"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cf06d50b74b44322bb15f5c759977871
 tags: ["高标","后端开发","Go","协程","项目追问","无人机"]

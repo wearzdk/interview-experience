@@ -3,6 +3,7 @@ title: 合肥暑期实习小厂golang面经
 company: 某互联网公司
 position: 前端开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 安徽
 source: 牛客网

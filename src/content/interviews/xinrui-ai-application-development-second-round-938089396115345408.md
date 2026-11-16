@@ -4,6 +4,7 @@ company: "信锐网科"
 position: "AI应用开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938089396115345408"
 tags: ["信锐网科","AI应用开发","秋招","RAG","Agent评测","MCP","提示词注入","结构化输出"]

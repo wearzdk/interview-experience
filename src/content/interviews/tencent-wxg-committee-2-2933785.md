@@ -4,6 +4,7 @@ company: "腾讯"
 position: "公众号客户端"
 round: "二面（面委）"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/22a4235952ad400aa05c5ac3b6a857a4
 tags: ["腾讯","WXG","面委","加解密","P2P","丢包","开源项目"]

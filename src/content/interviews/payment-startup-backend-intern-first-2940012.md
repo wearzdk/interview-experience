@@ -4,6 +4,7 @@ company: 某支付公司
 position: 后端开发实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3ac46402d328408fb1c77a70d61ea887
 tags: ["支付","后端","实习","订单","流水","幂等","重复扣款","Webhook","表结构"]

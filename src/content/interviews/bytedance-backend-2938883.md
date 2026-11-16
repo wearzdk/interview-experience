@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后台开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4f2163157380484d96ed07f5dbed0537
 tags: ["字节跳动","后台开发","秋招","Agent","链路追踪","DNS","HTTPS","HTTP2"]

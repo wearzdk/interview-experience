@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0dbcd0be172642ac8053d2045743878c
 tags: ["字节跳动","后端开发","布隆过滤器","幂等","Redis","MySQL","RAG","GC"]

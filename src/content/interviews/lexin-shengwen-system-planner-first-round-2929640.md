@@ -4,6 +4,7 @@ company: "乐信圣文"
 position: "系统策划（二合方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1772cac3163249d189697b67322d6abe
 tags: ["游戏策划", "系统策划", "二合", "情景题", "职业规划"]

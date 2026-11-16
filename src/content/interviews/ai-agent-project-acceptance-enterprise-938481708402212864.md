@@ -3,6 +3,7 @@ title: 面试被问「智能体项目怎么验收」：企业级服务商的答�
 company: 牛客网用户分享
 position: AI岗位面试准备
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938481708402212864
 tags: ["智能体","项目验收","AI面试","效果评估","稳定性","安全合规"]

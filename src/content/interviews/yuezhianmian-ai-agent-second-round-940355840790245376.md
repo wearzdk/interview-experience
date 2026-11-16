@@ -4,6 +4,7 @@ company: "月之暗面"
 position: "AI Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940355840790245376
 tags: ["月之暗面","AI Agent","代码生成","上下文管理","分布式锁","Redis","幂等"]

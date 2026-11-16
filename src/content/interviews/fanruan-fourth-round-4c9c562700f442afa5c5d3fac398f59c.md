@@ -4,6 +4,7 @@ company: "帆软"
 position: "未注明"
 round: "四面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c9c562700f442afa5c5d3fac398f59c
 tags: ["帆软","四面","线上故障排查","OOM","死锁","性能优化","JVM"]

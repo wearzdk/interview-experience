@@ -4,6 +4,7 @@ company: 睿创微纳
 position: 嵌入式软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951405326450925568
 tags: ["睿创微纳","嵌入式","DMA","UART","GPIO中断","FreeRTOS","中断处理","ARM"]

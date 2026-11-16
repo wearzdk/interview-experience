@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: 广告
 round: 二面
 date: '2026-09'
+collectedAt: '2026-10-07'
 result: 已挂
 source: 牛客网
 tags: ["Java","线程池","Spring事务","MySQL索引","CDC","Kafka","幂等"]

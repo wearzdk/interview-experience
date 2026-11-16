@@ -4,6 +4,7 @@ company: 快手
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 result: 挂
 source: 牛客网
 tags: ["MySQL","数据库设计","RAG","Java","算法"]

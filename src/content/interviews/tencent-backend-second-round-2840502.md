@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-22'
 source: 牛客网
 tags: ["Java","Redis","MySQL","JVM","计算机网络"]
 summary: "腾讯TME酷我车载业务部后台开发二面面经，重点考察Java集合、JVM内存管理、Redis持久化与集群机制、MySQL锁机制与高并发扣减策略、以及TCP/HTTP协议基础。适合后台开发求职者针对高频八股与场景设计题备考。"

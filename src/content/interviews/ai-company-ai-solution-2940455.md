@@ -3,6 +3,7 @@ title: "AI 数字员工岗位面试真题：项目深挖、RAG 链路与商业�
 company: 某 AI 公司
 position: AI 解决方案
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f4ce1e920f1b48eea1bfa5dac32cfafc
 tags: ["某 AI 公司","AI 解决方案","RAG","Agent","Function Calling","数字员工"]

@@ -4,6 +4,7 @@ company: 经纬恒润
 position: 电子测试技术员
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7beacee271cc47c78840b1a0b710afc9
 tags: ["经纬恒润","电子测试","示波器","测试用例","基尔霍夫定律","社招"]

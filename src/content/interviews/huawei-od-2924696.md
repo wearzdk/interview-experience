@@ -4,6 +4,7 @@ company: 华为OD
 position: 软件开发
 round: 资面+技术一面+技术二面+主管面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f4aa8550ed3448f0a0ded8759b19509f
 tags: ["华为OD","面试流程","机考","稳定性","求职意向","外包"]

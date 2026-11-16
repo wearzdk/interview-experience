@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI应用开发"
 round: "AI面试"
 date: "2026-08"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "JVM", "Redis", "线程池", "LangGraph", "Agent"]
 summary: "8 月 30 日的秋招面试，涉及 CPU 排查、volatile、分布式锁、大文件异步处理和评审 Agent 的框架选择。"

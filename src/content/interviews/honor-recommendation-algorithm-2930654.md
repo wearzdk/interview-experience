@@ -4,6 +4,7 @@ company: "荣耀"
 position: "推荐算法"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9f9ebb029e964a76869a22d639ebc7b2
 tags: ["荣耀", "推荐算法", "生成式推荐", "SID", "Transformer", "MoE", "AWQ"]

@@ -4,6 +4,7 @@ company: 百度
 position: 后端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-17'
 source: 牛客网
 tags: ["后端开发","计算机网络","MySQL","Kafka","负载均衡"]
 summary: "百度后端开发暑期实习一面面经，集中考察负载均衡、TCP与DNS、路由交换、智能指针、MySQL、Kafka及线上性能排查，并包含二叉树层序遍历。"

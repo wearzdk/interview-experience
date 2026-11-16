@@ -4,6 +4,7 @@ company: "某公司"
 position: "技术岗"
 round: "复试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a52efdac45ca4be48a427c7269af382f
 tags: ["复试","面试复盘","求职心态","沟通表达","校招"]

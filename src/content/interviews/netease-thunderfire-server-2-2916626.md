@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "游戏服务端开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["游戏服务端","Agent Harness","上下文","Linux","TCP与UDP","动态规划"]
 summary: "网易雷火游戏服务端二面面经（9.14）：先问求职动机与游戏经历，再深挖 Agent SDK/Harness 项目——输入 Token 降幅怎么算、有没有评测集、上下文方案的最大难点与定制、Harness 的应用场景与定位；中段考 C++/Linux（进程崩溃定位、GDB 查看线程栈）与 AI 工具使用、大代码库的理解与 Memory 沉淀；最后对比游戏服务端与互联网后端、TCP/UDP 选型与 QUIC，手撕「伤害 1 或 2 点恰好击杀的序列数」动态规划。"

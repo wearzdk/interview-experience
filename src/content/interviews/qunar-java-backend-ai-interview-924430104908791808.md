@@ -4,6 +4,7 @@ company: 去哪儿
 position: Java后端
 round: AI面
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/924430104908791808
 tags: ["Java", "JVM", "GC", "内存管理", "AI面试"]

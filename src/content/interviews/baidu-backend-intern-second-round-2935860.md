@@ -4,6 +4,7 @@ company: 百度
 position: 后端开发实习
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0266edb5c1864353a22807cd44219244
 tags: ["Go", "Kafka", "Redis", "分布式", "Agent", "系统设计"]

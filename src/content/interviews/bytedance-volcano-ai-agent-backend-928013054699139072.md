@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI-Agent研发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928013054699139072
 tags: ["Java", "并发", "Linux", "Netty", "虚拟线程"]

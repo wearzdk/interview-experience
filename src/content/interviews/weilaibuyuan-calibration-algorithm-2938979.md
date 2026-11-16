@@ -4,6 +4,7 @@ company: 未来不远机器人
 position: 标定算法实习
 round: 实习面试
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7a8c855b35c34376aa47cd11665b89b1
 tags: ["未来不远机器人","标定算法","机器人视觉","ROS2","实习面试"]

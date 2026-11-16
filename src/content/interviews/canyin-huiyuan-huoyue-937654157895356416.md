@@ -3,6 +3,7 @@ title: 面试被问「餐饮会员的活跃怎么定义」：先分清业态，�
 company: 餐饮数字化服务商
 position: 会员运营
 date: '2026-10'
+collectedAt: '2026-10-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937654157895356416
 tags: ["会员运营","用户增长","数据分析","指标口径","餐饮行业"]

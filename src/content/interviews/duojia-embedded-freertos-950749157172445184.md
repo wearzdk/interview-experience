@@ -3,6 +3,7 @@ title: "嵌入式 FreeRTOS 秋招八股：三档判断标准与 21 道高频题"
 company: "多家公司"
 position: "嵌入式软件"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950749157172445184
 tags: ["FreeRTOS","嵌入式","RTOS","八股","任务调度","中断","优先级反转","秋招"]

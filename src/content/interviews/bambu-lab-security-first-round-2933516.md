@@ -4,6 +4,7 @@ company: "拓竹"
 position: "安全工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/04b8f7056398455e8d8ed842639b5434
 tags: ["安全","SQL注入","SSRF","文件包含","反序列化","CSP","请求走私","AI安全"]
