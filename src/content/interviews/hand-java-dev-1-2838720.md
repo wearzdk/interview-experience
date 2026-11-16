@@ -4,6 +4,7 @@ company: 汉得信息
 position: Java开发
 round: 一轮技术面
 date: '2026-04'
+collectedAt: '2026-04-21'
 result: 已OC
 source: 牛客网
 tags: ["Java","Redis","MySQL","线程池","接口设计"]

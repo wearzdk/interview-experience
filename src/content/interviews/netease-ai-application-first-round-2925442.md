@@ -4,6 +4,7 @@ company: "网易互娱"
 position: "AI应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2d982457b8b94da09fab383e275de93d"

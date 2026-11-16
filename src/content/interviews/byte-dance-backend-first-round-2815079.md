@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Redis","MySQL","多线程","JVM","计算机网络","数据结构与算法"]
 summary: "字节跳动暑期后端开发一面面试考察全面，涵盖Redis限流与大Key优化、MySQL事务与MVCC机制、JVM垃圾回收、TCP可靠性传输及HTTPS加密过程。此外涉及多线程AQS原理、设计模式及高难度算法题（O(1)获取栈最大值）。"

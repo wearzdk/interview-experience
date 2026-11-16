@@ -4,6 +4,7 @@ company: "拼多多"
 position: "算法岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/296af737d16d4fcbbf3cdce17f1d4845"
 tags: ["拼多多", "算法岗", "特征工程", "GRPO", "PPO", "DPO", "LeetCode"]

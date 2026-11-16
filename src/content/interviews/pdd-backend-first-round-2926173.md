@@ -4,6 +4,7 @@ company: "拼多多"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0f961638ee0b4d83a5513e7b87fb582c
 tags: ["拼多多","后端开发","Redis","RabbitMQ","消息中间件","并发编程","乱序到达","算法"]

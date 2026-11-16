@@ -3,6 +3,7 @@ title: 面试被问「做餐饮会员先看哪三个数」：口径、复购周�
 company: 牛客网用户分享
 position: 会员运营
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938069402644238336
 tags: ["会员运营", "数据指标", "复购周期", "单客价值", "行业面试"]

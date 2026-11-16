@@ -4,6 +4,7 @@ company: 纳芯微
 position: 测试工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["ATE测试","芯片测试","I2C","ADC","CMOS电平","板卡校准"]
 summary: "纳芯微测试工程师岗一面（10 月 8 日，base 杭州），全程约一小时：从求职意向与期望薪资问到板卡校准与驱动开发经历，再深入到 ATE 芯片测试、DIO 数字测试、ADC 的 INL/DNL 与曲线拟合、I2C 读写时序、寄存器位操作、CMOS 与 TTL 电平、漏电流测试，最后是量产 Pass 但客户端失效的故障排查场景题。"

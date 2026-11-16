@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["Redis","MySQL","Go","Java","缓存一致性"]
 summary: "美团AI后端开发实习一面面经，重点考察项目技术难点、Redis热点数据处理与缓存一致性策略、Go与Java语言特性差异，以及MySQL事务隔离级别与幻读问题。适合备考后端开发的求职者参考。"

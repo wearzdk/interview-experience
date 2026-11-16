@@ -4,6 +4,7 @@ company: "超聚变"
 position: "嵌入式软件"
 round: "三面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934546002340540416
 tags: ["嵌入式", "三面", "职业规划", "优缺点", "MCU", "RTOS"]

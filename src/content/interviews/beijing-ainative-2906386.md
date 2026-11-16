@@ -3,6 +3,7 @@ title: 28届双非双一流本科AI Native北京某厂面经
 company: 北京某厂
 position: AI Native开发
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["高并发", "RAG", "MySQL", "JVM", "布隆过滤器"]
 summary: "北京某厂AI Native方向面经，围绕高并发库存、智能体数据链路、检索准确度以及MySQL、JVM和布隆过滤器等基础知识展开。"

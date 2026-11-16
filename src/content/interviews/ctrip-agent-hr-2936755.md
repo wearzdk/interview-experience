@@ -4,6 +4,7 @@ company: "携程"
 position: "Agent 开发"
 round: "HR 面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/62ff2738400a4ed6bbbeebd5142dff01
 tags: ["携程","Agent","HR面","职业规划","大模型"]

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934121755390595072
 tags: ["手撕算法", "最长公共子串", "trace ID", "MDC", "线程池", "并发计数"]

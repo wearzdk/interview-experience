@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式软件"
 round: "面试复盘"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946698512551415808
 tags: ["嵌入式","项目复盘","面试表达","中断","缓冲区","异常处理","求职经验"]

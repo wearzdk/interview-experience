@@ -4,6 +4,7 @@ company: "华为"
 position: "软件算法"
 round: "一面+二面"
 date: "2026-09"
+collectedAt: '2026-10-09'
 result: "二面挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/01093592299d47afa04b77ea7dea0d22"

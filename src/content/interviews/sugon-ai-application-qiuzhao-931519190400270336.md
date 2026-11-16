@@ -3,6 +3,7 @@ title: "中科曙光 AI应用研发秋招凉经：Redis 连环追问"
 company: "中科曙光"
 position: "AI应用研发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931519190400270336"
 tags: ["Redis","限流","缓存","布隆过滤器","持久化"]

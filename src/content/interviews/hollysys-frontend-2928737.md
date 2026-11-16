@@ -4,6 +4,7 @@ company: "和利时"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b791939671494e449489e1bd2714c622"
 tags: ["和利时", "前端开发", "校招", "ES6", "Promise", "箭头函数", "Map与Set"]

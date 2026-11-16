@@ -4,6 +4,7 @@ company: 沈阳共兴达
 position: AI 面试（驻场赛美特）
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c24218c92e7e420882c26bdf40771e46
 tags: ["AI面试","赛美特","北森","牛客","测评","校招"]

@@ -4,6 +4,7 @@ company: 掌上先机
 position: Java 开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 未通过
 source: 牛客网
 tags: ["Java基础","HashMap","类加载","面向对象","String","集合"]

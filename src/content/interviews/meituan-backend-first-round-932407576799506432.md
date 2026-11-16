@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932407576799506432
 tags: ["后端开发","深分页","缓存一致性","分库分表","秒杀","NDCG"]

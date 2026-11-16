@@ -3,6 +3,7 @@ title: "满帮全栈一面：线上排障、缓存与全文检索"
 company: "满帮"
 position: "全栈开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Redis", "Elasticsearch", "MySQL", "Spring"]
 round: "一面"

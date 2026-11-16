@@ -4,6 +4,7 @@ company: "靖安科技"
 position: "Java后端"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["Java","Nacos","Redis","分布式锁","网络协议","并发"]
 summary: "靖安科技 9 月 24 日的二面，60 个问题几乎全程追问细节：从 Nacos 服务注册发现与负载均衡链路，到 Redis 未命中的请求合并、乐观锁与分布式锁，再到 1G 大文件并发上传的线程数推导，最后是 TCP/UDP 与端口复用。"

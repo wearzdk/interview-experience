@@ -4,6 +4,7 @@ company: 库洛游戏
 position: 后端开发（实习）
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4fde5caea2a4c808cdf3f655de5e711
 tags: ["库洛游戏","后端实习","笔试","Java","Spring","SQL","Linux","秋招复盘"]

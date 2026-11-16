@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "计算机网络", "Linux", "RAG", "Agent", "笔试"]
 summary: "笔试包含十五道单选、五道多选、编程题、Prompt 任务与辅助编程任务，考点覆盖后端基础和机器学习。"

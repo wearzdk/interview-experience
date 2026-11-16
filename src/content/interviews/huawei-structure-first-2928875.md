@@ -4,6 +4,7 @@ company: "华为"
 position: "结构工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bca9c542131d4f51becdeebc242b9756"
 tags: ["华为", "结构工程师", "一面", "热处理", "尺寸链", "塑料成型", "公差"]

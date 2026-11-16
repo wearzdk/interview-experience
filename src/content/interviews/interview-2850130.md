@@ -4,6 +4,7 @@ company: 酷宅科技
 position: 移动端开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 广东
 source: 牛客网
 tags: ["Java", "算法"]

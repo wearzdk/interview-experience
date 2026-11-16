@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["B+树","哈希","Kafka","RabbitMQ","幂等","手撕","系统稳定性"]
 summary: "拼多多服务端二面 40 分钟：手撕字符串转数字，堆与 FIFO、计算器实现，Kafka 与 RabbitMQ 的差异，MySQL 索引与为什么不用红黑树，哈希冲突策略与拉链/再哈希的取舍，最后问系统维稳会考虑哪些方面与发货 MQ 异常的幂等处理。"

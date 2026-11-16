@@ -4,6 +4,7 @@ company: "水滴"
 position: "AI全栈"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c23fe20e7a26451f98cf669d935427c7
 tags: ["水滴", "AI全栈", "MySQL", "Redis", "Python", "Agent", "RAG"]

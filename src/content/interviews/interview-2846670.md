@@ -3,6 +3,7 @@ title: java八股学习2 -热key问题
 company: 某互联网公司
 position: 运维工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 广东
 source: 牛客网

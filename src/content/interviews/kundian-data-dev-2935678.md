@@ -3,6 +3,7 @@ title: "坤电科技数据开发面经：数仓分层、数据血缘与 Spark Sh
 company: 坤电科技
 position: 数据开发
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1139b4f3bca042c49c8376ba58d1d8e4
 tags: ["数据仓库", "Spark", "数据血缘", "ORC", "Parquet", "算法题"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "前端开发工程师"
 round: "一面+二面+HR面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "产品设计", "项目深挖", "实习"]

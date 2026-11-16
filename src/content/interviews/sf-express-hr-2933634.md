@@ -4,6 +4,7 @@ company: "顺丰"
 position: "后端开发"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "三日后状态更新为 40"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3728b0a82e454077ad6be15bd5ace539

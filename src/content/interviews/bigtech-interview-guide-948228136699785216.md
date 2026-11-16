@@ -4,6 +4,7 @@ company: "互联网大厂"
 position: "技术岗"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948228136699785216
 tags: ["技术面","面试官视角","面评","AI胜任力","学习方法","秋招"]

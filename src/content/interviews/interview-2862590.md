@@ -3,6 +3,7 @@ title: 浩鲸java（数字人面试）
 company: 某互联网公司
 position: 软件开发工程师
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 福建
 source: 牛客网
 tags: ["Java", "Spring", "操作系统", "算法"]

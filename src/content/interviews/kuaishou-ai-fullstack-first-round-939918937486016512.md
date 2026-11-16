@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939918937486016512
 tags: ["快手","AI全栈","Agent","工作流编排","Skills","JVM","并发","ConcurrentHashMap","Spring","B+树","SQL"]

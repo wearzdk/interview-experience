@@ -4,6 +4,7 @@ company: "某小厂"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/46abccbf7361436a8e88ff7fe6d7c4b4
 tags: ["前端", "React", "ECharts", "Vite", "AI编程", "Zod"]

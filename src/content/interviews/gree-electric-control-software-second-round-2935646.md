@@ -4,6 +4,7 @@ company: "格力"
 position: "电控软件"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5c5577a306dd4974bd4261d0263ff026
 tags: ["格力","电控软件","二面","制造业","base 选择","期望薪资","简历追问"]

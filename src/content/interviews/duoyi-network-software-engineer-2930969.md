@@ -4,6 +4,7 @@ company: "多益网络"
 position: "软件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bd420d8c2e0545748a42c16ad4d05e13
 tags: ["多益网络", "软件工程师", "C++", "多态", "字节对齐", "递归", "AI幻觉", "全排列"]

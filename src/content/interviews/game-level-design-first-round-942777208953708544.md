@@ -4,6 +4,7 @@ company: "多家游戏公司"
 position: "关卡策划"
 round: "一面"
 date: '2025-08'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942777208953708544"
 tags: ["游戏策划","关卡策划","关卡设计","难度平衡","主机与手游","英雄设计","面经复盘"]

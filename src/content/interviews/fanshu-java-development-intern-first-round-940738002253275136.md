@@ -4,6 +4,7 @@ company: "帆书"
 position: "Java开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940738002253275136"
 tags: ["帆书","Java开发","断点续传","Elasticsearch","MySQL优化","SpringCloud","实习"]

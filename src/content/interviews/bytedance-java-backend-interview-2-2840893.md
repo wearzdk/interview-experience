@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端开发工程师
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-23'
 result: 通过
 source: 牛客网
 tags: ["计算机网络","操作系统","算法","项目架构"]

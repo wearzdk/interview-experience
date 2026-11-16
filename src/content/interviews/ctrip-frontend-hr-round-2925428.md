@@ -4,6 +4,7 @@ company: "携程"
 position: "前端开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/5f657a1d304e4e299914e02d64bec46c"
 tags: ["携程","前端开发","HR面","职业规划","团队协作","校招"]

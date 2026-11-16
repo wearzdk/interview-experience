@@ -4,6 +4,7 @@ company: "东莞美维电路"
 position: "管培生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/523dfe37b6ba47aeb3f2df1120a5eec1
 tags: ["美维电路","管培生","PCB","制造业","HR面","求职动机","实习"]

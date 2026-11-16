@@ -4,6 +4,7 @@ company: "半亩花田"
 position: "大数据开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ea16b227ab184039891f2d6293c54867
 tags: ["半亩花田", "大数据开发", "数仓", "数据入库", "DataWorks"]

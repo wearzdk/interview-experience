@@ -4,6 +4,7 @@ company: "西安图为电气"
 position: "软件开发"
 round: "三轮"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c0e4617a29cf4f8cbb3d7bbc15674d8a
 tags: ["西安图为电气","软件开发","校招","HR面","技术面","综合面"]

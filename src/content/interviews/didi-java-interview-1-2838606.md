@@ -4,6 +4,7 @@ company: 滴滴
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-21'
 result: 挂
 source: 牛客网
 tags: ["Java","Spring Boot","RAG","责任链模式","MQ","MySQL"]

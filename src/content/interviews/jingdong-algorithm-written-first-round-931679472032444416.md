@@ -4,6 +4,7 @@ company: 京东
 position: 算法工程师
 round: 笔试+一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已通过（转组后）
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931679472032444416

@@ -4,6 +4,7 @@ company: 中兴微电子
 position: 嵌入式软件开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["嵌入式","AUTOSAR","EB配置","芯片启动","内存泄漏","栈溢出","MPU","Linux"]
 summary: "中兴微电子嵌入式方向一面，实习内容问得较浅，技术问题集中在EB配置、芯片启动流程、内存泄漏、栈溢出、MPU等底层知识点，并确认Linux使用情况。"

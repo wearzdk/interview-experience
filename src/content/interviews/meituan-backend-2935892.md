@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8c64d89bd583450db658dc4345c9f7f2
 tags: ["AI Coding", "高并发", "协作", "开放题"]

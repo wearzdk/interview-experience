@@ -4,6 +4,7 @@ company: "京东"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939625784929538048
 tags: ["京东","Agent","ReAct","工具调用","上下文管理","手撕","幂等"]

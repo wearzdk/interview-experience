@@ -4,6 +4,7 @@ company: 美团
 position: Agent 开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/18fa4134edb14e8c901787ee5cd33ace
 tags: ["Agent","Workflow","Skill","MCP","Function Calling","SubAgent","记忆模块","CLI","凉经"]

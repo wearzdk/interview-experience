@@ -4,6 +4,7 @@ company: "得物"
 position: "Golang开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a53abaf07dfa43e289322d5dc0e5fdf9
 tags: ["Golang","goroutine","并发map","context","幂等","分布式锁","Agent","RAG"]

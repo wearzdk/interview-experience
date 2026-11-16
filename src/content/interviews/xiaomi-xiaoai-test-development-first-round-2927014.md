@@ -4,6 +4,7 @@ company: "小米"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b1d0e2167da84a448c5187d798ca79db
 tags: ["小米","小爱同学","测试开发","自动化测试","AI辅助开发","模型评测","反转链表"]

@@ -4,6 +4,7 @@ company: 比特鹰
 position: 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Spring","Redis","微服务","消息队列","Docker"]
 summary: "分享比特鹰后端开发岗春招面试经历。面试时长45分钟，核心考点涵盖Spring/Spring Boot框架原理、微服务架构、分布式组件、Redis持久化机制（RDB/AOF）、消息队列可靠性处理以及Docker应用，建议应届生重点复习分布式系统与Golang基础。"

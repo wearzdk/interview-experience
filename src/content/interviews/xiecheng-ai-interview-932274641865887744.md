@@ -4,6 +4,7 @@ company: 携程
 position: Java后端开发
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932274641865887744
 tags: ["HashMap","AQS","计算机网络","高并发架构","AI面试","校招"]

@@ -4,6 +4,7 @@ company: "中国电信"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/022938bb591641dd82465c951c01afd1
 tags: ["中国电信","笔试","模拟","构造","前缀和","算法"]

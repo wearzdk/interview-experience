@@ -4,6 +4,7 @@ company: 字节跳动
 position: 搜广推引擎架构
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949257815263027200
 tags: ["字节跳动","搜广推","Agent","HNSW","容量设计","TopK","系统设计"]

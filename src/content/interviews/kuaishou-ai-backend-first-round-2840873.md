@@ -4,6 +4,7 @@ company: 快手
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-23'
 source: 牛客网
 tags: ["Redis","MySQL","分库分表","Java并发","线程池"]
 summary: "快手27届暑期实习AI后端开发一面面经。面试涵盖项目难点、Redis与MySQL一致性、ShardingJDBC分库分表、Spring Event、Java并发容器及线程池原理，并考察有序链表删除重复节点的算法实现，适合后端开发备考参考。"

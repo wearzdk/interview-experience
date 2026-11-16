@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-10-07'
 source: 牛客网
 tags: ["Agent","ReAct","HashMap","MySQL","深分页","手撕代码"]
 summary: "字节后端二面面经（9 月 30 日），无反问、面试完当场懵。问题集中在实习项目里 Agent 的底层优化、ReAct 循环的伪代码实现、线程池代码 CR、HashMap 与数组为什么是 O(1)、以及 MySQL 深分页优化，另有四道手撕：ReAct 伪代码、线程池 CR、深分页改写、求第 n 个素数。"

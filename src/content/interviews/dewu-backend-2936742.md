@@ -4,6 +4,7 @@ company: "得物"
 position: "后端开发"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a872bd2e2d9940198ae8e70191e5c436
 tags: ["得物","后端","Agent","评测","Kafka","RocketMQ","Redis Cluster","平衡二叉树"]

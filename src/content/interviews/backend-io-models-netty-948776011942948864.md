@@ -3,6 +3,7 @@ title: "后端面试题：BIO/NIO/AIO 三种 IO 模型与 Netty 核心原理"
 company: "某公司"
 position: "后端开发"
 date: "2026-11"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/948776011942948864"
 tags: ["BIO","NIO","AIO","IO多路复用","epoll","Netty","Reactor","零拷贝","粘包","后端"]

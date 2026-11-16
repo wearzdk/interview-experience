@@ -4,6 +4,7 @@ company: 无锡友文物联科技
 position: Java后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过（放弃Offer）
 base: 无锡
 source: 牛客网

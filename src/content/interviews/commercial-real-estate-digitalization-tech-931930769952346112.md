@@ -3,6 +3,7 @@ title: "商业地产数字化技术岗面试：从收租转向经营用户要补
 company: "某商业地产数字化服务商"
 position: "数字化技术岗"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931930769952346112"
 tags: ["商业地产","全域运营数字化","会员营销","智能体","CRM","B端落地"]

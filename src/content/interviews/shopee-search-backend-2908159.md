@@ -4,6 +4,7 @@ company: 虾皮
 position: 搜索后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 result: 未通过
 source: 牛客网
 tags: ["Go", "Netty", "消息队列", "向量检索", "二叉树"]

@@ -4,6 +4,7 @@ company: 老虎国际
 position: Java 后端实习
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/839c89c4444e4d63a77f599bea365b8d
 tags: ["Java", "并发", "线程池", "事务", "Redis", "缓存击穿", "RAG"]

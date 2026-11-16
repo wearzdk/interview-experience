@@ -4,6 +4,7 @@ company: "广东亿迅科技"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "当天下午通知通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7cfb34fbb0c14b39b92874e84cc4344e

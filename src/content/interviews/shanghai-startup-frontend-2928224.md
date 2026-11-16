@@ -4,6 +4,7 @@ company: "上海某小厂"
 position: "前端开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["前端","工作流","LangChain","RAG","PDF解析","zod","TypeScript"]

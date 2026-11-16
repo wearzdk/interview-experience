@@ -4,6 +4,7 @@ company: "蔚来"
 position: "Java开发"
 round: "一面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 tags: ["Java", "Agent", "Redis", "并发", "库存", "Spring"]
 summary: "蔚来 Java 一面记录，重点考察智能 Agent 调度、电商库存扣减、Redis 与数据库一致性及 Spring 事务。"

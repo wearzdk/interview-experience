@@ -3,6 +3,7 @@ title: "深圳跨境电商 Java 面试：导入失败、优惠券与顺序消费
 company: "深圳某跨境电商公司"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Redis", "RocketMQ", "MySQL"]
 ---

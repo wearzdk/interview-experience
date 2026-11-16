@@ -4,6 +4,7 @@ company: 小红书
 position: PE（平台工程）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/af6e5670907b42d0b826864a516991da
 tags: ["Agent","缓存一致性","KV Cache","哈希表","接雨水"]

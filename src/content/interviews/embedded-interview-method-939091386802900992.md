@@ -3,6 +3,7 @@ title: "嵌入式面试到底在考什么：三种常见挂法与 12 个必被�
 company: 某公司
 position: 嵌入式
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939091386802900992
 tags: ["嵌入式","面试方法论","FreeRTOS","volatile","中断","DMA","优先级反转","栈溢出"]

@@ -4,6 +4,7 @@ company: "亿联网络"
 position: "嵌入式测试"
 round: "一面+二面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1449db1c2a764a83bde8e269b21b0e49
 tags: ["嵌入式测试","HR面","测试用例","自动化测试","音视频测试","秋招"]

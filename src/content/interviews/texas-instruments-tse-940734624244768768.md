@@ -4,6 +4,7 @@ company: "德州仪器"
 position: "销售工程师（TSE）"
 round: "校招面试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940734624244768768"
 tags: ["德州仪器","TSE","销售工程师","压力面","团队协作","结果导向","秋招"]

@@ -4,6 +4,7 @@ company: Bigo
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["RAG", "MySQL", "Redis", "RabbitMQ", "JVM"]
 summary: "Bigo后端开发二面面经，围绕RAG与自动修复项目深挖，并考察消息可靠性、MySQL执行计划、Redis缓存、Spring、JVM、网络和算法。"

@@ -4,6 +4,7 @@ company: 泰凌微
 position: 嵌入式软件
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939104443180634112
 tags: ["嵌入式","C语言","FreeRTOS","SPI","I2C","Linux驱动","字符设备","多态","低功耗无线"]

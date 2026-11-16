@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端（用户增长）
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 凉经
 source: 牛客网
 tags: ["Java","Redis","MySQL","计算机网络","消息队列","算法"]

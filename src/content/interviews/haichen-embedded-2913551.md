@@ -3,6 +3,7 @@ title: "海辰储能嵌入式软件面试：RTOS 锁与 Bootloader"
 company: "海辰储能"
 position: "嵌入式软件"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["嵌入式", "RTOS", "Bootloader", "YOLO", "串口通信", "滤波"]
 summary: "9 月 19 日海辰储能嵌入式软件岗面试记录，全程 35 分钟左右。面试官先介绍公司业务，随后围绕三个项目轮流提问，技术问题集中在 RTOS 锁竞争、持锁时发生中断、Bootloader 单分区升级、YOLO 训练机制和串口上传实时性。"

@@ -4,6 +4,7 @@ company: "淘天集团"
 position: "Agent算法"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938132643529375744"
 tags: ["淘天集团","Agent算法","秋招","一面","实习项目","自我介绍","面试流程"]

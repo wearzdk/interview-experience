@@ -4,6 +4,7 @@ company: 神州信息
 position: Java开发工程师
 round: 技术面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 挂
 base: 合肥
 source: 牛客网

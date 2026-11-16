@@ -3,6 +3,7 @@ title: "搜狐运营实习上岸复盘：双非硕士的投递节奏与面试体
 company: 搜狐
 position: 运营实习生
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/33d853e8508347b298f6e0989d810369
 tags: ["搜狐","运营实习","简历深挖","实习投递","面试复盘"]

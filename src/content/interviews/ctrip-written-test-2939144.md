@@ -4,6 +4,7 @@ company: 携程
 position: 技术岗
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/56a82bfe0f8a4f098ba04736bbea6f28
 tags: ["携程","笔试","算法题","AI Coding","哈希表"]

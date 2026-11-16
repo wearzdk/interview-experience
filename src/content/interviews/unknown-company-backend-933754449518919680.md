@@ -3,6 +3,7 @@ title: "第一次当面试官：两个候选人的对比"
 company: "某公司"
 position: "后端开发"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933754449518919680
 tags: ["面试官视角", "Java基础", "数据库", "Redis", "AI编程"]

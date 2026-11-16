@@ -3,6 +3,7 @@ title: 富卫保险Java开发实习生面试经验
 company: 富卫保险
 position: Java开发实习生
 date: '2026-04'
+collectedAt: '2026-04-22'
 source: 牛客网
 tags: ["Java基础","MySQL","Spring Boot","多线程","性能测试"]
 summary: "富卫保险Java开发实习生面试题整理，涵盖HashMap、ConcurrentHashMap、事务隔离级别、MySQL慢查询与索引优化、Spring Boot/Cloud、AOP以及多线程并发处理等核心技术，助你高效备考。"

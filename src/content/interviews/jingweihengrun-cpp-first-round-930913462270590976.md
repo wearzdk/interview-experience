@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "C++后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930913462270590976"
 tags: ["C++", "TCP", "STL", "智能指针", "多线程", "epoll"]

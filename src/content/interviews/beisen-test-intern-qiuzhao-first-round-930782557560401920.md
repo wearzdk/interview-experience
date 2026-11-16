@@ -4,6 +4,7 @@ company: "北森"
 position: "测试开发"
 round: "实习一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930782557560401920"
 tags: ["测试开发","软件测试","HTTP3","QUIC","UI自动化","接口幂等","SQL优化","秋招实习"]

@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "嵌入式开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930849481887612928"
 tags: ["嵌入式", "二面", "面试流程", "综合面", "PPT汇报", "求职经验"]

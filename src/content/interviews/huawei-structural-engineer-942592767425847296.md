@@ -4,6 +4,7 @@ company: "华为"
 position: "结构工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942592767425847296"
 tags: ["华为","结构工程师","硬件","传感器","量产","项目管理"]

@@ -3,6 +3,7 @@ title: 嵌入式大厂面试核心要素总结：从 C 语言到项目复盘
 company: 某嵌入式大厂
 position: 嵌入式软件开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931177170972442624
 tags: ["嵌入式","C语言","RTOS","ARM","Linux驱动","通信协议","项目复盘"]

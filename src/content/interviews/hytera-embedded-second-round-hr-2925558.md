@@ -4,6 +4,7 @@ company: "海能达"
 position: "嵌入式软件开发"
 round: "二面+HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ad40edd937e24449829e33f91794011d
 tags: ["海能达","嵌入式","二面","HR面","音频框架","YUV转RGB","I2S"]

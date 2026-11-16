@@ -4,6 +4,7 @@ company: 格见半导体
 position: 嵌入式软件开发
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5316ea657ff74df4be3172b05985d33a
 tags: ["格见半导体","嵌入式","C语言","MCU","项目拷打","技术面"]

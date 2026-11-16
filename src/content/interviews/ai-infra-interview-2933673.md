@@ -4,6 +4,7 @@ company: "某互联网公司"
 position: "AI Infra"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e30ca62858b840ba8d825877611a9bba
 tags: ["AI Infra", "TensorRT", "KV Cache", "并发压测", "FastAPI"]

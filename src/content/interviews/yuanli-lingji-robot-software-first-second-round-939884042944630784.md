@@ -4,6 +4,7 @@ company: "原力灵机"
 position: "机器人软件工程"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "一、二面已过，等终面"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939884042944630784

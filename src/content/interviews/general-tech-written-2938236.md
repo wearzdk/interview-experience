@@ -4,6 +4,7 @@ company: 通用
 position: 技术岗
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/560a54ed161644b49b4153c159d73799
 tags: ["笔试","动态规划","树状数组","线段树","算法"]

@@ -4,6 +4,7 @@ company: "中国银行"
 position: "信息科技岗"
 round: "面试真题合集"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943837727244537856
 tags: ["中国银行","银行科技岗","信息科技岗","面试真题","SQL","索引","在线支付","风控","求职动机"]

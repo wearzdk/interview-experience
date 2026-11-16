@@ -3,6 +3,7 @@ title: "科沃斯前端实习面试：SSE 与事件循环、AI 工具用法"
 company: "科沃斯"
 position: "前端开发"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["前端","SSE","WebSocket","事件循环","防抖节流","AI工具"]
 summary: "科沃斯助理开发工程师实习面试面经，14 个问题覆盖前端八股与 AI 工程实践：SSE 与 WebSocket 的区别、路由懒加载与组件按需加载、createVNode 与 render 流程、防抖节流的选型、事件循环与微任务宏任务，以及用 AI 工具做长程任务的方法。"

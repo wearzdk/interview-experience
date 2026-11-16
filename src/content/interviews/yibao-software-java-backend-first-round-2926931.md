@@ -4,6 +4,7 @@ company: "易宝软件（快手外包）"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "一面已过"
 base: "杭州"
 source: 牛客网

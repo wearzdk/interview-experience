@@ -4,6 +4,7 @@ company: "顺丰"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["后端","Redis","MySQL","消息队列","Agent","CAS","线程池"]
 summary: "顺丰一面面经：以八股速问为主，覆盖 AI 全栈的理解、缓存三剑客、Redis 内存过期策略、MySQL 索引失效、消息重试与消息丢失、Agent 的理解、CAS、线程池与事务隔离机制，最后拷打实习与项目。"

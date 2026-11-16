@@ -3,6 +3,7 @@ title: "云徙科技产品岗面试：xGOS.AI 这类企业级 AI 产品怎么讲
 company: "云徙科技"
 position: "产品岗（企业级AI方向）"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931930667888181248"
 tags: ["云徙科技","产品岗","企业级AI","xGOS.AI","智能体","中台","B端产品"]

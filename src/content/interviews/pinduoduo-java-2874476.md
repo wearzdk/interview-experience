@@ -3,6 +3,7 @@ title: "拼多多 Java 服务端一面面经"
 company: "拼多多"
 position: "Java后端开发工程师"
 date: '2026-07'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","JVM","并发","计算机网络"]
 summary: "拼多多Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、JVM等考点，整理了面试流程与高频问题。"

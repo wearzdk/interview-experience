@@ -4,6 +4,7 @@ company: "拼多多"
 position: "招商运营管培生"
 round: "一面+二面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940739762929795072"
 result: "已收到 offer"

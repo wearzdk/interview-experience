@@ -4,6 +4,7 @@ company: 美团
 position: 全栈开发（日常实习）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/95e9fc44397d4118ba3946ef0d33b6da
 tags: ["Agent","ReAct","RAG","多Agent","MCP","Skills","微服务","Redis","WebSocket","ClickHouse","Neo4j"]

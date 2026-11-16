@@ -4,6 +4,7 @@ company: "多益网络"
 position: "技术岗"
 round: "全流程"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已 offer（放弃）"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940749709767942144"

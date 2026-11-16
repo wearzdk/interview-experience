@@ -4,6 +4,7 @@ company: 拼多多
 position: 大模型算法
 round: hr面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932677653218197504
 tags: ["大模型算法","HR面","职业规划","背景合规","求职流程"]

@@ -4,6 +4,7 @@ company: "懂车帝"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f091d216802a4264a677c65982fb751a
 tags: ["懂车帝","后端开发","秒杀系统","分布式锁","ReAct","Agent上下文","消息队列","缓存一致性"]

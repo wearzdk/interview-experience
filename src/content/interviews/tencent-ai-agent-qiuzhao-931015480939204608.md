@@ -3,6 +3,7 @@ title: 腾讯AI Agent开发岗三场面经（评测、Agent Loop与内容安全�
 company: 腾讯
 position: AI Agent开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931015480939204608
 tags: ["AI Agent","大模型","评测集","内容安全","RAG","腾讯"]

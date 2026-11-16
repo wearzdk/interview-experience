@@ -4,6 +4,7 @@ company: "未知公司"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1f64e96cac1d4e29a6a8481b732f153a
 tags: ["Java","MySQL","JVM","RBAC","HashMap","Spring Boot","MyBatis"]

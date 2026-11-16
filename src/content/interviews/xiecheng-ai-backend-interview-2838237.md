@@ -4,6 +4,7 @@ company: 携程
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 source: 牛客网
 tags: ["Java","Redis","MySQL","RabbitMQ","算法"]
 summary: "携程AI后端开发实习一面面经，重点考察Redis限流原理、MySQL分布式事务（AT模式）、RabbitMQ消息可靠性及高频算法题。涵盖Java基础、高并发处理及系统设计，适合后端开发求职者备考参考。"

@@ -4,6 +4,7 @@ company: 顺丰
 position: AI全栈研发
 round: 初试+复试
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["顺丰","AI全栈","AI编程","MySQL","RabbitMQ","幂等","二分查找"]

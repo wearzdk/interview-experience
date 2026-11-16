@@ -4,6 +4,7 @@ company: "某厂"
 position: "AI产品经理"
 round: "一面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 base: "深圳"
 source: 牛客网
 tags: ["AI产品", "项目深挖", "Java", "实习", "产品经理"]

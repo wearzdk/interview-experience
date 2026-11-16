@@ -4,6 +4,7 @@ company: "袋鼠云"
 position: "Node.js后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5e0f7654ba6a438292f049dbce5c17ca

@@ -4,6 +4,7 @@ company: 顺丰
 position: Java开发
 round: HR面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["HR面","职业规划","求职心态"]
 summary: "顺丰 Java 岗线下终试 HR 面记录，问题密度高、追问细。涵盖 AI 学习路径与对科研的影响、为什么选 Java 而不是 AI、实习中最大的收获与困难、性格自评、多任务并行的时间协调、跨部门沟通、压力释放方式、可接受 base 与未来职业规划。"

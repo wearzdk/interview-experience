@@ -4,6 +4,7 @@ company: "袋鼠云"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/44d9b60bbd964723a9b5850a36541897
 tags: ["袋鼠云","前端开发","AI应用","会话上下文","Agent","流式输出","权限设计"]

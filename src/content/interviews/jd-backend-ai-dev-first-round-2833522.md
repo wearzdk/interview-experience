@@ -4,6 +4,7 @@ company: 京东
 position: 后端AI开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["RAG","Elasticsearch","Java并发","Spring AOP","分布式锁"]
 summary: "京东后端AI开发实习生一面面经，面试重点考察RAG检索增强生成、ES底层原理、分布式锁（Redisson）、Spring AOP机制及Java并发编程（ThreadLocal）。内容覆盖模型应用与后端工程能力，适合准备AI后端岗位的求职者参考。"

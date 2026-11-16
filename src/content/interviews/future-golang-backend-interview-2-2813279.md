@@ -4,6 +4,7 @@ company: 好未来
 position: golang后端开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: oc
 source: 牛客网
 tags: ["Golang","MySQL","Redis","TCP-IP","线上故障排查"]

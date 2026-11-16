@@ -4,6 +4,7 @@ company: 字节跳动
 position: 全栈开发工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["全栈开发","前端","JavaScript","Vue","SSE"]
 summary: "字节跳动中国交易与广告全栈一面。先问 Vue 3 Composition API 的原理与优势，再手撕带并发限制的异步调度器并追问 while 改 if 的原因，最后深挖 SSE 断线重连、流式半 JSON 解析与首屏优化。"

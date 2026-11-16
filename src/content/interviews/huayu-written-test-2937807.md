@@ -4,6 +4,7 @@ company: 华宇
 position: "AI 应用"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e7839e764b1c4ca4a6ddd394332f52bf
 tags: ["华宇","AI应用","笔试","Java","二叉树","模拟题"]

@@ -4,6 +4,7 @@ company: "禾赛科技"
 position: "AI Infra"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4edb974c5f74ff1b2225cc0bfe4ab44
 tags: ["禾赛科技", "AI Infra", "FlashAttention", "CUDA", "性能分析", "算子优化"]

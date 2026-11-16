@@ -4,6 +4,7 @@ company: 掌上先机
 position: Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/904421894563164160
 tags: ["Java","AI编程","项目经验","实习规划","职业发展"]

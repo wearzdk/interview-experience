@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["后端","Go","MySQL","网络","性能优化","AI Agent"]
 summary: "美团核心本地商业后端一面：实习项目逐条深挖 COW 优化、插桩开销、异步日志完整性，八股覆盖 epoll 触发模式、TCP 拥塞控制、Go 的 GMP 与 defer、Raft 一致性，算法是零钱兑换和删除链表倒数第 N 个节点。"

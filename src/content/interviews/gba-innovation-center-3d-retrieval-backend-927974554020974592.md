@@ -4,6 +4,7 @@ company: 粤港澳大湾区国创中心
 position: 三维检索后端开发实习
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 result: 通过
 base: 广州
 source: 牛客网

@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: 后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["微服务","服务注册发现","RPC","负载均衡","Agent治理","RAG","评测体系","AI Code Review"]
 summary: "哔哩哔哩9月22日二面，围绕服务注册发现与RPC调用链路、控制面流量规则下发与同机房选路、负载均衡策略展开，并深入Agent在规范治理中的角色、评测体系指标与RAG检索优化。"

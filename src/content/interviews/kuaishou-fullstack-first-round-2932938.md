@@ -4,6 +4,7 @@ company: "快手"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b2558bd475045779f2739badecffc7c
 tags: ["快手", "全栈", "校招", "一面", "实习项目", "广告业务"]

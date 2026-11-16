@@ -4,6 +4,7 @@ company: "海信"
 position: "AI软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60a20f85a6de4be9a60bc3e6f3ffd6d3
 tags: ["海信","AI软件开发","Nacos","Redis","限流","SSE","慢SQL"]

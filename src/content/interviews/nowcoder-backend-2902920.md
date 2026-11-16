@@ -3,6 +3,7 @@ title: "ks日常实习后端一面凉经"
 company: "未透露"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "TCP", "AI", "消息队列", "算法"]
 summary: "ks日常实习后端一面凉经，整理面试中涉及的Java、MySQL、Redis、TCP等重点问题，供求职者准备相关岗位面试时参考。"

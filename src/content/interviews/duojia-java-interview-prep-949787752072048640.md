@@ -4,6 +4,7 @@ company: 通用
 position: 面试准备
 round: 面试准备
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949787752072048640
 tags: ["Java后端","面试准备","八股","场景题","项目复盘","谈薪"]

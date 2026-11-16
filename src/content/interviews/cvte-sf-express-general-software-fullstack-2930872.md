@@ -4,6 +4,7 @@ company: "CVTE、顺丰"
 position: "通用软件、全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3a666b1be939472ab0b3949560dc404e
 tags: ["CVTE", "顺丰", "全栈", "JWT", "令牌重放", "延时队列", "提示词注入"]

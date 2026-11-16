@@ -3,6 +3,7 @@ title: "面了100多个Unity开发岗，面试官总结了7条经验"
 company: "某游戏公司"
 position: "Unity开发"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/930771009169260544
 tags: ["Unity","游戏开发","面试经验","简历","性能优化","秋招"]

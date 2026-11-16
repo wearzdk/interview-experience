@@ -4,6 +4,7 @@ company: "禾赛科技"
 position: "系统安全工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 result: "挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/044da4eae0804404bbabf74d229ead02

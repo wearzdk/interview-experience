@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Agent", "MCP", "系统设计", "Java", "算法"]
 ---

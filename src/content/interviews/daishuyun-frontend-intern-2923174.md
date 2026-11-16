@@ -3,6 +3,7 @@ title: "袋鼠云前端开发实习面经：闭包陷阱、事件循环与文件
 company: "袋鼠云"
 position: "前端开发实习"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2d159b7d6ec444918c0d54b874bca6b6"
 tags: ["袋鼠云","前端开发","实习","闭包","事件循环","TypeScript","文件上传","AI应用"]

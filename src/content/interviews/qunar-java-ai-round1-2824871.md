@@ -4,6 +4,7 @@ company: 去哪儿旅行
 position: Java工程师（AI方向）
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 疑似未通过
 source: 牛客网
 tags: ["Java","并发编程","MySQL索引","HTTPS","系统设计","加密"]

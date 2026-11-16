@@ -4,6 +4,7 @@ company: "九方智投"
 position: "数仓开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/631fcd0ac7984da4be5ddcd11e1f766b
 tags: ["九方智投","数仓开发","Agent","知识库","效果评估","Flink","RAG"]

@@ -3,6 +3,7 @@ title: 蔚来工具链云平台全栈开发实习面经
 company: 蔚来
 position: 工具链云平台全栈开发实习生
 date: '2026-04'
+collectedAt: '2026-04-22'
 base: 上海
 source: 牛客网
 tags: ["Java","Spring Boot","Kafka","Vue3","Redis","Linux"]

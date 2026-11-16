@@ -3,6 +3,7 @@ title: "消费行业数智化服务商面试：会员数据怎么分层，分层
 company: "消费行业数智化服务商"
 position: "数据分析"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934767634854215680
 tags: ["会员数据", "标签体系", "RFM", "数据分层", "用户运营", "OneID"]

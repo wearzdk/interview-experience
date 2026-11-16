@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后台开发"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934756038690033664
 tags: ["C++", "MySQL", "Kafka", "操作系统", "算法", "概率题", "网络协议"]

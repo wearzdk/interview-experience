@@ -4,6 +4,7 @@ company: "药明生物"
 position: "项目管理"
 round: "群面+单面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940738083366920192"

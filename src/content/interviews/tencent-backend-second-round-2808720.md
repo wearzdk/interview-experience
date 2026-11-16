@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["MySQL","Redis","微服务","消息队列","算法"]
 summary: "腾讯后台开发二面面经，重点考察项目细节与底层原理。涉及LRU缓存、合并区间算法题；八股文涵盖RabbitMQ与Kafka对比、微服务优劣、MySQL事务与MVCC、索引底层实现（B+树）、Redis哨兵与集群、以及Spring Boot类加载机制等核心技术点。"

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 网络基础设施
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/13b378abfd5f40b0bb4b59b6c416a905
 tags: ["Go", "GMP", "幂等", "分布式锁", "令牌桶", "LRU", "系统设计"]

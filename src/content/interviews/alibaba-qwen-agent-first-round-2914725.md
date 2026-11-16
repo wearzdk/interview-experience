@@ -4,6 +4,7 @@ company: "阿里巴巴（千问）"
 position: "AI 研发（Agent 方向）"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["Agent","LangChain","LangGraph","工具调用","大模型","Python"]

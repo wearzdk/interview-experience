@@ -3,6 +3,7 @@ title: "东软集团线下面试：Java 基础、RAG 与 Session"
 company: "东软集团"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "Spring", "MySQL", "RAG", "Session"]
 summary: "9 月 17 日商用软件事业部线下面试，约二十分钟，主要确认实习经历、技术基础及出差意愿。"

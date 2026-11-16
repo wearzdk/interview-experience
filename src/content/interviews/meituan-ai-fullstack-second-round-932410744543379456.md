@@ -4,6 +4,7 @@ company: 美团
 position: AI全栈开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932410744543379456
 tags: ["AI全栈","RAG","Agent编排","缓存一致性","评测体系","LRU"]

@@ -4,6 +4,7 @@ company: "泛联新安"
 position: "研发岗"
 round: "HR初面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7adc47e38a7741378703510fce45816e"
 tags: ["泛联新安", "研发岗", "HR面", "秋招", "职业规划"]

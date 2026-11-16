@@ -4,6 +4,7 @@ company: 广联达
 position: Java后端
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-19'
 source: 牛客网
 tags: ["Java", "JVM", "类加载", "RAG"]
 summary: "广联达秋招 AI 面试题记录，前半程围绕 Java 类加载机制、双亲委派与 JVM 内存区域深挖，后半程追问实习项目与 RAG 检索链路的查询重写、精排和混合检索设计。"

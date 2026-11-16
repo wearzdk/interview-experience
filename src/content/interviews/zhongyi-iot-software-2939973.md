@@ -4,6 +4,7 @@ company: 中移物联网
 position: 软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b7b9d9c8356144fdb5255c3c32a3bba1
 tags: ["中移物联网","国企","技术面","项目复盘","AI工具","提效"]

@@ -4,6 +4,7 @@ company: 快手
 position: 前端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["前端","RAG","pgvector","BM25","RRF","SSE","AI Coding"]
 summary: "快手前端一面面经，题目围绕 AI 链路展开：DFS 实时循环与成环、为什么选 pgvector、BM25 与 RRF 融合、多 store 分片、解析缓冲与渲染缓冲、节奏控制、SSE 不完整行处理；AI Coding 环节本想自己下载题目，结果 AI 直接把题做完。"

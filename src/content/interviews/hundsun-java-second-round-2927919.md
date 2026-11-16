@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "Java 开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f446671668934eb5bad4660f9563fb69"
 tags: ["恒生电子", "Java", "HR面", "AI", "职业规划"]

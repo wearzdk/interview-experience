@@ -3,6 +3,7 @@ title: 多公司后端与全栈面经合集：字节、百度、美团、B站、
 company: 某公司
 position: 后端开发工程师
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932058602422956032
 tags: ["后端开发","Go","Redis","MySQL","Agent","面试合集"]

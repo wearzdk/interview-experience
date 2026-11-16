@@ -4,6 +4,7 @@ company: "南方基金"
 position: "平台研发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939917279725211648
 tags: ["南方基金","平台研发","Java","MAT分析","OOM","本地缓存","分布式缓存","GC-Root","并发","锁"]

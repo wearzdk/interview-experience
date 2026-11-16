@@ -4,6 +4,7 @@ company: 联芸科技
 position: 嵌入式软件开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931092512616304640
 tags: ["嵌入式","C语言","中断","DMA","内存管理","链接脚本"]

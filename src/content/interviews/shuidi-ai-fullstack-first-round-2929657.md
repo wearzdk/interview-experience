@@ -4,6 +4,7 @@ company: "水滴"
 position: "AI全栈工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/385f08ed4232436aa3e86f53cc2c26de
 tags: ["全栈", "操作系统", "TCP", "Agent", "RAG", "提示词工程"]

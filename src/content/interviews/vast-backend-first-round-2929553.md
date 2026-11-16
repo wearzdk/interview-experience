@@ -5,6 +5,7 @@ position: "后端开发"
 round: "一面"
 result: "凉经"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e48d4e6208e49f7bc42c7790bc777dd
 tags: ["后端", "可观测性", "Go", "Kubernetes", "AI编程", "实习"]

@@ -4,6 +4,7 @@ company: "大疆"
 position: "数字化产品经理"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942882031346671616
 tags: ["大疆", "产品经理", "笔试", "红黑树", "LC101", "AI编程"]

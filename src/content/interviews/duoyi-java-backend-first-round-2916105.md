@@ -4,6 +4,7 @@ company: "多益网络"
 position: "Java后端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["Java","MySQL","索引","深拷贝","算法题","场景设计"]
 summary: "多益网络 Java 后端一面面经：先拷打项目和只有一人负责的实习经历，再问 MySQL 索引与 Java 深拷贝的实现方式，手撕一道 hot100 的轮转数组，最后是一道「高德地图怎么预测到达时间」的场景设计题。"

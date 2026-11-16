@@ -3,6 +3,7 @@ title: "星网锐捷 C++ 岗面经：IIC 与 SPI 选型、量化与显存"
 company: "星网锐捷"
 position: "C++ 开发（驱动与嵌入式）"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ad46ee250db94dcda3a3a686da91b234
 tags: ["星网锐捷","C++","嵌入式","驱动开发","IIC","SPI","模型量化"]

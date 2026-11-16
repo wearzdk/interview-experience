@@ -4,6 +4,7 @@ company: "小米"
 position: "嵌入式软件工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935207885405978624
 tags: ["嵌入式","FreeRTOS","Linux","中断","项目深挖","调试"]

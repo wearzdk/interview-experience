@@ -4,6 +4,7 @@ company: 寒武纪
 position: C++开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949235115660472320
 tags: ["寒武纪","C++","虚函数","智能指针","STL","模板","秋招"]

@@ -4,6 +4,7 @@ company: 携程
 position: 前端
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/86a756a382f94968b71b65c62307f772
 tags: ["前端","JavaScript","Flex布局","虚拟列表","React","闭包"]

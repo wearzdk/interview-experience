@@ -4,6 +4,7 @@ company: 小红书
 position: PE社区工程
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 result: 未通过
 source: 牛客网
 tags: ["Java", "设计模式", "HTTP", "WebSocket", "Elasticsearch"]

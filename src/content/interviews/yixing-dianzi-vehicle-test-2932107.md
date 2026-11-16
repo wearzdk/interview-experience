@@ -4,6 +4,7 @@ company: "怿星电子科技"
 position: "汽车电子测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b7576c0b63ad4e1598aba7140ba36197
 tags: ["车载测试","软件测试","Linux","SQL","Python","自动化测试","手撕代码"]

@@ -4,6 +4,7 @@ company: 携程
 position: Java后端
 round: AI面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939113463308095488
 tags: ["Java","MySQL","InnoDB","间隙锁","ConcurrentHashMap","CAS","线程池","Redis Cluster","RAG","HTTP3"]

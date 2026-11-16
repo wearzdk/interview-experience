@@ -4,6 +4,7 @@ company: 字节跳动
 position: 软件开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: OC
 base: 江苏
 source: 牛客网

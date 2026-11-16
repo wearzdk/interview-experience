@@ -4,6 +4,7 @@ company: "BIGO"
 position: "音视频 SDK 开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["C++","音视频","内存管理","多线程","渲染管线","编译链接","操作系统"]
 summary: "BIGO 音视频 SDK 开发一面面经，覆盖移动语义与移动构造触发条件、delete 与 free 的差异及分配器元数据、虚拟地址空间与调用栈、进程与线程的通信方式、线程池与 CacheLine 伪共享、条件变量生产者消费者，以及 MVP 变换、渲染管线与动态链接 PLT/GOT。"

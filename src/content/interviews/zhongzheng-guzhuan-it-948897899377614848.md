@@ -4,6 +4,7 @@ company: 中证股转
 position: 信息技术
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948897899377614848
 tags: ["中证股转","信息技术","校招","MySQL","浏览器渲染","跨端","金融科技"]

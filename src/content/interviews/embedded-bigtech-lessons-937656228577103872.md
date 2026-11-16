@@ -3,6 +3,7 @@ title: 面了几十家嵌入式大厂才明白的八条道理
 company: 嵌入式大厂
 position: 嵌入式软件开发
 date: '2026-10'
+collectedAt: '2026-10-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937656228577103872
 tags: ["嵌入式","秋招","求职复盘","面试方法","职业规划"]

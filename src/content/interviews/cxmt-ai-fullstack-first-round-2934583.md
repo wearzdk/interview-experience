@@ -4,6 +4,7 @@ company: "长鑫存储"
 position: "AI全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/712626e9f6114e6ebdffe11d83d19ff7
 tags: ["长鑫存储","AI全栈","ReAct","RAG","多线程","harness"]

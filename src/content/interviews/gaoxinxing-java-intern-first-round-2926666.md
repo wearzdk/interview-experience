@@ -4,6 +4,7 @@ company: "高新兴科技集团"
 position: "Java开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/345cb11c2a894d50a5ed3efc269ef1db
 tags: ["Java","Redis","Kafka","HashMap","Spring","TCP","WebSocket"]

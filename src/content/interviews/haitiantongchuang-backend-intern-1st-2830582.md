@@ -4,6 +4,7 @@ company: 海天同创
 position: 后端日常实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["操作系统","RAG","分布式","MySQL","WebSocket"]
 summary: "海天同创后端日常实习一面面经，面试官重点考察了操作系统基础、AI RAG项目切分优化、分布式即时通讯架构、WebSocket应用、MySQL读写分离一致性以及跨域处理方案，并探讨了AI对编程的影响。"

@@ -4,6 +4,7 @@ company: 美团
 position: AI 社媒运营实习
 round: "一面、二面"
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9068f03dfc4a4df194492905800a7664
 tags: ["美团","AI 短剧","社媒运营","短视频","可灵","账号诊断","实习"]

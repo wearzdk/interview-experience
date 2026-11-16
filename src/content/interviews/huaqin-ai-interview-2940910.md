@@ -4,6 +4,7 @@ company: 华勤
 position: 综合岗（AI 面试）
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/524d86d1853c4e3080d2747014651306
 tags: ["华勤","AI面试","综合岗","行为面试","追问","性格测评"]

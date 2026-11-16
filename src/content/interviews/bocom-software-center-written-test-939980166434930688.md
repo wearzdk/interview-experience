@@ -4,6 +4,7 @@ company: "交通银行"
 position: "软件开发中心（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939980166434930688
 tags: ["交通银行","银行科技岗","笔试","软件开发中心","行测","计算机基础","校招"]

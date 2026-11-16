@@ -4,6 +4,7 @@ company: 某公司
 position: Java 开发
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/96d4b2ae120b4f338b6e72ff9678d739
 tags: ["Java","笔试","测评","八股文","编程题"]

@@ -3,6 +3,7 @@ title: "腾讯 Agent Infra 面经：SGX 沙箱与推理性能排查"
 company: "腾讯"
 position: "Agent Infra 开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931894895701159936"
 tags: ["Agent","Agent Infra","SGX","状态恢复","KV Cache","vLLM","推理优化"]

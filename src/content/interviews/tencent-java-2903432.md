@@ -4,6 +4,7 @@ company: "腾讯"
 position: "Java开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "项目设计", "系统设计"]
 summary: "腾讯Java一面记录，主要围绕项目基础信息和项目改造方案展开。"

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "主管面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1c75016b87a5410fb581a4ae2a2c9359
 tags: ["Go","MySQL","分布式锁","DNS","TCP","算法","主管面"]

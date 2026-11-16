@@ -4,6 +4,7 @@ company: "字节跳动（TikTok）"
 position: "广告基础设施（Ads Infra）"
 round: "四面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e67a7683c6584c4e95e93cfa71957380"
 tags: ["字节跳动", "TikTok", "广告基础设施", "micro benchmark", "生成式召回", "低延迟", "论文阅读"]

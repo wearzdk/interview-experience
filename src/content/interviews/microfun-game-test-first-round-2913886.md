@@ -4,6 +4,7 @@ company: 柠檬微趣
 position: 游戏测试工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["柠檬微趣","游戏测试","测试用例","HTTP","Jmeter","SQL","概率题"]

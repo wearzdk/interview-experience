@@ -4,6 +4,7 @@ company: 快手
 position: Java开发实习
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","AI编程","Harness","工具调用","线上排障","多数据源"]
 summary: "快手商家技术电商方向 Java 日常实习一面，几乎全程围绕 AI coding 项目追问：分布式脚本执行服务的实现思路、从 0 到 1 用 harness 手段保证 AI 生成代码的质量、十万行规模项目的迭代质量保障、上下文工程与工具调用可靠性，另有一道线上 CPU 打满的排查题和一道业务线推广的架构设计题。"

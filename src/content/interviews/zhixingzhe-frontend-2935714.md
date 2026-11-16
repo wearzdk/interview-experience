@@ -3,6 +3,7 @@ title: "智行者校招一面：AI Coding、JS 错误监控 SDK 与快排"
 company: 智行者
 position: 前端开发
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/682342dcb33641deac49d5f66880f5a8
 tags: ["AI Coding", "前端", "错误监控", "SDK", "算法", "Agent记忆"]

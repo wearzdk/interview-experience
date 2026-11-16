@@ -4,6 +4,7 @@ company: "库犸科技"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e8d8c46c09e4e7ebd3ce5f993d88c45
 tags: ["库犸科技","嵌入式","FreeRTOS","堆内存","栈","消息队列","中断"]

@@ -3,6 +3,7 @@ title: 9.2吉利秋招java一面
 company: 吉利
 position: Java开发工程师
 date: '2026-09'
+collectedAt: '2026-09-02'
 source: 牛客网
 tags: ["Java", "线程池", "Redis", "JVM", "并发"]
 summary: 吉利秋招 Java 一面，围绕限流、HashMap、线程池、Redis List、synchronized 和单例展开。

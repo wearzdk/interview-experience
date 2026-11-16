@@ -4,6 +4,7 @@ company: 中望软件
 position: C++开发工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931168011086548992
 tags: ["C++","STL","多态","虚函数","移动语义","多线程"]

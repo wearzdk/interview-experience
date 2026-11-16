@@ -4,6 +4,7 @@ company: "腾讯"
 position: "大模型算法工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["大模型","Agent","强化学习","GRPO","注意力机制","工具调用"]
 summary: "腾讯大模型算法岗一面二面面经：一面考多头注意力实现、ReAct、多轮工具调用的 RL 损失与 GRPO、GSPO；二面考多工具 Agent 的 SFT、rollout 奖励与端到端时延归因。"

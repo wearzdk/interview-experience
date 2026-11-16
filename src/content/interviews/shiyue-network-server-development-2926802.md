@@ -4,6 +4,7 @@ company: "诗悦网络"
 position: "服务器开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7dc1365a606e4f3aab5d326ba65ae6c7
 tags: ["诗悦网络","服务器开发","笔试","校招","AI辅助","时间分配"]

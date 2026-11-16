@@ -4,6 +4,7 @@ company: "南京恒力"
 position: "电机控制软件"
 round: HR面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931536643905900544
 tags: ["电机控制","SVPWM","HR面","MBD","嵌入式","秋招"]

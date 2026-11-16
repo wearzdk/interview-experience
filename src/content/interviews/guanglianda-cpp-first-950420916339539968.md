@@ -4,6 +4,7 @@ company: 广联达
 position: C++ 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950420916339539968
 tags: ["广联达","C++","系统开发","内核","AI辅助编程","Agent","数据库","三维","CAD","工程造价"]

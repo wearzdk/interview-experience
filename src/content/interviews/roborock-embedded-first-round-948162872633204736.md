@@ -4,6 +4,7 @@ company: "石头科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948162872633204736
 tags: ["石头科技", "嵌入式", "C语言", "DMA", "内存对齐", "扫地机"]

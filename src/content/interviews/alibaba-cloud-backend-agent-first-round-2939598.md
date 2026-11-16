@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "后端开发（AI Agent 平台）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2d7d87cab1c41c6a70d9eef166ec1c1
 tags: ["阿里巴巴","阿里云","AI平台","大模型网关","SSE","背压","服务发现","JSF","系统设计","面经"]

@@ -4,6 +4,7 @@ company: 腾讯
 position: 测试开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f82f5b604a8e456789e42e8df6e4a928
 tags: ["腾讯","WXG","测试开发","实习","手撕算法","合并区间"]

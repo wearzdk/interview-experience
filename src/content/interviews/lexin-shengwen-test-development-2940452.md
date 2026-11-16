@@ -4,6 +4,7 @@ company: 乐信圣文
 position: 测试开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0e88a8a4f993446585b83d3313f4bf98
 tags: ["乐信圣文","测试开发","资金安全","问题排查","AI评测","数据一致性"]

@@ -4,6 +4,7 @@ company: "武汉联特"
 position: "未注明"
 round: "HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f1b84a9e3c2b4dd180cb923db60a70cd"
 tags: ["武汉联特","HR面","秋招","期望薪资","工作地点","面试流程"]

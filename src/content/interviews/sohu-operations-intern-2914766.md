@@ -4,6 +4,7 @@ company: "搜狐"
 position: "运营实习生"
 round: 一面、二面
 date: '2026-08'
+collectedAt: '2026-09-22'
 result: 已OC
 source: 牛客网
 tags: ["实习","运营","面试流程","活动策划","实习日常"]

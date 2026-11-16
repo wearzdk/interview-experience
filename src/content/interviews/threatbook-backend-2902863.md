@@ -3,6 +3,7 @@ title: "微步在线 一面 8.31"
 company: "微步在线"
 position: "后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "并发", "TCP", "AI", "数据库", "算法"]
 summary: "微步在线 一面 8.31，整理面试中涉及的Java、并发、TCP、AI等重点问题，供求职者准备相关岗位面试时参考。"

@@ -4,6 +4,7 @@ company: "携程"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/23ca5750f8b340bda902be6bba046a76
 tags: ["携程","大模型算法","多Agent","RAG","意图路由","评测"]

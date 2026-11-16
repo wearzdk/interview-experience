@@ -3,6 +3,7 @@ title: "扒了 35 家 AI 公司面经，考最多的居然不是 Transformer"
 company: "某公司"
 position: "算法工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["大模型","KV Cache","MoE","RAG","系统设计"]
 summary: "汇总 35 家大模型公司约 600 道面经题后的高频考点复盘：出现次数最多的是 KV 缓存与显存计算，其次是 MoE 的路由与负载均衡、Prompt 与 RAG 和微调的选型，以及面向海量用户的聊天助手系统设计。"

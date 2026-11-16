@@ -4,6 +4,7 @@ company: "比亚迪"
 position: "软件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937299926717853696
 tags: ["比亚迪","校招","一面","自我介绍","实习经历"]

@@ -4,6 +4,7 @@ company: "拼多多"
 position: "Temu 市场管培生"
 round: "三面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "待通知"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940736200099352576"

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-05-06'
 source: 牛客网
 tags: ["Java","JVM","MySQL","Redis","并发编程"]
 summary: "字节跳动中国交易与广告后端一面面经。面试涵盖Java基础、集合框架源码、JVM垃圾回收、并发编程（CAS与锁）、MySQL索引与事务机制、Redis应用及计算机网络知识，并包含二叉树路径总和算法题。"

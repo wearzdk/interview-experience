@@ -4,6 +4,7 @@ company: "阿里国际"
 position: "AI 应用研发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947565026151584
 tags: ["阿里国际","AI 应用","Java","HashMap","RabbitMQ","RAG","合并区间"]

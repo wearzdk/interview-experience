@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "运营"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940039835891388416
 tags: ["字节跳动","运营","多智能体","评测体系","自动化评测","飞书","AI应用","Workflow"]

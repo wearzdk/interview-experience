@@ -4,6 +4,7 @@ company: "华为"
 position: "AI模型技术岗"
 round: "一二三面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8adf2b585ac046eebc3be9ca3e727722
 tags: ["华为","大模型","后训练","SFT","PPO","GRPO","Reward Hacking","Agent","手撕Attention"]

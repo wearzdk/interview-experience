@@ -4,6 +4,7 @@ company: "东方财富"
 position: "服务端开发（AI 应用开发）"
 round: "一面+二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 result: "二面挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/755ba3b4ac6747e1ab6889cf09d683ff

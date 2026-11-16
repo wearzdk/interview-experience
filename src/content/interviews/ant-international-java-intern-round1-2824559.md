@@ -4,6 +4,7 @@ company: 蚂蚁国际
 position: Java 后端实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","ThreadLocal","线程池","HashMap","ConcurrentHashMap","Redis"]
 summary: "蚂蚁国际暑期实习 Java 后端一面面经，考察 ThreadLocal 生命周期与线程池串用问题、线程池核心参数设计、HashMap 与 ConcurrentHashMap 线程安全实现、Redis 缓存高可用方案，以及 QPS 定位工具等场景题，适合 Java 后端实习生备考。"

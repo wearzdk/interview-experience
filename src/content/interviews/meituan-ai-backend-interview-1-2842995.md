@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-27'
 source: 牛客网
 tags: ["Java后端","Redis","MySQL","设计模式","多线程"]
 summary: "美团AI后端开发日常实习一面面经。面试涵盖React与PlanExcuter对比、知识库构建、Redis缓存一致性、MySQL事务、Java Bean作用域、ThreadLocal及设计模式等核心技术点，适合准备后端开发实习的同学参考。"

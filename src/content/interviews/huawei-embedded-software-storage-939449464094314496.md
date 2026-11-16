@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 base: 深圳
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939449464094314496

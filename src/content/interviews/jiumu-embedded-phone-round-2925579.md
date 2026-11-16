@@ -4,6 +4,7 @@ company: "九牧"
 position: "嵌入式软件开发"
 round: "电话面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1509e5612a44436f866cdae424a7a20d
 tags: ["九牧","嵌入式","百川生","HR面","求职动机","期望薪资","秋招"]

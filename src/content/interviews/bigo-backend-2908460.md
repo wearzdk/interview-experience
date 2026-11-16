@@ -4,6 +4,7 @@ company: Bigo
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 tags: ["Java", "并发", "JVM", "Redis", "MCP"]
 summary: "Bigo后端一面面经，系统考察Java集合与并发、JVM、网络、Redis、消息队列和AI项目实践。"

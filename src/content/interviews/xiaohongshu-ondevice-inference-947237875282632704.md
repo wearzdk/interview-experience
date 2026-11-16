@@ -4,6 +4,7 @@ company: "小红书"
 position: "端侧推理"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/947237875282632704"
 tags: ["小红书", "端侧推理", "模型量化", "KVCache", "推理优化", "Android"]

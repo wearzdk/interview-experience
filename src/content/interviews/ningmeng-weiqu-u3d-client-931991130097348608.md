@@ -4,6 +4,7 @@ company: "柠檬微趣"
 position: "U3D客户端开发"
 round: "一面/二面/三面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931991130097348608
 tags: ["U3D","C++","客户端开发","笔试","手撕代码","游戏开发","秋招"]

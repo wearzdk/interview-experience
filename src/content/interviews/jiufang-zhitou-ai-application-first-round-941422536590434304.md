@@ -4,6 +4,7 @@ company: "九方智投"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941422536590434304
 tags: ["九方智投","AI应用开发","RAG","混合检索","LangGraph","系统设计"]

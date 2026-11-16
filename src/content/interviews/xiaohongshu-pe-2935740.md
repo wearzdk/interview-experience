@@ -4,6 +4,7 @@ company: 小红书
 position: PE
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/37ca05e39cc14069bfd2dfc5365d6187
 tags: ["Agent", "Harness", "Redisson", "分布式锁", "看门狗", "手撕代码"]

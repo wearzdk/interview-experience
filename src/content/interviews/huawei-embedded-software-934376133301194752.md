@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934376133301194752
 tags: ["嵌入式", "存储", "Flash", "文件系统", "内存屏障", "DMA", "Cache一致性", "掉电保护"]

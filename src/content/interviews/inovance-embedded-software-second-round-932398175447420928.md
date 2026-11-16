@@ -4,6 +4,7 @@ company: 汇川
 position: 嵌入式软件
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932398175447420928
 tags: ["嵌入式","嵌入式软件","汇川","HR面","校招"]

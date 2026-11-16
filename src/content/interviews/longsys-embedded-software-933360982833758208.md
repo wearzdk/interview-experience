@@ -4,6 +4,7 @@ company: "江波龙"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933360982833758208
 tags: ["嵌入式软件", "实习深挖", "项目复盘", "职业规划", "HR面"]

@@ -3,6 +3,7 @@ title: "中芯国际 软件开发 笔试：白纸手写、拍照发邮箱"
 company: "中芯国际"
 position: "软件开发"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a1686ec525f84c10ac9eeff92eed7d8b
 tags: ["中芯国际","笔试","需求变更","回滚","矩阵搜索","HDFS","MVC","分布式缓存"]

@@ -4,6 +4,7 @@ company: 联想
 position: 人工智能岗
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/930982833005293568
 tags: ["笔试","RNN","HMM","强化学习","LoRA","SQL","贪心"]

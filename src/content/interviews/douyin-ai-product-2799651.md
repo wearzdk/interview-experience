@@ -4,6 +4,7 @@ company: 抖音
 position: AI产品经理
 round: 一面
 date: '2026-03'
+collectedAt: '2026-07-16'
 source: 牛客网
 tags: ["AI产品","MCP","模型训练","产品指标","Coze"]
 summary: "抖音AI产品经理面经，涵盖项目与论文深挖、AI产品输入输出、北极星指标、0到1产品节点、Coze与Manus评价、MCP及模型训练方法。"

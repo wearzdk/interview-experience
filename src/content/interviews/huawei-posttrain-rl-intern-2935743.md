@@ -4,6 +4,7 @@ company: 华为
 position: "后训练与强化学习（实习）"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bd8dc3f838c541bfbf8c5689f2fc2bac
 tags: ["后训练", "强化学习", "TinyBERT", "多标签分类", "DDP", "LightGBM", "MMoE"]

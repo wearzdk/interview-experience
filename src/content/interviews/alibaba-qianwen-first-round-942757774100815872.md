@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "AI 应用研发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942757774100815872"
 tags: ["阿里巴巴","千问","Agent","滑动窗口限流","消息队列","Kafka","可观测","评测","RSI"]

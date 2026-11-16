@@ -3,6 +3,7 @@ title: 海康威视 Java开发笔试
 company: 海康威视
 position: Java开发
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "SQL", "正则", "排序"]
 ---

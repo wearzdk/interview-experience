@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI后端开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["Java", "Redis", "Spring", "RAG", "算法", "系统设计"]
 summary: "二面从 Java 与 Redis 追问到消息队列、RAG、大规模预约和实习可靠性，算法为旋转有序数组查找。"

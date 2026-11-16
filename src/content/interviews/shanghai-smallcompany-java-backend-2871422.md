@@ -4,6 +4,7 @@ company: 上海某小厂
 position: Java后端开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-06'
 base: 上海
 source: 牛客网
 tags: ["Java","Redis","分布式锁","缓存一致性"]

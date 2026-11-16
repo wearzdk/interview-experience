@@ -4,6 +4,7 @@ company: 深信服
 position: FAE 技术服务工程师
 round: 两轮单面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949073900040679424
 tags: ["深信服","FAE","技术服务","线下面试","行为面试","岗位理解"]

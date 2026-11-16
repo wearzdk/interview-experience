@@ -3,6 +3,7 @@ title: 大厂推荐算法面经 10 问（同题重复投稿）：后训练 RL �
 company: 某互联网公司
 position: 推荐算法
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/758bdc641e6f4b37b973864be55dfd67
 tags: ["推荐算法","强化学习","GRPO","DAPO","GSPO","后训练"]

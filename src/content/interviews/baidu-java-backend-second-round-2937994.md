@@ -4,6 +4,7 @@ company: "百度"
 position: "Java 后端开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/40bb1c5aff904cfc8a069adb6c1e8f9b
 tags: ["百度","Java","Redis热key","B+树","JVM","RAG","多Agent","SSE","断点续传"]

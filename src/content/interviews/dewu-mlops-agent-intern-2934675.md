@@ -4,6 +4,7 @@ company: 得物
 position: MLOps与Agent开发实习
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9b098d808abd4bd3921a6c189b0daaf3
 tags: ["得物", "MLOps", "Agent", "Cookie", "Session", "JWT", "手撕"]

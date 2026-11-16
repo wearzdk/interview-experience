@@ -4,6 +4,7 @@ company: "美团"
 position: "Agent 应用研发"
 round: "终面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950702492961013760
 tags: ["美团","Agent","评测","架构","非功能指标","校招","终面"]

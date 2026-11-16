@@ -4,6 +4,7 @@ company: 某互联网公司
 position: Java后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","手撕算法","边界处理","整数溢出","面试复盘"]
 summary: "某公司后端二面面经，面试以基本闲聊为主，算法题是一道手撕实现：用 Java 写 parseInteger(String)，把字符串转成 int，非法输入或溢出返回 null。原帖给出了完整参考代码，考察点是非数字字符校验与运算前溢出判断。"

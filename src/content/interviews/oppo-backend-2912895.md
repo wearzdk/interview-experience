@@ -4,6 +4,7 @@ company: "OPPO"
 position: "后端开发"
 round: "一面、二面、HR面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 tags: ["MySQL", "JVM", "线程池", "消息队列", "分库分表", "AI应用"]
 summary: "9 月 18 日上午连续完成技术一面、技术二面和 HR 面，技术部分重点追问实习、SQL 优化和索引。"

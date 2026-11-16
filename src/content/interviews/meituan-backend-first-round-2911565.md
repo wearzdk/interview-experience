@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "Agent", "MySQL", "Redis", "消息队列", "链表"]
 summary: "9 月 14 日一面约 73 分钟，围绕直播间项目和代码生成工作流反复追问，最后手写区间反转链表。"

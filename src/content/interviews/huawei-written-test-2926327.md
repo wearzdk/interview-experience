@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2b6f1fc95d7e4637a5b2d8a30ab0f2c1
 tags: ["华为","笔试","股票交易模拟","数独","回溯","二叉搜索树","后序遍历","算法"]

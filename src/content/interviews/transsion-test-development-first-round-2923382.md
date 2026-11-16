@@ -4,6 +4,7 @@ company: "传音"
 position: "测试开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d6799b51a1034ec09ea7e8a94e0ac9e5"
 tags: ["传音","测试开发","等价类划分","接口自动化","OCR测试","AI测试","Agent"]

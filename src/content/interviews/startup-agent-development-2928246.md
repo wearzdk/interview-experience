@@ -4,6 +4,7 @@ company: "某公司"
 position: "Agent开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["Agent","Text-to-SQL","RAG","LangGraph","多智能体","面试"]

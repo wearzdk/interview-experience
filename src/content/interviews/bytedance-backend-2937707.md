@@ -4,6 +4,7 @@ company: 字节跳动
 position: "后端开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c1a80f8ed2a4c0c9e160d0aa39ba534
 tags: ["字节跳动","后端","二面","业务抽象","缓存穿透","Boyer-Moore","知识库"]

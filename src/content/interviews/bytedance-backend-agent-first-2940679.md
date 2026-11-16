@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（Agent 方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3a5ae8345fc402c98cb8bf125e0b499
 tags: ["字节跳动","后端开发","Agent","RabbitMQ","Redis","MySQL","分布式事务","系统设计","一面"]

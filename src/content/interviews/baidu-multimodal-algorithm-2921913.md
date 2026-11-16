@@ -4,6 +4,7 @@ company: "百度"
 position: "多模态算法工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["多模态","视觉语言模型","ViT","注意力机制","PagedAttention"]
 summary: "百度多模态算法岗一面二面面经。一面考多模态大模型架构、视觉语言 Adapter 与 Q-Former、ViT 特征提取和自注意力原理，并手撕最大正方形；二面追问 MHA/MQA/GQA、KV Cache 显存、PagedAttention 与代码 Agent 落地。"

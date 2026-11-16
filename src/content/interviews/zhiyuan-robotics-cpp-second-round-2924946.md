@@ -4,6 +4,7 @@ company: 智元机器人
 position: 机器人 C++ 开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/35f007b00ae24b438cd69e141c56cbf7
 tags: ["C++","多线程","IO模型","Linux","内存池","手撕代码"]

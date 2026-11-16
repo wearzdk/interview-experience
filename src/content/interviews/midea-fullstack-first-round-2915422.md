@@ -4,6 +4,7 @@ company: 美的
 position: 全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["全栈","Agent框架","Harness","分库分表","Redis排行榜","Spring Boot","MySQL","提示词"]
 summary: "美的全栈开发一面，20个问题覆盖自研Agent框架与Harness治理、百万级数据分库分表、Redis实时排行榜与数据恢复、智能摘要提示词设计，以及Spring Boot自动装配、AOP和B+树索引等后端八股，整体面试体验较好。"

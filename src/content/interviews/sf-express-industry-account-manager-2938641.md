@@ -4,6 +4,7 @@ company: 顺丰
 position: 行业客户经理
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/656718301cb64e6396813c676495b48b
 tags: ["顺丰","行业客户经理","压力面","行为面试","跨部门协作","职业规划"]

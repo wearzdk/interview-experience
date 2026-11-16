@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "游戏服务端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["游戏服务端","召回优化","两级缓存","Redis","并发","MVCC","TCP"]
 summary: "网易雷火游戏服务端一面面经（9.14）：从实习经历切入，深挖搜索召回模块的串行瓶颈定位与并发改造、为什么没加本地缓存、POI 品类两级缓存的预热与命中率统计、Guava Cache 的过期清理机制、Redis 集群软删除撤回，以及个人项目里 Redis 预扣 + MQ + MySQL 的一致性方案；后半段是缓存三大问题、热点 Key 识别、CAS 与锁、内核态切换、死锁、B 树与二叉树、InnoDB MVCC、redo/undo/binlog 与 TCP/UDP。"

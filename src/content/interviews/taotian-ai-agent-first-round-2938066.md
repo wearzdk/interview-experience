@@ -4,6 +4,7 @@ company: 淘天集团
 position: AI Agent 应用研发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6d45897f57b0484eb9863bc991993866
 tags: ["淘天","AI Agent","本体化","RAG","ReAct","上下文压缩","Memory","会员技术"]

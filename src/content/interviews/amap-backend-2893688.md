@@ -3,6 +3,7 @@ title: "高德后端一面（凉经）"
 company: "高德"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","RocketMQ","AI应用","面试经验"]
 summary: "高德Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、RocketMQ等考点，整理了面试流程与高频问题。"

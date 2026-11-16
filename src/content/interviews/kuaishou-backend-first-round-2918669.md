@@ -4,6 +4,7 @@ company: "快手"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Agent", "MCP", "KV Cache", "RAG", "Kafka", "零拷贝", "算法题"]
 summary: "快手后端开发一面面经，9 月 28 日。围绕实习与 Agent 项目追问多 Agent 取舍、MCP 与本地 CLI 的区别、Agent 可观测指标、LLM as a judge 的取舍、代码知识库为何不用图，以及 KV Cache 复用、QPS 优化与零拷贝；手撕最小覆盖子串。"

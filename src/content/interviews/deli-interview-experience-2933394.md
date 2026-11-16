@@ -4,6 +4,7 @@ company: "得力"
 position: "综合岗"
 round: "一二三面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "拿到 offer，base 宁海"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9ae3e601b12740f5b45ea4f99bbe58f9

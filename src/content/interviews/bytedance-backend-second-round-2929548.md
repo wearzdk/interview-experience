@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fa2f72d801044dc0b15750bc67a94197
 tags: ["后端", "Agent", "语音转录", "重试", "幻觉", "知识库", "算法"]

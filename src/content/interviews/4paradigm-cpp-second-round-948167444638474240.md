@@ -4,6 +4,7 @@ company: "第四范式"
 position: "C++ 开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948167444638474240
 tags: ["第四范式", "C++", "机器学习平台", "调度器", "LRU", "特征工程", "资源隔离"]

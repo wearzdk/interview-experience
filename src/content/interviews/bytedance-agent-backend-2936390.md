@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端 Agent 开发"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6f9d862d77ec4284a05d07d3ec3cc92e"
 tags: ["字节跳动", "后端", "Agent", "RAG", "GIL", "Python"]

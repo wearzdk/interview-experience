@@ -4,6 +4,7 @@ company: Klook
 position: 后端开发工程师（暑期实习）
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/891737407001849856
 tags: ["Java","系统设计","推拉模型","线程状态"]

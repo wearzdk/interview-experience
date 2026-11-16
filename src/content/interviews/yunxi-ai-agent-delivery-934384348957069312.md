@@ -3,6 +3,7 @@ title: "面试被问「智能体项目怎么验收」：可预测、可监控、
 company: "云徙科技"
 position: "企业级AI智能体交付"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934384348957069312
 tags: ["企业级AI", "智能体", "项目验收", "指标体系", "AI应用", "面试复盘"]

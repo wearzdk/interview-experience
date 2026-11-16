@@ -4,6 +4,7 @@ company: "腾讯"
 position: "微信事业群"
 round: "面委一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/47b197783b454e5ca295a6972768a02d
 tags: ["腾讯", "WXG", "WebSocket", "HTTPS", "Kafka", "protobuf"]

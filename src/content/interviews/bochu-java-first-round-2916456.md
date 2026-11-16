@@ -4,6 +4,7 @@ company: 柏楚电子
 position: Java开发工程师
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","Spring","MySQL索引","Redis","RabbitMQ","线程池","ThreadLocal","Seata"]
 summary: "柏楚电子Java技术一面面经，35个问题覆盖极广：两个栈实现队列、第k大的时间复杂度、IOC与AOP、@Async在什么情况下不生效、事务隔离级别与传播行为、三字段联合索引只查a和c是否走索引、索引失效场景、Redis「单线程」怎么理解、高并发下先get再set记录最新操作时间是否正确、RabbitMQ的QOS三种可靠级别与延迟消息、JVM最大堆2G时进程内存会不会超过2G、线程池参数与核心线程数设置、ThreadLocal原理、分布式事务与Seata模式。"

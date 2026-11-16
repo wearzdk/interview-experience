@@ -4,6 +4,7 @@ company: "荣耀"
 position: "解决方案测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3837f9a52e324bb0a36e42dd1ba213f1
 tags: ["荣耀","解决方案测试","测试流程","测试与开发","校招","性格测评"]

@@ -4,6 +4,7 @@ company: 新华三
 position: C++开发
 round: 主管面
 date: '2026-09'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3c2cae0aa1454ba69cdff0f295e5738d
 tags: ["新华三", "主管面", "FreeRTOS", "Linux", "内存管理", "C语言"]

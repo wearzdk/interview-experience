@@ -4,6 +4,7 @@ company: "新易盛"
 position: "嵌入式软件开发"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 base: "成都"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b15e20c0b0694e2397a47cb19b3a3846"

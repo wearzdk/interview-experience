@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "软件测试"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e686b2dfff8646b9b2fe12be34b46c32
 tags: ["宇视科技","软件测试","笔试","等价类划分","SQL","测试用例设计","AI 测试"]

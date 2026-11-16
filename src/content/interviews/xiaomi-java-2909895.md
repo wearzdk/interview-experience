@@ -3,6 +3,7 @@ title: "小米 Java 二面：Redisson、阻塞 IO 与有序数组合并"
 company: "小米"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Redis", "IO", "算法"]
 round: "二面"

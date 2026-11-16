@@ -4,6 +4,7 @@ company: "特斯拉"
 position: ".NET 开发"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8413439cb54b49419efce9f7f9e388c9
 tags: ["特斯拉","NET","英文面试","面向对象","MySQL","RAG","Agent"]

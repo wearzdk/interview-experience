@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发
 round: 一面
 date: '2026-05'
+collectedAt: '2026-05-06'
 source: 牛客网
 tags: ["Redis","HashMap","Java多线程","JVM","操作系统"]
 summary: "快手后端开发一面面经，面试官深入考察Java基础与计算机底层原理。重点涵盖Redis集群机制、HashMap底层原理、Java线程同步与锁机制、JVM内存模型与进程退出条件、操作系统任务调度及虚拟内存，并考察算法题B树子树判断。"

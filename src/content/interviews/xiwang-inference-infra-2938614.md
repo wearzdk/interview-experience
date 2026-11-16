@@ -4,6 +4,7 @@ company: 曦望
 position: 推理基础设施
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b46f3f7761a04a3ea9070c60116f75db
 result: 已挂

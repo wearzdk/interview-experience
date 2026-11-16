@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fcd18dc7b7b240fda8952ee786b9c6c0
 tags: ["科大讯飞","AI全栈","实习","项目","AI提效","职业规划","大模型"]

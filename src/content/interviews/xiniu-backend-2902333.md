@@ -3,6 +3,7 @@ title: "熙牛医疗 杭州java实习生 一面面经 2026.9.3"
 company: "熙牛医疗"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "JVM", "AI"]
 summary: "熙牛医疗 杭州java实习生 一面面经 2026.9.3，整理面试中涉及的Java、JVM、AI等重点问题，供求职者准备相关岗位面试时参考。"

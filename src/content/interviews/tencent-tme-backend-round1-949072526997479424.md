@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 后端开发（内容研发部）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949072526997479424
 tags: ["腾讯音乐","TME","后端开发","Redis","MySQL","JVM","Spring","AI Coding"]

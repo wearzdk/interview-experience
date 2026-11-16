@@ -4,6 +4,7 @@ company: 快手
 position: Java后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","RocketMQ","AOP","分布式锁","算法"]
 summary: "快手Java后端一面面试经验，主要考察Java基础（反射、AOP、JMM）、Redis应用（分布式锁、限流、会话管理）、RocketMQ消息可靠性与延迟消息、以及AI领域相关技术（Function Calling与MCP）。含LC215算法题及面试官评价。"

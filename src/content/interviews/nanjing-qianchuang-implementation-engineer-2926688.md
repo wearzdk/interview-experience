@@ -3,6 +3,7 @@ title: "南京乾创实施岗面试：Linux 排查与现场应变"
 company: "南京乾创电子科技有限公司"
 position: "实施工程师"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2460e57b759948318f0619ab405e7ea9
 tags: ["实施工程师","Linux","MySQL","Docker","接口测试","客户沟通"]

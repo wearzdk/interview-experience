@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "测试开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 tags: ["哔哩哔哩", "测试开发", "实习", "测试用例", "JMeter", "Redis", "MySQL", "HTTP"]
 summary: "B 站测试开发实习一面（49 分钟）：从自我介绍聊到对测试开发的理解和 TDD，随后是场景题——向量数据库的用途、自己写测试用例、B 站私信功能的完整测试设计、用户反馈消息没收到怎么排查、JMeter 压测新接口、自动化测试经历；算法考环形链表与买卖股票，八股问 MySQL 左右连接、Redis 缓存穿透、HTTP header 与状态码。"

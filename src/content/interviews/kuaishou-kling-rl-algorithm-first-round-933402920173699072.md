@@ -4,6 +4,7 @@ company: "快手"
 position: "强化学习算法"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933402920173699072
 tags: ["强化学习","GRPO","GAE","RLVF","Diffusion","论文深挖"]

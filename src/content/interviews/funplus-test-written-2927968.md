@@ -4,6 +4,7 @@ company: "Funplus"
 position: "测试工程师"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/57aae7c31f064f79aec72c92783257f7"
 tags: ["Funplus", "测试工程师", "笔试", "软件测试", "AI测试"]

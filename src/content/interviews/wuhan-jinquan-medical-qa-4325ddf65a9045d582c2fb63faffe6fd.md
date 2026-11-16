@@ -3,6 +3,7 @@ title: "武汉金泉医疗科技软件测试面经：测试流程、用例设计
 company: "武汉金泉医疗科技"
 position: "软件测试"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4325ddf65a9045d582c2fb63faffe6fd
 tags: ["软件测试","测试用例","边界值","等价类","黑盒测试","白盒测试","Linux","医疗软件"]

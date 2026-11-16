@@ -4,6 +4,7 @@ company: "卓望科技"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b92519fa024b48a7b8efb4ec6f4832fb
 tags: ["卓望科技", "笔试", "八股", "HDFS", "单选", "双机位"]

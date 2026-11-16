@@ -3,6 +3,7 @@ title: "合肥君正嵌入式 Linux 开发（视觉）秋招面经"
 company: "合肥君正"
 position: "嵌入式Linux开发"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940249235008532480

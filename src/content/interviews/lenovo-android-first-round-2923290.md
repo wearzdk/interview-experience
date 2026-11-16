@@ -4,6 +4,7 @@ company: "联想"
 position: "Android 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "一面挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/4ddac63ca76e477fa4587d6836247d99"

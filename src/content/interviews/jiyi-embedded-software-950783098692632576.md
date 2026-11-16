@@ -4,6 +4,7 @@ company: 记忆科技
 position: 嵌入式软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950783098692632576
 tags: ["记忆科技","嵌入式软件开发","MCU","MPU","U-Boot","Linux内核移植"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "后端开发（日常实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/499e529e662548cc843ca22aa26175ed
 tags: ["快手","后端","实习","项目","二叉树","中序遍历"]

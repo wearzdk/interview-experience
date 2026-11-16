@@ -4,6 +4,7 @@ company: "江苏银行"
 position: "金融科技培养生"
 round: "群面+个人面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940736924979847168"
 tags: ["江苏银行","金融科技培养生","无领导小组讨论","群面","Java","数据库","职业规划","校招"]

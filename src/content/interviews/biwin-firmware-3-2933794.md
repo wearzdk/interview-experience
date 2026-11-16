@@ -4,6 +4,7 @@ company: "佰维存储"
 position: "固件开发"
 round: "三面（HR）"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/48cbcc3b2c9a4b0d8bf1f348c4cda34c
 tags: ["佰维存储","固件","HR面","存储行业","职业规划"]

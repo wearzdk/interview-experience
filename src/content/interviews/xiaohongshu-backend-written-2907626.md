@@ -3,6 +3,7 @@ title: 小红书后端笔试
 company: 小红书
 position: 后端
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "Linux", "数据库", "数据结构"]
 ---

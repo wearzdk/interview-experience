@@ -4,6 +4,7 @@ company: "中国银行河南分行"
 position: "科技岗"
 round: "AI 面试"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f23a8df5cbff4b6f8efe86a80e523785
 tags: ["中国银行","银行科技岗","AI面试","行为面试","STAR","普通话"]

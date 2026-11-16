@@ -4,6 +4,7 @@ company: "快手"
 position: "FDE 工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/abea11dbd4054957922ccc20ea180584
 tags: ["快手", "FDE", "数据研发", "智能问数", "AI"]

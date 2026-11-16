@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5a2de77709cc4c80a9aeaeed13d3f85e
 tags: ["拼多多","服务端开发","Java并发","Spring","volatile","内存屏障","HashMap"]

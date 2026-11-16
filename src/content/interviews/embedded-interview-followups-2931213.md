@@ -3,6 +3,7 @@ title: "嵌入式面试的追问链：从「能跑通」到「能讲清」要补
 company: "多家硬件公司"
 position: "嵌入式软件开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e0ade85508934d6d91bad0a6280e52df
 tags: ["嵌入式软件开发","C语言","中断","DMA","链接脚本","HardFault"]

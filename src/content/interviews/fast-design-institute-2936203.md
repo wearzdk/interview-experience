@@ -4,6 +4,7 @@ company: "法士特"
 position: "产品研发"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/96803a66ed494f92b371dd11ed023508"
 tags: ["法士特", "产品研发", "轨道车辆", "故障诊断", "振动监测", "NVH"]

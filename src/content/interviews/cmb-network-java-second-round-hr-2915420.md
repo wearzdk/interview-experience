@@ -4,6 +4,7 @@ company: 招银网络
 position: Java后端开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","FullGC","JVM调优","架构设计","RabbitMQ","HR面","无实习"]
 summary: "招银网络二面加HR面记录，二面约半小时，考察Full GC排查思路、系统架构画图、MQ如何做异步处理以及项目细节，HR面问基本情况；作者无实习经历，自评结果不乐观。"

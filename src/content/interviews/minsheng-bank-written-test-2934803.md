@@ -3,6 +3,7 @@ title: 民生银行 线上笔试：行测、AI 金融场景与英语
 company: 民生银行
 position: 数据科技岗
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b72f5e0e0de34342b6fb7fb97f9b3fdd
 tags: ["民生银行", "笔试", "行测", "AI金融", "英语", "银行"]

@@ -4,6 +4,7 @@ company: 北森
 position: AI产品经理
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-23'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/909884420176248832

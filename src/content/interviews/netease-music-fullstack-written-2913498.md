@@ -4,6 +4,7 @@ company: "网易"
 position: "全栈开发工程师"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["笔试", "BFS", "算法", "AICoding", "全栈", "网易云音乐"]
 summary: "9 月 19 日 16 点网易云音乐全栈开发工程师笔试，时长 2 小时，一道算法题加一道 AI Coding 各 50 分。算法题是 BFS 且难度偏高，AI Coding 的评分分三个维度：通过案例、test 文件和 md 文件。"

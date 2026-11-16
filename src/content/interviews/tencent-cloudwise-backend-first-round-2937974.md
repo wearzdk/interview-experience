@@ -4,6 +4,7 @@ company: "腾讯云智"
 position: "后台开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/335726f2a17341dc921f49cb7cefed96
 tags: ["腾讯云智","后台开发","向量检索","HNSW","IVF_SQ8","JUC","索引下推","Redis","缓存"]

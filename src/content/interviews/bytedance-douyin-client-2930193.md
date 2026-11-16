@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "客户端基础技术"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e02fcd4714af4435b749b4990ecf2229
 tags: ["字节跳动", "客户端基础技术", "性能优化", "TTU", "TTI", "Agent评测"]

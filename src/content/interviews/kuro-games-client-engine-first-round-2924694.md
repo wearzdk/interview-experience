@@ -4,6 +4,7 @@ company: 库洛游戏
 position: 游戏引擎开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6d5bab03033640f6898b5dbdce35617a
 tags: ["游戏客户端","游戏引擎","渲染","实习拷打","项目拷打","面试体验"]

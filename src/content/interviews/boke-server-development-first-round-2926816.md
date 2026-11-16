@@ -4,6 +4,7 @@ company: "波克城市"
 position: "服务器开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6852486ede2d47c69fba27666de3f15d
 tags: ["波克城市","服务器开发","项目深挖","实习经历","面试节奏"]

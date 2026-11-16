@@ -4,6 +4,7 @@ company: "携程"
 position: "数据开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4eda574fa4b4448cb8e300e27697b348
 tags: ["携程","数据开发","笔试","SQL","left join","最大子数组和","AI Coding"]

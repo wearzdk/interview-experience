@@ -3,6 +3,7 @@ title: "机考没做好别慌：先分清是哪种不会，再按五点补"
 company: "某公司"
 position: "机考"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9a7bf4bb94f34af1ae34328d0a1d9bd0
 tags: ["机考", "笔试", "算法", "输入输出", "时间分配", "限时模考"]

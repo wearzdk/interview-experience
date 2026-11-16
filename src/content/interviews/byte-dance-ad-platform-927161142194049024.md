@@ -4,6 +4,7 @@ company: 字节跳动
 position: 广告平台
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/927161142194049024
 tags: ["系统设计", "RoaringBitmap", "Redis", "LRU", "RAG", "Kafka"]

@@ -4,6 +4,7 @@ company: 阿里控股
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","Go","RPC","Linux内核","网络协议","分布式"]
 summary: "阿里控股一面从自我介绍与实习经历切入，深挖 Kitex、Consul、Mesh 组成的 RPC 调用链路与 AI Coding 的验证方式，技术题集中在网卡到用户态的收包路径、DMA、Netfilter、DPDK、mmap 与 Go 协程为什么更轻。"

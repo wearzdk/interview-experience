@@ -4,6 +4,7 @@ company: 京东物流
 position: Java后端实习生
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-14'
 source: 牛客网
 tags: ["Java","Agent","RAG","Spring AI","大模型"]
 summary: "京东物流Java后端实习生二面面试记录。面试官重点考察Agent项目开发经验，涵盖RAG架构设计、Spring AI框架原理、大模型记忆机制、AI辅助编程工具应用及业务场景落地能力。无手撕算法，侧重工程思维与技术选型。"

@@ -4,6 +4,7 @@ company: 米哈游
 position: 测试工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/39eda1cc553b47a3aac343c605c829cb
 tags: ["米哈游","游戏测试","测试用例设计","死锁","垃圾回收"]

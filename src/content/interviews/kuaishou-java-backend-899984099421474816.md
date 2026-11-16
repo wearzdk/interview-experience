@@ -4,6 +4,7 @@ company: 快手
 position: Java后端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/899984099421474816
 tags: ["Java","MySQL","MVCC","RabbitMQ","Spring"]

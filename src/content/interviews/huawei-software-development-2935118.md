@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c897d82eb73645a682db06f2b56c4d9d"
 tags: ["华为","秋招","项目面试","价值观面试","手撕代码","接雨水","行为面试"]

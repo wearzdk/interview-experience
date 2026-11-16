@@ -4,6 +4,7 @@ company: "小米"
 position: "后端开发"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931679155270221824
 tags: ["后端","推理网关","缓存一致性","分库分表","LRU","Go"]

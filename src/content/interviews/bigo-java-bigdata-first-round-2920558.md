@@ -4,6 +4,7 @@ company: "BIGO"
 position: "Java 开发工程师（大数据方向）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Java","JVM","Flink","Kafka","事务","垃圾回收"]
 summary: "BIGO Java 开发一面，9 月 30 日：全程八股，覆盖线程池提交流程、CMS 与 G1 的差异与小堆选型、Flink 两类快照、Kafka 到 HDFS 的精确一次与 JDBC 原子性。"

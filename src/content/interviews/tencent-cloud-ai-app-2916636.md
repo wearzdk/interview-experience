@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI应用开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI应用","性能优化","线程池","RedisCluster","虚拟线程","上下文体系"]
 summary: "腾讯云 AI 应用一面面经（9.17）：从实习经历切入性能优化（怎么定位瓶颈、同步改异步要注意什么、线程池原理、Future 异常处理），再考 Linux 进程与线程、Java 虚拟线程、反射，以及 Redis Lua 与 Cluster 分片、故障转移、心跳误判，最后深挖 Agent 上下文体系的设计、评测、灰度与旧版本兼容，以及 Agent Loop、沙箱生命周期和 AI 编程质量保障。"

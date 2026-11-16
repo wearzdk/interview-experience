@@ -4,6 +4,7 @@ company: "小红书"
 position: "Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939625907017224192
 tags: ["小红书","Agent开发","LangGraph","Skills","沙箱调度","MySQL","LIS"]

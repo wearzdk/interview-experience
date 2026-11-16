@@ -4,6 +4,7 @@ company: 快手
 position: AI全栈
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","Spring","MySQL","Redis","AI Coding"]
 summary: "快手 AI 全栈二面凉经。开局拷打项目，随后问到 @Transactional 注解参数的失效时机、MySQL 可重复读隔离级别对幻读的解决程度、Redis 大 key 的判定与处理、MySQL 主从复制，最后是一道 AI Coding 场景题，要求从产品视角配合 AI 定功能并实现和测试。"

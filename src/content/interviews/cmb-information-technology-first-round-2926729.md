@@ -4,6 +4,7 @@ company: "招商银行"
 position: "信息科技岗"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/19f7ae2bd7584df3b8dd5a3b0b99d6ec
 tags: ["招商银行","信息科技","产品思维","需求评审","需求优先级","银行科技"]

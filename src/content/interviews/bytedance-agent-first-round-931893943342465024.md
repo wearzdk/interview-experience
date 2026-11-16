@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 开发工程师"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931893943342465024"
 tags: ["Agent","大模型应用","ReAct","幂等","上下文管理","多Agent","AI编程"]

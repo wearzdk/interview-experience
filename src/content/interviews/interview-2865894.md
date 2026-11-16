@@ -4,6 +4,7 @@ company: 京东
 position: 软件开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 江苏
 source: 牛客网
 tags: ["Java", "MySQL"]

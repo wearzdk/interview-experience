@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java","Spring Boot","JVM","MySQL","多线程"]
 summary: "腾讯音乐TME后台开发暑期实习一面面经，面试时长60分钟。重点考察AI项目实现细节与架构设计，深入探讨Spring Boot Bean生命周期、JVM内存模型、垃圾回收机制、MySQL索引原理及主从复制。侧重考察多线程编程实践与问题定位能力。"

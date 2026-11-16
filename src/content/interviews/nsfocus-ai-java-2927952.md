@@ -4,6 +4,7 @@ company: "绿盟"
 position: "AI 应用开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a97f2c67de3a45c4be137915c4ec0ca3"
 tags: ["绿盟", "Java", "AI应用", "Redis", "分布式"]

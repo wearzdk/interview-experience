@@ -4,6 +4,7 @@ company: "顺丰"
 position: "Java后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f23cb02cc3554c2cad772acf444addac"
 tags: ["顺丰","Java后端","一面","线程池","JVM调优","MySQL优化","深分页","AI辅助开发"]

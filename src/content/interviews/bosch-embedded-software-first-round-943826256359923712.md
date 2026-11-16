@@ -4,6 +4,7 @@ company: "博世"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943826256359923712
 tags: ["博世","嵌入式","FreeRTOS","Linux驱动","CAN","RS485","C++","车载","功能安全"]

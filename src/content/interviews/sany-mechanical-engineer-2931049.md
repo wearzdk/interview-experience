@@ -4,6 +4,7 @@ company: "三一重工"
 position: "机械工程师"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5e408eb20c344fc98ef0701df846013e
 tags: ["三一重工", "机械工程师", "秋招", "AI面试", "性格测评", "北森", "英语面试"]

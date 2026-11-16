@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI 全栈开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/28c95d580a13429c9aa43fd0fed2f1d7"
 tags: ["科大讯飞","AI全栈","前端架构","Next.js","进程与线程","MySQL","Redis","Docker","Agent"]

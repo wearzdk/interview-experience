@@ -4,6 +4,7 @@ company: "小鹏汽车"
 position: "智驾 VLA 算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940358397700878336
 tags: ["小鹏汽车","VLA","智驾","多模态融合","闭环评测","Sim2Real","手撕"]

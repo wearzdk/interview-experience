@@ -4,6 +4,7 @@ company: "昂瑞微"
 position: "嵌入式软件"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/52d051495c4b44ce9d165b9216e0d88c
 tags: ["昂瑞微","嵌入式软件","HR面","秋招","择业","三方"]

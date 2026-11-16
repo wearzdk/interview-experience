@@ -4,6 +4,7 @@ company: 正浩创新
 position: 技术岗
 round: "一面 / 二面 / HR 面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d151531dca934ea2b2775873b98d16ad
 tags: ["正浩创新","技术岗","面试流程","项目面","算法思路","HR面","校招","OC"]

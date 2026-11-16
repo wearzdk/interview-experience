@@ -4,6 +4,7 @@ company: 迪普科技
 position: 软件测试
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e995bba34b984f6abe99b3a61ef29cf8
 tags: ["软件测试","笔试","网络基础","Linux","测试用例","C语言"]

@@ -4,6 +4,7 @@ company: Xtransfer
 position: Java开发工程师
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["高并发","分布式锁","幂等性","DDD","分布式事务"]
 summary: "本篇面经记录了Xtransfer Java社招二面面试过程，重点考查了高并发架构设计、分布式事务（Saga/TCC）、业务幂等性实现、Redis分布式锁及领域驱动设计（DDD）的实践应用与重构经验。"

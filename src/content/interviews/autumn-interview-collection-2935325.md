@@ -3,6 +3,7 @@ title: "27届秋招面经合集：70 多场面试、20+ 家公司的检索索引
 company: "多家公司"
 position: "客户端与服务端"
 date: '2026-11'
+collectedAt: '2026-10-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f7a88a6bba748b9aded18668d45b16c
 tags: ["面经合集","秋招","客户端","服务端","Java","C++","Android"]

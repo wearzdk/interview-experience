@@ -4,6 +4,7 @@ company: 禾迈电力电子
 position: Java开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","MySQL","Redis","操作系统","计算机网络"]
 summary: "禾迈电力电子成都线下一面记录，面试氛围偏聊天式、以计算机基础为主。问到 Java 协程是否使用栈、Java 调用底层 C++ 与系统命令、数据库三大范式的违背场景、MAC 地址与多网卡多 IP、Redis ZSet 的 score 存储与越界、SSE 长连接原理、ARP 协议与局域网 IP 发现。"

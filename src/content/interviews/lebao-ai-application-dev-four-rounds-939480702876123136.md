@@ -4,6 +4,7 @@ company: "乐堡"
 position: "AI 应用开发"
 round: "一面+二面+三面+四面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939480702876123136
 tags: ["乐堡","AI应用开发","RAG","Agent","熔断降级","Java","HashMap","HR面"]

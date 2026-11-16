@@ -3,6 +3,7 @@ title: "27 届嵌入式秋招：大疆凉经与 25 场大厂嵌入式面试清�
 company: "大疆"
 position: "嵌入式软件"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934744716044664832
 tags: ["嵌入式", "秋招", "面经", "大疆", "C语言", "RTOS"]

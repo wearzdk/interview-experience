@@ -4,6 +4,7 @@ company: 华为OD
 position: C++开发
 round: "一面+二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932020632663916544
 tags: ["华为OD","C++","Java","HashMap","智能指针","SQL优化","Linux","算法题"]

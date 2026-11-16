@@ -4,6 +4,7 @@ company: "携程"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/81fcec275f874f96825d06068e15f00c
 tags: ["携程","笔试","算法","最大子数组和","等差数列","AI Coding","动态规划"]

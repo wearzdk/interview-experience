@@ -3,6 +3,7 @@ title: "Agent 面试题库 80 问：ReAct、RAG、记忆分层与 MCP 工程落�
 company: "牛客网用户分享"
 position: "Agent 应用开发"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/122d1a985de74181b71126282b95c690
 tags: ["Agent","RAG","ReAct","LangGraph","MCP","上下文工程","对话记忆","向量检索"]

@@ -4,6 +4,7 @@ company: "招商轮船"
 position: "校招"
 round: "AI面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4ba8173cd824be7bffc5a82d8a6478e
 tags: ["AI面","校招","行业认知","英文面试","简历深挖"]

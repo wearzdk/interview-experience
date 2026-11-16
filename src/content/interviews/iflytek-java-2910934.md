@@ -3,6 +3,7 @@ title: "科大讯飞线下面经：模型超时、部署与线上排障"
 company: "科大讯飞"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Linux", "MySQL", "大模型"]
 ---

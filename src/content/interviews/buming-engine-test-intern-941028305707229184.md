@@ -4,6 +4,7 @@ company: "不鸣科技"
 position: "引擎测试开发"
 round: "实习一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941028305707229184"
 tags: ["不鸣科技", "测试开发", "接口测试", "JMeter", "游戏引擎", "冒烟测试", "回归测试"]

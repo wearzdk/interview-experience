@@ -4,6 +4,7 @@ company: "4399"
 position: "游戏服务器开发"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/af76d44f570349daad8b19fb5e3e785e"
 tags: ["4399","游戏服务器开发","C++","智能指针","TCP与UDP","红黑树","多线程","HR面"]

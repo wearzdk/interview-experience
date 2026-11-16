@@ -4,6 +4,7 @@ company: "某公司"
 position: "算法工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943924025804218368
 tags: ["算法笔试","数论","博弈论","图论","最小生成树","构造","位运算"]

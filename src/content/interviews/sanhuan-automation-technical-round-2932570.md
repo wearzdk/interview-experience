@@ -4,6 +4,7 @@ company: "三环集团"
 position: "自动化应用开发"
 round: "技术面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f9c1e9a694ac4976ab84e6f933f0273e
 tags: ["三环集团","自动化","C语言","指针","机器视觉","上位机","面试真题"]

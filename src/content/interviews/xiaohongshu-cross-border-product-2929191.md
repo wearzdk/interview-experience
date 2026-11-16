@@ -4,6 +4,7 @@ company: "小红书"
 position: "跨境电商产品工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["缓存", "Caffeine", "RocketMQ", "产品工程师", "算法"]
 summary: "小红书跨境电商产品工程师一面，2026-10-12，45 分钟，围绕业务/技术平台选择、缓存 Key 设计、按需加载与容量、Caffeine 数据结构和淘汰策略、RocketMQ 事务消息和两数相加展开。"

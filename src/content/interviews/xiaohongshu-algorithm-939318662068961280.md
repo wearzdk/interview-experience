@@ -4,6 +4,7 @@ company: "小红书"
 position: "算法岗"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939318662068961280"
 tags: ["小红书","算法岗","Uplift建模","特征重要性","Transformer","知识图谱","推荐召回","CVR"]

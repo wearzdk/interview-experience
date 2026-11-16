@@ -4,6 +4,7 @@ company: "华为"
 position: "通用软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0ae7f03bbc89474ea8cd950b3c281623
 tags: ["华为", "通用软件开发", "操作系统", "Redis", "算法", "Java", "GC"]

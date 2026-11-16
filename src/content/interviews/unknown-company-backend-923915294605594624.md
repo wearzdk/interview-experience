@@ -4,6 +4,7 @@ company: "某互联网中厂"
 position: "后端开发"
 round: "一至二面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923915294605594624
 tags: ["Java", "Spring Boot", "Redis", "JVM", "求职经历"]

@@ -3,6 +3,7 @@ title: "嵌入式 FreeRTOS 必备 20 道常考题目总结：任务调度、同�
 company: "通用"
 position: "嵌入式开发"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945320294388858880
 tags: ["嵌入式","FreeRTOS","RTOS","任务调度","优先级反转","队列与信号量","面试八股"]

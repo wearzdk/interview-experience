@@ -4,6 +4,7 @@ company: "交通银行"
 position: "校招综合（未注明岗位）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/946164032598212608"
 tags: ["交通银行","银行面试","半结构化","自我介绍","STAR","秋招","行为面试"]

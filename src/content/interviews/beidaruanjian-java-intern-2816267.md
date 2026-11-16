@@ -3,6 +3,7 @@ title: 北大软件(郑州)JAVA实习面经
 company: 北大软件
 position: JAVA开发实习
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 郑州
 source: 牛客网
 tags: ["Java","MySQL","网络协议","Linux","系统设计"]

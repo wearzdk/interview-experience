@@ -4,6 +4,7 @@ company: "上海模算归巢"
 position: "测试开发（Agent 产品）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b9488da3bac54ceeaf5de85d7b507eaf
 tags: ["模算归巢", "测试开发", "Agent", "LLM", "LLMasJudge", "CICD", "大模型网关"]

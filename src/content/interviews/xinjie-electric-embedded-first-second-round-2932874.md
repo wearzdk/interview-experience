@@ -4,6 +4,7 @@ company: "信捷电气"
 position: "嵌入式开发"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8d4fa10795d7431582a2ab067e8b5f2c
 tags: ["信捷电气", "嵌入式", "进程间通信", "项目深挖", "HR面", "技术面"]

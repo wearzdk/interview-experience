@@ -4,6 +4,7 @@ company: "诺瓦星云"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935200647861792768
 tags: ["嵌入式","FreeRTOS","C++","STL","中断","秋招"]

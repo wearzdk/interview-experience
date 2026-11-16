@@ -4,6 +4,7 @@ company: "格力"
 position: "电控软件"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7d18d7510b9e491e9103341535f9d7b5
 tags: ["格力","电控软件","一面","嵌入式","岗位理解","反问"]

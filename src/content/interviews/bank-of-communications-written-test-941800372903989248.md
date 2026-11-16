@@ -4,6 +4,7 @@ company: "交通银行"
 position: "银行笔试（信息科技）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941800372903989248"
 tags: ["交通银行", "银行笔试", "行情行史", "信息科技岗", "笔试备考"]

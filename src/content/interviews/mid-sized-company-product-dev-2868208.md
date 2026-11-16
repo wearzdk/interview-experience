@@ -3,6 +3,7 @@ title: "成都某中厂agent产品开发实习面经"
 company: "某中厂"
 position: "产品开发工程师"
 date: '2026-07'
+collectedAt: '2026-07-11'
 base: "成都"
 source: 牛客网
 tags: ["AI产品", "Agent", "RAG", "模型微调", "项目深挖", "实习"]

@@ -4,6 +4,7 @@ company: "得物"
 position: "客户端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938865589974503424
 tags: ["前端","事件循环","Node","TypeScript","Vue","React","性能优化","校招"]

@@ -4,6 +4,7 @@ company: 用友
 position: 全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["Java","前端","CompletableFuture","JVM"]
 summary: "用友全栈开发高潜一面，覆盖前后端联调、项目设计、CompletableFuture、Java垃圾回收与降低STW时间。"

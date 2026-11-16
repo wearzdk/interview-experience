@@ -4,6 +4,7 @@ company: "多家公司"
 position: "嵌入式软件"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940175394861228032
 tags: ["嵌入式","秋招复盘","笔试","面试轮次","FreeRTOS","Linux","职业规划"]

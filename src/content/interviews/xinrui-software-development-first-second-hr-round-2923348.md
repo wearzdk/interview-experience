@@ -4,6 +4,7 @@ company: "信锐网科"
 position: "软件开发"
 round: "一面+二面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/44b0d5f7bdf84a2cb0f7461ba821de24"
 tags: ["信锐网科","软件开发","消息队列","Protobuf","RAG","Linux","网络基础","秋招"]

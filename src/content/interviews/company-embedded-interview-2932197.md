@@ -3,6 +3,7 @@ title: "嵌入式面试的断层：功能能讲、底层就空，差的是体系
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/679d315955e541b6b551b146c7cce365
 tags: ["嵌入式","SPI","I2C","UART","错误处理","实时性","启动流程","面试方法论"]

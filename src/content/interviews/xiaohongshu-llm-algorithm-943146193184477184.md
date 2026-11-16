@@ -4,6 +4,7 @@ company: "小红书"
 position: "大模型算法"
 round: "笔试、一面、二面、HR 面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 result: "已 OC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943146193184477184

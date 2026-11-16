@@ -3,6 +3,7 @@ title: 九识智能前端实习面经：缓存与事件循环
 company: 九识智能
 position: 前端开发（实习）
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["前端","Promise","HTTP缓存","事件循环","虚拟DOM","闭包","数组去重","实习"]
 summary: "九识智能前端实习一面回忆版，顺序不代表提问顺序，考察Promise.all/race/allSettled、Vue与React对比、HTTP强缓存与协商缓存、事件循环、虚拟DOM、闭包与本地缓存，手撕数组去重。"

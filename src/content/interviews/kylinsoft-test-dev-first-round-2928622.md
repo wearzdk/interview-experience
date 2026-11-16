@@ -4,6 +4,7 @@ company: "麒麟软件"
 position: "测试开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9eddf7dceff9408a903397309eba65b5
 tags: ["测试开发", "测试用例", "AI测试", "Python", "操作系统", "职业规划"]

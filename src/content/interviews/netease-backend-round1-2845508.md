@@ -4,6 +4,7 @@ company: 网易
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-30'
 source: 牛客网
 tags: ["Java基础","JVM","垃圾回收","面向对象"]
 summary: "网易互娱后端开发一面面经，重点考察Java面向对象编程思想、JVM内存模型、GC垃圾回收算法及垃圾回收器机制。本文总结了面试常见技术点，适合后端开发求职者备考复习。"

@@ -4,6 +4,7 @@ company: 科大讯飞
 position: Java开发
 round: 一面、二面
 date: '2026-09'
+collectedAt: '2026-09-07'
 source: 牛客网
 tags: ["Java", "Spring", "Redis", "MySQL", "Agent", "RAG"]
 summary: "科大讯飞Java开发面试，先考察项目、Spring、Redis和数据库，再深入Agent多引擎、RAG、工具注册和模型应用设计。"

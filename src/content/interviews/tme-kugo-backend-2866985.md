@@ -4,6 +4,7 @@ company: TME酷狗
 position: 后台开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-06-23'
 result: 凉经
 base: 福建
 source: 牛客网

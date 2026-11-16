@@ -4,6 +4,7 @@ company: "智元"
 position: "技术岗（方向未注明）"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2adc5f1395844675a376c91ec4c591e9
 tags: ["智元", "校招", "三面", "主管面", "反向面试", "职业选择"]

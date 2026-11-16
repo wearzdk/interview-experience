@@ -4,6 +4,7 @@ company: "腾讯"
 position: "安全技术-风控算法方向-Agent开发"
 round: "一面"
 date: '2026-08'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["风控算法","Agent","语义检索","向量召回","大模型评测","Plan-and-Execute"]
 summary: "腾讯风控算法（Agent 开发）一面，8 月 24 日：先追问模糊语义搜索的标签映射与排序优化，再深挖实习评测集构造与 Plan-and-Execute 选型，基础部分问推理加速与 MCP 的区别。"

@@ -4,6 +4,7 @@ company: 宇通
 position: IT岗
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1846cc900b614f979b7264c997f0df06
 tags: ["Java", "Spring", "MySQL", "线程池", "Agent", "设计模式"]

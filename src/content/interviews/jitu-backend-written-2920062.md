@@ -4,6 +4,7 @@ company: "极兔"
 position: "后端开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ed80f552d5f14a6ab13d78e6db97aebb"
 tags: ["极兔", "后端", "笔试", "选择题", "编程题", "秋招"]

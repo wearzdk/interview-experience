@@ -4,6 +4,7 @@ company: "腾讯"
 position: "C++ 客户端开发（搜狗输入法）"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938212811723767808"
 tags: ["腾讯","搜狗输入法","C++","智能指针","lambda","函数指针","大整数乘法","AI写代码"]

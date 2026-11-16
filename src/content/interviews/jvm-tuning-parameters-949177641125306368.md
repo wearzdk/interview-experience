@@ -3,6 +3,7 @@ title: "JVM 调优参数怎么答：-Xms 等于 -Xmx、容器感知与 GC 日志
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949177641125306368
 tags: ["JVM","G1","GC调优","容器","OOMKilled","GC日志"]

@@ -4,6 +4,7 @@ company: "多家公司"
 position: "校招通用"
 round: "HR面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e7be6f6a731d42078781062f66a62268"
 tags: ["秋招", "HR面", "面试话术", "行为面", "offer选择"]

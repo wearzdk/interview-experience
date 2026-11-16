@@ -4,6 +4,7 @@ company: "摩尔线程"
 position: "AI 算子库及高性能计算工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f03623a522e4c75a6391f9d3f721c7f
 tags: ["摩尔线程","AI算子","高性能计算","GEMM","CUDA","CUTLASS","GPU性能优化"]

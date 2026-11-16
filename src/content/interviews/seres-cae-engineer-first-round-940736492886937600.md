@@ -4,6 +4,7 @@ company: "赛力斯"
 position: "CAE工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940736492886937600"

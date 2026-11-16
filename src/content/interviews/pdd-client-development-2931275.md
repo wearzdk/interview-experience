@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8bf8165b86374ec586e0314a7fedf0fd
 tags: ["拼多多","客户端开发","秋招","游戏开发","寻路算法","防作弊","手撕代码"]

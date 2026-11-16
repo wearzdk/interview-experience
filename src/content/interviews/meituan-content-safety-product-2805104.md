@@ -3,6 +3,7 @@ title: 美团内容安全产品经理面经
 company: 美团
 position: 内容安全产品经理
 date: '2026-03'
+collectedAt: '2026-07-21'
 result: 凉经
 source: 牛客网
 tags: ["美团","产品经理","内容安全","实习面试"]

@@ -4,6 +4,7 @@ company: 联友科技
 position: 全栈开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945785087746932736
 tags: ["联友科技", "全栈", "AI编码", "MySQL", "索引", "性能排查"]

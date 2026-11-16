@@ -4,6 +4,7 @@ company: "吉利汽车"
 position: "多岗位（软件开发、大数据开发、运维、产品）"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/610e16d054754b2dbefd6d3c03ec67b4
 tags: ["AI面试","图形推理","性格测试","行为面试","英语面试","个性化追问","秋招"]

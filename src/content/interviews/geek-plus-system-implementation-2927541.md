@@ -4,6 +4,7 @@ company: "极智嘉"
 position: "系统实施工程师"
 round: "AI面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/4d01563022434c2183633142215c226f"
 tags: ["系统实施", "AI面试", "现场调试", "验收", "实施记录"]

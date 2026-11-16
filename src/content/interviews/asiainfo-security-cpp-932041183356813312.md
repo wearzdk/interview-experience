@@ -3,6 +3,7 @@ title: 亚信安全C++开发工程师面经
 company: 亚信安全
 position: C++开发工程师
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932041183356813312
 tags: ["C++","智能指针","STL","Qt","网络编程"]

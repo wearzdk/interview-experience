@@ -4,6 +4,7 @@ company: 汇川技术
 position: IT开发工程师（Java）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["ThreadLocal","SQL","事务","并发"]
 summary: "汇川技术IT开发工程师一面，涉及实习项目、ThreadLocal、慢SQL排查、事务失效和并发接口聚合。"

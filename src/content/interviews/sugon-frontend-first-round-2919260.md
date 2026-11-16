@@ -4,6 +4,7 @@ company: "中科曙光"
 position: "前端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["前端", "Vue Router", "权限控制", "SSR", "水合", "事件循环", "AI编程"]
 summary: "中科曙光前端（郑州）一面不到二十分钟：从项目里无权限 URL 的处理方式问起，追问 Vue Router 拦截写在哪、AI 写代码的占比、怎么让协作用上已有组件、Codex 先读什么文件与 SSR 水合不匹配的原因，还有一道事件循环题和为什么投郑州。"

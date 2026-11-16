@@ -4,6 +4,7 @@ company: 恒生电子
 position: 技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938402015070130176
 tags: ["接口优化","项目深挖","职业规划","跨团队协作","消息顺序"]

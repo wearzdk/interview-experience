@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "测试开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["字节跳动","火山引擎","测试开发","云原生","RAG","LangGraph","SSE"]
 summary: "字节火山引擎测试开发一面：从百度智能云项目切入，追问 IaaS/PaaS、CPU 与 GPU 实例与多租户网络隔离，再到云审计接口自动化、LangGraph 状态管理、用例生成纠错、RAG 分块检索、Celery 异步与 SSE 长连接、502 排查。"

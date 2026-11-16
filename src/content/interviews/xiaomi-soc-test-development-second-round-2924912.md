@@ -4,6 +4,7 @@ company: 小米
 position: SOC 测试开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a08e8228c0094d3b85a640a18fbad177
 tags: ["测试开发","AI测试","知识库","幻觉治理","测试用例设计","SOC"]

@@ -4,6 +4,7 @@ company: 拓竹科技
 position: 嵌入式软件开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931681555251023872
 tags: ["嵌入式","C语言","RTOS","DMA","看门狗","项目深挖"]

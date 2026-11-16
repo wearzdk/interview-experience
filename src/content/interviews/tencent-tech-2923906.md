@@ -4,6 +4,7 @@ company: 腾讯
 position: 技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b592ae0df1ec434482037b8602f3405f
 tags: ["腾讯WXG","白板编程","单调栈","最大二叉树","协程","场景设计"]

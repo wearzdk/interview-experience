@@ -4,6 +4,7 @@ company: 即刻
 position: 全栈开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过
 source: 牛客网
 tags: ["Redis","K8s","熔断降级","性能优化","高并发"]

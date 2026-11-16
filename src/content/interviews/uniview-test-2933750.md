@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dcee6e4a84c541f582c7717334f7b4b9
 tags: ["宇视科技","软件测试","Linux","子网划分","MySQL","性能测试"]

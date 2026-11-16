@@ -3,6 +3,7 @@ title: "滴滴笔试-滴滴8月30日机考笔试题与解析"
 company: "滴滴"
 position: "测试开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923736339126722560
 tags: ["算法", "排序", "双指针"]

@@ -4,6 +4,7 @@ company: "牛客网用户分享"
 position: "交付"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939846956187140096
 tags: ["交付岗","AI应用服务商","知识工程","智能体","工程落地"]

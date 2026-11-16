@@ -3,6 +3,7 @@ title: "AI 面试的英语环节到底考什么：海信、海尔、美的、招
 company: "多家公司"
 position: "AI 面试（英语环节）"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/199bd5784a0e4859a3ed39bcb5241083
 tags: ["AI面试","英语面试","海信","海尔","美的","招商银行","阳光电源","口语","看图说话","自我介绍"]

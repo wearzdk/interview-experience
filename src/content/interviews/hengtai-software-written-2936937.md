@@ -3,6 +3,7 @@ title: "衡泰技术 软件开发 笔试：选择题偏基础，简答题考排�
 company: "衡泰技术"
 position: "软件开发"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2e0748ad0e724efa830d58b959acf47c
 tags: ["衡泰技术","笔试","排错","编程题"]

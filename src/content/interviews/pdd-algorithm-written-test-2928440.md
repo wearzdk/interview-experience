@@ -4,6 +4,7 @@ company: "拼多多"
 position: "算法工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3f1239b2ac794d51823cc5cc4e58619d
 tags: ["拼多多","笔试","算法","离散化","动态规划","树链剖分"]

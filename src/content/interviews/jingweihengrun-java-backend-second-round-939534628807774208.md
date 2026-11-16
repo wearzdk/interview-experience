@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "Java 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "凉了"
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/discuss/939534628807774208"

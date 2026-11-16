@@ -4,6 +4,7 @@ company: 腾讯
 position: C++ 开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 result: 待定（面试官给予正面反馈，二面概率约一成）
 source: 牛客网
 tags: ["C++","TCP-UDP","分布式一致性","缓存系统","多态","CAS"]

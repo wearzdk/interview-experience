@@ -4,6 +4,7 @@ company: 腾讯天美
 position: Java开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-05'
 base: 江苏
 source: 牛客网
 tags: ["Java","并发","HashMap","ConcurrentHashMap","Spring事务","算法"]

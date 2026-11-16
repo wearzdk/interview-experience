@@ -4,6 +4,7 @@ company: "影石Insta360"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944160796009943040
 tags: ["影石","Insta360","嵌入式","I2C","SPI","设备树","字符设备驱动","Linux内核","启动优化"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI全栈开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 result: 三面挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/894189820371554304

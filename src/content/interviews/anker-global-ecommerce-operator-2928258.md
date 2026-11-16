@@ -4,6 +4,7 @@ company: "安克"
 position: "全球电商操盘手"
 round: "多轮面试合集"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["安克","跨境电商","电商操盘手","校招","AI测评","英语面试"]

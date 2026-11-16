@@ -4,6 +4,7 @@ company: 蔚来
 position: AI Agent 开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5eeacc471b75490fb1bedc8e500b65c5
 tags: ["Buffer Pool","消融实验","Context","Memory","C++20"]

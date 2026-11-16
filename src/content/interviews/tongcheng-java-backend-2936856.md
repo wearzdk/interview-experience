@@ -4,6 +4,7 @@ company: "同程旅行"
 position: "Java 后端"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/72d2233f18b449bda27d86a548f8f1b3
 tags: ["同程旅行","Java","JVM","G1","MySQL","联合索引","Redis","ZSet","限流"]

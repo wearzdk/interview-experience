@@ -4,6 +4,7 @@ company: "得物"
 position: "技术岗"
 round: "AI 面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f2d2f6d9cbdf4c349ac56a18bdc65842"
 tags: ["得物", "AI面试", "Java", "MySQL", "Redis", "Kafka"]

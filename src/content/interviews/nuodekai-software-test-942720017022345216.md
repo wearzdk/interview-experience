@@ -4,6 +4,7 @@ company: "诺德凯"
 position: "软件测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942720017022345216"
 tags: ["诺德凯","软件测试","pytest","fixture","C++","测试流程","需求评审","社招"]

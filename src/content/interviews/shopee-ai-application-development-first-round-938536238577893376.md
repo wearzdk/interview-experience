@@ -4,6 +4,7 @@ company: 虾皮
 position: AI应用开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938536238577893376
 tags: ["RAG","多路召回","Rerank","AB实验","Kafka","AI辅助开发"]

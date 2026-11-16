@@ -4,6 +4,7 @@ company: "腾讯音乐"
 position: "后台开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7b2b16d21f3445f59797d690c12636eb
 tags: ["腾讯音乐","后台开发","项目深挖","性能数据","Kafka","操作系统"]

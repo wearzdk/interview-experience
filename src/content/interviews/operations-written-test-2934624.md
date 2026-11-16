@@ -4,6 +4,7 @@ company: "通用"
 position: "运营"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e0ec55ff1dfd479883ba7fe278793745
 tags: ["运营","笔试","行测","活动策划","校招"]

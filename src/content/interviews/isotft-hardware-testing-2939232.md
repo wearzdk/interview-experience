@@ -4,6 +4,7 @@ company: 软通动力
 position: 硬件测试高级工程师
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c93b64f8055b49379c2a318a5cb9b809
 tags: ["软通动力","硬件测试","社招","测试用例","职业规划","离职原因"]

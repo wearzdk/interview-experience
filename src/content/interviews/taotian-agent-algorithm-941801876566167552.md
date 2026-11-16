@@ -4,6 +4,7 @@ company: "淘天集团"
 position: "Agent算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941801876566167552"
 tags: ["淘天集团", "Agent算法", "实习经历", "幻觉抑制", "强化学习", "大模型训练", "业务反问"]

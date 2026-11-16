@@ -3,6 +3,7 @@ title: "国庆前的一些小厂面试题"
 company: "某公司"
 position: "C++ 开发工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/936395145216348160
 tags: ["C++","操作系统","内存管理","算法","秋招"]

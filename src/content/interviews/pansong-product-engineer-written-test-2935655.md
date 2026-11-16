@@ -4,6 +4,7 @@ company: "磐松私募"
 position: "产品工程师"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/07b67938c220453abc13bd30ae0473ed
 tags: ["磐松私募","产品工程师","笔试","JavaScript","无重复字符的最长子串"]

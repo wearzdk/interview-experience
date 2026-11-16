@@ -4,6 +4,7 @@ company: "小米"
 position: "数据基础架构"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/df2da87a263e40698c766a3088fa5d2a
 tags: ["小米", "数据基础架构", "一面", "底层设计", "存储"]

@@ -4,6 +4,7 @@ company: "寒武纪"
 position: "后台开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931941854067560448"
 tags: ["寒武纪","后台开发","C++","无锁队列","内存屏障","零拷贝","进程通信"]

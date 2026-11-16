@@ -4,6 +4,7 @@ company: 小红书
 position: Java平台开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928011110505021440
 tags: ["工作流", "分布式事务", "校验体系", "幂等", "Java"]

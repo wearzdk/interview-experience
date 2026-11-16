@@ -4,6 +4,7 @@ company: "通用"
 position: "AI Agent"
 round: "面试方法"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945054074511032320
 tags: ["AI Agent","RAG","上下文管理","面试方法","工具调用"]

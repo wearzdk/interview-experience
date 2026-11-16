@@ -4,6 +4,7 @@ company: "佑驾创新"
 position: "数据闭环软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/203f0a8f6f454217ae43054c5678a412
 tags: ["佑驾创新", "数据闭环", "实时计算", "UV", "湖仓一体", "校招"]

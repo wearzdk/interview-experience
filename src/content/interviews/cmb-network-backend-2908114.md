@@ -4,6 +4,7 @@ company: 招银网络科技
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["MySQL", "Spring", "AOP", "消息队列", "动态规划"]
 summary: "招银网络科技后端开发一面面经，考察MySQL索引与SQL优化、Spring和依赖注入、消息队列可靠性，并包含一道动态规划算法题。"

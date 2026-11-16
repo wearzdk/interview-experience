@@ -4,6 +4,7 @@ company: "360"
 position: 笔试
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/21de19e29e3147d7b47f2491c7c9a920
 tags: ["笔试","360","选择题","编程题","秋招"]

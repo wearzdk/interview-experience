@@ -4,6 +4,7 @@ company: 携程
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 source: 牛客网
 tags: ["Java基础","限流算法","分布式事务","MySQL","RabbitMQ"]
 summary: "携程AI后端开发实习一面面试题总结，涵盖项目经历、本地缓存限流算法、令牌桶原理、分布式事务AT模式、RabbitMQ消息可靠性、MySQL超卖问题及Java基础（Object类特性）等核心知识点。适合后端求职者查漏补缺。"

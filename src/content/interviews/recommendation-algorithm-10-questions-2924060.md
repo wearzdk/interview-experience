@@ -3,6 +3,7 @@ title: 大厂推荐算法面经 10 问：后训练 RL 的算法对比与工程�
 company: 某互联网公司
 position: 推荐算法
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4cc4de575bee4d31b1aae0d0791385d4
 tags: ["推荐算法","强化学习","DPO","GRPO","PPO","后训练"]

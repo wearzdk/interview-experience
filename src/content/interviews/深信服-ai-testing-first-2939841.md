@@ -4,6 +4,7 @@ company: 深信服
 position: AI 测试开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/775c99d85e3a42d29e055a5cc29d28aa
 tags: ["深信服","AI测试开发","大模型","LoRA","pytest","LangChain","LangGraph","LlamaIndex","实习"]

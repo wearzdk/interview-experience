@@ -3,6 +3,7 @@ title: "华为智能制造精密装备开发与自动化面经：偏基础的泛
 company: "华为"
 position: "智能制造精密装备开发与自动化"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940739971671941120"
 tags: ["华为","智能制造","机械设计","机器人运动学仿真","Python数据分析","深度学习","校招"]

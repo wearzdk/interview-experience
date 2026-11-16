@@ -4,6 +4,7 @@ company: 空山慈
 position: AI Agent 算法工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b36b5d7c3b55467aad56fa8f5eea7539
 tags: ["AI Agent","Transformer","PyTorch","医疗AI","实习","职业规划"]

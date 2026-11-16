@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "全栈开发工程师"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["全栈开发","Redis","WeakMap","大模型应用","React"]
 summary: "去哪儿全栈开发岗 AI 面面经，面试时间 2026.10.6：从深拷贝递归的循环引用与栈溢出问起，接着考 Redis 过期删除机制、系统提示词与用户提示词的区别、ReAct 与 Plan-and-Execute 的选型，最后让讲一个全栈项目。"

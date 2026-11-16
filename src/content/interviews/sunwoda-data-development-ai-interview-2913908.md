@@ -4,6 +4,7 @@ company: 欣旺达
 position: 数据开发
 round: AI面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["欣旺达","数据开发","AI面试","Iceberg","RAG","数仓","STAR法则"]
 summary: "欣旺达数据开发岗 AI 面记录，手机小程序进行，自我介绍加填意向地后有 4 组问题共 9 问，围绕 Iceberg Schema Evolution 秒级加字段、RAG 补全元数据、数据分析 Agent 的技术选型，以及行为面的抗压与提前布局。"

@@ -4,6 +4,7 @@ company: 大疆
 position: 嵌入式软件
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938361834686386176
 tags: ["嵌入式","RTOS","环形缓冲区","DMA","优先级反转","看门狗"]

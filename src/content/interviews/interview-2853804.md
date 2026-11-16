@@ -4,6 +4,7 @@ company: 字节跳动
 position: 前端开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 江苏
 source: 牛客网
 tags: ["Java", "Redis", "Spring", "操作系统", "LLM", "前端"]

@@ -4,6 +4,7 @@ company: "佰维存储"
 position: "固件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1488f90b5ccb4bec9f70ac15853d10ce
 tags: ["佰维存储","固件","SDK","volatile","NAND Flash","低功耗"]

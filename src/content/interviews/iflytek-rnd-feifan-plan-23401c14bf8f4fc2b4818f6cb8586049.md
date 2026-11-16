@@ -3,6 +3,7 @@ title: "科大讯飞飞凡计划研发面经：数据治理 Agent、Skill 治理
 company: "科大讯飞"
 position: "研发（飞凡计划）"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/23401c14bf8f4fc2b4818f6cb8586049
 tags: ["科大讯飞","飞凡计划","AI Agent","数据治理","数据开发","Skill","大模型"]

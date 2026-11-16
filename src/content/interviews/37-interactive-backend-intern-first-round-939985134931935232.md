@@ -4,6 +4,7 @@ company: "三七互娱"
 position: "后端开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939985134931935232
 tags: ["三七互娱","后端开发","设计模式","单例模式","持续集成","慢查询","EXPLAIN","协程","K8s","RAG","向量检索","AI质量平台"]

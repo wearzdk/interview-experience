@@ -3,6 +3,7 @@ title: 面试被问「消费行业的会员项目怎么衡量价值」：别只�
 company: 消费行业数字化服务商
 position: 会员运营
 date: '2026-10'
+collectedAt: '2026-10-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937654050810527744
 tags: ["会员运营","数据分析","指标归因","复购率","面试方法"]

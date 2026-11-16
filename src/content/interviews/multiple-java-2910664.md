@@ -3,6 +3,7 @@ title: "三场 Java 面试考点整理：缓存、权限与 RAG"
 company: "多家公司"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Spring", "MySQL", "Redis", "RAG"]
 ---

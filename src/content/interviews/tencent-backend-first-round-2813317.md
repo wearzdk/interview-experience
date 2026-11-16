@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","数据库","高并发","分布式系统"]
 summary: "腾讯视频后端开发一面面试记录，涵盖Java基础、JVM垃圾回收、数据库ACID与事务隔离、Redis数据结构与Lua脚本原子性、分布式锁与幂等设计、TCP-UDP协议及高并发秒杀场景下的超卖解决方案。附带算法题及面试官评价，适合后端求职者参考学习。"

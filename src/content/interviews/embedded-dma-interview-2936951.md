@@ -3,6 +3,7 @@ title: "面试官顺着一段 DMA 追了二十分钟：嵌入式面试考的是�
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6a4fc267f1a84e9bbdffa3d843557a85
 tags: ["嵌入式","DMA","中断","缓冲区","异常处理","项目表达"]

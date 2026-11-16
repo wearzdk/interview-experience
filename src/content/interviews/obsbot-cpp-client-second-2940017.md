@@ -4,6 +4,7 @@ company: OBSBOT 寻影
 position: C++ 客户端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c76438963999451eafd529fa7691d43c
 tags: ["OBSBOT","C++","客户端","Android","RecyclerView","LiveData","RAG","Reranker","PDF切分","消息队列","职业规划"]

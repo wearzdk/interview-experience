@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "客户端基础技术"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7e53073808f94e8790ab0d1dfd1a7841
 tags: ["字节跳动", "客户端基础技术", "Agent", "Planner", "置信度", "埋点", "性能看板"]

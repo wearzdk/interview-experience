@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "硬件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fad3311e8f4f48368fbf711875e20c27
 tags: ["汇川技术","硬件工程师","上拉电阻","晶振","TTL","CMOS","原理图"]

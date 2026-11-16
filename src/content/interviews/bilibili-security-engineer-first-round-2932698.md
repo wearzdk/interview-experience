@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "安全工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/baf4ca655aae4c16be25081c67a38f47
 tags: ["哔哩哔哩", "安全工程师", "HTTP", "WAF", "项目深挖", "Web 安全"]

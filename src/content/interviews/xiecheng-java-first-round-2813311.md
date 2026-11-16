@@ -4,6 +4,7 @@ company: 携程
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","限流","RabbitMQ","MySQL","算法"]
 summary: "携程Java开发一面面经，重点考察项目实战能力与底层原理。涵盖令牌桶限流算法、RateLimiter组件、分布式事务AT模式、RabbitMQ消息消费失败处理、MySQL超卖问题，以及海量数据处理的位图算法与Java基础知识。"

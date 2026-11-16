@@ -4,6 +4,7 @@ company: 智新控制
 position: 硬件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/389e4d0037744acebfb5551494ef988c
 tags: ["硬件","模拟电路","运放","Buck-Boost","MOS驱动","温控"]

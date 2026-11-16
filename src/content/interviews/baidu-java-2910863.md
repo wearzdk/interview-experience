@@ -3,6 +3,7 @@ title: "百度秋招后端一面：并发集合、线程池与主从延迟"
 company: "百度"
 position: "后端开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "并发编程", "MySQL", "Linux"]
 round: "一面"

@@ -4,6 +4,7 @@ company: 平安科技
 position: 技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/46e89e45864a452a91e04ae1dd57cdc1
 tags: ["Go","Kubernetes","Pod 调度","性能优化","AI 基础设施"]

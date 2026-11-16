@@ -3,6 +3,7 @@ title: "数据工程面试：一个「活跃会员」怎么算，比报五个框
 company: "云徙科技"
 position: "数据工程"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945329455872868352
 tags: ["数据工程","指标体系","数据血缘","数据质量","AI应用"]

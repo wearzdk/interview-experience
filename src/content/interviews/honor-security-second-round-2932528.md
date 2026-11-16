@@ -4,6 +4,7 @@ company: "荣耀"
 position: "安全工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/031e60720c384fce8d464758400363d7
 tags: ["荣耀","安全工程师","AI幻觉","CTF","职业规划","二面"]

@@ -4,6 +4,7 @@ company: "多家小公司"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/96c59b2d6cb541f29485dad64d121d7e
 tags: ["小公司","Java后端","实习","RAG","Agent","SpringBoot"]

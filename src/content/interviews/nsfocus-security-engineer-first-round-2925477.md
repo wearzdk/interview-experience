@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "安全工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9a7bb508efc441d88ecf39d7855f9d5b
 tags: ["绿盟科技","安全工程师","应急响应","AI 应用","CDN","校招"]

@@ -4,6 +4,7 @@ company: "云南汇诺"
 position: "全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1e0150a1940e4a09a90e0a6bfa12bbfe
 tags: ["全栈开发","场景题","知识图谱","意图识别","权限设计","AI应用"]

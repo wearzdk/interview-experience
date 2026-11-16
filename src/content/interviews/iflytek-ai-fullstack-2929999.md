@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fc3b1be0443546bc988e83d26a7bdf8d"
 tags: ["科大讯飞", "AI全栈开发", "SSE", "Electron", "Go", "MySQL"]

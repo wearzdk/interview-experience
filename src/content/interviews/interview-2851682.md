@@ -3,6 +3,7 @@ title: 腾讯 后端开发日常实习面经
 company: 腾讯
 position: 后端开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 湖南
 source: 牛客网
 tags: ["Java", "Python", "Redis", "分布式", "LLM", "算法"]

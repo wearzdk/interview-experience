@@ -4,6 +4,7 @@ company: 智元机器人（觅蜂）
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/88e244f3a10e4d0b87b40a17c158db21
 tags: ["智元","觅蜂","前端","知识图谱","SVG","Web Worker","Monorepo","组件库","Agent","流式渲染","零代码","数组拍平"]

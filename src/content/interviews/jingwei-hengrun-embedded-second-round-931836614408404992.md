@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "嵌入式软件开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931836614408404992"
 tags: ["嵌入式","项目讲解","看门狗","堆栈","CAN","定时器","电机驱动"]

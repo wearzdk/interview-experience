@@ -3,6 +3,7 @@ title: "嘉为科技 ai应用开发"
 company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-07'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","Spring","并发","MyBatis","面试经验"]
 summary: "某公司Java后端开发工程师面试记录，覆盖Java、Redis、Spring、并发等考点，整理了面试流程与高频问题。"

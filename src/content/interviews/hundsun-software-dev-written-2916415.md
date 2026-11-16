@@ -4,6 +4,7 @@ company: 恒生电子
 position: 软件开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["笔试","SQL","数据库","编程题","校招"]
 summary: "恒生电子 9 月 23 日笔试记录：题型为选择题、多选题、补全 SQL 语句的填空题，以及三道编程题，其中第一道是需要多表关联的长 SQL。"

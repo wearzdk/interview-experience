@@ -4,6 +4,7 @@ company: "淘天"
 position: "AI应用研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942091198347345920
 tags: ["大模型", "MQA", "GQA", "Token", "LoRA", "RAG", "知识库", "Java"]

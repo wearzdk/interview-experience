@@ -3,6 +3,7 @@ title: "凌迪前端实习面试：Agent 搭建与 MCP 辨析"
 company: "凌迪"
 position: "前端开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["Agent", "MCP", "FunctionCall", "大模型评测", "前端", "AI应用"]
 summary: "9 月 18 日凌迪前端开发实习面试，面试偏简单，主要考察对 AI 的理解和使用程度。题目包括怎么搭建 agent、agent 路由、MCP 和 function call 的区别、大模型测评怎么判断生成内容对不对。"

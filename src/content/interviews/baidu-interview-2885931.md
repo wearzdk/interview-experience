@@ -3,6 +3,7 @@ title: "百度秋招提前批二面"
 company: "百度"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Redis","MySQL","Kafka","JVM","Spring","并发"]
 summary: "百度Java后端开发工程师面试记录，覆盖Redis、MySQL、Kafka、JVM等考点，整理了面试流程与高频问题。"

@@ -4,6 +4,7 @@ company: "九方智投"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933385609777852416
 tags: ["Redis", "缓存一致性", "性能优化", "并发", "项目深挖"]

@@ -4,6 +4,7 @@ company: 力鑫科技
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Java","后端","微服务","Spring事务","MySQL","ClickHouse"]
 summary: "力鑫科技后端一面全程对着简历实习经历逐条深挖，覆盖请求链路与 JWT 鉴权、Spring 事务与全局异常、索引与慢查询、缓存一致性、ClickHouse 迁移、分布式锁与消息堆积等 Java 后端高频考点。"

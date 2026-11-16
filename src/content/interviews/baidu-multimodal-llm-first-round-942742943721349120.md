@@ -4,6 +4,7 @@ company: "百度"
 position: "多模态大模型算法"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942742943721349120"
 tags: ["百度","多模态大模型","PPO","GRPO","DPO","持续学习","DeepSpeed","GQA","MLA","verl"]

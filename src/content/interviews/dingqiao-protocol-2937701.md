@@ -4,6 +4,7 @@ company: 鼎桥
 position: "通信协议软件"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/548cf45096f14cbc8d8746561302ca8b
 tags: ["鼎桥","通信协议","RACH","DCI","struct对齐","内存泄漏"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "前端开发（商业化）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/0f2be0c77724455cbb1853e9f2a61fef"
 tags: ["快手", "前端开发", "商业化", "LCP", "Vue", "浏览器缓存", "垃圾回收"]

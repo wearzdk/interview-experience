@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/42958ed0ee4443c2aec8e5018c75bbcc
 tags: ["字节跳动", "社招", "后端", "链表", "双指针", "项目深挖"]

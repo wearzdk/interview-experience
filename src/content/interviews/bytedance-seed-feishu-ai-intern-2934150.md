@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 应用开发（飞书 AI）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 result: "已发 offer"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e41003e55d574b3a9e217391d71235ed

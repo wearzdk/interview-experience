@@ -4,6 +4,7 @@ company: 某公司
 position: 大模型算法
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0581a10f591948b2a0792c6c91b78a36
 tags: ["大模型","Transformer","Self-Attention","多头注意力","复杂度","FlashAttention"]

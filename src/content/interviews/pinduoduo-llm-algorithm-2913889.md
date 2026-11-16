@@ -4,6 +4,7 @@ company: 拼多多
 position: 大模型算法
 round: 一面+二面+HR面+主管面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["拼多多","大模型算法","多模态","LoRA","Qwen-VL","手撕算法","动态规划"]
 summary: "拼多多 9.19 线下大模型算法面经，一天走完一面到主管面。技术面围绕实习与论文，八股考 LoRA 的 alpha/rank、VLM 减少 vision token、Qwen-VL 位置编码与 adapter 选型，手撕含 O(n) 递增三元组、搜索旋转数组与黄金分堆。"

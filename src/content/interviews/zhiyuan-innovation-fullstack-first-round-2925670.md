@@ -4,6 +4,7 @@ company: "智元创新"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ddbe9fe261f547b9897440caa993677f
 tags: ["全栈开发","项目面试","实习经历","AI 应用","反问"]

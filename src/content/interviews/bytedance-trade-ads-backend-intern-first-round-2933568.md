@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/56111c59e0394279b490b2a2389c598a
 tags: ["Redis","ZSet","跳表","MySQL","Kafka","缓存一致性","秒杀","HTTP","JWT"]

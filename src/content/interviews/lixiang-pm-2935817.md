@@ -4,6 +4,7 @@ company: 理想汽车
 position: 项目管理
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/96ac761d8c2d46c29e66096a3d0c6e5e
 tags: ["项目管理", "校招", "职业规划", "困难复盘"]

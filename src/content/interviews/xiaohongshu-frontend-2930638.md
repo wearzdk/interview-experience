@@ -4,6 +4,7 @@ company: "小红书"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43bac2a114f24dcfa312acc2e8fce155
 tags: ["小红书", "前端", "二面", "浏览器渲染", "React", "Vue", "虚拟DOM", "大模型"]

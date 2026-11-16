@@ -4,6 +4,7 @@ company: 美团
 position: Java后端
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/17e3b65daa1c42089d3aea9346bfbc98
 tags: ["美团","Java后端","AI工程化","本体化","CodeReview","多线程","B+树"]

@@ -4,6 +4,7 @@ company: 云集
 position: Java开发工程师（AI方向）
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-08'
 base: 北京
 source: 牛客网
 tags: ["优惠券系统","分布式事务","工厂模式","资损防控","TCC"]

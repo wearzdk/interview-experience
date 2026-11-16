@@ -4,6 +4,7 @@ company: "北京某小公司"
 position: "Java 后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/849905edce2a4af2a2b2e0a09d15af63
 tags: ["Java","Elasticsearch","MySQL","RAG","MCP","HashMap","JVM","G1","社招"]

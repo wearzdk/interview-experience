@@ -4,6 +4,7 @@ company: 小鹏汽车
 position: Agent 开发
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8a1109bad39c4b149baaf78a066b65a5
 tags: ["小鹏汽车","Agent开发","HR面","秋招","智能座舱","offer选择"]

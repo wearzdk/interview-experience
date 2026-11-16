@@ -4,6 +4,7 @@ company: 恒生电子
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938040628422643712
 tags: ["恒生电子", "Redis", "RabbitMQ", "MySQL", "压测", "慢SQL"]

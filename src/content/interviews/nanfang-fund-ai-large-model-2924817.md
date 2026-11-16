@@ -4,6 +4,7 @@ company: 南方基金
 position: AI 应用大模型
 round: 笔试+一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0d707380326e4d8cbd3fa310c3f6f441
 tags: ["大模型","Transformer","ReAct","Agent","笔试","Prompt工程"]

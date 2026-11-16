@@ -4,6 +4,7 @@ company: "中控技术"
 position: "软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3fb4eb954544ea8939b4a00f016a352
 tags: ["中控技术", "软件开发", "二面", "JVM", "GC", "MySQL锁", "AI协作"]

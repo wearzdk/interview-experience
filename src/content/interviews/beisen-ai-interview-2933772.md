@@ -4,6 +4,7 @@ company: "北森"
 position: "软件交付经理"
 round: "AI 面试"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c004aa30ae934f99987a7f2f27a1d1e9
 tags: ["北森","AI面试","软件交付","求职意向","简历"]

@@ -4,6 +4,7 @@ company: 大疆
 position: 后端
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/731893750cbc4605acce2cecf3aadc80
 tags: ["笔试", "后端", "计算机系统", "网络", "数据库", "算法"]

@@ -3,6 +3,7 @@ title: "彩讯股份 AI 全栈开发管培生面经：LangGraph、Prompt 与后�
 company: "彩讯股份"
 position: "AI全栈开发管培生"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Agent","LangChain","LangGraph","Prompt工程","SQL优化","线程池"]
 summary: "彩讯股份 AI 全栈开发管培生面经（9 月 23 日），两位面试官各问一轮：Agent 侧问 LangChain 与 LangGraph 的区别、Prompt 与 Skill 的设计与差异、badcase 优化；后端侧问 SQL 优化与慢查询排查、线程池参数与故障定位、上线前的稳定性保障。"

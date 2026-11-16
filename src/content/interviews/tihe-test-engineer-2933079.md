@@ -4,6 +4,7 @@ company: "钛和检测"
 position: "测试工程师"
 round: "初面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/63d11c45617343459993e244e034c9d7
 tags: ["钛和检测","测试工程师","社招","EMC","离职原因","加班","薪资"]

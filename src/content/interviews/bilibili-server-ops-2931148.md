@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "服务器运维"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9b25bd036ca04194bff1001dd9e3947d
 tags: ["哔哩哔哩","服务器运维","硬件测试","SPEC","NUMA","Linux","TCP"]

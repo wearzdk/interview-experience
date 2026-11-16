@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 应用"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944286343738257408
 tags: ["快手", "AI 应用", "Agent", "Skill", "RAG", "MVCC"]

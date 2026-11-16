@@ -4,6 +4,7 @@ company: "腾讯音乐"
 position: "技术增长实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7fe14c2a26ac4fb39b064ac7eb626310
 tags: ["腾讯音乐","技术增长","实习","运营活动","商品活动","内存溢出","Redis主从复制"]

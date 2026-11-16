@@ -4,6 +4,7 @@ company: "小红书"
 position: "Product Engineer（AI 与全栈方向）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["RAG","Agent","AI Coding","高并发","全栈","算法"]
 summary: "小红书社区工程 Product Engineer（AI 与全栈方向）一面，9.24 约 50 分钟：从实习与 AI 项目切入，深挖 RAG 全流程与切块、检索选型与准确率评估，再问 Agent 与 Workflow 的区别、ReAct、日常 AI Coding 与 Skill 加载，最后是算法（和为 K 的子数组）与高并发缓存、限流设计。"

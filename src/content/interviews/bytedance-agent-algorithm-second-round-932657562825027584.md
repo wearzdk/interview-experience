@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大模型算法
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932657562825027584
 tags: ["RAG","向量检索","Embedding","Agent","混合检索","随机算法"]

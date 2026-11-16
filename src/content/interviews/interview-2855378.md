@@ -3,6 +3,7 @@ title: 跳槽被问烂的 Java 问题，答不上直接无缘 offer
 company: 某互联网公司
 position: 软件开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 河北
 source: 牛客网
 tags: ["Java", "Spring", "操作系统"]

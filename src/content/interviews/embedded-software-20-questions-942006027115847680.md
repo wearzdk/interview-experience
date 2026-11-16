@@ -3,6 +3,7 @@ title: "27 届嵌入式软件开发必备八股文：20 道高频题与复习顺
 company: "多家嵌入式方向公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942006027115847680
 tags: ["嵌入式", "C语言", "RTOS", "通信协议", "秋招"]

@@ -4,6 +4,7 @@ company: 三菱日联金融集团（MUFG）
 position: 管理培训生
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945095682984075264
 tags: ["MUFG","外资银行","管培生","风控","商业银行","校招"]

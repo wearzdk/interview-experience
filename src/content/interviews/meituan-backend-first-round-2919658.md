@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "HashMap", "MySQL", "设计模式", "手撕代码"]
 summary: "美团后端开发一面面经：两道手撕题（n 的阶乘、合并有序数组）、一道 SQL 按课程平均分排序，随后追问设计模式、HashMap 为什么线程不安全以及怎么保证安全、头插法与尾插法的区别、Java 容器体系，最后聊项目与实习的难点。"

@@ -4,6 +4,7 @@ company: "中石油"
 position: "校园招聘"
 round: "AI 面试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/215ad2d3ea804ad5816df03170574ac2
 tags: ["中石油","校园招聘","AI面试","半结构化","自我介绍","能源央企"]

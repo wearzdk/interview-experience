@@ -4,6 +4,7 @@ company: 曦望
 position: AI 编译器开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2984321b67ca4e3e876f5fcd2d1de123
 tags: ["AI编译器","C++","模板","多态","GPU","LLVM","Triton"]

@@ -5,6 +5,7 @@ position: "软件开发"
 round: "二面"
 result: "录用决策中"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c345cf4164564a37bc873a33d84b2701
 tags: ["荣耀", "技术栈", "Redis", "Lua", "实习", "AI工具"]

@@ -4,6 +4,7 @@ company: "大疆"
 position: "空间智能 OS"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6a72b8b0f382423192503aa132830e2b"
 tags: ["大疆","空间智能OS","嵌入式","项目深挖","职业规划","秋招"]

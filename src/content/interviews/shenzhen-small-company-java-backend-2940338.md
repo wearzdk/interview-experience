@@ -3,6 +3,7 @@ title: "深圳某小公司 Java 后端面试：Kafka 可靠性、Spring 事务�
 company: "深圳某小公司"
 position: "Java 后端"
 date: '2026-11'
+collectedAt: '2026-11-13'
 base: "深圳"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/247e1f2935274da2bf2616d4536f7fe5

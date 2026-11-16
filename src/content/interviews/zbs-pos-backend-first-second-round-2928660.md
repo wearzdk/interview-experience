@@ -4,6 +4,7 @@ company: "ZBS POS"
 position: "后端开发"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7b5c59fa6bb246ab951fe37d8930cd95
 tags: ["Java", "Spring", "MySQL", "Redis", "布隆过滤器", "场景题"]

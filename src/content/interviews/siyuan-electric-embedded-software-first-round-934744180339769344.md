@@ -4,6 +4,7 @@ company: "思源电气"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934744180339769344
 tags: ["嵌入式", "MCU", "FreeRTOS", "看门狗", "Flash", "UART", "CRC"]

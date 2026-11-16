@@ -4,6 +4,7 @@ company: "电科金仓"
 position: "C开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60b48e4d75034586b4be9c521614c65f
 tags: ["电科金仓","HR面","职业规划","期望薪资","C开发"]

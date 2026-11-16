@@ -4,6 +4,7 @@ company: "网易互娱"
 position: "游戏测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/01d42f914fe34c10a5066ac0825490a3
 tags: ["C++","Unreal Engine","TCP","UDP","HTTP3","游戏测试","自动化测试"]

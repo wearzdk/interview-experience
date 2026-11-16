@@ -3,6 +3,7 @@ title: "索引失效被追问三次：隐式转换的方向、explain 判据与�
 company: 某公司
 position: 后端开发（实习）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949177749573267456
 tags: ["MySQL","索引失效","隐式转换","EXPLAIN","覆盖索引","联合索引"]

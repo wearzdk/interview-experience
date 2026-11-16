@@ -4,6 +4,7 @@ company: 广东元海
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "并发编程", "OpenFeign"]
 summary: "广东元海Java后端开发实习一面，围绕大模型工具调用安全、Java类加载、缓存、分布式锁、MySQL索引、CAS与OpenFeign展开。"

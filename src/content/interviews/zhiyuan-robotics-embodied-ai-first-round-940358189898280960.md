@@ -4,6 +4,7 @@ company: "智元机器人"
 position: "具身智能算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940358189898280960
 tags: ["智元机器人","具身智能","模仿学习","Diffusion Policy","Sim2Real","运动规划","手撕"]

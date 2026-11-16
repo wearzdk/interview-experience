@@ -4,6 +4,7 @@ company: 三维家
 position: 前端开发（实习）
 round: 一面 / HR 面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ed78417b5c2945f88a9744083b0bc635
 tags: ["三维家","前端实习","Vue","闭包","事件循环","算法","一面"]

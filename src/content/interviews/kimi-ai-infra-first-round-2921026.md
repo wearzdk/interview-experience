@@ -4,6 +4,7 @@ company: "Kimi"
 position: "AI Infra 算法工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["AI Infra","分布式训练","通信优化","Attention","GPU架构","量化"]
 summary: "Kimi AI Infra 算法一面面经，10 问全在分布式训练与 GPU 底层：DeepEP 两种模式取舍、Ulysses 与 Ring Attention 对比、DCP 分片注意力、Online Softmax 与 Blackwell 架构演进。"

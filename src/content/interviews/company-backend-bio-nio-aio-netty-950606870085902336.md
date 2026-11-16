@@ -3,6 +3,7 @@ title: "后端面试：BIO、NIO、AIO 的区别与 Netty 核心原理"
 company: "某公司"
 position: "后端开发"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950606870085902336
 tags: ["Java","IO模型","NIO","Netty","Reactor","网络编程"]

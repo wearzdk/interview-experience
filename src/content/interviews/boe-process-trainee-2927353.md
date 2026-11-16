@@ -4,6 +4,7 @@ company: "京东方"
 position: "制程技术培训生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d90059777f794cc1a444f2ef91f4a686"
 tags: ["京东方", "制程技术", "制造业", "校招", "面试体验"]

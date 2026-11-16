@@ -4,6 +4,7 @@ company: "小红书"
 position: "Product Engineer"
 round: "一面"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "凉经"
 source: 牛客网
 tags: ["AI产品", "Agent", "RAG", "用户研究", "项目深挖", "操作系统"]

@@ -3,6 +3,7 @@ title: "测试工程师社招面经（软硬件结合方向）"
 company: "未知公司"
 position: "测试工程师"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ce2b21de3990425eb492f610bbb5d5f0
 tags: ["软件测试","硬件测试","测试用例设计","Linux","图像质量","职业规划"]

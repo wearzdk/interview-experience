@@ -4,6 +4,7 @@ company: "虾皮"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/829439bb5675423aaa907fb2fc1cd68d
 tags: ["虾皮","Shopee","后端开发","秋招","Java","并发","ConcurrentHashMap","进程通信","Kafka","分布式锁","IO模型","手撕"]

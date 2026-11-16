@@ -4,6 +4,7 @@ company: "多益网络"
 position: "校招技术岗"
 round: "HR面（AI 面）"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d59222cf7748421e9a754293d3ba863d
 tags: ["多益网络","HR面","AI面试","观点题","校招流程","意愿题","一致性"]

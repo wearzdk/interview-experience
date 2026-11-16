@@ -4,6 +4,7 @@ company: "中移九天"
 position: "AI 工程师"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3ba494c456f148dba03c75846ddde726
 tags: ["中移九天", "笔试", "AI编程", "贪心", "算法"]

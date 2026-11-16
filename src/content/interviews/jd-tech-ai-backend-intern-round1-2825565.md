@@ -4,6 +4,7 @@ company: 京东科技
 position: AI后端研发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","秒杀系统","本地缓存","Agent","RPC","大模型"]
 summary: "京东科技AI后端研发日常实习一面，约1小时，涵盖秒杀防超卖加锁机制、Caffeine本地缓存一致性、Agent memory模块设计、大模型架构选型，以及Java内存模型、RPC框架、HTTP协议等八股题，适合准备后端实习面试的同学参考。"

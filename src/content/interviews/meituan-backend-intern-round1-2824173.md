@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java并发","MySQL","Redis","消息队列","分库分表","JVM"]
 summary: "美团小象超市营销组后端开发暑期实习一面，历时50分钟，涉及CompletableFuture、HashMap红黑树转换、G1与CMS对比、MySQL事务隔离级别、接口超时排查、水平分表跨片分页、消息队列消息不丢失、Redis库存扣减原子性与分布式事务，以及算法题前K个高频单词。"

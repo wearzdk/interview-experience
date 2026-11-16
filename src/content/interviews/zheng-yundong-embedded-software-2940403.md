@@ -4,6 +4,7 @@ company: 正运动技术
 position: 嵌入式软件开发（C++）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7283c0ad1f944f719b01f9f5b39bea35
 tags: ["正运动技术","嵌入式软件开发","Linux实时性","CAN总线","CANopen","glibc","多线程"]

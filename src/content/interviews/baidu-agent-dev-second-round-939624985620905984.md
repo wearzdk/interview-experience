@@ -4,6 +4,7 @@ company: "百度"
 position: "AI Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939624985620905984

@@ -4,6 +4,7 @@ company: "深信服"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["RAG","Agent","MCP","资金安全","职业规划"]
 summary: "深信服 Java 一面 40 分钟：RAG 检索不到 chunk 却仍然作答怎么办、怎么提高答案覆盖率、涉及下单与资金扣减的 Agent 如何设计、MCP 调用失败怎么处理，以及邮件识别实现与职业规划。"

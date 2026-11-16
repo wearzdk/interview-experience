@@ -3,6 +3,7 @@ title: C++ 社招怎么准备：三轮复习法与三层深度自测
 company: 社招求职经验分享
 position: C++
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938490097324822528
 tags: ["C++","社招","面试准备","智能指针","多态","线程"]

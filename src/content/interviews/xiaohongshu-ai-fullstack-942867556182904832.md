@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942867556182904832
 tags: ["小红书", "AI全栈", "计算机网络", "WebSocket", "LRU", "AI协作"]

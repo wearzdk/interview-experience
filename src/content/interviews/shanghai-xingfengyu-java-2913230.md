@@ -4,6 +4,7 @@ company: "上海星丰雨"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-18'
 result: "通过"
 source: "牛客网"
 tags: ["Java", "数据同步", "SQL优化", "AI编程", "问题排查"]

@@ -4,6 +4,7 @@ company: "睿创微纳"
 position: "嵌入式软件"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/378185ab99544970ab08997891217772
 tags: ["睿创微纳","嵌入式","进程线程","ADC","死锁","内存池","结构体对齐","大小端"]

@@ -3,6 +3,7 @@ title: "软件测试岗面试题：加班意向、手工测试与漏测应对"
 company: "某公司"
 position: "软件测试工程师（手工测试）"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/98d4f71984204add9c52a67307c1c36b"
 tags: ["软件测试","手工测试","测试实习","加班","行为面试","漏测","优先级管理"]

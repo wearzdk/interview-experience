@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/783537e25c274874b7ebff48c96db901
 tags: ["嵌入式","C++","shared_ptr","生产者消费者","select","epoll","AI辅助开发"]

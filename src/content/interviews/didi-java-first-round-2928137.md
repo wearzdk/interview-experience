@@ -4,6 +4,7 @@ company: "滴滴"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-17'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5b57de7f52e94f3f8985ee51f1f78a43
 tags: ["滴滴","Java","Agent","ReAct","上下文管理","Python"]

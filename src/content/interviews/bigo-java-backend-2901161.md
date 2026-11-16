@@ -4,6 +4,7 @@ company: BIGO
 position: Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-01'
 source: 牛客网
 tags: ["Java", "Agent", "Redis", "RAG", "HTTPS", "算法"]
 summary: "BIGO Java后端一面面经，围绕外汇汇款 Agent、槽位提取与风控、Redis 缓存和分布式一致性、RAG、HTTPS 及三数之和展开。"

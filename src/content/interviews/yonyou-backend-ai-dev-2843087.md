@@ -3,6 +3,7 @@ title: 日常实习 后端AI开发面经
 company: 用友
 position: 后端AI开发
 date: '2026-04'
+collectedAt: '2026-04-27'
 source: 牛客网
 tags: ["SpringAI","JVM","Java集合","MySQL","多线程"]
 summary: "用友后端AI开发实习面试经验分享，考察重点包括SpringAI项目架构、长期记忆实现与优化、MongoDB向量存储、Java并发编程（CAS/JVM）、集合框架底层源码，以及MySQL B+树索引与隔离级别。涵盖从项目设计到计算机基础八股的全面考核。"

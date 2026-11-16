@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式软件工程师"
 round: "面试合集"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941256278251143168"
 tags: ["嵌入式","C语言","中断","FreeRTOS","DMA","看门狗","八股"]

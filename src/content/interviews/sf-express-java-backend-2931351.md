@@ -4,6 +4,7 @@ company: "顺丰"
 position: "Java 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e1ab5aef3094ec488c48c094a717b22
 tags: ["顺丰","Java后端","适配器模式","幂等","分片上传","联合索引","ICP","回表"]

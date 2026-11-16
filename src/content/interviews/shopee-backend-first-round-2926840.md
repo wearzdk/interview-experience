@@ -4,6 +4,7 @@ company: "虾皮"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f218119d0df4086b92717f9bce4e3b5
 tags: ["虾皮","后端开发","Redis","操作系统","epoll","内存管理","分布式锁"]

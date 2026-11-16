@@ -4,6 +4,7 @@ company: "记忆张量"
 position: "大模型全栈实习"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2359e337039240e39a7f4acd6c00c29f
 tags: ["记忆张量","大模型全栈","Agent","Elasticsearch","RAG","RRF","Redis","Kafka","实习"]

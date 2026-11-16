@@ -4,6 +4,7 @@ company: "长虹"
 position: "机器人系统软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6e2fd6e007ce4dafbd4b41bde72274ba
 tags: ["长虹","机器人","C++","多态","ROS2","Python"]

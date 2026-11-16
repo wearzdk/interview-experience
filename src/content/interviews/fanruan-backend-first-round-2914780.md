@@ -4,6 +4,7 @@ company: "帆软"
 position: "后端开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["后端开发","Go","MySQL","Redis","分布式锁","LSM树","Agent成本"]
 summary: "帆软后端一面 13 问：进程与线程、CPU 密集集群扛不住并发的排查思路、LSM 与 B 树的差异、Redis 主从同步、精确到小数点后十位选什么类型、分布式锁设计、goroutine 与 channel 底层、Agent 成本管控。"

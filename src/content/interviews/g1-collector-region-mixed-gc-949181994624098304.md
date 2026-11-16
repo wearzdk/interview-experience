@@ -3,6 +3,7 @@ title: "G1 回收器怎么答：Region、Mixed GC 与 Humongous 对象的线上�
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949181994624098304
 tags: ["JVM","G1","Mixed GC","SATB","Humongous","GC调优"]

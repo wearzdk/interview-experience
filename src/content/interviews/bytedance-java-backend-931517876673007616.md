@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-20'
 result: OC
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931517876673007616

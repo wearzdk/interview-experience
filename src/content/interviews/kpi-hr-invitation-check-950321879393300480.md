@@ -3,6 +3,7 @@ title: "怎么分辨 HR 刷 KPI 的面试邀约：四个信号与打电话时该
 company: 某公司
 position: 求职避坑
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950321879393300480
 tags: ["HR邀约","KPI面","求职避坑","招聘流程","面试准备","社招"]

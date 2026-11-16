@@ -3,6 +3,7 @@ title: 千问事业部一面面经
 company: 阿里巴巴
 position: 客户端与AI应用
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "JVM", "快速排序", "React Native", "Agent"]
 summary: 千问事业部一面，覆盖Java基础、算法、HTTPS、React Native跨端原理及Agent能力边界。

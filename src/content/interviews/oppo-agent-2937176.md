@@ -4,6 +4,7 @@ company: OPPO
 position: AI Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1bee89abbd3d4e3fbf0fe535f0a8ff91
 tags: ["AI Agent","ReAct","Function Calling","上下文压缩","记忆管理"]

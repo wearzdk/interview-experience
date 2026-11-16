@@ -4,6 +4,7 @@ company: 滴滴
 position: Java后端开发
 round: 三轮
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Redis","RocketMQ","MySQL","Java并发","MVCC"]
 summary: "滴滴春招Java后端开发三轮面试总结。考察核心技术点包括Redisson分布式锁原理、Redis数据结构、RocketMQ顺序消息与架构设计、MySQL MVCC机制及隔离级别、线程安全集合、单例模式等，涵盖深度项目拷打与手撕算法题，助你备战大厂面试。"

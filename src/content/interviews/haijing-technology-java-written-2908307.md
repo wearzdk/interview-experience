@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: Java开发
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "多线程", "数据库索引"]
 summary: "浩鲸科技Java方向笔试面经，题型包括单选、不定项、问答和填空，重点考察多线程、数据库索引与Java基础。"

@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "硬件工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/36f76a2c943f4da782e3f2781ba645dc
 tags: ["汇川技术","硬件工程师","二面","行为面","团队协作","职业规划"]

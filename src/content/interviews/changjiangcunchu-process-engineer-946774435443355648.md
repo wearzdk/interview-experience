@@ -4,6 +4,7 @@ company: 长江存储
 position: 工艺工程师
 round: "技术面 + 综合面"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946774435443355648
 tags: ["半导体", "工艺工程师", "3D NAND", "良率", "DOE", "校招"]

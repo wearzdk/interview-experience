@@ -4,6 +4,7 @@ company: 小鹏集团
 position: 深度学习平台研发工程师
 round: 校招面试
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945709685955395584
 tags: ["小鹏", "AI Infra", "分布式训练", "DDP", "Kubernetes", "KubeVirt", "拓扑排序"]

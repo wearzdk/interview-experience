@@ -4,6 +4,7 @@ company: "联通数科"
 position: "运维行业数据训练工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cc5268e445344ac59b6ec05551ed459b
 tags: ["联通数科","数据训练","机器学习","一面","北京户口"]

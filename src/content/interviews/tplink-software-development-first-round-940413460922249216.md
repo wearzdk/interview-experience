@@ -4,6 +4,7 @@ company: "普联技术"
 position: "软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940413460922249216
 tags: ["普联技术","软件开发","实习项目","大模型","RAG","RRF","Linux排查","网络排查"]

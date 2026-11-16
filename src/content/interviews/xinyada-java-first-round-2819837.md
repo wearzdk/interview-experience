@@ -4,6 +4,7 @@ company: 信雅达
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过
 source: 牛客网
 tags: ["Java基础","JVM","MySQL","微服务","NL2SQL"]

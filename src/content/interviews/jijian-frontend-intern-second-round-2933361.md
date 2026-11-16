@@ -4,6 +4,7 @@ company: "即剪"
 position: "前端开发实习"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0cdcb7a831f04ac7a73a5884139e49ee
 tags: ["即剪", "前端实习", "二面", "HR面", "转正", "AI工具", "实习薪资"]

@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "全栈开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/443517103437406b9ae5139fd8957962
 tags: ["全栈", "Redis", "RoaringBitmap", "Go", "Channel", "Kafka", "AI编程"]

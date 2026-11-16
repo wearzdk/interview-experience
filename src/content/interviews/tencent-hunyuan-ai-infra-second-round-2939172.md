@@ -4,6 +4,7 @@ company: "腾讯（混元）"
 position: "AI Infra"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f63a43156e7c4564a11a8184db3d8fee
 tags: ["腾讯","混元","AI Infra","GPU 架构","TMA","WGMMA","UMMA","KV Cache","量化","CUDA"]

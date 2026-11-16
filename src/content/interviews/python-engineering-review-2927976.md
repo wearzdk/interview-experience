@@ -4,6 +4,7 @@ company: "未具名中小公司"
 position: "Python 开发"
 round: "面试复盘"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/86b72b23f29b49f2b2ac1072b5d459e3"
 tags: ["Python", "工程能力", "Git", "简历", "面试复盘"]

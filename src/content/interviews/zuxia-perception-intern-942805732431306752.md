@@ -4,6 +4,7 @@ company: "足下科技"
 position: "感知算法实习"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942805732431306752
 tags: ["足下科技", "感知实习", "笔试", "卡尔曼滤波", "滑动窗口", "通讯协议"]

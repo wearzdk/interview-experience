@@ -4,6 +4,7 @@ company: 传化智联
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/52fbdc53e752443e8d261246c7bcc491
 tags: ["Agent","上下文优化","JDK","MySQL","索引"]

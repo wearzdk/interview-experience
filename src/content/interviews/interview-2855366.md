@@ -3,6 +3,7 @@ title: OD资面问题清单|北邮24届C++
 company: 某互联网公司
 position: 前端开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 广东
 source: 牛客网
 tags: ["Java", "Python", "C++", "前端"]

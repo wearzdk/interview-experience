@@ -4,6 +4,7 @@ company: "记忆科技"
 position: "嵌入式软件开发"
 round: "HR面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946696526821175296
 tags: ["记忆科技","嵌入式","HR面","自我介绍","竞赛经历","论文专利","读博","职业规划"]

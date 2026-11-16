@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端AI开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Redis","多级缓存","Java内存管理","算法","高并发"]
 summary: "字节跳动后端AI开发日常实习二面面经。面试涵盖高并发系统设计（点赞QPS、热点Key处理）、缓存一致性（Redis与Caffeine）、计算机组成原理（CPU缓存与数组遍历性能）、Java内存模型及OOM排查，并包含K个一组反转链表手撕题。"

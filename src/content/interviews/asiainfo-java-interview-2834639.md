@@ -3,6 +3,7 @@ title: 南京亚信安全Java岗位面试经历
 company: 亚信安全
 position: Java开发工程师
 date: '2026-04'
+collectedAt: '2026-04-14'
 result: 挂
 base: 南京
 source: 牛客网

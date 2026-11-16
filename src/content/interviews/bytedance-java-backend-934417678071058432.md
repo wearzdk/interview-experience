@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Java后端"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934417678071058432
 tags: ["Java", "虚拟线程", "GraalVM", "Spring Boot", "系统设计", "故障排查", "社招"]

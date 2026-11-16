@@ -3,6 +3,7 @@ title: 建设银行信息科技岗面经合集（运营数据中心、建信金�
 company: 建设银行
 position: 信息科技岗
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938049205237567488
 tags: ["银行面试", "建信金科", "Java", "软件开发", "测试开发", "金融科技"]

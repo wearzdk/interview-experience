@@ -3,6 +3,7 @@ title: "广州某手信息——25届产品测试（社招）"
 company: "广州某手信息"
 position: "产品测试工程师"
 date: '2026-07'
+collectedAt: '2026-07-11'
 base: "广州"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/886359980717121536

@@ -4,6 +4,7 @@ company: "美团"
 position: "AI数据开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["数据开发","Agent","数据倾斜","Iceberg","LSM-Tree","数据质量"]
 summary: "美团 AI 数据开发一面面经（9 月 23 日）：覆盖数仓主题划分、指标发布校验与偏差阈值、数据倾斜定位与加盐、Spark 性能优化与熔断告警策略，并深入 Iceberg 元数据与 Copy-on-Write、LSM-Tree，最后追问 Agent 落地、幻觉治理与效果验证。"

@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: Java后端开发工程师
 round: 全程
 date: '2026-06'
+collectedAt: '2026-06-26'
 base: 浙江
 source: 牛客网
 tags: ["Java","JVM","并发编程","MySQL","Redis","系统设计","秒杀","分布式"]

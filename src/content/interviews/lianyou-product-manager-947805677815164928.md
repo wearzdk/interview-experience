@@ -3,6 +3,7 @@ title: "联友科技 产品经理 面试：Java 三大特性、索引原理与�
 company: "联友科技"
 position: "产品经理"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947805677815164928
 tags: ["联友科技","产品经理","Java","面向对象","MySQL","索引","Redis","缓存穿透"]

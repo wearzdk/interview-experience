@@ -4,6 +4,7 @@ company: "腾讯音乐"
 position: "后台开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8a71c2f233cd44e4a83da7406462030d
 tags: ["腾讯音乐","后台开发","Redis","分库分表","MySQL","RAG","秋招"]

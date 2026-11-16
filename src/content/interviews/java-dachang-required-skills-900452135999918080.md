@@ -3,6 +3,7 @@ title: Java想进大厂到底要必备什么技术
 company: 多家大厂
 position: Java后端开发工程师
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/900452135999918080
 tags: ["Java","JVM","Spring","分布式","高并发"]

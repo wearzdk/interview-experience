@@ -4,6 +4,7 @@ company: "腾讯"
 position: "前端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943441290870390784
 tags: ["腾讯","企业微信","前端","实习","XSS","CSRF","Vite","React Fiber","括号匹配"]

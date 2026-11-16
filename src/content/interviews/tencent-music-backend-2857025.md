@@ -4,6 +4,7 @@ company: 腾讯音乐
 position: 后台开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 result: 凉经
 source: 牛客网
 tags: ["Java","虚拟线程","Redis","秒杀系统","JVM"]

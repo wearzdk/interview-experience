@@ -4,6 +4,7 @@ company: "百度"
 position: "Agent 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3903a12df0d342619ce1a550b7b65e1c
 tags: ["百度","Agent","AI Coding","代码生成","ReAct","多智能体","Redis","优惠券","幂等"]

@@ -4,6 +4,7 @@ company: "拾贝"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a59d7785cb37433e898c1c2b053531a8
 tags: ["拾贝", "AI全栈", "Agent记忆", "工作流编排", "状态机", "Vue", "React"]

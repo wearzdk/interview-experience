@@ -4,6 +4,7 @@ company: "客诺信息技术"
 position: "Java后端"
 round: "一面+二面"
 date: '2026-09'
+collectedAt: '2026-10-07'
 source: 牛客网
 tags: ["Java","Spring","MySQL","Redis","RBAC","Agent","RAG"]
 summary: "客诺信息技术 Java 后端一二面面经：一面 15 分钟围绕 == 与 equals、hashCode、订单表设计、商品调价与历史订单、局域网 IP 等基础题；二面 50 分钟先深挖实习项目的 RBAC 权限、权限注解、Excel 导入与告警链路，再考 Java 集合、Spring 单例 Bean、MySQL 索引与统计 SQL、Redis 数据结构、git 与 HTTP 状态码，最后以 Agent 提示词、RAG 评测与精排收尾。"

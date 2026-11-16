@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发工程师（数据平台方向，暑期实习）
 round: 一面
 date: '2026-05'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/885514832349245440
 tags: ["Java","项目深挖","数据平台","AI应用"]

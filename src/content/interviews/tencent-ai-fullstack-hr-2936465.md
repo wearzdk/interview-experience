@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI 全栈"
 round: "HR 面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a0f104162d7448c9915ba162b0fbf02a"
 tags: ["腾讯","AI全栈","HR面","游戏后端","校招","职业规划","薪资"]

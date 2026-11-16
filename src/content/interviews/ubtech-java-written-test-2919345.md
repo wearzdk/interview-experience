@@ -4,6 +4,7 @@ company: "优必选科技"
 position: "Java开发工程师"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["笔试", "Java", "ArrayList", "HashMap", "IoC", "缓存", "编程题"]
 summary: "优必选科技 Java 开发工程师 9 月 29 日 19:00 笔试：10 道单选、4 道多选，问答考 ArrayList 与 HashMap 底层、IoC 与缓存三大问题，编程题考最大子矩阵和、带车的迷宫最短时间与连续子序列计数；另附 B 站研发工程师笔经。"

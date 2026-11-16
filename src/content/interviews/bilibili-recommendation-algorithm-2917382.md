@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "推荐算法"
 round: "秋招"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 tags: ["推荐算法","生成式召回","RQ-VAE","MMOE","DIN","多任务学习"]
 summary: "B 站推荐算法秋招面经，十道题集中在生成式召回与多任务建模：SID 范式的落地兑现、RQ-VAE 的流程与梯度传播、STE 之外的梯度截断解法、MMOE 与 PLE 的专家坍缩、Focal Loss 在多任务中的取舍，以及 DIN 注意力的复杂度。"

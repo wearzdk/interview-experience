@@ -4,6 +4,7 @@ company: "滴滴"
 position: "后端开发"
 round: "二面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 tags: ["Java", "HashMap", "JVM", "GC", "Redis", "算法"]
 summary: "滴滴日常后端二面记录，深入讨论文件服务、HashMap、JVM 卡表和自实现 256 位大整数。"

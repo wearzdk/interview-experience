@@ -4,6 +4,7 @@ company: 阿里控股
 position: 基础架构开发
 round: 三面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f5cf11ad75e4957b8727181faf7b7b0
 tags: ["基础架构","三面","项目深挖","Agent","系统设计"]

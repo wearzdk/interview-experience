@@ -4,6 +4,7 @@ company: "中国恩菲"
 position: "软件算法开发"
 round: "约面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2f9d37ccb6d54812b788c36842f62383"
 tags: ["中国恩菲", "软件算法开发", "设计院", "国企", "约面流程"]

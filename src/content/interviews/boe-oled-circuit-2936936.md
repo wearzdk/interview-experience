@@ -3,6 +3,7 @@ title: "京东方 BOE OLED 电路开发研究员 提前批面经（同场第二�
 company: "京东方"
 position: "OLED 电路开发研究员"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a2416fa025614888bbb1ae033ab22ab8
 tags: ["京东方","BOE","OLED","电路研发","提前批","行为面试"]

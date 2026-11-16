@@ -4,6 +4,7 @@ company: "杭州银行"
 position: "银行校招岗"
 round: "AI面试"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2d1d1e7d961c4da39d7c224ff5469a18"
 tags: ["杭州银行","AI面试","银行校招","半结构化面试","情景题","行为面试"]

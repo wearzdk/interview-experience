@@ -4,6 +4,7 @@ company: "交通银行"
 position: "总行金融科技岗（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939991726402424832
 tags: ["交通银行","金融科技岗","银行笔试","行测","专业能力","英语","校招补招"]

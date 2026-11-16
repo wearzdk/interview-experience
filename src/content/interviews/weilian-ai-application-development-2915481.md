@@ -3,6 +3,7 @@ title: "杭州微链AI应用开发面经：文档入库与DeepAgents"
 company: 杭州微链
 position: AI应用开发
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","RAG","Agent","DeepAgents","文档解析","AI客服"]
 summary: "杭州微链AI应用开发面经，面试以工程能力与学习能力考察为主。围绕实习中文档入库全流程、图文混排存储、RRF融合的k值调参、DeepAgents的模型无关性与子Agent上下文设计、大模型调用异常处理，以及结合微信新能力做AI客服的方案选型展开。"

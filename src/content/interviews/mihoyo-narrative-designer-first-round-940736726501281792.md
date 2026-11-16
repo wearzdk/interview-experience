@@ -4,6 +4,7 @@ company: "米哈游"
 position: "文案策划"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940736726501281792"

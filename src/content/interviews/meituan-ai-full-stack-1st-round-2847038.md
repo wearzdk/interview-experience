@@ -4,6 +4,7 @@ company: 美团
 position: AI全栈开发
 round: 一面
 date: '2026-05'
+collectedAt: '2026-05-06'
 source: 牛客网
 tags: ["RAG","向量检索","Agent开发","HTTP协议","MySQL索引"]
 summary: "美团AI全栈开发岗位一面面试题分享。面试深入考察了RAG检索架构、混合检索参数调优、Agent幻觉抑制及工程化落地经验。同时涵盖了HTTP协议演进、V8引擎垃圾回收、MySQL索引原理及Java面向对象设计等计算机基础知识。"

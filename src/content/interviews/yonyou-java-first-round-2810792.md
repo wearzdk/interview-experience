@@ -4,6 +4,7 @@ company: 用友网络
 position: 客户化开发-Java后端
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 广东
 source: 牛客网
 tags: ["Java","Spring","多线程","网络协议"]

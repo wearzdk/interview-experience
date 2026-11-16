@@ -3,6 +3,7 @@ title: "中国石化综合管理岗秋招面经：实习项目深挖与基层意
 company: "中国石化"
 position: "综合管理岗"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a960d3fbf1fb4c4b9c5dd3e2a9c8f590"
 tags: ["中国石化","综合管理岗","国企面试","半结构化面试","秋招","实习经历","社会实践","岗位调配"]

@@ -4,6 +4,7 @@ company: "多益网络"
 position: "软件开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e28c1ee7078045939db8abe010852e2c"
 tags: ["多益网络","Java","RAG","熔断降级","Spring","Redis","MySQL","系统设计"]

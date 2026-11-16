@@ -3,6 +3,7 @@ title: 中科创达面试复盘
 company: 中科创达
 position: Java后端开发
 date: '2026-04'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "线程池", "并发", "MySQL", "RAG", "大模型"]
 summary: "中科创达面试复盘，围绕Java基础、线程池、CAS、JVM、MySQL索引与事务、RAG检索流程、LangChain、AI客服和Agent开发展开。"

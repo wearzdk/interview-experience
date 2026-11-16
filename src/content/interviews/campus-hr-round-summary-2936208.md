@@ -4,6 +4,7 @@ company: "多家公司"
 position: "算子开发"
 round: "HR面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d33905551cde4a58984fa8d48c45656f"
 tags: ["算子开发", "HR面", "芯片", "薪资谈判", "offer选择", "职业规划"]

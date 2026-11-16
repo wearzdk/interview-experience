@@ -4,6 +4,7 @@ company: 字节跳动
 position: 推荐算法
 round: 一二面
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/aae48985e3d841acbdb708c1b2239c27
 tags: ["字节跳动","推荐算法","大模型","MoE","BatchNorm","Transformer"]

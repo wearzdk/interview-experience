@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Agent 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c325a58591c44b42919f2a4984ed12b8
 tags: ["科大讯飞", "Agent 开发", "Harness", "结构化输出", "记忆管理", "HNSW", "Prompt 注入"]

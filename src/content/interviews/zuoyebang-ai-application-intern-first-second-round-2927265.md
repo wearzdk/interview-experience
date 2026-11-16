@@ -4,6 +4,7 @@ company: "作业帮"
 position: "AI应用开发（实习）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/73bad9d11163476d8cfce0f26c1c04f5
 tags: ["作业帮","AI应用开发","Linux排查","接口性能","Docker","pprof","分布式事务","四次挥手"]

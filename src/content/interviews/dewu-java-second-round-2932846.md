@@ -4,6 +4,7 @@ company: "得物"
 position: "Java 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0541e041563c4d8f8727fa4991c5d045
 tags: ["得物", "Java", "RabbitMQ", "RocketMQ", "DDD", "分库分表", "AOP", "MySQL"]

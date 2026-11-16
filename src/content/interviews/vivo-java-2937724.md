@@ -4,6 +4,7 @@ company: vivo
 position: "Java 开发"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0399960b3e7241098564ceda459610a1
 tags: ["vivo","Java","RabbitMQ","死信队列","SQL优化","Redis","AI编程"]

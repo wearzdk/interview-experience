@@ -4,6 +4,7 @@ company: "快手"
 position: "AI全栈"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7785c6e795d2430e850711a87af72680
 tags: ["快手","AI全栈","Java","HashMap","JVM","MySQL","召回","算法"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Agent架构","RAG","Spring AI","Java并发","算法"]
 summary: "字节跳动TikTok AI后端开发一面面经。面试深度考察Agent核心架构（Planner/Executor/Supervisor模式）、RAG检索增强生成流程及优化、MySQL与Redis特性对比，以及高并发场景下的生产消费者模型设计，手撕题目为LeetCode 224基本计算器。"

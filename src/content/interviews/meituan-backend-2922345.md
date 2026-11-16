@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-10-07'
 result: 已挂
 source: 牛客网
 tags: ["Java","HashMap","并发","设计模式","手撕代码","SQL"]

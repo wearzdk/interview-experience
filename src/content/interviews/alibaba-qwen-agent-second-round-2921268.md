@@ -4,6 +4,7 @@ company: "阿里巴巴（千问）"
 position: "Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Agent","LangGraph","Function Calling","大模型","Prompt工程"]
 summary: "阿里千问 Agent 开发二面面经，11 问集中在 Agent 工程：LangGraph 架构组件、Function Calling 原理与工具调用的常见坑、Query 改写、多轮对话缺陷与 Prompt 拼装顺序，另有手写快排。"

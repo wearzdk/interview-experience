@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/33e9e922aa1f4242bcbaa5fcc930fa05
 tags: ["拼多多","客户端开发","HR面","薪资谈判","职业规划","秋招"]

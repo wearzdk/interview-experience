@@ -4,6 +4,7 @@ company: "网易互娱"
 position: "AI应用开发"
 round: "一面二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/683ffea1ead24f8d8539f6bab3b7b361"
 tags: ["AI Agent", "MCP", "Skill", "代码审查", "测试自动化", "场景题"]

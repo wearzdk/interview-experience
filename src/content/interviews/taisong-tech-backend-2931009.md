@@ -3,6 +3,7 @@ title: "上海钛松科技后端面经：MySQL 与 MongoDB、InnoDB 日志与 RB
 company: "钛松科技"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/65fd0b3fe2054744a7a829e92843f647
 tags: ["钛松科技", "后端开发", "MySQL", "MongoDB", "InnoDB", "HashMap", "Spring", "RBAC"]

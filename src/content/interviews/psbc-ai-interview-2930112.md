@@ -4,6 +4,7 @@ company: "邮储银行"
 position: "信息技术岗"
 round: "AI面"
 date: '2022-11'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dcc87d59b3cf47bca66a227793956428
 tags: ["邮储银行", "AI面试", "银行校招", "行为面试", "信息技术岗"]

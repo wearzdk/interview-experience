@@ -4,6 +4,7 @@ company: 快手
 position: 推荐算法（OneRec）
 round: "一至二面"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5b7329d0d799489d8e5996501122235e
 tags: ["推荐系统", "生成式召回", "SID", "线性注意力", "DPO", "LoRA", "GAUC"]

@@ -4,6 +4,7 @@ company: "大疆"
 position: "AI 测试开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/248f77ea7772459b88590a719c2371a4
 tags: ["大疆","AI测试开发","笔试","操作系统","测试理论","Python","C语言"]

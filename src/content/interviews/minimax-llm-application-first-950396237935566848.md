@@ -4,6 +4,7 @@ company: MiniMax
 position: 大模型应用（Agent）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950396237935566848
 tags: ["MiniMax","大模型","Agent","RoPE","位置插值","KV Cache","PagedAttention","MoE","投机解码"]

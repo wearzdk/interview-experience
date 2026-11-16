@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "AI应用开发"
 round: "实习一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/930759074017210368
 tags: ["Agent","多模态","FFmpeg","视频理解","系统架构","JVM","沙箱隔离"]

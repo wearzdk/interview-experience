@@ -4,6 +4,7 @@ company: "快手"
 position: "AI应用开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI应用","Agent平台","ReAct","上下文","效果评估","AI编程协作"]
 summary: "快手 AI 应用二面面经（9.15）：先问实习与转正情况，再从「你怎么理解 AI 技术栈」切入，考 ReAct 与 Plan-and-Execute 的适用场景与组合方式，随后深挖 Agent 平台项目——你个人改了什么模块、平台服务谁、如何考核、需求从哪来、上线收益与人效如何衡量、上下文错用与漏召的典型 case 是否可复用，最后追问模型接入与部署、推理成本、团队分工以及 AI Coding 的质量与多人协作。"

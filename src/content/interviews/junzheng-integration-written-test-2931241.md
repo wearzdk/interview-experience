@@ -4,6 +4,7 @@ company: "君正集成"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e6143182283c48a99f3a6207880d5554
 tags: ["君正集成","软件笔试","C语言","寄存器","SIMD","嵌入式"]

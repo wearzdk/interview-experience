@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/259562c4a51e4b758ace69c69734c1d1
 tags: ["哔哩哔哩","前端","JavaScript","事件循环","React","Git","WebSocket"]

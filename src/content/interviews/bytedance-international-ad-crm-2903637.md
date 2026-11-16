@@ -4,6 +4,7 @@ company: 字节
 position: 国际化广告CRM
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "OceanBase", "Redis", "SQL优化", "分布式锁", "链表"]
 summary: "字节国际化广告 CRM 一面面经，围绕实习项目、报表系统、MySQL 与 OceanBase 选型、Redis、SQL 优化、分布式锁和链表算法展开。"

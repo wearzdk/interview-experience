@@ -4,6 +4,7 @@ company: "搜狐"
 position: "业务岗"
 round: "业务一面+业务二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "已收 offer"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7081fc1616174df398dce7dbfe489eb8

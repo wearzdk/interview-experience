@@ -4,6 +4,7 @@ company: "中国移动杭州研发中心"
 position: "软件开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d75eda1f824047f6881f5b26819aa1aa
 tags: ["中国移动","杭研","运营商","面试流程"]

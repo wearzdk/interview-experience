@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f8e63f5422434b3fbedf557df2a3de15
 tags: ["拼多多","服务端开发","Go并发","GMP调度","知识库","Agent平台","算法题"]

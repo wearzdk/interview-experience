@@ -3,6 +3,7 @@ title: "「你背的很多条其实都是错的」：索引失效的七个场景
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949174276303712256
 tags: ["MySQL","索引失效","EXPLAIN","隐式转换","最左前缀","优化器"]

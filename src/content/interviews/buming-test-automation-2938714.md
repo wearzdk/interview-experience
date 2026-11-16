@@ -4,6 +4,7 @@ company: 不鸣科技
 position: 自动化测试
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9fdc0a40f1f74211b222add8fe9047f1
 tags: ["不鸣科技","自动化测试","pytest","参数化","fixture","测试框架"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 全栈开发"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 result: "已发 offer"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b65f5ee779b34f1399be9d97bbae3937

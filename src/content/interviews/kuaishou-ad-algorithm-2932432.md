@@ -4,6 +4,7 @@ company: 快手
 position: 广告算法工程师
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d6bac837eac44e958337b54a0ede24c5
 tags: ["推荐算法","广告算法","RQVAE","GRPO","SID","手撕算法"]

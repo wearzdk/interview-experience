@@ -3,6 +3,7 @@ title: "百度 AI Agent 开发岗面经：记忆模块与上下文压缩"
 company: "百度"
 position: "AI Agent 开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931706698258010112"
 tags: ["AI Agent", "记忆模块", "RAG", "MCP", "Skill", "上下文压缩", "分库分表", "Redis"]

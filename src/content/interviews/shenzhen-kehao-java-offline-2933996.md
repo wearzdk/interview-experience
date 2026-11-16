@@ -4,6 +4,7 @@ company: 深圳科皓
 position: Java 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fa26d1c0b73f4623ab7bad125e9a8ac2
 tags: ["Java","SpringBoot","SpringCloud","线下面试","笔试"]

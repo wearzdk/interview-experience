@@ -4,6 +4,7 @@ company: "OPPO"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933863580892483584
 tags: ["Linux", "进程与线程", "调度", "C++", "智能指针", "线程安全"]

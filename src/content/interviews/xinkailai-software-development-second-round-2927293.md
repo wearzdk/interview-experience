@@ -4,6 +4,7 @@ company: "新凯来"
 position: "软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e040c9c77684ca28c93b15a6c167a8c
 tags: ["新凯来","软件开发","项目深挖","RRF","全链路追踪","JVM","垃圾回收","链表找环"]

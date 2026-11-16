@@ -4,6 +4,7 @@ company: 宁波银行
 position: 金融科技
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939228701638643712
 tags: ["Java","算法","GC","String","Spring","MySQL索引","八股"]

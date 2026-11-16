@@ -4,6 +4,7 @@ company: 顺丰
 position: 测试开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0d00ef742f1643cfa1a5f8ec2e7f68e0
 tags: ["顺丰科技","测试开发","造数平台","接口自动化","TestNG","AI TestOps"]

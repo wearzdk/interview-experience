@@ -4,6 +4,7 @@ company: "多家公司校招"
 position: "群面"
 round: "群面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942188983587463168
 tags: ["群面", "无领导小组", "秋招", "面试技巧", "自我介绍"]

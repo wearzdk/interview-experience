@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bab2ccabb366403492901c712278329e
 tags: ["小红书", "AI Agent", "Agent", "评测集", "上下文压缩", "Human-in-the-loop", "MQ幂等"]

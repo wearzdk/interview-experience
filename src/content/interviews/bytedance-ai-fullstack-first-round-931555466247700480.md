@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI全栈开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931555466247700480
 tags: ["Agent","视频处理","MySQL","性能优化","算法","一致性哈希","HashMap"]

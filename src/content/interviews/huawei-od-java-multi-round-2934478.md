@@ -4,6 +4,7 @@ company: "华为"
 position: "Java开发"
 round: "OD多轮"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9e0c7d94a26d4d929478d14df4815adc
 tags: ["华为","OD","Java","HashMap","AQS","手撕代码","性格测试"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "全栈开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 result: "已挂"
 source: 牛客网
 tags: ["全栈","前端","虚拟列表","RAG","HTTP","TCP"]

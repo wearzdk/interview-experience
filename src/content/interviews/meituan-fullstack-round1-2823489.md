@@ -4,6 +4,7 @@ company: 美团
 position: 全栈开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["MySQL事务","HTTP接口设计","设计模式","定时器","前后端通信","Java中间件"]
 summary: "美团全栈开发一面，40分钟，无手撕算法，以项目深挖为主。涉及HTTP接口设计、MySQL事务、设计模式、定时器实现、前后端通信机制、Java中间件等核心考点，适合C++/Java背景全栈求职者备考参考。"

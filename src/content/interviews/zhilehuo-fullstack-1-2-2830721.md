@@ -4,6 +4,7 @@ company: 智乐活
 position: 全栈工程师
 round: 1面、2面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java","MySQL","Vue","Redis","MQ","Spring"]
 summary: "智乐活全栈工程师面试分享，涵盖1面技术笔试与2面后端核心面试。面试题涉及Java语法、MySQL SQL调优、Vue原理、Redis使用场景、MQ异步处理及并发编程等技术栈，助你高效备战全栈开发岗位。"

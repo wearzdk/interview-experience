@@ -4,6 +4,7 @@ company: 新芯
 position: 工艺整合工程师（PIE）
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f884912e23f4a478faee2c7b14f0d09
 tags: ["PIE","工艺整合","半导体","SPC","DOE","面经"]

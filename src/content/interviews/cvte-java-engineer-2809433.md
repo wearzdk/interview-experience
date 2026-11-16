@@ -3,6 +3,7 @@ title: CVTE应用软件工程师Java面经
 company: CVTE
 position: 应用软件工程师 Java
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","多线程","TCP-IP","计算机网络","算法"]
 summary: "CVTE应用软件工程师Java面试经验分享，涵盖多线程并发编程、悲观锁与乐观锁、TCP可靠性传输、粘包拆包机制以及算法手撕题，助力求职者高效备考Java后端开发岗位。"

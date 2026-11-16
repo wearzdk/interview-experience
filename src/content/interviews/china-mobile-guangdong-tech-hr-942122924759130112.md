@@ -4,6 +4,7 @@ company: "中国移动"
 position: "技术岗"
 round: "技术面、HR面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942122924759130112
 tags: ["运营商", "技术面", "HR面", "项目", "校招"]

@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "后端开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931373379955748864"
 tags: ["Java", "Kafka", "Redis", "Agent", "秒杀", "TCP", "分布式锁"]

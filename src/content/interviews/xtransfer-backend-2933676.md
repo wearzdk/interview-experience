@@ -3,6 +3,7 @@ title: "XTransfer 一面：Cap 理论、设计模式与 Redis、MySQL 基础"
 company: "XTransfer"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b14f06bb8d6c490b8a5957da8b3211e5
 tags: ["XTransfer", "后端开发", "CAP", "设计模式", "Redis", "MySQL"]

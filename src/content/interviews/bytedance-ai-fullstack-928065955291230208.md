@@ -3,6 +3,7 @@ title: 字节AI全栈飞书一面面经
 company: 字节跳动
 position: 前端全栈
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928065955291230208
 tags: ["前端", "网络", "渲染", "跨端"]

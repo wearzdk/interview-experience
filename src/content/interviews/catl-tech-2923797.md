@@ -4,6 +4,7 @@ company: 宁德时代
 position: 技术岗
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3d4009aa90eb4c6e82ad1c9a69a77256
 tags: ["AI 面","测评","面试流程","校招","新能源"]

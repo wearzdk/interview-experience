@@ -4,6 +4,7 @@ company: "重庆长安民生物流"
 position: "算法工程师"
 round: "复面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944652962599620608
 tags: ["长安民生物流", "复面", "排产优化", "运筹优化", "RAG", "混合检索", "CorrectiveRAG", "AdaptiveRAG"]

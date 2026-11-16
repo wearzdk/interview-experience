@@ -4,6 +4,7 @@ company: 长鑫科技
 position: "未注明"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4e96114293d74cc1b87e40c137c7863c
 tags: ["长鑫科技","Java","MySQL","代码评审","AI转型","二面"]

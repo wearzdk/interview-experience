@@ -3,6 +3,7 @@ title: "百度 AI Agent 开发岗面经：LangGraph 架构与高并发会员保�
 company: "百度"
 position: "AI Agent 开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931706522621530112"
 tags: ["AI Agent", "LangGraph", "MCP", "Skill", "KV Cache", "TCP", "高并发", "评测集"]

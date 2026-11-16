@@ -4,6 +4,7 @@ company: 雷特科技
 position: 软件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e44dcc3d52db4fce91abb8eea5249f6c
 tags: ["雷特科技", "八股", "C++", "手撕", "数组去重"]

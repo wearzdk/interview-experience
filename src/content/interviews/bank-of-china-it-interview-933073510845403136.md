@@ -4,6 +4,7 @@ company: "中国银行"
 position: "信息科技岗"
 round: "汇总"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/933073510845403136
 tags: ["中国银行","银行科技岗","群面","半结构化面试","英语面试","国企"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "AIGC 多模态智能体算法工程师"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Agent", "MCP", "工具路由", "上下文管理", "滑动窗口", "前缀和"]
 summary: "百度 AIGC 多模态智能体算法工程师二面面经，9 月 24 日。考察 Agent 与 Tool 定位、工具从十个扩到成百上千时的路由命中、MCP 与普通 API 的差异、长上下文与记忆分层，手撕滑动窗口最大值与和为 K 的连续子数组个数。"

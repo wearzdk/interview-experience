@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "HR 面"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/464f07af5dfa4380a1f9239fb0b8e702
 tags: ["阿里巴巴","HR面","实习经历","校招","Offer选择","职业规划"]

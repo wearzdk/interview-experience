@@ -3,6 +3,7 @@ title: "米哈游实习面经- AI产品面经分享"
 company: "米哈游"
 position: "AI产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 result: "OC"
 source: 牛客网
 tags: ["AI产品", "数据分析", "项目深挖", "实习", "产品经理"]

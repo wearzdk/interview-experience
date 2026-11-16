@@ -4,6 +4,7 @@ company: "成都初创公司"
 position: "Agent 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 result: "已 OC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/34dd692b16c84c059daeb00866533d96

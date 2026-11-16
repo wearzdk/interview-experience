@@ -4,6 +4,7 @@ company: "通用"
 position: "软件工程师"
 round: "压力面"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2d7aa1fad375444e955b8d9227ddf0e7
 tags: ["压力面","校招","行为面试","职业素养","沟通","反问"]

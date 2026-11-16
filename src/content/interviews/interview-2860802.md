@@ -4,6 +4,7 @@ company: 百度
 position: 软件开发实习生
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 山东
 source: 牛客网
 tags: ["Java", "MySQL", "微服务", "分布式", "LLM", "算法"]

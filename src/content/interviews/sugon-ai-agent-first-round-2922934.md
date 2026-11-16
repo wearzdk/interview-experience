@@ -4,6 +4,7 @@ company: 中科曙光
 position: AI Agent
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["Agent", "RAG", "提示词工程", "工具调用", "ReAct"]
 summary: "中科曙光 AI Agent 一面面经（2026-10-08 17:30）：从实习与项目的关系开始，围绕 Agent 项目本身连续追问——数据来源与测试过程、系统运转流程、工具如何闭环与选择、提示词与约束怎么写、多次工具调用怎么支持、Agent 循环怎么处理、ReAct 怎么做、RAG 知识库流程、取不到数据怎么排查、Agent 分几个模块、不用框架要手写哪些部分。"

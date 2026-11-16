@@ -4,6 +4,7 @@ company: 携程
 position: Java后端开发工程师
 round: 两轮技术面+HR面
 date: '2026-05'
+collectedAt: '2026-07-06'
 result: 已拿offer
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/887021077296062464

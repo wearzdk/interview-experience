@@ -4,6 +4,7 @@ company: "某公司"
 position: "技术岗"
 round: "业务主管面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/97f22cda642a43aab298389d3fffe8e4
 tags: ["业务主管面","校招","项目介绍","企业文化","薪资谈判","反问"]

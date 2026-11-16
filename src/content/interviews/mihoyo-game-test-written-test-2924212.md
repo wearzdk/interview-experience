@@ -4,6 +4,7 @@ company: "米哈游"
 position: "游戏测试"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dff402ec91904f4d80468f2015c51525
 tags: ["游戏测试","笔试","曼哈顿距离","中位数","测试用例设计","等价类划分"]

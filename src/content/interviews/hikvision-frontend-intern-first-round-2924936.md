@@ -4,6 +4,7 @@ company: 海康威视
 position: 前端开发实习
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b7d30b11b3544944aec2598337871397
 tags: ["前端","实习","AI建站","虚拟列表","缓存","WebSocket","SSE"]

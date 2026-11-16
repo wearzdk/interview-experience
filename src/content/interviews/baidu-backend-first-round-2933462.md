@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/46a85de026a844789ea1dc6af159588c
 tags: ["百度", "后端开发", "一面", "分片上传", "布隆过滤器", "Agent", "Memory", "RAG", "三数之和"]

@@ -4,6 +4,7 @@ company: "得物"
 position: "Java 开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948538155639042048
 tags: ["得物","Java","Agent安全","外部排序","赛马问题","智力题","实习追问"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 推荐算法
 round: 一二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/85ac3ce6d3134b1191b7cb99722c93c6
 tags: ["字节跳动","剪映","推荐算法","算法岗面试","秋招"]

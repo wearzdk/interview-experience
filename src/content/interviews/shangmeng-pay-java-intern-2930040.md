@@ -4,6 +4,7 @@ company: "商盟支付"
 position: "Java开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2f4d1758eec043698c164af3d40ccaa5
 tags: ["商盟支付", "Java开发实习", "ThreadLocal", "HashMap", "线程池", "AQS", "RocketMQ"]

@@ -4,6 +4,7 @@ company: 恒生电子
 position: AI应用开发
 round: AI面试
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI应用开发","JVM","双亲委派","InnoDB锁","Function Calling","RAG","Multi-Agent","Spring AI"]
 summary: "恒生电子AI应用开发岗AI面试真题，六大部分共24问：JVM类加载与双亲委派如何防篡改核心类库、InnoDB按主键/唯一键/普通字段做update时加锁差异与间隙锁、Function Calling的参数生成与非法参数治理、跨章节超长文档的分块策略与口径匹配率指标、多智能体矛盾结果仲裁与资料冲突采信优先级，以及Spring AI的抽象设计与原生短板。"

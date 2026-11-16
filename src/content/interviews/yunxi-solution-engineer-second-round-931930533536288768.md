@@ -4,6 +4,7 @@ company: "云徙科技"
 position: "解决方案岗（企业级AI方向）"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931930533536288768"
 tags: ["云徙科技","解决方案岗","企业级AI","全链路数智化","智能体","业财融合"]

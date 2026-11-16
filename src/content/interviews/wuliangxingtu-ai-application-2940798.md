@@ -4,6 +4,7 @@ company: 无量星图
 position: AI应用工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/89adf7e2f94145b1ac718cb00e8e1121
 tags: ["AI应用工程师","Agent","记忆系统","工具调用","Function Calling","多轮对话","初创公司"]

@@ -4,6 +4,7 @@ company: 携程
 position: Java开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","MySQL","多线程","消息队列","数据结构"]
 summary: "携程Java开发二面面经，涵盖Elasticsearch与ClickHouse存储对比、Prometheus监控告警、Java线程池核心参数调优、B+树索引原理、Redis与MySQL一致性保障、分布式锁实现、JDK 21新特性及GC算法等核心后端技术点，并包含LeetCode经典算法题。"

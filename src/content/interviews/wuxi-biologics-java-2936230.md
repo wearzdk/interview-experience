@@ -4,6 +4,7 @@ company: "药明生物"
 position: "IT 研发（Java）"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/118c9858e5904aec8b650f307120e5f0"
 tags: ["药明生物", "Java", "实习拷打", "SQL优化", "ThreadLocal", "Jackson"]

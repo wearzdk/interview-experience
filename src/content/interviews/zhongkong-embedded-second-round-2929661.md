@@ -4,6 +4,7 @@ company: "中控技术"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a4810ea2c4b24843b110d850a484b65c
 tags: ["嵌入式", "C语言", "HardFault", "固件升级", "职业规划"]

@@ -4,6 +4,7 @@ company: 天马微电子
 position: 开发
 round: AI面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/939289d0a41a42ecabc19bd124083b2c
 tags: ["天马微电子","AI面","行为面试","STAR","校招"]

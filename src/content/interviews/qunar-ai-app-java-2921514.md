@@ -3,6 +3,7 @@ title: "去哪儿 AI 面试（Java 方向）"
 company: "去哪儿"
 position: "AI 应用开发（Java 方向）"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Java","JVM","ConcurrentHashMap","Redis","限流","AI 应用"]
 summary: "去哪儿 AI 面试的 Java 方向题目记录，面试时间为 10 月 5 日：从 JVM 运行时数据区与栈帧、ConcurrentHashMap 的分段与锁实现、Redis 过期删除策略与定期删除的扫描细节，到 TCP 与 UDP 在直播场景的取舍、接口限流的维度设计，最后是项目经历与半年内学习大模型技术落地的分享。"

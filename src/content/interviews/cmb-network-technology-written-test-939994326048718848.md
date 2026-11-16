@@ -4,6 +4,7 @@ company: "招银网络科技"
 position: "研发类（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939994326048718848
 tags: ["招银网络科技","银行科技岗","笔试","后端开发","前端开发","算法","测试开发","运维研发"]

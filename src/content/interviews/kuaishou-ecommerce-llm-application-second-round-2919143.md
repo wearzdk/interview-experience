@@ -4,6 +4,7 @@ company: "快手"
 position: "大模型应用开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["大模型应用开发", "AIGC", "AI Coding", "ToB", "ToC", "模型调用"]
 summary: "快手电商大模型应用开发二面面经，9 月 28 日。主体是现场 AI Coding：视频 AIGC 开放平台的题目背景、To C 与 To B 是否同平台、现场实现程度与分层，以及 Prompt、模型调用与测试脚本怎么处理。"

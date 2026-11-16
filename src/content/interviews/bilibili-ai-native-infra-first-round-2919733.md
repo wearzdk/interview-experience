@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "AI Native 基础架构研发工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["项目深挖", "Milvus", "Elasticsearch", "Redis", "ThreadLocal", "MySQL索引", "手撕算法"]
 summary: "哔哩哔哩 AI Native 基础架构研发工程师一面面经。面试从项目的产品定位、运维排障链路一路追问到 Milvus 与 ES 的分工，随后考察 Redis 数据结构与分片上传的 bitmap 方案、Java IoC 与 AOP、MySQL 索引与 ThreadLocal，手撕删除有序链表重复元素 II。"

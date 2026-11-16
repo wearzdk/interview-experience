@@ -4,6 +4,7 @@ company: 谐云科技
 position: Java 后端开发实习
 round: 两轮技术面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","线程池","MVCC","RAG","AI Agent","并发集合"]
 summary: "谐云科技 Java 后端开发实习面经，共两轮技术面。一面重点考察 AI 工具使用经验（RAG、MCP、Skill、Swarm Agent）及 Java 并发八股（线程池核心参数、synchronized、线程安全集合、MVCC）；二面深入业务痛点与 RAG 落地实践，并附经典智力题。适合备战 Java 后端+AI 方向实习岗位的同学参考。"

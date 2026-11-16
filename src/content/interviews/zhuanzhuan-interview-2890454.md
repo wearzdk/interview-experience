@@ -3,6 +3,7 @@ title: "转转"
 company: "转转"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","MySQL","JVM","并发","分布式系统"]
 summary: "转转Java后端开发工程师面试记录，覆盖Java、Redis、MySQL、JVM等考点，整理了面试流程与高频问题。"

@@ -4,6 +4,7 @@ company: "交通银行"
 position: "未注明"
 round: "AI面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/88a834d0e42b42b2991406a9efc5aa40"
 tags: ["交通银行","AI面试","银行秋招","行为面试","朗读","面试流程","题目合集"]

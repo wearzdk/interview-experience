@@ -4,6 +4,7 @@ company: 阿里云
 position: 后端开发（Agent 方向）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6cc04f7329d94320841b22b3e7951125
 tags: ["阿里云","Agent","Ontology","DDD","大模型","分布式训练","Redis","JVM","算法"]

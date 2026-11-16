@@ -4,6 +4,7 @@ company: "古茗"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["前端", "React", "ReactFiber", "文件上传", "校招"]
 summary: "古茗前端秋招一面，前二十分钟围绕实习、非科班学习路径和跨行理由展开，随后追问 React Fiber 源码与项目上传功能的具体实现。"

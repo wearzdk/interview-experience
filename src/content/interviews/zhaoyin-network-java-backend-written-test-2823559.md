@@ -4,6 +4,7 @@ company: 招银网络科技
 position: Java后端开发
 round: 笔试
 date: '2026-03'
+collectedAt: '2026-04-04'
 result: 笔试通过，等待一面
 source: 牛客网
 tags: ["Java","数据结构","计算机网络","ACM模式","BigDecimal","Collections"]

@@ -4,6 +4,7 @@ company: 小米
 position: 软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/450c6e30f17b456e9afc0f530bb7df81
 tags: ["小米","软件开发","JWT","死信队列","Spring事务","AI编程"]

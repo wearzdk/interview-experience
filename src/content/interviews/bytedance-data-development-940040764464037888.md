@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "数据开发与数据分析"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940040764464037888
 tags: ["字节跳动","数据开发","数据分析","向量索引","Milvus","Redis","SQL","数仓"]

@@ -4,6 +4,7 @@ company: "小鹏"
 position: "端侧 Agent 工程师"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["端侧Agent","Transformer","注意力机制","LoRA","上下文压缩","Agent Harness"]
 summary: "小鹏端侧 Agent 岗二面面经：由实习项目切入 Transformer 基础（结构差异、QKV 计算、多头注意力、LoRA），再深挖 Agent Harness 职责与端侧迁移难点。"

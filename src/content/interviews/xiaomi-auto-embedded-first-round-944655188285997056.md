@@ -4,6 +4,7 @@ company: "小米汽车"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944655188285997056
 tags: ["小米汽车", "嵌入式", "一面", "ADC", "DMA", "PID", "FreeRTOS", "HardFault", "低功耗"]

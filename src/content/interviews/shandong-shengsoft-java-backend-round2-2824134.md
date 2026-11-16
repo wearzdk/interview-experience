@@ -4,6 +4,7 @@ company: 山东胜软科技股份有限公司
 position: Java后端开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-04'
 base: 东营
 source: 牛客网
 tags: ["Java","线程池","单例模式","MyBatis","事务","反射"]

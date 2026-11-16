@@ -4,6 +4,7 @@ company: 腾讯
 position: Java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-12'
 result: 挂
 source: 牛客网
 tags: ["Java","Spring Boot","MySQL","Redis","分布式锁","Linux"]

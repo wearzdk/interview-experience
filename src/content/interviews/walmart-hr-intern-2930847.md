@@ -4,6 +4,7 @@ company: "沃尔玛"
 position: "HR 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/11d5339fdcbd42c3a5be0e6fa03e36db
 tags: ["沃尔玛", "HR实习生", "招聘", "行为面试", "校招"]

@@ -4,6 +4,7 @@ company: 武汉研锶科技有限公司
 position: Java开发
 round: 笔试+专业面试
 date: '2026-04'
+collectedAt: '2026-04-13'
 base: 武汉
 source: 牛客网
 tags: ["Java","笔试","后端开发","面经"]

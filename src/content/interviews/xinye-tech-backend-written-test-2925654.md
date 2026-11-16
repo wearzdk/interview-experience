@@ -4,6 +4,7 @@ company: "信也科技"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3085e4427cd0495382a0d7a94948f38c
 tags: ["信也科技","笔试","Go","数据库","最小堆","动态规划","二分"]

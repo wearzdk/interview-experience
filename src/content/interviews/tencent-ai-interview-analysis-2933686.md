@@ -3,6 +3,7 @@ title: "腾讯 AI 面拆解：先让你勾技术栈，再按你勾的出题"
 company: "腾讯"
 position: "前端与客户端"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3991da2c36264acfb25d4a6513f98c1d
 tags: ["腾讯", "AI面", "前端", "客户端", "面试流程", "笔试准备"]

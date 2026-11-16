@@ -3,6 +3,7 @@ title: "腾讯 WXG 大模型算法暑期实习面经：强化学习、LoRA 与�
 company: "腾讯"
 position: "大模型算法"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/8a9a4c7bd9ef4a22982b30874339c926"
 tags: ["腾讯","WXG","大模型算法","强化学习","GRPO","PPO","LoRA","量化","马尔可夫决策过程","手撕代码"]

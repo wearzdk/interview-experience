@@ -4,6 +4,7 @@ company: "某公司"
 position: "嵌入式"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938938463217270784
 tags: ["嵌入式","HR面","面试经验","秋招","职业规划"]

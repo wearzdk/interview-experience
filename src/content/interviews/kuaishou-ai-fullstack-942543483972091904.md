@@ -4,6 +4,7 @@ company: "快手"
 position: "AI全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942543483972091904
 tags: ["快手","AI全栈开发","Agent","Skill设计","RabbitMQ","幂等","SQL注入"]

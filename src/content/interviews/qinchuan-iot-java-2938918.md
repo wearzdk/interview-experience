@@ -4,6 +4,7 @@ company: 秦川物联网
 position: Java 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b4cd5224cba422aa328ce3441a248fb
 tags: ["秦川物联网","Java","Spring","IOC","AOP","Redis","事务","微服务"]

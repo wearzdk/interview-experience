@@ -4,6 +4,7 @@ company: "高斯信息技术"
 position: "AI应用开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/80a2ffb74adf42d9adec69ee3b7c73eb"
 tags: ["高斯信息技术","AI应用开发","LangGraph","RAG","知识图谱","BERT","Transformer","MCP"]

@@ -4,6 +4,7 @@ company: "虾皮"
 position: "研发工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 base: "深圳"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/77ba5029556e43b28f5c8ee16e1be524

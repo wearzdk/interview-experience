@@ -4,6 +4,7 @@ company: 京东
 position: 软件开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: OC
 base: 上海
 source: 牛客网

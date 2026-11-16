@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "AI Agent 开发"
 round: "压力面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939625237514031104
 tags: ["蚂蚁集团","Agent","记忆管理","MCP","多Agent","KV Cache","B+树"]

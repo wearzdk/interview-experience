@@ -3,6 +3,7 @@ title: 智能体项目验收怎么答：功能、效果、稳定性、安全合�
 company: 牛客网用户分享
 position: AI岗位面试准备
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937801084502806528
 tags: ["智能体", "项目验收", "AI面试", "效果评估", "稳定性", "安全合规"]

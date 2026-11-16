@@ -4,6 +4,7 @@ company: "某外包公司"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c9148a569ebf4f2587400a82ad43e3c8
 tags: ["外包", "Java", "一面", "集合", "反射", "Redis"]

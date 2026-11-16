@@ -3,6 +3,7 @@ title: "Agent 架构选型二十问：从 LangGraph 到 ReAct 再到任务完成
 company: "多家"
 position: "AI 应用开发"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e073789535da4872bc21800122e9751c
 tags: ["Agent", "LangChain", "LangGraph", "ReAct", "架构选型", "面试八股"]

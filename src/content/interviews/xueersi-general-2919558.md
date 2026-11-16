@@ -3,6 +3,7 @@ title: "学而思面试：跨行动机、工作难点与自我预期"
 company: "学而思"
 position: "未透露"
 date: "2026-09"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/31812cf5344547fdbd64ba1f014272ce"
 tags: ["学而思","教育行业","面试复盘","面试流程","跨行求职","自我评价"]

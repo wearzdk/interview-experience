@@ -4,6 +4,7 @@ company: BIGO
 position: 后台开发（网络架构）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5df6b64b28734cd6add5e6747afb2120
 tags: ["C++","后台开发","内存碎片","哈希表","epoll","TCP","HTTP2","大数相加","手撕代码"]

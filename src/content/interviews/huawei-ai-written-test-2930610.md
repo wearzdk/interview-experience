@@ -4,6 +4,7 @@ company: "华为"
 position: "AI 岗"
 round: "机考"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a40b6fb8218649de8d6cfd4fbff7c0c0
 tags: ["华为", "AI岗", "机考", "X-Means", "K-Means", "BIC", "聚类"]

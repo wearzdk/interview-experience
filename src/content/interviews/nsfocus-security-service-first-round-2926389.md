@@ -4,6 +4,7 @@ company: "绿盟科技"
 position: "安全服务工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e371765763c045b2977435dd57fcb475
 tags: ["绿盟科技","安全服务","OSPF","VRRP","VPN","SYN Flood","渗透测试","网络排障"]

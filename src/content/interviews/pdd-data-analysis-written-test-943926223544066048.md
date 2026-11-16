@@ -4,6 +4,7 @@ company: "拼多多"
 position: "数据分析"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-25'
 result: "笔试通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943926223544066048

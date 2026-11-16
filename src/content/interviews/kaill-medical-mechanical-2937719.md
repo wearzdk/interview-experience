@@ -4,6 +4,7 @@ company: 开立医疗
 position: "机械工程师"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3277a0e73de842ffb6d412ebb96be3bd
 tags: ["开立医疗","机械工程师","笔试","材料力学","尺寸链","带传动"]

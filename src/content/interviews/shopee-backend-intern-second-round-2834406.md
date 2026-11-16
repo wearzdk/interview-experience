@@ -4,6 +4,7 @@ company: Shopee
 position: 后端开发实习生
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-14'
 source: 牛客网
 tags: ["布隆过滤器","大数据处理","Redis","数据结构","AI工具应用"]
 summary: "Shopee后端实习二面面经，涵盖9亿IPv4地址去重与查询的场景设计、Redis优化、Claude Code工程实践及算法题。面试重点考察大数据处理方案、高性能存储设计及工具应用能力。"

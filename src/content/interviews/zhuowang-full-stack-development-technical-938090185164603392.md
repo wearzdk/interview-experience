@@ -4,6 +4,7 @@ company: "卓望"
 position: "全栈开发"
 round: "技术面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938090185164603392"
 tags: ["卓望","全栈开发","AI编程","MySQL","Redis","缓存一致性","前端异步","秋招"]

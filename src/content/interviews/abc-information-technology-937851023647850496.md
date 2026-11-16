@@ -3,6 +3,7 @@ title: 农业银行信息科技岗面经合集（总行菁穗、研发中心软�
 company: 农业银行
 position: 信息科技岗
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937851023647850496
 tags: ["银行面试","Java","MySQL","Spring","软件测试","分布式"]

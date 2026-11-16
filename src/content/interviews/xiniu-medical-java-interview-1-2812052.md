@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: java
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java基础","并发编程","MySQL","Redis","JVM"]
 summary: "熙牛医疗Java研发一面，面试时长40分钟，重点考察Java基础、并发编程（线程池、AQS、synchronized锁升级）、MySQL数据库优化与死锁处理、Redis持久化及淘汰策略。内容涵盖HashMap底层、事务隔离级别及高并发处理经验，适合准备面试的开发者参考。"

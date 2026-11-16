@@ -4,6 +4,7 @@ company: "安克创新"
 position: "嵌入式开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930846549913980928"
 tags: ["嵌入式", "MCU", "FreeRTOS", "内存管理", "DMA", "串口通信"]

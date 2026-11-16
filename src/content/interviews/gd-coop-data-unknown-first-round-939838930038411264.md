@@ -4,6 +4,7 @@ company: "广东供销数据科技"
 position: "未知岗位"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939838930038411264
 tags: ["广东供销数据科技","国企","简历深挖","工程落地","线上排查","技术选型"]

@@ -4,6 +4,7 @@ company: "联宝科技"
 position: "AI 应用开发"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/15a413ed04ef43e0a3061a82bd5ff6bb
 tags: ["联宝科技","AI应用开发","AI面","多Agent","RAG","提示词工程","指令微调","秋招"]

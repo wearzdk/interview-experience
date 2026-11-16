@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "数据平台"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ae6d8214120a4d90a9cd2afbc5f86351
 tags: ["经纬恒润", "数据平台", "数仓", "高并发", "Agent", "场景题"]

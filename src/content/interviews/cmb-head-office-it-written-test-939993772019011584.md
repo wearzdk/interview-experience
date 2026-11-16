@@ -4,6 +4,7 @@ company: "招商银行"
 position: "总行信息技术类（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939993772019011584
 tags: ["招商银行","银行科技岗","笔试","EPI","英语","认知能力","价值观测评","校招"]

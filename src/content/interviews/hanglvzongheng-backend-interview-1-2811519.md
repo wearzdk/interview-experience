@@ -4,6 +4,7 @@ company: 航旅纵横
 position: 后端开发实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-06'
 source: 牛客网
 tags: ["RAG","Java基础","Redis","高并发","数据库"]
 summary: "航旅纵横后端实习生面试，面试涵盖RAG架构设计、高并发选座一致性、数据库设计、JWT、Nginx及Java核心底层原理（HashMap、多线程）。面试官重点考察项目细节与底层技术理解，面试时长约40分钟。"

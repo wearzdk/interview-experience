@@ -3,6 +3,7 @@ title: "9.23 恒生电子 AI 应用开发面试：从 Python 装饰器、联合�
 company: "恒生电子"
 position: "AI 应用开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943147564042362880
 tags: ["恒生电子","AI应用开发","RAG","Agent","结构化输出","LangGraph","联合索引","评测"]

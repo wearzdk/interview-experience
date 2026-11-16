@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI Infra（推理方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944283905056665600
 tags: ["科大讯飞", "AI Infra", "vLLM", "SGLang", "PagedAttention", "推理优化", "GPU 池化"]

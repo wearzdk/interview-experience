@@ -3,6 +3,7 @@ title: "极智嘉一面：Go 后端八股与机器人仿真方向"
 company: "极智嘉"
 position: "软件研发（机器人仿真方向）"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a44693df2af04b2082dd4ccaf6aa9988
 tags: ["极智嘉","后端开发","Go","GMP","ClickHouse","LRU","机器人仿真"]

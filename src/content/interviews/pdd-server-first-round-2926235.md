@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f0c2dcac79d42119e40d48d1bc098ad
 tags: ["拼多多","服务端","JVM","MySQL主从","慢SQL","Redis","分布式锁","消息积压","分库分表","ES","算法"]

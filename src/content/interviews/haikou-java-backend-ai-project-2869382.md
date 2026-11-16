@@ -4,6 +4,7 @@ company: 某海口小厂
 position: Java后端开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-30'
 base: 海南
 source: 牛客网
 tags: ["RAG","会话记忆","MySQL","Linux","Docker","算法"]

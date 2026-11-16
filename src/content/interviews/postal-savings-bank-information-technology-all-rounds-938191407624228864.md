@@ -3,6 +3,7 @@ title: "邮储银行信息科技岗面经：AI面、二面、HR面真题汇总"
 company: "邮储银行"
 position: "信息科技岗"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938191407624228864"
 tags: ["邮储银行","信息科技岗","银行秋招","软件研发中心","Java后端","Redis","MySQL","HR面"]

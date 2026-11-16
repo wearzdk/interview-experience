@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["MySQL","Java","Spring","分布式","并发"]
 summary: "拼多多服务端研发一面，围绕MySQL索引与MVCC、Java注解和并发容器、Spring AOP、RPC及类加载展开，并安排LRU手撕。"

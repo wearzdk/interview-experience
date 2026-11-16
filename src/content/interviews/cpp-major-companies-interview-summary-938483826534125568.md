@@ -3,6 +3,7 @@ title: C++ 大厂面经汇总：从多场技术面看筛选主线与高频题
 company: 多家 C++ 方向公司
 position: C++
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938483826534125568
 tags: ["C++","对象模型","智能指针","STL","并发","面经汇总"]

@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: 测试开发（实习）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950351127407587328
 tags: ["哔哩哔哩","测试开发","实习","RAG","三数之和","TCP","Python装饰器","MySQL索引","测试用例"]

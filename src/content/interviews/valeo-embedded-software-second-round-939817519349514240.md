@@ -4,6 +4,7 @@ company: "法雷奥"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939817519349514240
 tags: ["法雷奥","嵌入式软件开发","AUTOSAR","CAN","UDS","串口通信","TCP"]

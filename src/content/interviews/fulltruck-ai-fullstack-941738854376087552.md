@@ -4,6 +4,7 @@ company: "满帮"
 position: "AI全栈"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941738854376087552"
 tags: ["满帮", "AI全栈", "Agent", "MySQL", "慢查询", "深分页"]

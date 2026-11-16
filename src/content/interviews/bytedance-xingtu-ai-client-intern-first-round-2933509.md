@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "客户端开发（醒图 AI 应用）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a9f41530aac74df8a5fae3657525de81
 tags: ["客户端开发","C++","TCP","UDP","HTTPS","索引","B+树","智能指针","排序算法"]

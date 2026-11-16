@@ -4,6 +4,7 @@ company: "同程旅行"
 position: "Java后端"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e736fdc5ac0549ff9f77057869568a50
 tags: ["笔试", "Java", "Redis", "消息队列", "LRU", "库存"]

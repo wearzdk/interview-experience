@@ -4,6 +4,7 @@ company: "紫光展锐"
 position: "嵌入式软件"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940536341140389888
 tags: ["紫光展锐","嵌入式软件","芯片原厂","Cache一致性","MESI","MMU","流水线","启动流程"]

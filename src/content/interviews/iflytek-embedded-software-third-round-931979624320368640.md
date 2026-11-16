@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "嵌入式软件"
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931979624320368640
 tags: ["科大讯飞","嵌入式","三面","综合面","HR面","秋招"]

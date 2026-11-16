@@ -4,6 +4,7 @@ company: "超聚变"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934469012094742528
 tags: ["嵌入式", "RTOS", "FreeRTOS", "volatile", "内存对齐", "C语言"]

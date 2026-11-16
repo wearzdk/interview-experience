@@ -3,6 +3,7 @@ title: "拼多多数分面经：两种 SQL 写法求每日新用户与七日留�
 company: "拼多多"
 position: "数据分析"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/482fb551ba014ad09a754cf7a67249bd
 tags: ["拼多多","数据分析","SQL","窗口函数","留存率","lead","case when"]

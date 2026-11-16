@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "并发编程", "死锁", "Agent"]
 summary: "约一小时，主要考查 Java 和 Agent 基础，原帖明确记下的手写题是实现转账并避免死锁。"

@@ -4,6 +4,7 @@ company: "小红书"
 position: "市场品牌"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939317610385100800"
 tags: ["小红书","市场品牌","搜索经营","内容种草","品牌联名","用户增长","设计面试"]

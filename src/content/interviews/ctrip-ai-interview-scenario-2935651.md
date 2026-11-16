@@ -4,6 +4,7 @@ company: "携程"
 position: "技术岗"
 round: "AI 面试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f7ba8bfe07b645ad872970ab85b26270
 tags: ["携程","AI面试","情景题","行为面试","STAR","追问"]

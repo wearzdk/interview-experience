@@ -4,6 +4,7 @@ company: 腾讯云智
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java","JVM","MySQL","Hadoop","Spark"]
 summary: "腾讯云智暑期实习后端开发一面面经，考察核心技术点包括JVM内存模型与垃圾回收、MySQL索引优化、Linux系统命令、操作系统零拷贝机制，以及大数据领域Hadoop架构与Spark任务调度逻辑。适合准备后端开发与大数据组件相关面试的候选人参考。"

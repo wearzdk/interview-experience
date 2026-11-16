@@ -4,6 +4,7 @@ company: "阿里云"
 position: "AI应用开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 tags: ["AI Agent", "LangGraph", "上下文管理", "MySQL", "Redis", "Python"]
 summary: "阿里云 9.20 一面记录：前半段围绕 Agent 项目，追问工具串行与并行的取舍、多层上下文共享与压缩时机、工具调用轮次与多租户隔离，以及从 Hello Agent 改到 LangGraph 的改造；后半段是 SQL 执行过程、redo/undo/binlog、Redis 单线程与 Python 协程等八股。"

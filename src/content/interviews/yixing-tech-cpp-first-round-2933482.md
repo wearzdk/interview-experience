@@ -4,6 +4,7 @@ company: "桂林怿星科技"
 position: "C++ 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "三个星期后出结果"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/410be564600448d6ac91370f5f773ad2

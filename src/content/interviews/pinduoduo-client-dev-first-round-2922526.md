@@ -4,6 +4,7 @@ company: 拼多多
 position: 客户端研发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["客户端开发","Java","并发编程","网络协议","MQTT","LFU","设计模式"]
 summary: "拼多多客户端研发一面面经。面试从实习地图渲染项目、实验室蓝牙与 MQTT 项目、个人项目三条线依次展开，随后进入八股：并发与并行、进程与线程、TCP 三次握手、HTTP1.0 长连接与 HTTP2.0 多路复用、synchronized 的几种写法差异；手撕环节是 LFU Cache 与最大连续区间和。"

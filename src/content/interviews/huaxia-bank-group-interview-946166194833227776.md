@@ -4,6 +4,7 @@ company: "华夏银行"
 position: "校招综合（未注明岗位）"
 round: "群面+半结构化"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/946166194833227776"
 tags: ["华夏银行","银行面试","群面","即兴演讲","半结构化","秋招","STAR"]

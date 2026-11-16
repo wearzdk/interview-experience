@@ -4,6 +4,7 @@ company: "华为OD"
 position: "C++开发"
 round: "资面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e822b3ea5274dc88cc14d9ee8f6be65
 tags: ["华为OD","C++","Gap","机考","资面","社招","转语言"]

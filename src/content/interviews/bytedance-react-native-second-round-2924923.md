@@ -4,6 +4,7 @@ company: 字节跳动
 position: 客户端开发（React Native）
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/63e2f08340594129b803aa6e6ea43a5f
 tags: ["React Native","客户端","性能优化","直播间","Agent","工程效能"]

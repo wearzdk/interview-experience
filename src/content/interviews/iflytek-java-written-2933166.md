@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Java研发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4a176c576b4d403597f9ee2da120bb70
 tags: ["科大讯飞", "笔试", "Java", "模拟", "AI编程", "系统设计", "幂等"]

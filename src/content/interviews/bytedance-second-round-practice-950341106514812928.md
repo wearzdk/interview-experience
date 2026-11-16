@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950341106514812928
 tags: ["字节跳动","后端开发","B+树","SQL优化","动态规划","数据结构","断线重连"]

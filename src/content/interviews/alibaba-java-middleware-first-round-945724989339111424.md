@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: Java中间件开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945724989339111424
 tags: ["阿里", "Java", "JVM", "ZGC", "颜色指针", "垃圾回收"]

@@ -4,6 +4,7 @@ company: "蔚来"
 position: "蔚来顾问（销售）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eb5d32c9f9a844169d36d97cc65d8531
 tags: ["蔚来","销售","蔚来顾问","转行","小红书运营","转化率","线下门店"]

@@ -4,6 +4,7 @@ company: 汇川技术
 position: 方案研发工程师
 round: 终面
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 意向
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/13f7d25577c3401692696a3dcc1524e4

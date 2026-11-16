@@ -4,6 +4,7 @@ company: "多点数智"
 position: "FDE（AI 方向）"
 round: "AI 面试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4bb1b5e7da1643fcab1884f6abd7c056
 tags: ["多点数智","FDE","AI面试","情景题","项目优化","客户沟通","故障定位"]

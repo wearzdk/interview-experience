@@ -4,6 +4,7 @@ company: 同花顺
 position: 后端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9bcb709926ff4fbdb522179049d5b6da
 tags: ["重试机制","幂等","并发安全","AI Coding","Agent","可观测性"]

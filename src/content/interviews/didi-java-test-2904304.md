@@ -3,6 +3,7 @@ title: "滴滴机试感受"
 company: "滴滴"
 position: "Java开发笔试"
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "C++", "计算机网络", "Linux", "算法"]
 summary: "滴滴机试记录，包含Java与C++基础选择题、计算机网络和Linux知识，以及台阶拍照排法和金条分割两道编程题。"

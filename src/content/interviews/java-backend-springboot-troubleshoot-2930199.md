@@ -4,6 +4,7 @@ company: "某公司"
 position: "Java后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b4ad197021f94ea991ca47f06353cf5b
 tags: ["Java", "Spring Boot", "JVM", "内存泄漏", "性能排查", "GC"]

@@ -4,6 +4,7 @@ company: "互联网大厂"
 position: "技术岗"
 round: "面试流程"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949850786610081792
 tags: ["面评","面试官视角","校招","秋招","面试复盘"]

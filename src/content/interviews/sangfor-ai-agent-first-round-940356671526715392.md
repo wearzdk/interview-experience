@@ -4,6 +4,7 @@ company: "深信服"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940356671526715392
 tags: ["深信服","AI Agent","沙箱隔离","Prompt注入","多租户","评测","手撕"]

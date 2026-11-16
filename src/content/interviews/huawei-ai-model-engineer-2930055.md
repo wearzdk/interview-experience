@@ -4,6 +4,7 @@ company: "华为"
 position: "AI模型工程师"
 round: "二三面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/65b5b2830923462b8ae291bab665881c
 tags: ["华为", "AI模型工程师", "秋招", "主管面", "解数独", "职业规划"]

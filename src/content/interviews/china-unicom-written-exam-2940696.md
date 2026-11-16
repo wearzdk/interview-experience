@@ -4,6 +4,7 @@ company: 中国联通
 position: 笔试
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0aac498d0f9249228f4f18db69901edd
 tags: ["中国联通","笔试","EPI","企业文化","心理测评","在线考试平台"]

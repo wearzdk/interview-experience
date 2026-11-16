@@ -4,6 +4,7 @@ company: "浙江人形机器人"
 position: "具身智能算法"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bbefc00211a3491fa7b7124458cd10a0
 tags: ["浙江人形机器人","具身智能","机器人","项目深挖","消融实验"]

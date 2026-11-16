@@ -4,6 +4,7 @@ company: Shopee
 position: AI 基础设施
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939225085016031232
 tags: ["AI基础设施","RAG","BM25","向量检索","chunking","BERT","Python"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "智能体算法"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931641174966693888
 tags: ["Agent","工具调用","ReAct","状态机","上下文管理","多模态评测"]

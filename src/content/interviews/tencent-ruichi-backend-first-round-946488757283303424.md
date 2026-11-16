@@ -4,6 +4,7 @@ company: "腾讯瑞驰"
 position: "后端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946488757283303424
 tags: ["腾讯瑞驰","后端开发","MySQL","索引","B+树","红黑树","哈希表","算法","LCA","手撕"]

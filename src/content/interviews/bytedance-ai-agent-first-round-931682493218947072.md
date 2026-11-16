@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大模型算法（Agent 方向）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931682493218947072
 tags: ["Agent","RAG","长期记忆","上下文压缩","手撕代码","大模型算法"]

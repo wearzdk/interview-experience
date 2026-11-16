@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942128393171095552
 tags: ["大模型", "SFT", "RL", "简历深挖", "评测", "后训练"]

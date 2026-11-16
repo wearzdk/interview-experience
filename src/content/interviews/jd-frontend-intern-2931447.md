@@ -4,6 +4,7 @@ company: "京东"
 position: "前端开发实习"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7ec707d2018847eea52652bc5d44e99f
 tags: ["京东","前端实习","TypeScript","Zod","JWT","XSS","CSRF","流式渲染"]

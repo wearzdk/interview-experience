@@ -4,6 +4,7 @@ company: CVTE
 position: 嵌入式系统软件
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950786011242430464
 tags: ["CVTE","嵌入式系统软件","Framebuffer","DRM","设备树","Linux驱动"]

@@ -4,6 +4,7 @@ company: 中科全安
 position: Java开发
 round: 一面二面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "Linux", "Agent", "项目经验"]
 ---

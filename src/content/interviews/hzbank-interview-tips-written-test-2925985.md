@@ -4,6 +4,7 @@ company: "杭州银行"
 position: "银行校招（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c18a7469d7bc412f95916ceda31ff254
 tags: ["杭州银行","银行校招","笔试","行测","科技金融","备考经验"]

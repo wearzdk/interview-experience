@@ -4,6 +4,7 @@ company: 库洛游戏
 position: 服务端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["服务端","社招","面试体验","双面试官","技术方案讨论"]

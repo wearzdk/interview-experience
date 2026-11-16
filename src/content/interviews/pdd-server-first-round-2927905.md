@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/1f4ad6a5fd9a44368a85eceba8746b61"
 tags: ["拼多多", "服务端", "Java", "HashMap", "线程池", "MySQL", "Redis"]

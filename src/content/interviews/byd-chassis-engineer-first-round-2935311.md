@@ -4,6 +4,7 @@ company: "比亚迪"
 position: "高级底盘工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-10-31'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9efddd0803cd4f03b7ecb7376f948f5f
 tags: ["比亚迪","底盘工程师","汽车","HR面","秋招","反问","期望薪资"]

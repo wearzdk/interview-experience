@@ -4,6 +4,7 @@ company: "欣旺达"
 position: "PC（生产计划）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3e34d816fdeb4b40aa21006b71197505
 tags: ["欣旺达", "欣动能源", "生产计划", "PC", "秋招", "HR面"]

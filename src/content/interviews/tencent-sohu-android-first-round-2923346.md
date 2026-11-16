@@ -4,6 +4,7 @@ company: "腾讯（搜狗）"
 position: "客户端开发（Android）"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "二面挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cf958d95e63f4f2eb461fc9f04c85398"

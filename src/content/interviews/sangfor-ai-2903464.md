@@ -3,6 +3,7 @@ title: "深信服科技AI网关二面"
 company: "深信服"
 position: "AI开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "并发", "AI", "Kubernetes"]
 summary: "深信服科技AI网关二面，整理面试中涉及的Java、并发、AI、Kubernetes等重点问题，供求职者准备相关岗位面试时参考。"

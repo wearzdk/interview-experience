@@ -4,6 +4,7 @@ company: 柠檬微趣
 position: AI开发实习
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949323691265892352
 tags: ["柠檬微趣","笔试","ACM模式","算法","动态规划","链表","回溯"]

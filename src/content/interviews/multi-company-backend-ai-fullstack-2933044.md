@@ -3,6 +3,7 @@ title: "字节腾讯快手等后端与 AI 全栈高频 12 题汇总：Redis 锁�
 company: "多家公司"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/94960e41c9b8495d91108035574bcc15
 tags: ["面经汇总", "后端", "AI全栈", "Redis", "MySQL", "RAG", "Agent"]

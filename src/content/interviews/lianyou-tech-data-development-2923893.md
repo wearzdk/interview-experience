@@ -3,6 +3,7 @@ title: 联友科技数据开发面经（10.9）
 company: 联友科技
 position: 数据开发
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f0570ba48d040d0be1f9822baff21f0
 tags: ["数据开发","数仓分层","数据倾斜","数据湖","Iceberg","数据治理"]

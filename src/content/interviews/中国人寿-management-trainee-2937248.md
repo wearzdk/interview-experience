@@ -4,6 +4,7 @@ company: 中国人寿
 position: 管培生
 round: "校招面试"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a0f2def5faae45a1a55dd8da5905b58c
 tags: ["中国人寿","管培生","半结构化","无领导小组","保险","校招","央企"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "产品经理"
 round: "面试合集"
 date: "2025-10"
+collectedAt: '2026-11-07'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/948736231557361664"
 tags: ["快手","产品经理","商业化","广告","内容运营","短视频","实习","校招"]

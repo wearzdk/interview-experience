@@ -4,6 +4,7 @@ company: "阿里集团"
 position: "后端开发（Agent 方向）"
 round: "HR 面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ea2f817808194c039773e44427e2327e
 tags: ["阿里集团","后端开发","Agent","HR面","实习经历","求职动机"]

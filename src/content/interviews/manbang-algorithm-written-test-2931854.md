@@ -4,6 +4,7 @@ company: "满帮"
 position: "算法工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0193d7d8199c4a928bde13179556f7ec
 tags: ["满帮","笔试","AUC","并查集","前缀和","概率","最简分数"]

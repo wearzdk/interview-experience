@@ -4,6 +4,7 @@ company: "BIGO"
 position: "Java后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "并发", "线程池", "MySQL", "Kafka", "JVM", "算法"]
 summary: "约一小时的一面，围绕项目方案、幂等和并发持续追问，覆盖数据库、Kafka、网络与海量数据处理。"

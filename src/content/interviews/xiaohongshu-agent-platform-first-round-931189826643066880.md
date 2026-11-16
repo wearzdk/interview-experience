@@ -4,6 +4,7 @@ company: 小红书
 position: Agent平台研发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931189826643066880
 tags: ["Agent","系统设计","高并发","缓存一致性","算法","秋招"]

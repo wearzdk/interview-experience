@@ -3,6 +3,7 @@ title: 国投智能Java实习面经
 company: 国投智能
 position: Java实习
 date: '2026-04'
+collectedAt: '2026-04-15'
 result: oc
 source: 牛客网
 tags: ["Java","Redis","MySQL","并发编程","系统设计"]

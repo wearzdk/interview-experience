@@ -4,6 +4,7 @@ company: Shopee
 position: 后端开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-08-30'
 source: 牛客网
 tags: ["Go", "Java", "Agent", "MCP", "数组算法", "网络安全"]
 summary: "Shopee后端一面面经，考察网络空间安全、Agent与Skill、Java和Go差异，以及合并有序数组。"

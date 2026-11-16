@@ -4,6 +4,7 @@ company: "禾赛科技"
 position: "高性能计算"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bee7187dedcd4066a69a5aff02a05dc1
 tags: ["禾赛科技","高性能计算","DCU","GPU架构","FP8","CUDA","GEMM","共享内存"]

@@ -4,6 +4,7 @@ company: "华为"
 position: "通用软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["华为","Agent","Java并发","AI编程","RAG"]
 summary: "华为通用软件开发岗线下一次性走完一至三面的面经：一面拷打实习与 Agent 项目架构，追问多模式 Agent 引擎、记忆系统实现以及 Java 多线程容器与 ID 发布器设计，手撕「不超过 k 种字符的最长连续子段」；二面是 AI Coding 实战（RAG 双路检索）穿插开放性提问；三面偏个人情况、对华为的了解与企业文化、加班意愿。"

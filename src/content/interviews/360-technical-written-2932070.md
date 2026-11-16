@@ -4,6 +4,7 @@ company: "360"
 position: "技术综合"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9a028841d223460bb08b8bbc6585330c
 tags: ["360","笔试","软件测试","Python","找规律","堆","算法"]

@@ -4,6 +4,7 @@ company: 快手
 position: 软件开发工程师
 round: 一面
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 江苏
 source: 牛客网
 tags: ["Java", "MySQL", "消息队列", "计算机网络", "操作系统", "算法"]

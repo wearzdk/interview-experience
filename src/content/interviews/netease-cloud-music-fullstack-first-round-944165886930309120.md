@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944165886930309120
 tags: ["网易云音乐","全栈","Agent","MCP","RAG","上下文工程","multi-agent","秋招"]

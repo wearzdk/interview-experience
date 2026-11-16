@@ -4,6 +4,7 @@ company: 中兴
 position: 嵌入式软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0d9e2615a7ef499899443e0ba3cae89e
 tags: ["中兴","嵌入式","FreeRTOS","Linux","串口驱动","CAN","校招"]

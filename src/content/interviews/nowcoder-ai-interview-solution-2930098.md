@@ -4,6 +4,7 @@ company: "牛客"
 position: "AI面试解决方案"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/2930098
 tags: ["牛客","AI面试解决方案","Python","生成器","模型微调","项目落地"]

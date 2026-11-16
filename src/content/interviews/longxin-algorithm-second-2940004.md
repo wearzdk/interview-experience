@@ -4,6 +4,7 @@ company: 隆鑫通用
 position: 算法工程师（感知与视觉方向）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8c4900fd9ec74b608b474f4506b487c8
 tags: ["隆鑫通用","算法","视觉跟踪","多传感器融合","时间戳对齐","边缘计算","消息队列","V模型","电控","职业规划"]

@@ -4,6 +4,7 @@ company: "长安汽车"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/935177999995928576
 tags: ["嵌入式","C语言","C++","内存管理","DMA","中断"]

@@ -5,6 +5,7 @@ position: "软件开发"
 round: "线下面试"
 result: "拒绝offer"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/294dbe285ce349c39ce3411cf3473e72
 tags: ["航天科工", "自动化", "控制", "AI项目", "校招", "线下面试"]

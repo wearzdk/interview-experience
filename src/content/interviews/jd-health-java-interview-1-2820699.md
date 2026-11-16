@@ -4,6 +4,7 @@ company: 京东健康
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Elasticsearch","Spring","线程池"]
 summary: "京东健康Java开发一面面经，重点考察Redis分布式锁、一致性哈希、MySQL与Redis区别、JVM老年代内存分配机制及线程池核心参数配置等高频Java后端面试题。"

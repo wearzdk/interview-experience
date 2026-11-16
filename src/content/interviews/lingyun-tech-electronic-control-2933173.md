@@ -3,6 +3,7 @@ title: "凌云科技集团电控工程师面经"
 company: "凌云科技集团"
 position: "电控工程师"
 date: '2026-10'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c6e428e997554a1a8a8486b8f1070282
 tags: ["凌云科技集团","电控工程师","求职"]

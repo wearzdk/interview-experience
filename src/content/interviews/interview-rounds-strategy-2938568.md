@@ -3,6 +3,7 @@ title: "字节 20 场面试总结的轮次差异：一面问实现，二面问�
 company: "多家公司"
 position: "技术岗"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/15e87162f47b4a5db9973f434a3a6e9e
 tags: ["面试轮次","字节跳动","阿里","腾讯","行为面试","职业规划","简历"]

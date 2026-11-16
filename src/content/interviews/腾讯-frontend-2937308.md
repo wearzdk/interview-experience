@@ -4,6 +4,7 @@ company: 腾讯
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3ceb9e0dd64e4ec4895aae7122bee371
 tags: ["腾讯","前端","XSS","CSRF","Vue","Proxy","压力面","凉经"]

@@ -3,6 +3,7 @@ title: 字节跳动后端开发面经
 company: 字节跳动
 position: 后端开发
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["Redis","Zset","B+树","MySQL","算法"]
 summary: "字节跳动后端开发面试经验分享，涵盖Redis Zset应用场景及其底层跳表实现、MySQL InnoDB引擎B+树的特性与优势，以及经典算法题股票买卖问题的深度解析，助力求职者提升后端技术面试通过率。"

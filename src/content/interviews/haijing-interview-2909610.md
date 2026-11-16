@@ -3,6 +3,7 @@ title: "浩鲸科技一面 9.11"
 company: "浩鲸科技"
 position: "技术岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 tags: ["MySQL", "Spring", "JVM", "索引", "C++"]
 summary: "浩鲸科技技术岗位面经，整理了原帖中的主要追问，覆盖MySQL、Spring、JVM、索引、C++等主题，适合准备相关岗位面试时参考。"
 ---

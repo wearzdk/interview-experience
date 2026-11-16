@@ -4,6 +4,7 @@ company: "某金融科技公司"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/47d25b9f23a6431ca87b672c814694cd
 tags: ["金融","Java","性能优化","消息队列","限流降级","指标计算"]

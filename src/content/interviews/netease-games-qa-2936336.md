@@ -4,6 +4,7 @@ company: "网易"
 position: "游戏测试"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fbd79fa8d82547af9b590035e6d04f83"
 tags: ["网易", "游戏测试", "测试用例", "王者荣耀", "bug归因", "实习"]

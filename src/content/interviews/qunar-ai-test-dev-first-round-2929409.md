@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI应用开发（测开）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b2df5dd2e8844fe5b1eaaecec8c12daf
 tags: ["测试开发", "AI应用", "项目深挖", "测试能力", "校招"]

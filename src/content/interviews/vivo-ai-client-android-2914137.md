@@ -3,6 +3,7 @@ title: "vivo AI 客户端（Android 方向）一面：全程聊项目"
 company: "vivo"
 position: "AI客户端工程师（Android方向）"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["vivo","Android","客户端开发","AI客户端","项目面试","秋招","实习经历"]
 summary: "vivo AI 客户端工程师（Android 方向）面经：没有手撕也没有八股，围绕自我介绍、为什么没有实习、简历项目细节、遇到的难点与技术选型交流，面试官表示校招生更看重学习能力，语言以 Kotlin、Java、C++ 为主。"

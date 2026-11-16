@@ -4,6 +4,7 @@ company: 上海银行外包
 position: 前端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f3fbdfa341e44cd3bbe913771b4247f3
 tags: ["前端","React","Hooks","HTTP","虚拟列表","分片上传"]

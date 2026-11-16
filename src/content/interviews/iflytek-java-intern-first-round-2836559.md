@@ -4,6 +4,7 @@ company: 科大讯飞
 position: Java开发暑期实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-16'
 source: 牛客网
 tags: ["Java并发","Linux操作系统","TCP协议","模型部署","Python优化"]
 summary: "科大讯飞Java开发暑期实习一面面经，面试涵盖Java并发编程、Linux进程通信、TCP协议握手挥手机制以及AI模型轻量化与部署等深度技术问题。适合准备大厂实习面试的求职者参考学习。"

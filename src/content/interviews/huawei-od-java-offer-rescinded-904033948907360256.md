@@ -4,6 +4,7 @@ company: 华为OD
 position: Java开发工程师
 round: 机考+HR面
 date: '2026-06'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/904033948907360256
 tags: ["华为OD","算法","机考","校招"]

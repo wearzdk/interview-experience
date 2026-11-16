@@ -4,6 +4,7 @@ company: 小鹏汽车
 position: 测试工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945087261270454272
 tags: ["小鹏汽车","车载测试","智能座舱","自动驾驶","OTA","校招"]

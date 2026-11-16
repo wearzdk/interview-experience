@@ -4,6 +4,7 @@ company: 神州信息
 position: Java开发
 round: HR面+技术面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","Redis","多线程","自动装箱","数据类型","加密"]
 summary: "神州信息Java开发岗HR+技术双面面经，技术面以八股为主，涵盖Redis应用场景与不足、Java基础数据类型、自动装箱拆箱原理、线程实现方式、final与finally区别、密码存储与HTTPS通信协议等核心知识点，适合备战银行系IT公司Java岗的求职者参考。"

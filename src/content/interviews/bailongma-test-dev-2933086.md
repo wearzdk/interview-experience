@@ -4,6 +4,7 @@ company: "白龙马云行科技"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/93d8783cbba1429d897291b3bf8ee052
 tags: ["白龙马云行科技","测试开发","性能测试","自动化测试","AI测试","压测","测试提效"]

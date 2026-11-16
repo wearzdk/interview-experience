@@ -4,6 +4,7 @@ company: "CVTE"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943522260889968640
 tags: ["CVTE", "嵌入式", "Linux内核", "链表", "二面", "秋招"]

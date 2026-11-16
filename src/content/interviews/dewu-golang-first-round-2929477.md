@@ -4,6 +4,7 @@ company: "得物"
 position: "Golang开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/25e08e398218477b83b616a14f9e8d60
 tags: ["Golang", "MySQL", "Redis", "消息队列", "缓存", "系统设计"]

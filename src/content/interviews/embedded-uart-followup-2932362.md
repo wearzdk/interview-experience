@@ -3,6 +3,7 @@ title: "嵌入式面试：一个字节从 UART 发出去，中间经过了哪些
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/937a04553d99492bb6079e3a7e691f90
 tags: ["嵌入式","UART","中断","DMA","RTOS","内存管理","面试技巧"]

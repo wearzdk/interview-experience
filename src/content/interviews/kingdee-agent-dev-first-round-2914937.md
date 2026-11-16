@@ -4,6 +4,7 @@ company: 金蝶
 position: Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Agent","LangGraph","LangChain","RAG","文档切分","引用溯源"]
 summary: "金蝶 Agent 开发岗一面面经，9.21 进行，全程约 20 分钟且几乎没问八股，全部围绕简历里的两个项目与实习。重点追问文档切分策略、引用溯源到页面高亮的实现，以及 Agent 的设计方式、为什么选 LangGraph 而非 LangChain。"

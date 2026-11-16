@@ -3,6 +3,7 @@ title: 浩鲸科技Java后端面经
 company: 浩鲸科技
 position: Java开发工程师
 date: '2026-04'
+collectedAt: '2026-04-30'
 source: 牛客网
 tags: ["Java","并发编程","MySQL","JVM","MyBatis"]
 summary: "浩鲸科技Java开发岗位面试题分享，涵盖并发编程（Synchronized、线程池）、MySQL事务机制、JVM对象回收与类加载原理、MyBatis框架应用等核心面试考点，助你高效备战Java后端面试。"

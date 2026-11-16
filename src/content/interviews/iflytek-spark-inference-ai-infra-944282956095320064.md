@@ -3,6 +3,7 @@ title: "科大讯飞星火推理工程部 AI Infra 面经：异构算力适配�
 company: "科大讯飞"
 position: "AI Infra（推理方向）"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944282956095320064
 tags: ["科大讯飞", "AI Infra", "vLLM", "SGLang", "异构算力", "GPU 池化", "推理优化"]

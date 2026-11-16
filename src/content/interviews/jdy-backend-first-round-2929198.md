@@ -4,6 +4,7 @@ company: "jdy"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["后端", "缓存", "AI编程", "线程池", "校招"]
 summary: "jdy 电商部门后端一面，围绕转专业、AI 编程习惯、实习项目、多级匹配与配额、Caffeine 脏数据、Caffeine/Redis 选型和线程池展开。"

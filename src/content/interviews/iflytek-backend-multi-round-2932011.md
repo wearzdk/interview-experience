@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "后端开发"
 round: "一面、三面、HR面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e7edfb8bc0fb434daa84ba881e013db5
 tags: ["科大讯飞", "后端开发", "Agent", "ThreadLocal", "线程池", "AI Coding", "HR面"]

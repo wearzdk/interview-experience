@@ -4,6 +4,7 @@ company: "清微智能"
 position: "驱动工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["驱动开发","Linux内核","设备树","进程调度","中断子系统"]
 summary: "清微智能驱动工程师一面约 1 小时（9.24），全程要求讲源码：从设备树的展开与加载时机、进程 A 切到进程 B 的细节、根页表寄存器，一路追问到自旋锁差异、irq domain、GIC 中断类型与 4MB 场景下 vmalloc 和 kmalloc 的区别，面试官习惯围绕一个问题挖到底。"

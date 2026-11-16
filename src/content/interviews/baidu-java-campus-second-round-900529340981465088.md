@@ -4,6 +4,7 @@ company: 百度
 position: Java开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/900529340981465088
 tags: ["职场面经","算法手撕","中台"]

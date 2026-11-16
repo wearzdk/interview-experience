@@ -4,6 +4,7 @@ company: "精智达"
 position: "测试开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c1db37abf3be408684d5bb1e7f8246b8"
 tags: ["精智达","测试开发","Python","Java","数据库","专利","校招"]

@@ -4,6 +4,7 @@ company: "百川云璟"
 position: "Java后端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941324379416166400"

@@ -4,6 +4,7 @@ company: "飞猪"
 position: "测试开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/db75c6a44d6b405ebc3e8d3481fb0a05
 tags: ["测试开发", "RAG", "知识库", "AI测试", "自动化", "评测"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 应用开发（全栈）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b5e25bcbe5244ffaaf8a8ed36f859c4
 tags: ["字节跳动", "全栈", "指标治理", "断点续传", "AI Coding", "死锁检测"]

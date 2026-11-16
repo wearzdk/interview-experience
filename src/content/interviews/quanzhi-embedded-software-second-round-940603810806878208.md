@@ -4,6 +4,7 @@ company: "全志科技"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940603810806878208
 tags: ["全志科技","嵌入式软件","二面","实习经历","自我评价","项目难点","行为面"]

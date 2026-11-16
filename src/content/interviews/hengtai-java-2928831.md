@@ -4,6 +4,7 @@ company: "衡泰技术"
 position: "Java后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c85e37ab35a6400581001204bcf404da"
 tags: ["衡泰技术","Java后端","一面","线程池","Kafka","Spring","ClickHouse","JVM"]

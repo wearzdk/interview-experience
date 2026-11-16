@@ -4,6 +4,7 @@ company: "华测"
 position: "Java后端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932321390051475456
 tags: ["Java后端","交易链路","分布式事务","Spring AI","设计模式","状态机"]

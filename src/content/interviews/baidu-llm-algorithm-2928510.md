@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法工程师"
 round: "一面~三面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a62c94074f4d4ecfbd0c92a59278c05d
 tags: ["百度", "算法", "动态规划", "系统设计", "大模型微调", "AI Coding"]

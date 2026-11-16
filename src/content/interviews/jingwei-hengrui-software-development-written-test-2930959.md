@@ -4,6 +4,7 @@ company: "经纬恒瑞"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/70657b0e2e484a9da1f30003d70d33df
 tags: ["经纬恒瑞", "软件开发", "笔试", "动态规划", "排序"]

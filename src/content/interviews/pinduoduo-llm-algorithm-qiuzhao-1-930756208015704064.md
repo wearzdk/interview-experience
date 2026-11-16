@@ -4,6 +4,7 @@ company: "拼多多"
 position: "大模型算法"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930756208015704064"
 tags: ["大模型算法", "Agent", "强化学习", "GRPO", "奖励模型", "RAG"]

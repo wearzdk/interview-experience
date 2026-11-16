@@ -3,6 +3,7 @@ title: 亚信科技初级Java（1-3年）面经
 company: 亚信科技
 position: Java开发工程师
 date: '2026-07'
+collectedAt: '2026-07-08'
 source: 牛客网
 tags: ["ArrayList","HashMap","Redis","MySQL","分库分表"]
 summary: "亚信科技初级Java（1-3年）面经，全程近一小时深挖，涵盖集合框架、全局异常处理、Redis数据类型与登录态过期设计、MySQL调优与分库分表、AI编程工具使用心得等，八股基本答对，AI约束与分库分表实操为薄弱项。"

@@ -4,6 +4,7 @@ company: "牛客网用户分享"
 position: "软件开发"
 round: "AI面试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934909882463944704
 tags: ["AI面试", "Agent", "记忆模块", "RAG", "RabbitMQ", "高并发", "系统设计"]

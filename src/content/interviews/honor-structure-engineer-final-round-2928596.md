@@ -4,6 +4,7 @@ company: "荣耀"
 position: "结构工程师"
 round: "二面（综面）"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/913acf95287e43839d435f989d2c3643
 tags: ["荣耀", "结构工程师", "硬件", "综面", "课题", "职业规划"]

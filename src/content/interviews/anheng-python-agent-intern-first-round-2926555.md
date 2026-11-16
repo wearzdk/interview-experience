@@ -4,6 +4,7 @@ company: "安恒信息"
 position: "Python Agent开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/42ad85eefd20401a8a076203ec850175
 tags: ["Agent","大模型评测","上下文裁剪","RAG","实习面试","全栈"]

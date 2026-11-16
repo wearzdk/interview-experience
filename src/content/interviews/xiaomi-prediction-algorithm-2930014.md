@@ -4,6 +4,7 @@ company: "小米"
 position: "预测算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f4e8f2bb1f254bc29b2e22d2b9dfadaa"
 tags: ["小米", "预测算法", "空洞卷积", "消融实验", "Transformer", "UDP"]

@@ -4,6 +4,7 @@ company: 某互联网大厂
 position: Product Engineer 产品工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-21'
 source: 牛客网
 tags: ["产品工程师","RAG","Python","LRU","大模型"]
 summary: "产品工程师一面记录，重点考察 RAG 检索流程、Chunk 切分与 Top-K 选择、失败案例定位、代码阅读和 LRU 缓存实现。"

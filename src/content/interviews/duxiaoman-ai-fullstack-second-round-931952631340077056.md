@@ -4,6 +4,7 @@ company: "度小满"
 position: "AI全栈开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931952631340077056"
 tags: ["度小满","AI全栈","Agent编排","故障诊断","Skill与MCP","MySQL","Redis","AI编程"]

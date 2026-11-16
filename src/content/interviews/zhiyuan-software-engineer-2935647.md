@@ -4,6 +4,7 @@ company: "智元机器人"
 position: "软件开发工程师"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a2f28d5b50947e19d8e4b2a81c1988b
 tags: ["智元机器人","嵌入式","MQTT","CAN总线","视频流水线","多线程","产测开发","职业规划"]

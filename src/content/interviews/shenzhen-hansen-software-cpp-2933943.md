@@ -4,6 +4,7 @@ company: "深圳汉森软件"
 position: "C++ 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f882597b7f8a4e6580bd9f3473c64774
 tags: ["C++","C++11","STL","容器","职业规划"]

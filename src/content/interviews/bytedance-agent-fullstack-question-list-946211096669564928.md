@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent全栈研发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/946211096669564928"
 tags: ["字节跳动","Agent","全栈","SSE","工具调用","MCP","RAG","MySQL","限流"]

@@ -4,6 +4,7 @@ company: 深轻科技
 position: Java后端
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931897300308226048
 tags: ["Java","反射","元空间","平衡二叉树","手撕"]

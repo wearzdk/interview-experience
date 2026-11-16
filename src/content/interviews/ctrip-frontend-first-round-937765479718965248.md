@@ -4,6 +4,7 @@ company: 携程
 position: 前端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937765479718965248
 tags: ["前端","JavaScript","React","虚拟列表","性能优化","大模型"]

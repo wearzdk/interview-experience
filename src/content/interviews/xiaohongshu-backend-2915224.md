@@ -4,6 +4,7 @@ company: 小红书
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","并发","SQL优化","CodeReview","线上排查","算法"]
 summary: "小红书后端开发一面记录，没有八股也没有项目深挖，全程是场景题：一段订单支付代码找并发问题、一条深度分页 SQL 的改法、三个订单统计方法的 code review、下游服务报警的排查思路，最后手撕乘积最大的连续子数组。"

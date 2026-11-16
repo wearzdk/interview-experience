@@ -4,6 +4,7 @@ company: 华为
 position: "未注明"
 round: "三面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b2428926816a4aeba28ae707e9ca2028
 tags: ["华为","秋招","主管面","三面","Agent设计","实验室经历"]

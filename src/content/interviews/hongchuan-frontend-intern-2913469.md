@@ -3,6 +3,7 @@ title: "汇川技术前端实习面试：微前端隔离与工程化"
 company: "汇川技术"
 position: "前端开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["微前端", "前端工程化", "Vue", "Webpack", "Vite", "SQL优化"]
 summary: "9 月 18 日汇川技术前端开发实习面试，题目集中在微前端解决的问题与 JS、样式、沙箱隔离，子包与基座通信，发布订阅和观察者模式的区别，以及 Vue 依赖收集用 WeakMap 的原因和 Webpack 与 Vite 的差异。"

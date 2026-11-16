@@ -4,6 +4,7 @@ company: "零跑汽车"
 position: "AI 全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "一周后进入人才库"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eca8160916f84d9f98a264463b2f734f

@@ -5,6 +5,7 @@ position: "软件开发"
 round: "一面"
 result: "进入体检"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4b2f931400214b74acb4ffdd7fb76e64
 tags: ["Java", "SpringBoot", "微服务", "场景题", "校招"]

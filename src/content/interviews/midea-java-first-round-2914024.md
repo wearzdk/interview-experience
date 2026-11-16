@@ -4,6 +4,7 @@ company: "美的"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 tags: ["Java", "Kafka", "Redis", "分布式锁", "限流", "AI"]
 summary: "美的 Java 秋招一面真题：接口 RT 升高的排查路径、联合索引匹配、Kafka 消息堆积、幂等与分布式锁设计、Redisson 看门狗、AI 智能客服幻觉与 Transformer 架构。"

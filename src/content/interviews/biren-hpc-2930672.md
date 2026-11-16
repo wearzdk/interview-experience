@@ -4,6 +4,7 @@ company: "壁仞科技"
 position: "高性能计算"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bbfded258b1a4c66a2a6a13be9be305c
 tags: ["壁仞科技", "高性能计算", "CUDA", "Hopper", "SpMV", "智能指针", "手撕"]

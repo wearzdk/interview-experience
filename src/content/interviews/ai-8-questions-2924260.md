@@ -4,6 +4,7 @@ company: "多家互联网公司"
 position: "大模型算法"
 round: "多轮"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e3e3ffebed8f49eca9193da87cce2909
 tags: ["Agent","RAG","KV Cache","MoE","LoRA","大模型","AI面试"]

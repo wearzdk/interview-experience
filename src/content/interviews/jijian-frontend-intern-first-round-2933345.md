@@ -4,6 +4,7 @@ company: "即剪"
 position: "前端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3d3ef7b926394f7ba083d657d5e7c72d
 tags: ["即剪", "前端实习", "一面", "支付流程", "文件上传", "Agent", "RAG", "向量检索"]

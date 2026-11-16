@@ -4,6 +4,7 @@ company: 华为
 position: "Java 开发（OD）"
 round: "技术一面、二面、主管面"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fec9bdf4e1c54ffc8e2771a1aaa7cd7b
 tags: ["Java", "OD", "AI编程", "项目深挖", "算法题", "主管面"]

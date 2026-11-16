@@ -4,6 +4,7 @@ company: 中信银行（外包）
 position: Java后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 result: 结果不明，体验较差
 base: 哈尔滨
 source: 牛客网

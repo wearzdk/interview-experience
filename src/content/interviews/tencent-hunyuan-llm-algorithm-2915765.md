@@ -4,6 +4,7 @@ company: 腾讯
 position: 大模型算法
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","Agent","强化学习","GRPO","DPO","检索"]
 summary: "腾讯混元大模型算法岗一面真题，围绕 Agent 强化学习展开：奖励设计与长链路信用分配、GRPO 的衍生改进、Multi-Agent 的收益与代价、PRM 如何接入训练、Agent 评测体系，并延伸到混元自身的 MoE 与 Attention 设计、DPO 概率双降、BM25 检索以及分阶段 token 归一化。"

@@ -4,6 +4,7 @@ company: "吉利汽车"
 position: "综合"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2f5d9beced6d419f8ec10edddcbe6092
 tags: ["AI面试","校招","图形推理","性格测试","行为面试","英语面试"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: SRE（Agent 方向）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8d026c8fcd6f46e887f846231eb5b80a
 tags: ["字节跳动","SRE","Agent","大模型","虚拟内存","MySQL","算法"]

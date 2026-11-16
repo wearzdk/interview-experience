@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e5141a1836ff4e8889edf42dcc85e86a
 tags: ["科大讯飞","Agent","RAG","文档解析","VLM","向量检索","MinerU","项目深挖"]

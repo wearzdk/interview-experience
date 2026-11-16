@@ -4,6 +4,7 @@ company: "字节跳动、美团"
 position: "算法工程师"
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931584533160312832
 tags: ["AI Coding","笔试","手写算子","数据处理","PyTorch","系统设计"]

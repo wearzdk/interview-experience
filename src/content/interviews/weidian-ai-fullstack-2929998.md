@@ -4,6 +4,7 @@ company: "微店"
 position: "AI全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/394dd858bc614f098ddcccacd8c40406"
 tags: ["微店", "AI全栈开发", "AI辅助开发", "代码排查", "Redis", "指标大盘"]

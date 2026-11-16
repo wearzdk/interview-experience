@@ -4,6 +4,7 @@ company: "帆软"
 position: "软件开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "JVM", "分布式ID", "雪花算法", "MySQL", "K8s", "Linux"]
 summary: "帆软二面面经：拷打实习后考察 JVM 内存分布、堆内堆外与 OOM 排查、分布式 ID 发号器与雪花算法、synchronized 锁升级与 ReentrantLock 对比、MySQL 索引结构，以及 K8s、Linux 排查命令与文件权限。"

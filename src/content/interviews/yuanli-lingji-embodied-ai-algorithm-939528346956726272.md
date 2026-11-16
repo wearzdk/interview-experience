@@ -4,6 +4,7 @@ company: "原力灵机"
 position: "具身智能算法工程师"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已进三面"
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/discuss/939528346956726272"

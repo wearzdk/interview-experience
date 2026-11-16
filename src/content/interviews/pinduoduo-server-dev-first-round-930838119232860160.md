@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端研发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930838119232860160"
 tags: ["服务端","Java","MySQL","线程安全","手撕代码","traceId","分页查询"]

@@ -4,6 +4,7 @@ company: "华为"
 position: "AI 算法"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942592166600232960"
 tags: ["华为","机考","笔试","机器学习","决策树","KMeans","X-Means","BIC","RAG","PagedAttention"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "大模型算法"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/96a73210841f4054828c08597e07fa85"
 tags: ["百度","大模型算法","手撕代码","系统设计","微调数据","AI Coding","秋招"]

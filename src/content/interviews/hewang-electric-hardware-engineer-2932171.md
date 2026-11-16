@@ -4,6 +4,7 @@ company: "禾望电气"
 position: "硬件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/068021a7951143e586a35f437ccd4465
 tags: ["禾望电气","硬件工程师","电力电子","双脉冲测试","竞品分析","设备维护","社招"]

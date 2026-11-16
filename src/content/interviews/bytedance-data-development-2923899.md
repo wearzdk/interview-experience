@@ -3,6 +3,7 @@ title: 字节跳动大数据开发面经（10.9）
 company: 字节跳动
 position: 数据开发
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2594098aeb504cb99e773987cf831198
 tags: ["数据开发","Iceberg","湖仓一体","Hive","智能问数","AI Agent"]

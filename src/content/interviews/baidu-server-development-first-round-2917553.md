@@ -5,6 +5,7 @@ position: "服务端开发"
 round: "一面"
 result: "已挂"
 date: '2026-04'
+collectedAt: '2026-09-27'
 source: 牛客网
 tags: ["Go","Redis","MySQL","缓存","限流","分布式","手撕算法"]
 summary: "百度手百服务端一面记录，4 月面试。22 道题覆盖进程线程协程、Go 并发安全与 GC、channel 底层、Redis 缓存穿透击穿与 ZSET、MySQL 索引与事务隔离级别、慢查询与分库分表，另有全排列代码题和接口报警、接口变慢的排查思路，最后一面挂。"

@@ -4,6 +4,7 @@ company: "吉利"
 position: "AI 解决方案"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/eef8c6dcca1c4cc5978e61abe90be08b
 tags: ["吉利","AI解决方案","FDE","3D选配","AI选型","人机边界","校园招聘","反问"]

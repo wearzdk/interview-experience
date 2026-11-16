@@ -4,6 +4,7 @@ company: 炎魂网络
 position: 前端开发
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939205928174342144
 tags: ["前端","场景题","性能优化","IndexedDB","埋点","Vue","AI提效"]

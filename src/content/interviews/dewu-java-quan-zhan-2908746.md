@@ -4,6 +4,7 @@ company: 得物
 position: Java开发工程师
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 tags: ["Java", "性能优化", "AI工程", "项目实践"]
 summary: "得物Java开发工程师二面面经，围绕接口性能优化、研发流程中的AI使用和工程实践展开。"

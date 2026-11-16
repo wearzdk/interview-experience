@@ -4,6 +4,7 @@ company: 得物
 position: Go
 round: 笔试
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b8fd8e227e947819715f60feff3f0f3
 tags: ["笔试","得物","Go","AI编程","幂等"]

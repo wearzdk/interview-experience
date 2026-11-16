@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI应用开发"
 round: "AI面试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "JVM", "HashMap", "MySQL", "B+树", "系统设计", "RAG"]
 summary: "去哪儿 AI 应用开发 AI 面试：追问 JVM 运行时数据区、HashMap 的 put 与扩容、ArrayList 多线程 add、InnoDB 选 B+ 树的原因、进程与线程、订票系统的重复订单拦截，以及高并发缓存与 RAG 调参。"

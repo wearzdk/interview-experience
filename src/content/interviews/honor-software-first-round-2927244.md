@@ -4,6 +4,7 @@ company: "荣耀"
 position: "软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0856dc30919e41369447de1f73a38024
 tags: ["荣耀","软件开发","AI项目","JVM内存模型","Synchronized","ReentrantLock","秋招"]

@@ -3,6 +3,7 @@ title: "儒意电影运维开发面试：Linux 排查、请求链路与 K8s"
 company: 儒意电影
 position: 运维开发
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/573af4e8ca584bbe97126177f73ad0a9
 tags: ["运维", "Linux", "K8s", "内存排查", "AI工具"]

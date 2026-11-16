@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI 全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942897472391684096
 tags: ["字节跳动", "AI全栈", "Agent", "Redis", "消息队列", "幂等", "RAG"]

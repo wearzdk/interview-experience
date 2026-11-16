@@ -4,6 +4,7 @@ company: 满帮
 position: 全栈开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/61978ea012e14932bca893781dcfcecd
 tags: ["Java","并发","线程池","事务","MySQL","JWT","HTTPS"]

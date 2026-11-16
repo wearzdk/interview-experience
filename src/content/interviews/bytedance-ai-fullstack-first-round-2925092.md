@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI 全栈（业务中台）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6ac5ba31705a4b64a407b087f39d5447
 tags: ["AI全栈","Agent","ReAct","MCP","Skill","计算机网络","LRU"]

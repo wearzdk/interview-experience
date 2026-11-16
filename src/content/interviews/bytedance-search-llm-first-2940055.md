@@ -4,6 +4,7 @@ company: 字节跳动
 position: 搜索大模型算法
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f3991feac126477cb244984b8ea09d94
 tags: ["字节跳动","搜索","大模型","意图识别","微调","灾难性遗忘","显存优化","推理优化","SID","RQ-Kmeans","生成式召回","GRPO","DPO","PPO","双塔召回","DIN","Attention","接雨水"]

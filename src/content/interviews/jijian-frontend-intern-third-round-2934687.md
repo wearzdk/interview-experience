@@ -4,6 +4,7 @@ company: 即剪
 position: 前端开发实习
 round: 三面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/29a0cf2f31d54024857a86e9d4a0e990
 tags: ["前端", "AI编程", "Agent", "记忆机制", "实习"]

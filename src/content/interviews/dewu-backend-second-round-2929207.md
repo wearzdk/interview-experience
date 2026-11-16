@@ -4,6 +4,7 @@ company: "得物"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["后端", "HTTP", "IO模型", "Kafka", "Redis"]
 summary: "得物后端二面，2026-10-18，围绕实习项目、代码知识库更新、SSE、HTTP 请求解析、状态码、HTTP/2 多路复用、TCP 挥手、IO 多路复用、Kafka 消费均衡和 Redis 哨兵展开。"

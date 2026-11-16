@@ -4,6 +4,7 @@ company: "杭州某公司"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/932390002145628160"
 tags: ["Java","GC","HBase","锁优化","TCP","后端"]

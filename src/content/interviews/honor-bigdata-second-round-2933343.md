@@ -4,6 +4,7 @@ company: "荣耀"
 position: "大数据开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "面完 5 分钟进入人才池"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c6a708e5bdb44c66aa0ebb09b9f9bf73

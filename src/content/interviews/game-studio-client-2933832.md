@@ -4,6 +4,7 @@ company: "游戏小厂"
 position: "游戏客户端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5bf8778c005848c28ac393db84c0c5b8
 tags: ["游戏客户端","Unity","Unreal","GAS","图形学","实习"]

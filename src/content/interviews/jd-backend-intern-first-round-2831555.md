@@ -4,6 +4,7 @@ company: 京东
 position: 后端实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-10'
 result: 凉经
 source: 牛客网
 tags: ["MySQL","SpringCloudAlibaba","Redisson","线程池","AI Agent"]

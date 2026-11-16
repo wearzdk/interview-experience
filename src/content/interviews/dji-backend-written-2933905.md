@@ -4,6 +4,7 @@ company: "大疆"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b567975247ff4f5bbd7a6cb22bdde5cd
 tags: ["大疆","笔试","计算机网络","操作系统","C++","动态规划"]

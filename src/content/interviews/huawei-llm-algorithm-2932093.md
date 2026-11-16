@@ -4,6 +4,7 @@ company: "华为"
 position: "大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8c42a8119ccb4cfa87e10361aad0939c
 tags: ["大模型算法","Transformer","MoE","LoRA","PPO","GRPO","DPO","三数之和"]

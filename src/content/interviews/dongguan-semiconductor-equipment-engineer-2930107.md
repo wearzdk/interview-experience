@@ -4,6 +4,7 @@ company: "东莞某半导体国企"
 position: "设备工程师"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2ba282f921fb4241afd620d6f90d5106
 tags: ["半导体","设备工程师","跨专业转岗","岗位理解","面试复盘"]

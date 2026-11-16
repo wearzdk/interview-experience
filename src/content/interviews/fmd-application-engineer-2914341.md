@@ -3,6 +3,7 @@ title: 辉芒微电子应用工程师面经：MCU 与通信时序
 company: 辉芒微电子
 position: 应用工程师
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["嵌入式","MCU","STM32","IIC","SPI"]
 summary: "辉芒微电子应用工程师面经。除自我介绍与职业规划外，重点考察 OTA 升级流程、毕设细节，以及 MCU 基础：STM32F103 的 72MHz 主频怎么产生、软件 IO 翻转频率、低功耗设计，还有 IIC/SPI/UART 时序。"

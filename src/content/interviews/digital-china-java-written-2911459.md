@@ -4,6 +4,7 @@ company: "神州信息"
 position: "Java开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "笔试", "算法"]
 summary: "60 分钟笔试，包含单选、不定项选择和两道模拟、统计类算法题。"

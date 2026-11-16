@@ -4,6 +4,7 @@ company: "卓望"
 position: "后端开发"
 round: "AI 面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/a712098d19ee47f58967f7031fea0e0f"
 tags: ["卓望","中国移动","后端开发","AI面试","深浅拷贝","Spring循环依赖","MCP","MySQL主从","XSS","Agent记忆"]

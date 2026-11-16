@@ -3,6 +3,7 @@ title: "初级网管测试工程师社招面经（图像与硬件方向）"
 company: "未知公司"
 position: "软件测试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6eb0531fd7474d53a55c5c20f8d33e88
 tags: ["软件测试","图像质量","内存池","内存对齐","iperf","测试用例设计"]

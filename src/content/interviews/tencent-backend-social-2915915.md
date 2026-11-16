@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发（Agent方向）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["腾讯","社招","Agent","LangGraph","KV Cache","Token优化","Skill"]
 summary: "腾讯社招一面，全程围绕 Agent 项目的工程实现：框架选型为什么用 LangChain + LangGraph、方案审核用什么指标判断不合格以及审核结果怎么回流链路、可观测性怎么做、调用 sub-agent 时主 Agent 的 context 带不带过去、超长内容怎么压缩（自研还是用 LangGraph 自带）；重点问 token 消耗优化和 KV Cache 命中率的手段，并追问 Skill 系统的设计——移除 Skill 正文会不会破坏 KV Cache、Skill 本身是一个工具还是多个工具。"

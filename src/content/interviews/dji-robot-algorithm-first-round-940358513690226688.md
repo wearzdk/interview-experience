@@ -4,6 +4,7 @@ company: "大疆"
 position: "机器人算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940358513690226688
 tags: ["大疆","机器人算法","SLAM","路径规划","状态估计","多传感器融合","Sim2Real"]

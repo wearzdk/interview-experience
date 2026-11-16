@@ -4,6 +4,7 @@ company: "易思维"
 position: "算法测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/058f3dac2c3547a5ababb4cb9d99040e"
 tags: ["易思维","算法测试","图像质量测试","3D视觉","相机标定","社招"]

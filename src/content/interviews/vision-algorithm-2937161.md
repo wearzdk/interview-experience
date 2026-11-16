@@ -3,6 +3,7 @@ title: 双非视觉算法岗面试实录：简历初筛到技术面
 company: 某公司
 position: 视觉算法工程师
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ca211db296454655b7d32f7f1915427c
 tags: ["视觉算法","项目经历","自我介绍","求职经验"]

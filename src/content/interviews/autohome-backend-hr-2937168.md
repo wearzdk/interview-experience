@@ -4,6 +4,7 @@ company: 汽车之家
 position: 后端开发工程师
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dd602769e7d9453c9928f85728a77a9e
 tags: ["HR 面","行为面试","实习收获"]

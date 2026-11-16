@@ -4,6 +4,7 @@ company: "南芯"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943819246876827648
 tags: ["南芯","嵌入式","电源管理","状态机","I2C","ADC","FreeRTOS","HardFault"]

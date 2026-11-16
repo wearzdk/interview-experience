@@ -4,6 +4,7 @@ company: 荣耀
 position: java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-19'
 source: 牛客网
 tags: ["Java后端","Redis","分布式系统","RAG","AI技术"]
 summary: "荣耀暑期实习Java后端开发一面面经。面试涵盖Redis ZSet底层实现（跳表）、分布式系统一致性、RAG向量检索原理及AI技术趋势探讨。面试官侧重考察候选人对AI结合传统开发能力的认知。"

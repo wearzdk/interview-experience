@@ -4,6 +4,7 @@ company: "快手"
 position: "后端开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7e0d8a703b554673bf3dcbc1830834a9
 tags: ["快手", "后端开发", "一面", "二面", "Agent", "RAG", "SSE", "MVCC", "索引下推"]

@@ -4,6 +4,7 @@ company: 去哪儿
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 result: 凉经
 source: 牛客网
 tags: ["Java","Agent","线程池","List","并发编程"]

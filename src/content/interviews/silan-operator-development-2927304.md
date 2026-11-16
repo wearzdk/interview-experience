@@ -4,6 +4,7 @@ company: "思朗科技"
 position: "算子开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b394034bb17c4ded8e13ea0caaac1d64"
 tags: ["算子开发", "CUDA", "GPU", "性能优化", "Nsight", "LLVM"]

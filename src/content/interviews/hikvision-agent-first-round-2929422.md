@@ -4,6 +4,7 @@ company: "海康威视"
 position: "Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9ffae547f2049eca64e49e0085701bf
 tags: ["Agent", "Agentic Workflow", "记忆", "评测", "Harness", "意图识别"]

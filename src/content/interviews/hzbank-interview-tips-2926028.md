@@ -3,6 +3,7 @@ title: "杭州银行 AI 面：技术题跟着投递方向走，行为题几年�
 company: "杭州银行"
 position: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/074d2d8f3c1d42c9ad6bf831ab0e8849
 tags: ["杭州银行","AI面试","银行校招","行为面试","数据研发","MySQL","Java并发"]

@@ -4,6 +4,7 @@ company: "优博讯"
 position: "软件开发"
 round: "HR 面 / 二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/afb1a9be80cf4b19b82a49b7e4209d37"
 tags: ["优博讯", "软件开发", "HR面", "TCP", "HTTPS", "负载均衡", "AI开发"]

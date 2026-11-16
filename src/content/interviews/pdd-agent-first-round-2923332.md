@@ -4,6 +4,7 @@ company: "拼多多"
 position: "Agent 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b7c5a262265f41e6ab95c008f7dd31de"
 tags: ["拼多多","Agent开发","RAG","文本切块","混合检索","BM25","MCP","项目复盘"]

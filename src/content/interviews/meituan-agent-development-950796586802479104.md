@@ -4,6 +4,7 @@ company: 美团
 position: AI Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950796586802479104
 tags: ["美团","Agent 开发","Workflow","MCP","Function Calling","幂等","Redis"]

@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["Agent架构","Java并发","MySQL索引","TCP协议","算法"]
 summary: "腾讯AI后端开发实习一面面试题整理。涵盖React/CoT/Action等Agent架构、Java内存模型与并发编程、MySQL索引优化与查询定位、TCP四次挥手及异常处理，并附带LeetCode经典算法题解析，助你掌握后端核心面试考点。"

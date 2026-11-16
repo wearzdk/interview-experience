@@ -4,6 +4,7 @@ company: "袋鼠云"
 position: "前端开发"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cdf153ff52bc420da3a1b566a36e13a2
 tags: ["袋鼠云","前端开发","HR面","职业规划","AI工具","实习经历"]

@@ -4,6 +4,7 @@ company: "百度"
 position: "AI全栈"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["前端","React","Vue","RAG","MCP","Agent"]
 summary: "百度搜索 AI 全栈（偏前端）一面约一小时：前半段是前端八股，React 与 Vue 的异同、Fiber 架构；后半段全在 AI 工程上，Agent 与 LLM 的区别、MCP 通信协议与 tools 的区别、RAG 完整流程与 chunk 颗粒度控制，最后手撕 hot100 二选一。"

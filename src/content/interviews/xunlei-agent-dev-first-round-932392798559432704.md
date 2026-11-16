@@ -4,6 +4,7 @@ company: 迅雷
 position: Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932392798559432704
 tags: ["Agent","RAG","Reranker","MCP","Java并发","Spring"]

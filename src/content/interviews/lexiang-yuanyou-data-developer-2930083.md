@@ -4,6 +4,7 @@ company: "乐享元游"
 position: "数据开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/294b484a091c4c9ab407d53a88a80a06
 tags: ["乐享元游", "数据开发", "数仓分层", "Spark", "Hive", "Iceberg", "Flink"]

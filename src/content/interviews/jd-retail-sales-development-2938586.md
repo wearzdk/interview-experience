@@ -4,6 +4,7 @@ company: 京东
 position: 销售拓展
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43aba6783fc949019c0f8b18e0021e5b
 tags: ["京东","销售拓展","面试体验","面试流程","举报","校招"]

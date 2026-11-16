@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "大模型算法"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932006434923958272
 tags: ["大模型","算法","思维链","PRM","Agent","数据构建","秋招"]

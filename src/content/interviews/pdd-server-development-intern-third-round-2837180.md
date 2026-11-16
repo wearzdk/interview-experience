@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端开发实习
 round: 三面
 date: '2026-04'
+collectedAt: '2026-04-19'
 source: 牛客网
 tags: ["Java","Redis","MQ","Spring","系统架构"]
 summary: "拼多多服务端开发实习三面面经分享。面试全程无手撕代码，重点考察项目经历、Redis大Key优化策略、缓存设计思路及个人职业规划。本文整理了拼多多实习业务方向、技术栈及面试流程，助力求职者备战服务端开发岗位。"

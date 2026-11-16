@@ -4,6 +4,7 @@ company: 度小满
 position: Agent开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Agent","ReAct","多智能体","记忆系统","上下文工程","LLM"]
 summary: "度小满 Agent 开发一面约 50 分钟，围绕自研 Agent 框架深挖 ReAct 主循环、工具调用被打断、多 Agent 分工与上下文隔离、记忆系统、执行幻觉与上下文压缩，并手撕 IP 地址解析。"

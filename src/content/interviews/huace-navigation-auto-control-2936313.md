@@ -3,6 +3,7 @@ title: "华测导航自动控制工程师面经：农机转向死区与泥地响
 company: "华测导航"
 position: "自动控制工程师"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "挂了"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/016fb55dfec743c099f3628b7a3563ec"

@@ -4,6 +4,7 @@ company: "搜狐"
 position: "社交运营实习"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "已入职实习"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a9d7e51ac7d34815aa9a9ccb6be66610

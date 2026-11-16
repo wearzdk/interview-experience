@@ -4,6 +4,7 @@ company: "杭州潮流网络"
 position: "Java 后端（社招）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943146750733189120
 tags: ["杭州潮流网络","Java后端","社招","CompletableFuture","ThreadLocal","向量检索","Linux"]

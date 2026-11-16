@@ -3,6 +3,7 @@ title: "AI 应用服务商面试：产品岗和交付岗怎么选"
 company: "云徙科技"
 position: "AI应用产品与交付"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932578081070411776
 tags: ["AI应用","产品岗","交付岗","B端","职业选择"]

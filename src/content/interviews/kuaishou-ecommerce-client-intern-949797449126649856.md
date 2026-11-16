@@ -4,6 +4,7 @@ company: "快手"
 position: "客户端开发（实习）"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949797449126649856
 tags: ["快手","电商","客户端","实习","项目架构","即时通讯","AI Coding","校招"]

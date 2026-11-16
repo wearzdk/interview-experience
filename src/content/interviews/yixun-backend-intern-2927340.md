@@ -4,6 +4,7 @@ company: "亿讯科技"
 position: "后端开发实习"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e636885e49574a3d852a724c73e83ee1"
 tags: ["后端开发", "Java", "JVM", "数据结构", "实习面试"]

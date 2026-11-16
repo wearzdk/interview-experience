@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "全栈开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0af79630412944de93000c64ed676a45
 tags: ["网易云音乐","全栈","秋招","表结构设计","索引","鉴权","Node.js","系统设计"]

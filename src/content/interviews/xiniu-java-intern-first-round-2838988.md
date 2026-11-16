@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: Java后端实习
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["Java","HashMap","ConcurrentHashMap","JVM","MySQL","线程池"]
 summary: "熙牛医疗Java后端实习一面面经，面试官通过项目交流切入，重点考察Java核心技术（HashMap、线程池、AQS、锁升级）、MySQL事务隔离与慢SQL优化，以及JVM内存模型与垃圾回收算法。整体难度适中，偏重八股基础。"

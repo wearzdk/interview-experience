@@ -4,6 +4,7 @@ company: "联芸科技"
 position: "嵌入式软件开发（端侧 AI）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dfe701e9ddce4d6182e5d69ff4085690
 tags: ["联芸科技","嵌入式","端侧AI","边缘推理","NPU","车载通信","外设驱动","RTOS"]

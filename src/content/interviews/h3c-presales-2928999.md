@@ -4,6 +4,7 @@ company: "新华三"
 position: "售前"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/2eb1adc9fb77455789cc2da902a2a9d4"
 tags: ["新华三", "售前", "一面", "岗位理解", "简历追问", "城市意向"]

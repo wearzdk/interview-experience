@@ -4,6 +4,7 @@ company: 小红书
 position: AI Native 产品研发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-07-21'
 result: Offer
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/874083732645281792

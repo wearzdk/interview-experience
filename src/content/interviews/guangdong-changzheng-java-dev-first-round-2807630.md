@@ -4,6 +4,7 @@ company: 广东长正
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","SpringBoot","MySQL","Redis","SpringMVC"]
 summary: "广东长正Java开发面试总结，考察内容涵盖SpringBoot、SpringMVC、Redis基础架构以及MySQL索引与连接查询。适合准备后端开发岗位的应聘者参考，了解高频技术面试题。"

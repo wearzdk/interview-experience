@@ -3,6 +3,7 @@ title: "用友 Java 开发面经：十四道基础八股，反问时才知道岗
 company: "用友"
 position: "Java 开发"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1568041436634e658177f10f6b03d0bf
 tags: ["用友", "Java", "HashMap", "Spring", "IOC", "SQL 优化", "集合框架"]

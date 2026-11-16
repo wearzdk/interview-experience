@@ -4,6 +4,7 @@ company: 新氧
 position: 后端开发（实习）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["Go","MySQL","索引","MVCC","Redis","消息队列"]
 summary: "北京新氧后端开发实习岗一面，先问个人基础情况与上一段实习的离职原因、能否到北京实习，随后是八股集中区：Go 的 panic、MySQL 的数据存储与索引、MVCC、Redis 的数据结构与持久化、消息队列的理解与消息不丢的保证。团队做医美行业内部 CRM、ERP 等系统，主力语言是 Go。"

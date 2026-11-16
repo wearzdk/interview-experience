@@ -4,6 +4,7 @@ company: "磐松资产"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bcf72df8bafa41d48813aea6d7d80440
 tags: ["磐松资产", "前端", "一面", "性能优化", "职业规划", "转正实习"]

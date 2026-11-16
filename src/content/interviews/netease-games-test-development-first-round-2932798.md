@@ -4,6 +4,7 @@ company: "网易互娱"
 position: "游戏测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/497b23cc80cd4e7db4c5713cd1699379
 tags: ["网易互娱", "游戏测试开发", "自动化测试", "LLM", "日志", "Python", "C++", "手撕"]

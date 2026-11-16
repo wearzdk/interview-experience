@@ -4,6 +4,7 @@ company: 腾讯
 position: Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946533354818535424
 tags: ["腾讯","Agent","RAG","ReAct","MCP","Function Call"]

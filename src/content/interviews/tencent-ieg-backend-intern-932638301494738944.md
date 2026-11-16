@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932638301494738944
 tags: ["后台开发","微服务","负载均衡","RPC","HTTP"]

@@ -4,6 +4,7 @@ company: "曹操出行"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/63a82df55e034990a954ff48a264d500"
 tags: ["曹操出行", "后端开发实习", "ConcurrentHashMap", "幂等", "Redis", "MCP"]

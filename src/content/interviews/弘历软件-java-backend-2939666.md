@@ -4,6 +4,7 @@ company: 弘历软件
 position: Java 后端开发
 round: "一面 / 二面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c337894ae5841329c2f36d65ddbc81b
 tags: ["弘历软件","Java后端","群面","实习经历","职业规划","AI使用","单休"]

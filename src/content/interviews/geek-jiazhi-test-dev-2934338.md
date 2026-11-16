@@ -4,6 +4,7 @@ company: "极智嘉"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["测试开发","接口自动化","Linux","RAG","OCR","ROS2","AMR"]
 summary: "极智嘉测试开发一面 34 问：接口自动化设计链路与断言、Linux 日志检索与打包命令、性能测试指标、RAG 与多模态 embedding、OCR 多工况测试设计，以及 AMR 机器人避障与路径规划的边界场景、ROS2 基础。"

@@ -4,6 +4,7 @@ company: 瑞芯微
 position: 嵌入式软件
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932762275230806016
 tags: ["嵌入式","C语言","Linux驱动","设备树","UART","内存管理"]

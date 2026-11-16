@@ -3,6 +3,7 @@ title: TP-link Java开发面试题分享
 company: 普联技术
 position: Java开发
 date: '2026-04'
+collectedAt: '2026-04-12'
 source: 牛客网
 tags: ["Java","面向对象","面向过程","基础概念"]
 summary: "分享TP-link Java开发岗位面试真题。重点考察Java核心基础，包括面向对象与面向过程的区别对比。本文整理了详细的面试题及专业参考解析，助您高效备考TP-link技术面试。"

@@ -4,6 +4,7 @@ company: 陌陌
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-07'
 source: 牛客网
 tags: ["Java并发", "JVM", "MySQL", "Redis", "计算机网络", "算法"]
 summary: "陌陌后端开发一面，覆盖锁升级、并发工具、JVM与GC、MySQL索引、Redis分布式锁、缓存问题及基础算法。"

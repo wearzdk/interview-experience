@@ -3,6 +3,7 @@ title: "江波龙嵌入式技术面：FreeRTOS 调度、指针数组与内存对
 company: 江波龙
 position: 嵌入式软件开发
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e1a29e800f6547f787f742c63325f059
 tags: ["嵌入式", "FreeRTOS", "互斥锁", "指针", "内存对齐", "volatile"]

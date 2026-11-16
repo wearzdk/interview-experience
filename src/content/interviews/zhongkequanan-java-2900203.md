@@ -4,6 +4,7 @@ company: "中科全安"
 position: "Java后端开发"
 round: "一至二面"
 date: '2026-08'
+collectedAt: '2026-08-31'
 source: 牛客网
 tags: ["Java", "线程池", "分布式锁", "SQL", "JVM"]
 summary: "中科全安 Java 后端面试记录，覆盖实习项目、线程池、分布式锁、ThreadLocal、索引设计和 SQL 基础。"

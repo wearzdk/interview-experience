@@ -4,6 +4,7 @@ company: "牛客网用户分享"
 position: "嵌入式软件"
 round: "笔试+一面+二面+三面+HR面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939811247581560832
 tags: ["嵌入式","秋招","面试准备","笔试","RTOS","Linux驱动","面试复盘"]

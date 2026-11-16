@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件（存储方向）"
 round: "三面"
 date: "2026-10"
+collectedAt: '2026-10-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942350234640711680"
 tags: ["华为","终端BG","嵌入式","存储","Flash","文件系统","内存屏障","掉电保护"]

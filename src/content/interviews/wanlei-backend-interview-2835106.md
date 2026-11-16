@@ -3,6 +3,7 @@ title: 万类智生后端开发面经
 company: 万类智生
 position: 后端开发
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["Java","Redis","Spring AI","RAG","分布式"]
 summary: "万类智生后端开发面试，核心考察项目架构设计与AI Agent应用。重点涵盖Spring AI流程、RAG知识库检索、Embedding原理、Redis消息队列设计及高并发分布式场景处理，考查候选人对大模型落地与工程化实现的深度理解。"

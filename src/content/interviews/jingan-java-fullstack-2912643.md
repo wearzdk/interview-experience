@@ -4,6 +4,7 @@ company: "靖安科技"
 position: "Java全栈开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "并发", "Redis", "MySQL", "MyBatis", "Spring", "JVM", "全栈"]
 summary: "9 月 17 日一面，时长不到一小时。从集合、线程池问到缓存与数据库，后半段关注前端学习、实习项目、CPU 排障和需求交付。"

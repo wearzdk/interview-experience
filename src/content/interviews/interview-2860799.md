@@ -4,6 +4,7 @@ company: 百度
 position: 软件开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-06-22'
 base: 山东
 source: 牛客网
 tags: ["Java", "LLM", "算法"]

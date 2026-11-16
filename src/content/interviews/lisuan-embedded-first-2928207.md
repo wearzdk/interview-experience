@@ -4,6 +4,7 @@ company: "砺算科技"
 position: "嵌入式软件工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 tags: ["砺算科技","嵌入式","C++","内存布局","STL","位运算","手撕代码"]

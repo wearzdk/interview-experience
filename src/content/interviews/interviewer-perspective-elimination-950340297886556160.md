@@ -4,6 +4,7 @@ company: 某公司
 position: 技术面试
 round: 面试官视角
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950340297886556160
 tags: ["面试官视角","淘汰原因","项目深挖","简历","表达","诚信","校招"]

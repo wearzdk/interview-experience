@@ -3,6 +3,7 @@ title: "金证科技 C++ 开发一面二面面经：多态、STL 与项目深挖
 company: "金证科技"
 position: "C++开发"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已OC"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/634881041db24e3aac13afae398e5c65"

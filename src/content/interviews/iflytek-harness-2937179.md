@@ -4,6 +4,7 @@ company: 科大讯飞
 position: AI Agent 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b60a64c3934545c8aa7b7033ea9372a6
 tags: ["Agent 沙箱","Seatbelt","eBPF","AI 编程","Agent 安全"]

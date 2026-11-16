@@ -4,6 +4,7 @@ company: 腾讯
 position: 软件开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-06-22'
 result: 凉经
 base: 重庆
 source: 牛客网

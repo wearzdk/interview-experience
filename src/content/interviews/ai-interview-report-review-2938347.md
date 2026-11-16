@@ -4,6 +4,7 @@ company: "多家公司"
 position: "AI 面试"
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/aa3942974bdc47e5be648c527c1b8bdb
 tags: ["AI面试","面试报告","携程","美团","行为面试","能力评估"]

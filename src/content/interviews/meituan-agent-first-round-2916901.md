@@ -4,6 +4,7 @@ company: "美团"
 position: "AI 应用开发（Agent 方向）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["Agent","RAG","大模型","Java","JVM","算法"]
 summary: "美团 Agent 一面：两段大厂 Agent 实习被逐个追问架构与技术选型（多 Agent 还是单 Agent、微调还是 RAG、LLM 记忆），看重项目架构能力；个人后端项目没问，八股覆盖数组与链表、TCP/UDP、Python 与 Java 底层、JVM，手撕最长公共前缀。"

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-29'
 source: 牛客网
 tags: ["Java","MySQL","RabbitMQ","RAG","高并发"]
 summary: "字节跳动后端一面面经，重点考察项目实战与计算机基础。内容涵盖Base64优化、多进程处理OOM、布隆过滤器、缓存穿透击穿、RAG知识库构建、MySQL InnoDB底层原理及RabbitMQ消息积压处理，并包含算法题“下一个更大元素”解析，适合准备大厂后端面试的同学参考。"

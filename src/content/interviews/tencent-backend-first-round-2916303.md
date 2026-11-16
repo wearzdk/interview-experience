@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["后台开发","容器网络","iptables","LRU","分布式缓存","实习"]
 summary: "腾讯 CSIG 腾讯云后台开发日常实习一面面经：整体偏分布式与多机架构，几乎没问 epoll；先拷打缓存项目与容器运行时项目（容器网络、iptables 原理、与 Docker 对比），再问进程协程、死锁与 VLAN，最后手撕二分边界与带并发和 LRU 的分布式缓存。"

@@ -4,6 +4,7 @@ company: 去哪儿
 position: Java开发工程师
 round: AI面试
 date: '2026-08'
+collectedAt: '2026-08-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923654150225661952
 tags: ["Java", "JVM", "并发编程", "B+树", "Netty", "秒杀系统"]

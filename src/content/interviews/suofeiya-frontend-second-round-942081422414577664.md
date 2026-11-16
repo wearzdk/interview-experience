@@ -4,6 +4,7 @@ company: "索菲亚"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942081422414577664
 tags: ["前端", "SSE", "权限鉴权", "组件设计", "响应式", "无限滚动", "Promise"]

@@ -4,6 +4,7 @@ company: 维谛技术
 position: 电力电子软件工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950774408040218624
 tags: ["维谛技术","电力电子软件","数字电源","PID","DSP","UPS"]

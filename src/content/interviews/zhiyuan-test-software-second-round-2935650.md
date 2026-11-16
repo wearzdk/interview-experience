@@ -4,6 +4,7 @@ company: "智元机器人"
 position: "测试软件工程师"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0ea693ebed1d46a2a98dfaa4841bf5fa
 tags: ["智元机器人","测试软件","产测开发","嵌入式","视觉","机器人赛道","转岗"]

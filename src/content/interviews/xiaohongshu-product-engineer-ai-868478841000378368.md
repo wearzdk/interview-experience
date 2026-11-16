@@ -4,6 +4,7 @@ company: 小红书
 position: Product Engineer 产品工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-07-21'
 source: 牛客网
 tags: ["小红书","产品工程师","上下文工程","大模型","AI Coding"]
 summary: "小红书产品工程师 AI 应用方向一面，考察检索 Agent 的上下文管理、大模型输出约束，以及把模糊需求拆成文档后用 AI Coding 完成实现和审查。"

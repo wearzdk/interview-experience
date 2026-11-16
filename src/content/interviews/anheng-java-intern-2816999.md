@@ -3,6 +3,7 @@ title: 安恒信息Java开发实习面试题
 company: 安恒信息
 position: Java开发实习
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Spring Boot","JVM","并发编程"]
 summary: "整理了安恒信息Java开发实习面经。涵盖Java基础（AQS、内存模型、锁机制）、数据库（MySQL索引、MVCC、批量处理）、Spring Boot自动装配、Redis使用以及Linux常用指令等核心考察点，适合准备实习生面试的候选人参考。"

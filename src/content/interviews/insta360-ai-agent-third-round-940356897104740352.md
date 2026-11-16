@@ -4,6 +4,7 @@ company: "影石Insta360"
 position: "AI Agent 开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940356897104740352
 tags: ["影石Insta360","AI Agent","幻觉治理","RAG","评测","端侧部署","手撕"]

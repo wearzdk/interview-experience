@@ -4,6 +4,7 @@ company: "Tap4fun"
 position: "游戏运营"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941411624550780928
 tags: ["Tap4fun","游戏运营","出海游戏","SLG","校招","面试复盘"]

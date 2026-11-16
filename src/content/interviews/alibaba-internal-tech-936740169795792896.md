@@ -3,6 +3,7 @@ title: "阿里内部都用什么技术？HSF、MetaQ 与 EagleEye"
 company: "某公司"
 position: "软件工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/936740169795792896
 tags: ["微服务","RPC","消息队列","全链路监控","面试加分项"]

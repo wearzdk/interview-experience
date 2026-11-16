@@ -5,6 +5,7 @@ position: 软件开发
 base: 南京
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","Spring事务","线程池","HashMap","ConcurrentHashMap","Docker","Kubernetes","分布式"]
 summary: "中兴通讯9月22日南京线下一面，28分钟无手撕，两位面试官分别问技术和学习生活，覆盖分布式微服务、Docker与Linux查日志、Spring事务失效、K8s、线程池参数与保护、ConcurrentHashMap并发安全。"

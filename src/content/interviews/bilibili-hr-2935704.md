@@ -4,6 +4,7 @@ company: B站
 position: 后端开发
 round: HR面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4abe4c9320fd46d48c58f06fce0512f3
 tags: ["HR面", "实习", "职业规划"]

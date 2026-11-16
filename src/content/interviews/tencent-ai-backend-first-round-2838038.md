@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-20'
 source: 牛客网
 tags: ["Java","MySQL","Kafka","MyBatis","大模型"]
 summary: "腾讯AI后台开发实习生面试题整理。涵盖Java集合与并发机制、MySQL性能优化、Kafka高可用架构、MyBatis SQL注入防御及大模型应用落地等核心考点，助力后台开发岗位面试备考。"

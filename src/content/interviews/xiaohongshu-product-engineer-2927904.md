@@ -4,6 +4,7 @@ company: "小红书"
 position: "产品工程师（AI 与全栈方向）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/312b6e62736b4eb28c85a72e4b4e05d5"
 tags: ["小红书", "全栈", "AI", "算法", "二分查找", "回溯"]

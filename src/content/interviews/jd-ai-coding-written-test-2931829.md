@@ -4,6 +4,7 @@ company: "京东"
 position: "软件开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7adeeff56fed41e481dd95191c2dca9f
 tags: ["京东","笔试","AI Coding","冒烟用例","SQL","编程题","考试技巧"]

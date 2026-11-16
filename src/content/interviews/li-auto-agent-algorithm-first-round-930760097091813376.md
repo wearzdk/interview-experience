@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "智能体算法-软件"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930760097091813376"
 tags: ["智能体", "Agent", "大模型算法", "强化学习", "奖励设计", "LoRA"]

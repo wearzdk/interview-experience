@@ -4,6 +4,7 @@ company: 兴业银行
 position: 金融科技岗
 round: AI 面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9b4e3364b2c54fecb8fe3759bb302c8f
 tags: ["IO 多路复用","C++ 内存管理","堆栈","AI 面试"]

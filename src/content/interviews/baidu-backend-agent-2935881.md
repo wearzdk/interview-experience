@@ -4,6 +4,7 @@ company: 百度
 position: 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/74481a7b176142a188400c93f598aea7
 tags: ["Agent", "MCP", "Skill", "MVCC", "主从复制", "Redis", "热key"]

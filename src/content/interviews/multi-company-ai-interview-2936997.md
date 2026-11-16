@@ -3,6 +3,7 @@ title: "AI 面的中段：华勤七问、奇瑞八大问，问完还会捡你的
 company: "多家公司"
 position: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/71833c3962de4f358aa3ce1412e4bcf8
 tags: ["AI 面试","华勤","奇瑞","伊戈尔","携程","长川","行为面试","追问"]

@@ -4,6 +4,7 @@ company: "深信服"
 position: "技术研发工程师（AI 潜力）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f87c82a55c3d490fa93524781a633e12

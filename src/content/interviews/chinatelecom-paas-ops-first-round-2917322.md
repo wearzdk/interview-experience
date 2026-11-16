@@ -4,6 +4,7 @@ company: "中国电信"
 position: "PaaS运维（分布式存储方向）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["运维","Linux","分布式存储","对象存储","MinIO","C++"]
 summary: "中国电信人工智能子公司 PaaS 运维（分布式存储方向）一面约四十分钟，两位面试官连问 Linux 内存与文件系统、多副本与 EC 的取舍、对象存储与 MinIO 实操，以及 C++ 堆栈、指针引用等基础题，全程无手撕代码。"

@@ -3,6 +3,7 @@ title: JAVA银行外包开发面试经验
 company: 银行外包
 position: JAVA开发
 date: '2026-04'
+collectedAt: '2026-04-15'
 source: 牛客网
 tags: ["Java基础","HashMap","Hashtable","final","集合框架"]
 summary: "分享银行外包JAVA开发岗面试经验。面试重点考察Java基础八股文，如HashMap与Hashtable区别、final/finally/finalize用法等。适合Java新人备考，技术栈稳定，面试侧重考察基础知识的熟练度。"

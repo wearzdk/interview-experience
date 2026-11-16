@@ -4,6 +4,7 @@ company: "拼多多"
 position: "客户端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0bd926d4c3724ac090c4663e9cfa4d69
 tags: ["拼多多", "客户端", "行为面", "面向对象", "静态链接", "内存分区", "二叉树"]

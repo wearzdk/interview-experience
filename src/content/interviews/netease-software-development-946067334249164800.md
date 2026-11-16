@@ -4,6 +4,7 @@ company: "网易"
 position: "软件开发（C++方向）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/946067334249164800"
 tags: ["网易","C++","嵌入式","FreeRTOS","RAII","epoll","TIME_WAIT","core dump"]

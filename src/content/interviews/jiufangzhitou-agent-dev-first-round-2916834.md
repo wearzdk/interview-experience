@@ -4,6 +4,7 @@ company: "九方智投"
 position: "Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 result: "已挂"
 source: 牛客网
 tags: ["Agent","RAG","MCP","Java","Redis"]

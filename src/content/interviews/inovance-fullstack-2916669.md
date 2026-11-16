@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "全栈开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["全栈","JWT","AOP","MySQL","消息队列","微服务","LangChain"]
 summary: "汇川技术全栈岗一面面经（9.23）：自我介绍与实习业务之后进入八股，覆盖 JWT 流程与为什么用 Redis 存 JWT、AOP 的应用、接口优化思路、创建线程的方式、MQ 不丢消息与幂等、微服务组件、LangChain 与 LangGraph 的区别、Spring 循环依赖、MySQL 事务隔离级别与索引失效场景。"

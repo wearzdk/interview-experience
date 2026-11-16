@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: Java开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["MySQL","Redis","索引优化","实习经历"]
 summary: "熙牛医疗Java开发二面面试实录。面试聚焦于实习项目深度拷打与MySQL索引优化实战，涵盖联合索引失效场景、Redis缓存三件套（击穿/穿透/雪崩）、索引排序逻辑等核心考点，总结了面试中的避坑指南。"

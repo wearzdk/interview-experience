@@ -3,6 +3,7 @@ title: "嵌入式面试的五个追问：这个锁到底保护了什么，不锁
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943833257819267072
 tags: ["嵌入式","FreeRTOS","互斥量","临界区","优先级翻转","I2C","HardFault"]

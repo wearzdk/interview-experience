@@ -4,6 +4,7 @@ company: "快手"
 position: "AI应用开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930183098015182848"
 tags: ["Agent", "RAG", "JVM", "HashMap", "MySQL"]

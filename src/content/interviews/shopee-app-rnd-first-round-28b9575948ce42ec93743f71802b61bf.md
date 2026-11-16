@@ -4,6 +4,7 @@ company: "虾皮"
 position: "应用研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/28b9575948ce42ec93743f71802b61bf
 tags: ["虾皮","应用研发","HTTPS","MySQL","Redis","分库分表"]

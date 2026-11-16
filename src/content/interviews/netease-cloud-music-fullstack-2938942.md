@@ -4,6 +4,7 @@ company: 网易云音乐
 position: 全栈开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f777113fd1644e55a1b53270dd27d49f
 tags: ["网易云音乐","全栈开发","三面","因子","LLM打分","Agent评测","量化指标"]

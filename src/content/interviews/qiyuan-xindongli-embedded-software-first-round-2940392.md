@@ -4,6 +4,7 @@ company: "启源芯动力"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0dff9b435c14422a896fe97ca544d8f1
 tags: ["启源芯动力", "嵌入式软件", "FreeRTOS", "const", "volatile", "Socket", "端侧 AI"]

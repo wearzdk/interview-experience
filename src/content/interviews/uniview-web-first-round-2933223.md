@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "Web 软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6ec5e1783b0e405bb043c8ce8069653a
 tags: ["宇视科技", "Web开发", "一面", "Electron", "AI编程", "Skill", "MCP", "防抖节流", "Vue"]

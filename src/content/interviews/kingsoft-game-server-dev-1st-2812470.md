@@ -4,6 +4,7 @@ company: 金山世游
 position: 游戏服务器开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 通过
 source: 牛客网
 tags: ["Redis","Lua","分布式系统","高并发","Golang"]

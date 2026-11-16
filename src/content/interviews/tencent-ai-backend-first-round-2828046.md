@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["LLM","SQL","Java","Spring","算法"]
 summary: "腾讯AI后台开发日常实习一面面经，重点考察候选人科研项目、实习经历及LLM大模型相关技术。技术面试涵盖SQL慢查询优化、Java Spring框架原理及算法题（滑动窗口最大值），适合准备后台开发实习的求职者参考。"

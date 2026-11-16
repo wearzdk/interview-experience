@@ -4,6 +4,7 @@ company: 中科创达
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 base: 天津
 source: 牛客网
 tags: ["Java","JVM","后端部署","Spring","HTTP请求流程","AI工具使用"]

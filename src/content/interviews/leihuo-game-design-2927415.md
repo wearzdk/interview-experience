@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "游戏策划"
 round: "交叉面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/76a786369b964e9394576ce06a4f223a"
 tags: ["游戏策划", "MMO", "玩法设计", "面试复盘", "数值"]

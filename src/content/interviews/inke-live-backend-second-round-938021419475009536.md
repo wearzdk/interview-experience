@@ -4,6 +4,7 @@ company: 映客直播
 position: 后端开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938021419475009536
 tags: ["后端", "TiDB", "Kafka", "Pulsar", "系统设计", "服务降级"]

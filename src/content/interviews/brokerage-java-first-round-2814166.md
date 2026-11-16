@@ -4,6 +4,7 @@ company: 某券商
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Spring","JVM","算法","AI工具"]
 summary: "某券商Java开发岗位一面面经，重点考查Spring Bean生命周期、JVM性能调优（CPU 100%排查与Full GC优化）、算法题（有序数组中位数）以及AI在开发中的应用与职业规划，涵盖Java核心后端技术栈。"

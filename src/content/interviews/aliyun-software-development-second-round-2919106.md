@@ -4,6 +4,7 @@ company: "阿里云"
 position: "软件开发"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Agent", "LangGraph", "权限隔离", "长期记忆", "上下文压缩", "负载调度"]
 summary: "阿里云二面面经，9 月 21 日。围绕一个 Agent 项目连环追问：用户群体与业务价值、为什么选 LangGraph 与 Deerflow、工具权限隔离、群聊与私聊的上下文区别、长期记忆与上下文压缩、工具调用的异常超时重试与模型排队调度。"

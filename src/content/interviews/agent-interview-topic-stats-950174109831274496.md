@@ -3,6 +3,7 @@ title: "243 篇 AI Agent 面经的话题统计：上下文、重试、幂等与�
 company: "多家公司"
 position: "AI Agent 开发"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950174109831274496
 tags: ["AI Agent","面经统计","上下文管理","重试","幂等","超时","RAG","面试准备"]

@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端开发工程师
 round: 一面
 date: '2026-08'
+collectedAt: '2026-08-29'
 result: 方向不匹配
 source: 牛客网
 tags: ["JVM", "操作系统", "Agent", "MCP", "数据质量", "可观测性"]

@@ -4,6 +4,7 @@ company: "深圳时光无限"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/52fe4815a9334c86bd672a8be02301c4
 tags: ["深圳时光无限", "前端", "全栈", "大小周", "AI平台"]

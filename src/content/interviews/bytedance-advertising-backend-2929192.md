@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "广告后端"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["后端", "广告系统", "Agent", "Redis", "算法"]
 summary: "字节跳动广告后端一面，2026-09-28，围绕 RPM/TPM 限流、Token 预扣、Agent 项目、Skill 与提示词、工具调用决策、记忆机制、Redis 价值和括号生成展开。"

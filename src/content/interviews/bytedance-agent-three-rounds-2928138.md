@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 开发"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-17'
 result: "三面后无 HC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b4fb3bee56134c3d9bcde6a3166a1711

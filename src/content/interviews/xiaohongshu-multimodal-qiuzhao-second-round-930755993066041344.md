@@ -4,6 +4,7 @@ company: "小红书"
 position: "多模态算法"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/930755993066041344
 tags: ["多模态","大模型","视觉编码器","Agent","RAG","强化学习","显存优化"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发实习生（大模型安全方向）
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Redis分布式锁","Java","StringBuilder","HashCode","MySQL优化","算法"]
 summary: "字节跳动后端实习（大模型安全方向）二面面经，涉及Redis分布式锁、Java StringBuilder与StringBuffer区别、HashCode实现原理、MySQL慢查询优化，以及压缩字符串展开与重压缩算法题，适合备战字节后端实习面试。"

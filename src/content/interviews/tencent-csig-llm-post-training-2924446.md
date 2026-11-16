@@ -4,6 +4,7 @@ company: "腾讯"
 position: "大模型算法（后训练）"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/61ad40f0a85740aa9b812b920fdc1063
 tags: ["腾讯","CSIG","大模型","后训练","RLHF","多模态","KV Cache","量化"]

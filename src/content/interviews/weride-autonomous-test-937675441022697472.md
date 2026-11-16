@@ -4,6 +4,7 @@ company: 文远知行
 position: 自动驾驶测开
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937675441022697472
 tags: ["自动驾驶","测试开发","传感器融合","仿真测试","量化","评测平台"]

@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "后端开发（Java）"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931958559204470784"
 tags: ["去哪儿","后端开发","故障诊断","MCP","线程池","Spring","缓存一致性","MySQL"]

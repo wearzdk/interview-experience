@@ -4,6 +4,7 @@ company: "快手"
 position: "Agent 开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944882264687534080
 tags: ["快手", "Agent", "Harness", "RAG", "上下文压缩", "MCP"]

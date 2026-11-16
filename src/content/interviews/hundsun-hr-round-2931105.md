@@ -3,6 +3,7 @@ title: "恒生电子社招 HR 面：GAP 原因、offer 优先级与薪资期望�
 company: "恒生电子"
 position: "HR 面（社招）"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8a2c7af407f14095b8e41af120cafed7
 tags: ["恒生电子","社招","HR面","GAP","薪资谈判","offer选择"]

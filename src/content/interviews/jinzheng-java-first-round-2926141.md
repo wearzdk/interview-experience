@@ -4,6 +4,7 @@ company: "金证股份"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bf8fcc778a97478297ebee0553999e79
 tags: ["金证股份","Java","面试复盘","项目表达","技术难点"]

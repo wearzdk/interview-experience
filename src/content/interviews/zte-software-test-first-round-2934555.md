@@ -4,6 +4,7 @@ company: "中兴通讯"
 position: "软件测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a474663f970a41869b360773acb2a0ad
 tags: ["中兴通讯","软件测试","测试用例","AI辅助测试","Fiddler","冯诺依曼"]

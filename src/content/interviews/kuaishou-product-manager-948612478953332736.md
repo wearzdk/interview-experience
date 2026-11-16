@@ -4,6 +4,7 @@ company: 快手
 position: 产品经理
 round: 面试合集
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948612478953332736
 tags: ["快手","产品经理","商业化","内容运营","竞品分析","职业规划"]

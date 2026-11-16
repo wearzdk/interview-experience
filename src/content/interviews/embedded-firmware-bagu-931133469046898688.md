@@ -3,6 +3,7 @@ title: 嵌入式固件开发面试八股（架构、HAL、状态机与版本管�
 company: 某科技公司
 position: 嵌入式软件开发（固件方向）
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931133469046898688
 tags: ["嵌入式","固件开发","HAL","状态机","版本管理","静态分析","单元测试"]

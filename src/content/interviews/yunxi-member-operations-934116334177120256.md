@@ -3,6 +3,7 @@ title: "云徙科技 会员运营面试：连锁品牌的会员怎么运营"
 company: "云徙科技"
 position: "会员运营"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934116334177120256
 tags: ["会员运营", "用户分层", "标签体系", "沉睡召回", "效果归因", "连锁零售"]

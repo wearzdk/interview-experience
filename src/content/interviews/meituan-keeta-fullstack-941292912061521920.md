@@ -4,6 +4,7 @@ company: "美团"
 position: "全栈开发工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "一面挂，后被其他部门捞"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941292912061521920"

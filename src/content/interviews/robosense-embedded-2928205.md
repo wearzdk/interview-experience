@@ -4,6 +4,7 @@ company: "速腾聚创"
 position: "嵌入式软件工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "已约二面"
 source: "牛客网"
 tags: ["速腾聚创","嵌入式","中间件","RPC","RTOS","状态机","多相机同步"]

@@ -4,6 +4,7 @@ company: "新凯来"
 position: "软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/76f7d8b9ba2844388f6adb4a8000e870"
 tags: ["新凯来", "软件开发", "C++", "内存管理", "多线程", "校招面经"]

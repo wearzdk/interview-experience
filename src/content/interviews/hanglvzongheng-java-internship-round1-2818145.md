@@ -4,6 +4,7 @@ company: 航旅纵横
 position: Java实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: OC后拒接
 source: 牛客网
 tags: ["Java","MySQL","JVM","RocketMQ","数据库优化"]

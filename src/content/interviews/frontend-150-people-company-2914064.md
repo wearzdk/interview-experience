@@ -3,6 +3,7 @@ title: "150 人厂前端岗面试：八股 + AI 编程连环追问"
 company: "某 150 人规模互联网公司"
 position: "前端开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["前端开发","Vue","虚拟列表","AI编程","Agent","MCP","面试真题"]
 summary: "某 150 人规模公司前端岗面试真题：从 v-if 与 v-show、for 循环性能等八股，到低代码方案选型、虚拟列表为什么不用插件、rAF 流式渲染、MCP 与 Agent 理解，再到需求排期和 AI 代码 review，问题密集且大量追问方案取舍。"

@@ -4,6 +4,7 @@ company: "招银云创"
 position: "技术岗"
 round: "HR面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ddbf6a9412e04bccb799ea505a26679f
 tags: ["招银云创","HR面","城市选择","职业规划","性格评价","调剂"]

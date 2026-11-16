@@ -4,6 +4,7 @@ company: "小红书"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c44ecd4e63474fa9b808615e2345a10e
 tags: ["小红书","全栈开发","分片上传","Redis","ZSet","Elasticsearch","向量数据库","性能排查"]

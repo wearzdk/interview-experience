@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI数据运营"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932604724463882240
 tags: ["AI运营","多智能体","自动化评测","Prompt工程","数据Pipeline"]

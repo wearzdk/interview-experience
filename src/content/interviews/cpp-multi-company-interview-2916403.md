@@ -3,6 +3,7 @@ title: C++ 岗多公司面经合集：笔试、八股与项目拷打
 company: 多家公司
 position: C++开发
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["C++","STL","内存管理","Qt","Modbus","笔试"]
 summary: "一批 C++ 岗位面经合集，覆盖世炬网络、新威尔电子、华汉伟业、易点云等多家公司：以笔试算法题、C++ 与 STL 八股、sizeof 与内存管理、Qt 信号槽、Modbus 协议和项目追问为主。"

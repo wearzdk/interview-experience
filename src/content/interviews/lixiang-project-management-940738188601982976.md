@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "项目管理"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已拿offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940738188601982976"

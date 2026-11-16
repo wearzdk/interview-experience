@@ -4,6 +4,7 @@ company: 华为
 position: 软件开发工程师
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["华为OD","设计模式","HTTP","Git","高可用"]
 summary: "华为 OD 技术二面面经，9 月 20 日面试。手撕二维 DP 后围绕实习深挖：工厂模式与抽象工厂、编码安全与权限控制、高可用与数据恢复、HTTP 各版本区别、harness 与 agent 的区别、Git 常用命令与冲突处理。"

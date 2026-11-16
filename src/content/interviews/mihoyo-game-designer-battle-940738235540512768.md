@@ -4,6 +4,7 @@ company: "米哈游"
 position: "游戏策划（战斗策划）"
 round: "三轮（含 HRBP 面）"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已通过"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940738235540512768"

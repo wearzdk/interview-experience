@@ -4,6 +4,7 @@ company: "中芯国际"
 position: "软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1f38124fb68041da8b59ef869da5c72d
 tags: ["中芯国际","软件开发","实习","职业规划","AI工具"]

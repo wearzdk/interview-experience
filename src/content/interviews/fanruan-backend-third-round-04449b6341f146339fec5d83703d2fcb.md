@@ -4,6 +4,7 @@ company: "帆软"
 position: "后端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/04449b6341f146339fec5d83703d2fcb
 tags: ["帆软","Java","Full GC","Jar反编译","Bitmap","海量数据","Linux","职业规划"]

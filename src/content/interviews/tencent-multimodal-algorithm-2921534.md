@@ -4,6 +4,7 @@ company: "腾讯"
 position: "多模态算法工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["多模态","LoRA","Qwen2.5-VL","SAM3","RAG","模型微调"]
 summary: "腾讯多模态算法岗一面二面的另一份记录：一面考论文与数据集构建、Adapter 与 LoRA、Qwen2.5-VL 架构、SAM 系列演进与开放场景题；二面考 SAM3 训练与文本数据集构建、CLIP、门控、权重初始化与 token 概率计算。"

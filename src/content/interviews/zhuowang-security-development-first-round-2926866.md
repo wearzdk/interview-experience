@@ -4,6 +4,7 @@ company: "卓望"
 position: "安全开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ac5b785974e04f188b8201b72123411f
 tags: ["卓望","安全开发","SpringBoot","Java","线程池","MyBatis","MySQL锁"]

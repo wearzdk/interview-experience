@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发
 round: 一面、二面
 date: '2026-09'
+collectedAt: '2026-09-11'
 result: OC
 source: 牛客网
 tags: ["Go", "Java", "支付", "Channel", "系统设计"]

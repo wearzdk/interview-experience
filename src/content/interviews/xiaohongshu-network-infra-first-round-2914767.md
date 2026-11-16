@@ -4,6 +4,7 @@ company: "小红书"
 position: "网络与基础架构研发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["计算机网络","TLS","QUIC","DNS","负载均衡","HTTPS","ClickHouse"]
 summary: "小红书一面 20 问，集中在网络与基础架构：客户端经 TNC 与 CDN 调度到合规 Region、四层与七层负载分工、TLS 1.3 与证书链校验、QUIC、DNS 污染与劫持、Maglev，以及一道 MSS 与慢启动的耗时估算题。"

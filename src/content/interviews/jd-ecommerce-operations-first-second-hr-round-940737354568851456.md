@@ -4,6 +4,7 @@ company: "京东"
 position: "电商运营"
 round: "一面+二面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737354568851456"

@@ -4,6 +4,7 @@ company: 华为
 position: "未注明"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2aff8f5b0ea048829edd24e211f45ce2
 tags: ["华为","秋招","一面","实习深挖","手撕代码","每日温度"]

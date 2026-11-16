@@ -4,6 +4,7 @@ company: 拼多多
 position: 消费者服务运营管培生
 round: 一面、二面、三面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951236061336805376
 tags: ["拼多多","消费者服务运营","管理培训生","客诉指标","压力面","秋招"]

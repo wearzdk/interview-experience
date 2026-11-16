@@ -4,6 +4,7 @@ company: 虾皮
 position: Java
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 source: 牛客网
 tags: ["Java","MySQL","Elasticsearch","Redis","TCP"]
 summary: "虾皮Java开发一面考察重点：深度考察数据库原理（MySQL B+树、事务隔离级别、高可用）、搜索引擎（ES vs MySQL）、缓存策略（Redis集群与持久化）、网络协议（TCP四次挥手）及项目设计能力。适合准备后端开发的求职者参考。"

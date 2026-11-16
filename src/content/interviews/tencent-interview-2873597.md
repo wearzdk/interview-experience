@@ -3,6 +3,7 @@ title: "耐挂土豆丝面试回忆录-三月面试（腾讯）"
 company: "腾讯"
 position: "Java后端开发工程师"
 date: '2026-03'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Redis","MySQL","JVM","数据库","面试经验","后端开发"]
 summary: "腾讯Java后端开发工程师面试记录，覆盖Redis、MySQL、JVM、数据库等考点，整理了面试流程与高频问题。"

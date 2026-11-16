@@ -3,6 +3,7 @@ title: "海康威视JAVA笔试"
 company: "海康威视"
 position: "Java开发笔试"
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "链表", "异常处理", "商品管理"]
 summary: "海康威视Java笔试记录，包含Java基础选择题、链表操作和简易商品管理系统编程题。"

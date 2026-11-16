@@ -4,6 +4,7 @@ company: "寒武纪"
 position: "高性能计算库开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 tags: ["寒武纪","高性能计算","C++","矩阵乘","OpenMP","HIP","手撕代码"]
 summary: "寒武纪高性能计算库开发一面：项目拷打 30 多分钟，围绕问题定位、减少内核寄存器占用、dgemm 优化、HIP 重构、状态同步缺陷、CPU 矩阵乘分块与 OpenMP 动态调度深入追问，并手撕一道带 tiling 的 C++ transpose。"

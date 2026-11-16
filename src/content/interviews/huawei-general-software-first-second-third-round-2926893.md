@@ -4,6 +4,7 @@ company: "华为"
 position: "通用软件开发"
 round: "一面+二面+三面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7ce4f8e01d4e41878b834f28da8bead9
 tags: ["华为","通用软件开发","C++","八股","手撕","Agent","校招"]

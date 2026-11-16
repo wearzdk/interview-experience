@@ -4,6 +4,7 @@ company: "某公司"
 position: "大模型应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0979eecf57104fd483c8ad5c58e6632c
 tags: ["大模型", "Agent", "ReAct", "RAG", "KV Cache", "注意力机制"]

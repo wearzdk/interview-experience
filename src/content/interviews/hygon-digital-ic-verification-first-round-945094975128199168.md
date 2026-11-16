@@ -4,6 +4,7 @@ company: 海光信息
 position: 数字 IC 验证工程师
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945094975128199168
 tags: ["数字IC","UVM","SystemVerilog","验证","Scoreboard","校招"]

@@ -4,6 +4,7 @@ company: "记忆科技"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/71acdb1fb16241d39a6efa692fed446f
 tags: ["记忆科技","嵌入式","死机排查","项目管理","沟通"]

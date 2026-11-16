@@ -4,6 +4,7 @@ company: "映客"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/932389283510353920"
 tags: ["Java","Roaring Bitmap","MySQL","Redis","Kafka","系统设计"]

@@ -4,6 +4,7 @@ company: "江苏银行"
 position: "信息科技岗（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a5ccae9e73cb48b18ee0f3ed1ec12e24
 tags: ["江苏银行","杭州银行","银行笔试","行测","408","密码学","编程题","校招"]

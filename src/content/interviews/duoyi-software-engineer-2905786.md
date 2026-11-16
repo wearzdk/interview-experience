@@ -3,6 +3,7 @@ title: 多益网络软件工程师面经（Java基础）
 company: 多益网络
 position: 软件工程师
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "IO", "反射", "泛型", "全排列"]
 summary: "多益网络软件工程师面经，重点考察对象创建、Java IO、反射、泛型类型安全和全排列。"

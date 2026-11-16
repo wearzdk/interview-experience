@@ -4,6 +4,7 @@ company: "蚂蚁集团"
 position: "开发工程师"
 round: "交叉面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950627865396064256
 tags: ["蚂蚁集团","开发工程师","交叉面","分布式事务","幂等","高可用"]

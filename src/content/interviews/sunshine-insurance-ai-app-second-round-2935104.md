@@ -4,6 +4,7 @@ company: "阳光保险"
 position: "AI应用开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/600fa3f292654e02ab227d923206a158"
 tags: ["阳光保险","Agent","RAG","MCP","意图澄清","分布式锁","Claude Code"]

@@ -4,6 +4,7 @@ company: "快递100"
 position: "全栈开发"
 round: "面试"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ec40ba63840c41b29e09c8e475811b80
 tags: ["快递100", "全栈开发", "笔试", "读者写者", "防抖", "AI使用"]

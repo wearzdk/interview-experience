@@ -4,6 +4,7 @@ company: "牛客网用户分享"
 position: "AI开发"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934120283747676160
 tags: ["笔试", "算法", "动态规划", "二叉树", "代码调试", "刷题方法"]

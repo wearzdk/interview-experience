@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944160917074239488
 tags: ["大疆","嵌入式","RTOS","中断","优先级反转","环形缓冲区","HardFault","面试真题"]

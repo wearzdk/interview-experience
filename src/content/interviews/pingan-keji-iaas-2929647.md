@@ -5,6 +5,7 @@ position: "IaaS运维"
 round: "一面"
 result: "凉经"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/626974ef0bea4b7ab1374b2169d55e77
 tags: ["运维", "IaaS", "DNS", "故障排查", "校招"]

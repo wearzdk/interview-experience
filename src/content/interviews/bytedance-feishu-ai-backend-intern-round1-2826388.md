@@ -4,6 +4,7 @@ company: 字节跳动
 position: 飞书AI后端开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 挂
 source: 牛客网
 tags: ["Java","MySQL","Redis","计算机网络","操作系统","JVM"]

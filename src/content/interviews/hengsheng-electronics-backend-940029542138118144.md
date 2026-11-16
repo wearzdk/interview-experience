@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "后端开发"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940029542138118144
 tags: ["恒生电子","后端开发","Java","Spring","分布式事务","并发编程","MySQL","AI编程"]

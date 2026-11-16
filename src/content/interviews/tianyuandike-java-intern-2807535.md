@@ -3,6 +3,7 @@ title: 西安天源迪科Java开发实习面经
 company: 天源迪科
 position: Java开发实习
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 已通过
 base: 西安
 source: 牛客网

@@ -4,6 +4,7 @@ company: "米哈游"
 position: "产品经理"
 round: "交叉面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950616743594958848
 tags: ["米哈游","产品经理","交叉面","项目复盘","需求优先级"]

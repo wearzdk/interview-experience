@@ -3,6 +3,7 @@ title: 阿里后端开发面经03
 company: 阿里巴巴
 position: 后端开发工程师
 date: '2025-11'
+collectedAt: '2026-08-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/923311468613750784
 tags: ["订单系统", "幂等", "MySQL", "Redis", "HTTPS", "多线程"]

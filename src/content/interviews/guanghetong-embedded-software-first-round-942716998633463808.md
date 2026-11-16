@@ -4,6 +4,7 @@ company: "广和通"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942716998633463808"
 tags: ["广和通","嵌入式","C语言","DNS","ARP","TCP","UDP","malloc","STAR法则","秋招"]

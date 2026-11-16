@@ -4,6 +4,7 @@ company: "FunPlus 趣加"
 position: "游戏客户端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/af4271d56cb34b968850d3d58c01be79
 tags: ["FunPlus","游戏客户端","Unity","Lua","数据结构","LRU","Airtest"]

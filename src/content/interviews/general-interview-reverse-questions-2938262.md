@@ -4,6 +4,7 @@ company: 通用
 position: 面试准备
 round: "面试反问"
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/aa938591bcff40a2ba2949c1f9da3edf
 tags: ["面试反问","大模型","提示词","面试准备","JD"]

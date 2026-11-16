@@ -4,6 +4,7 @@ company: 华为OD
 position: 技术岗
 round: 机考、资面、技术一面、技术二面、主管面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d1001419624945f8be4dd1297117cbbd
 tags: ["华为OD","面经","机考","手撕代码","校招","资格面"]

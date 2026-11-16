@@ -4,6 +4,7 @@ company: 多益
 position: 软件工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/85eac2fa5cf449309fb17cd5831e5417
 tags: ["多益网络","软件工程师","线程安全","递归","跨域","全排列","校招"]

@@ -4,6 +4,7 @@ company: 华勤技术
 position: 数据开发
 round: AI面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/954a059823654f68a652543d71555bac
 tags: ["AI面试","数据开发","数据倾斜","数据建模","职业规划"]

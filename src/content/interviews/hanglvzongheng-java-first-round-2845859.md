@@ -4,6 +4,7 @@ company: 航旅纵横
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-05-05'
 result: 通过
 source: 牛客网
 tags: ["Java","JVM","MySQL","K8s","Elasticsearch"]

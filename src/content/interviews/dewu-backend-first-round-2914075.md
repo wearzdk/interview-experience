@@ -4,6 +4,7 @@ company: "得物"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 tags: ["Java", "JVM", "Spring", "Redis", "秒杀", "并发"]
 summary: "得物后端一面真题，半小时无手撕：从聊天机器人项目的 AI 能力与幻觉控制切入，随后是 Java 内存模型、volatile、Spring 自动装配与 Bean 生命周期，最后落到秒杀防超卖、Lua 库存扣减与 Redis 高可用。"

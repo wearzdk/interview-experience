@@ -3,6 +3,7 @@ title: "反问阶段怎么问：按轮次选问题与避坑清单"
 company: "某公司"
 position: "技术研发校招"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940310042740310016
 tags: ["面试反问","面试技巧","求职经验","校招","AI团队"]

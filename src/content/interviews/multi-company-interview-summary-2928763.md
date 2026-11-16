@@ -4,6 +4,7 @@ company: "多家公司"
 position: "后端开发、Agent开发"
 round: "多轮"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/3185274e264547be93909be963c9f61b"
 tags: ["多家公司", "后端开发", "Agent开发", "Java", "MySQL", "Redis", "微服务", "提示词注入"]

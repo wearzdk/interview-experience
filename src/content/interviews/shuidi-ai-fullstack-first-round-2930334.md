@@ -4,6 +4,7 @@ company: "水滴公司"
 position: "AI全栈工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6a98411f31e74fa7b62c2c03efdbb103"
 tags: ["AI全栈","Java","并发编程","Redis","Kafka","Agent","RAG","LangGraph"]

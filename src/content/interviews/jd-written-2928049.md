@@ -4,6 +4,7 @@ company: "京东"
 position: "技术岗"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d037dfe2903d49899cf74a5f5c9306f5"
 tags: ["京东", "笔试", "算法", "AI Coding"]

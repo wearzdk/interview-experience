@@ -4,6 +4,7 @@ company: 多益网络
 position: Java 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8aaf91d6cbbb4b4c8990cd03474a637d
 tags: ["多益网络","Java后端","索引","Redis缓存击穿","系统设计","深拷贝","算法题"]

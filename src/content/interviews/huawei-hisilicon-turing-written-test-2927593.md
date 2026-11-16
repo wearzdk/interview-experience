@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发（海思图灵）"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/6066a11fa89a40dab289af04f461eedd"

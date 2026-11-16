@@ -4,6 +4,7 @@ company: "新华三"
 position: "技术支持"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/98de864978294be2bb5a767430f3040f"
 tags: ["笔试", "计算机网络", "Linux", "推理题", "技术支持"]

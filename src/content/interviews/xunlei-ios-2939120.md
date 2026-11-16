@@ -4,6 +4,7 @@ company: 迅雷
 position: iOS开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7f2c7e52a50d4aa899dfeb0a7c0c5fa5
 tags: ["迅雷","iOS开发","HTTPS","内存管理","HashMap","乐观锁","并发"]

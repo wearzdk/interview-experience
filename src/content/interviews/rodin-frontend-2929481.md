@@ -4,6 +4,7 @@ company: "Rodin"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/efd457c4e9de49e79cc712abce5a9097
 tags: ["前端", "语义化", "事件循环", "事件委托", "SEO", "SSR", "SSG"]

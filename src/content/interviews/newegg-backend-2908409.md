@@ -3,6 +3,7 @@ title: 新蛋Newegg一面面经
 company: 新蛋
 position: 后端开发
 date: '2026-09'
+collectedAt: '2026-09-11'
 source: 牛客网
 tags: ["Java", "数据结构", "Redis", "并发"]
 summary: 新蛋后端一面，重点考察排序稳定性、Java类加载、集合并发、线程和Redis持久化。

@@ -4,6 +4,7 @@ company: "途虎"
 position: "飞控算法工程师"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7b5c5086d5ba49dc9a8d35e8bb319945
 tags: ["途虎","飞控算法","笔试","无人机","PX4","PID","EKF"]

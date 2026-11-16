@@ -4,6 +4,7 @@ company: 同程旅行
 position: Java 后端
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b6cf07d5b15f448a844cfb7bd976e604
 tags: ["同程","Java","集合","ConcurrentHashMap","线程池","JVM","MySQL","索引优化","Redis","RabbitMQ","幂等","Agent"]

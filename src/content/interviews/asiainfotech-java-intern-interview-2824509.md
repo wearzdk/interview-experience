@@ -4,6 +4,7 @@ company: 亚信科技
 position: Java实习生
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","MySQL","Redis","集合框架","SQL优化","分布式锁"]
 summary: "亚信科技27届Java实习面经，涵盖ArrayList与LinkedList区别、Redis分布式锁底层实现、金额用double的精度问题、MySQL金额字段类型选择、慢SQL优化流程、EXPLAIN字段解读及深分页优化等核心Java后端知识点。"

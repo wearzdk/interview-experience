@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "客户端开发（Android）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940751833453154304"
 tags: ["字节跳动","客户端开发","Kotlin协程","Android","线程池","HTTP","QUIC","秋招"]

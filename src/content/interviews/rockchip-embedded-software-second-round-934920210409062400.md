@@ -4,6 +4,7 @@ company: "瑞芯微"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934920210409062400
 tags: ["嵌入式", "驱动开发", "外设驱动", "中断", "竞态", "BUG排查"]

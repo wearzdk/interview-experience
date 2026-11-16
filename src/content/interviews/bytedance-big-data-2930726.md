@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大数据开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7119d60e95c7428eb7fbcdad069a062d
 tags: ["字节跳动", "大数据开发", "二面", "数据平台"]

@@ -4,6 +4,7 @@ company: "杭州笪晟"
 position: "电销实习"
 round: "实习面试"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/812602f75a6943b7b0d8e401bb0a6316
 tags: ["杭州", "电销", "销售实习", "线下面试", "薪资结构", "转正"]

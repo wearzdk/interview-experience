@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "AI 全栈工程师"
 round: "AI面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["全栈","RAG","Redis","MySQL","TypeScript"]
 summary: "去哪儿 AI 全栈工程师秋招面试：先让在 Java 与 TypeScript 间做选择，再考 ES6 集合类型、Redis 持久化与 MySQL 深分页，并连续追问 RAG 流程、效果评估与文档切片。"

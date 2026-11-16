@@ -4,6 +4,7 @@ company: "超星"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/df3742117453450eb5afd50a876ef356
 tags: ["超星", "后端开发", "AI工作流", "OOM", "Redis", "大表统计"]

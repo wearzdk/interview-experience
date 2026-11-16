@@ -4,6 +4,7 @@ company: "网易"
 position: "软件开发"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934632715146522624
 tags: ["笔试", "算法题", "机器学习", "F1分数", "梯度下降", "C++", "Python"]

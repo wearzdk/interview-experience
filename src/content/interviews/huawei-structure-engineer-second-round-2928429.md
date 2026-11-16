@@ -4,6 +4,7 @@ company: "华为"
 position: "结构与材料工程师-结构"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4597a02dae9b43feb0d38d1ced8205b9
 tags: ["华为","结构与材料工程师","结构工程师","Ansys","模态仿真","秋招"]

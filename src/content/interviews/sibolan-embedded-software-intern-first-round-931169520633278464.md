@@ -4,6 +4,7 @@ company: 思博兰科技
 position: 嵌入式软件实习
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 base: 深圳
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931169520633278464

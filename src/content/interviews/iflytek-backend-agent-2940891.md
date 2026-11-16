@@ -4,6 +4,7 @@ company: 科大讯飞
 position: 后端开发（Agent 方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e5abd2dc95934bf58177525b5736f290
 tags: ["科大讯飞","Agent","后端开发","LLM工程化","数据一致性","多Agent","AI编程","秋招"]

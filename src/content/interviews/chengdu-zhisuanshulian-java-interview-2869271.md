@@ -3,6 +3,7 @@ title: 成都智算数联科技Java开发笔试+面试面经
 company: 成都智算数联科技有限公司
 position: Java开发工程师
 date: '2026-06'
+collectedAt: '2026-06-30'
 base: 四川
 source: 牛客网
 tags: ["MyBatis","MySQL","Redis","微服务","JVM","Spring Boot"]

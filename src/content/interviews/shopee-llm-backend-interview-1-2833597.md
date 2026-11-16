@@ -4,6 +4,7 @@ company: Shopee
 position: 大模型后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["MySQL","Redis","RocketMQ","Java","JWT","缓存一致性"]
 summary: "Shopee大模型后端开发实习生一面面经。面试重点考察项目实战能力与八股文深度，涵盖MySQL事务机制、Redis+Lua秒杀方案、RocketMQ高并发架构及二级缓存一致性等核心后端技术栈。"

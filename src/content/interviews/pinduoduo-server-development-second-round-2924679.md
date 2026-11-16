@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/943b54da7d5e41eb808c22e7e50e85cf
 tags: ["Redis","大key","热点key","多副本","一致性","分布式锁","线程池","消息队列","手撕代码"]

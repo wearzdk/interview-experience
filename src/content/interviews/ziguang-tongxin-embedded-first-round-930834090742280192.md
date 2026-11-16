@@ -4,6 +4,7 @@ company: "紫光同芯"
 position: "嵌入式软件"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930834090742280192"
 tags: ["嵌入式","嵌入式软件","OTA升级","volatile","STM32","C语言"]

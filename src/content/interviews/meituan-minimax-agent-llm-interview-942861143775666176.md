@@ -4,6 +4,7 @@ company: "美团、MiniMax"
 position: "AI Agent、大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942861143775666176
 tags: ["美团", "MiniMax", "AI Agent", "大模型算法", "评测", "SFT", "强化学习"]

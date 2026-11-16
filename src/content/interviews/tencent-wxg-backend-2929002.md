@@ -4,6 +4,7 @@ company: "腾讯WXG"
 position: "后端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/de478f8050c84aacb102d3d6b59a96b2"
 tags: ["腾讯WXG", "后端开发", "合并区间", "优先队列", "系统设计", "阅读量计数"]

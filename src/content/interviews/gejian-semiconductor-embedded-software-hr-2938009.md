@@ -4,6 +4,7 @@ company: 格见半导体
 position: 嵌入式软件开发
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0964210072c54055894b2d7fe41b7a7b
 tags: ["格见半导体","嵌入式","HR面","校招","薪资","职业规划"]

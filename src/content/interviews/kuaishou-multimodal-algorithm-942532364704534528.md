@@ -4,6 +4,7 @@ company: "快手"
 position: "多模态大模型算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942532364704534528
 tags: ["快手","多模态大模型算法","DPO","GRPO","强化学习","奖励函数"]

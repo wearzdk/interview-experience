@@ -4,6 +4,7 @@ company: "CVTE"
 position: "应用软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "面完秒挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944634116383719424

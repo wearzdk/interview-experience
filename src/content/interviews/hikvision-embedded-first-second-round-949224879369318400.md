@@ -4,6 +4,7 @@ company: 海康威视
 position: 嵌入式软件开发
 round: 一面+二面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949224879369318400
 tags: ["海康威视","嵌入式","Linux驱动","环形队列","多线程","TCP","epoll"]

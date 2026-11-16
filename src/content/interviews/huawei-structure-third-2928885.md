@@ -4,6 +4,7 @@ company: "华为"
 position: "结构工程师"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/90a0a566cd704f758406e1e8167c961f"
 tags: ["华为", "结构工程师", "三面", "硕士课题", "岗位匹配", "华为价值观", "自我批判"]

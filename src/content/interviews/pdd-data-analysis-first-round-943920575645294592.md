@@ -4,6 +4,7 @@ company: "拼多多"
 position: "数据分析"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943920575645294592
 tags: ["拼多多","数据分析","指标异动","MECE","SQL","业务case","一面"]

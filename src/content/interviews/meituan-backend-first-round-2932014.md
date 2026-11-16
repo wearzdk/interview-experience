@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6c551a197dcc4a6e95f5f01c62680744
 tags: ["美团", "后端开发", "Agent", "binlog", "对账", "MQ", "ES", "AI Coding"]

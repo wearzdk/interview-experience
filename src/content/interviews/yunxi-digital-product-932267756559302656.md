@@ -3,6 +3,7 @@ title: 面试被问「品牌连锁全流程数字化」，我是这么答的
 company: 云徙科技
 position: 数字化产品经理
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932267756559302656
 tags: ["数字化转型","连锁零售","会员运营","业财一体","AI应用","面试复盘"]

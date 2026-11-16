@@ -4,6 +4,7 @@ company: 虎牙
 position: 全栈开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7e04dbf21e9f48788c2820519b5d11af
 tags: ["虎牙", "全栈", "分布式锁", "Agent", "AI编码", "Redis"]

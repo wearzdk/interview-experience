@@ -4,6 +4,7 @@ company: 腾讯
 position: 后端开发（Go）
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 result: 挂
 source: 牛客网
 tags: ["Golang","GMP模型","垃圾回收","Redis","Lua脚本","二叉搜索树"]

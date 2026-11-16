@@ -4,6 +4,7 @@ company: "上海银行"
 position: "信息科技岗"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ddbe92385fb7469b8e1948df1c2703a4
 tags: ["上海银行","银行笔试","校招","信息科技岗","编程题","贪心","因子","子集划分"]

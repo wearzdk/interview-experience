@@ -4,6 +4,7 @@ company: "灵犀互娱"
 position: "测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939933097821208576
 tags: ["灵犀互娱","测试开发","接口自动化","测试用例生成","UI自动化","AI测试","性能优化","HTTP","Python并发"]

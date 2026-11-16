@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","JVM","MySQL","Redis","消息队列","计算机网络"]
 ---

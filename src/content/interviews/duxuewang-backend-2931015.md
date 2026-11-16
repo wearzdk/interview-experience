@@ -3,6 +3,7 @@ title: "北京都学网后端面经：项目贡献边界、SingleFlight 与长�
 company: "都学网"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6365999695014b7988cb34426691da68
 tags: ["都学网", "后端开发", "SingleFlight", "MongoDB", "讯飞ASR", "AI Coding", "上下文压缩"]

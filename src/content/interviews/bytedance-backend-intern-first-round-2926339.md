@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1cf76a70672a4b7f86db1ec773189121
 tags: ["字节跳动","后端开发","实习面试","Agent","线程池","幂等","JVM内存","GC","MySQL索引","索引失效","慢SQL","算法"]

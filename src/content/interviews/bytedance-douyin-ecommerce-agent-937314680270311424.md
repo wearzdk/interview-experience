@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 开发工程师"
 round: "一面二面三面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/937314680270311424
 tags: ["Agent","后端开发","MySQL","Redis","AI Coding","项目深挖"]

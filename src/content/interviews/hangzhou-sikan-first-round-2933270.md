@@ -4,6 +4,7 @@ company: "杭州思看"
 position: "C++ 软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cf94308583e64888a6f868b342acd9a2
 tags: ["杭州思看", "C++", "一面", "操作系统", "图灵机", "中断", "shared_ptr", "epoll"]

@@ -4,6 +4,7 @@ company: "货拉拉"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["Go","GMP","Channel","Agent Runtime","性能优化","火焰图"]
 summary: "货拉拉一面面经：前半段考 Go 语言基础（GMP 调度模型、缓冲与非缓冲 Channel、为什么不给每个服务起一个 Goroutine），主体围绕多维度流量归因项目展开——重复拉取、未打点服务的数据补齐、协程池并发模型，后半段深挖自研 Agent Runtime 的框架选型、任务路由、上下文组成与压缩、吞吐低延迟高的初版问题定位，以及火焰图排查频繁 GC。"

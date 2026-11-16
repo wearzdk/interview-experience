@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发实习生（集团信息系统）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/00e3488329c041c5a5a357c14ce138b4
 tags: ["字节跳动","后端实习","Agent","Plan-Execute-Replan","ReAct","SSE","RAG","MySQL索引"]

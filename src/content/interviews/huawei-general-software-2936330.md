@@ -4,6 +4,7 @@ company: "华为"
 position: "通用软件开发"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "挂了"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ef338af865cb41da806b238020c62312"

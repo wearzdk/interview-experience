@@ -4,6 +4,7 @@ company: "得物"
 position: "Java 开发（推荐系统）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946737367262502912
 tags: ["得物","Java","推荐系统","Agent","Spring AI","TCP","UDP","HTTP"]

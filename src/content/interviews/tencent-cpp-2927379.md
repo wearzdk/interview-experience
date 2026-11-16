@@ -4,6 +4,7 @@ company: "腾讯"
 position: "软件开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fb10fb1e7c95422aafa144c1dac8039c"
 tags: ["腾讯", "算法", "C++", "手撕", "面试复盘"]

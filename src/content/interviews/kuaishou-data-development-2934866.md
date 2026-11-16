@@ -3,6 +3,7 @@ title: "快手数据开发面经：湖仓一体、Spark 数据倾斜与连续登
 company: "快手"
 position: "数据开发"
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c7fd4ac312b34975ba76c679a24e5b86
 tags: ["快手","数据开发","湖仓一体","Iceberg","Spark","数据倾斜","SQL"]

@@ -4,6 +4,7 @@ company: 用友金融
 position: Java后端开发（实习）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","HashMap","ConcurrentHashMap","JVM","OOM","RabbitMQ","MySQL事务","AI工具"]
 summary: "用友金融Java后端开发实习岗9月22日一面，从实习项目的响应时间优化切入，覆盖HashMap在JDK1.8的升级、线程安全与ConcurrentHashMap、OOM成因、JVM内存区域、RabbitMQ不丢不重、慢SQL与事务一致性。"

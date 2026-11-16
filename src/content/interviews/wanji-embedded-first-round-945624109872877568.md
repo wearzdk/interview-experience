@@ -4,6 +4,7 @@ company: "万集科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945624109872877568
 tags: ["万集科技","嵌入式","Cortex-M","外部中断","推挽开漏","RTOS"]

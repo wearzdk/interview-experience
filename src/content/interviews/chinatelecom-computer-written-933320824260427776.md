@@ -4,6 +4,7 @@ company: "中国电信"
 position: "计算机类"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933320824260427776
 tags: ["笔试", "差分数组", "BFS", "图论", "行测"]

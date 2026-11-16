@@ -4,6 +4,7 @@ company: "卓望"
 position: "运维开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6f1d6a1995c646c19c4b86f23670ef86
 tags: ["卓望", "运维", "一面", "Linux内存", "crontab", "Flume", "主从延迟", "K8s", "发布回滚"]

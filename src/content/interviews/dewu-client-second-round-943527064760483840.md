@@ -4,6 +4,7 @@ company: "得物"
 position: "客户端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943527064760483840
 tags: ["得物", "客户端开发", "并发", "ConcurrentHashMap", "问题排查", "AI Coding"]

@@ -4,6 +4,7 @@ company: "建设银行"
 position: "银行笔试"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7ac9eaf96bd147c39a9958f551ce1e7f"
 tags: ["建设银行","银行笔试","计算机知识","行测","英语阅读","逻辑判断","秋招"]

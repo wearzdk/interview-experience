@@ -4,6 +4,7 @@ company: "网易游戏"
 position: "游戏测试"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/af88b7fd05d544f3b7f517c2f8b0a692
 tags: ["网易游戏", "游戏测试", "测试用例", "TCP", "UDP", "王者荣耀", "平衡性"]

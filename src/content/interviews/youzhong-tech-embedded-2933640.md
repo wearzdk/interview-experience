@@ -3,6 +3,7 @@ title: "上海友衷科技嵌入式软件面试：Bootloader 分区校验与 CAN
 company: "上海友衷科技"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bc831dca13c74130a0dcd971f814b5ba
 tags: ["上海友衷科技", "嵌入式", "Bootloader", "CAN协议", "电赛"]

@@ -4,6 +4,7 @@ company: "地平线"
 position: "规划控制算法工程师"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "挂了"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/daa9724c238b434e99cf8d6eb2659627"

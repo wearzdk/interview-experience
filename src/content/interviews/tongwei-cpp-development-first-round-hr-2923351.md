@@ -4,6 +4,7 @@ company: "同为股份"
 position: "C++开发"
 round: "一面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已OC"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b31bd991c08244ca88be0fc9e28c0c17"

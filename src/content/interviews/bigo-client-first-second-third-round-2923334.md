@@ -4,6 +4,7 @@ company: "BIGO"
 position: "客户端开发"
 round: "一面+二面+三面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/549b42d24a304b288d9bf315ed0d0d84"
 tags: ["BIGO","客户端开发","秋招","JVM","线程池","Android","算法手撕","RAG"]

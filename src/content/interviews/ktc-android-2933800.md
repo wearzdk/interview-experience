@@ -4,6 +4,7 @@ company: "康冠科技"
 position: "Android 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/74991dd50bd14a0999470457b84a9cac
 tags: ["康冠科技","Android","Redis","Drools","规则引擎","Agent","端侧AI"]

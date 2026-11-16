@@ -4,6 +4,7 @@ company: 药帮忙
 position: Java后端开发
 round: 二面+HR面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["MySQL","Redis","RabbitMQ","SQL优化","分布式缓存"]
 summary: "药帮忙Java后端二面+HR面经。面试涵盖SQL查询优化、Redis缓存策略与大Key处理、RabbitMQ消息幂等性及消费确认机制。面试官侧重考察实际生产环境的排查逻辑及个人职业稳定性，要求具备全栈开发能力。"

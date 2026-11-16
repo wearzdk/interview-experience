@@ -4,6 +4,7 @@ company: "麦吉太文"
 position: "游戏客户端开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/748cfde411c5473288e377f22572a77f
 tags: ["C++", "游戏客户端", "UE", "Protobuf", "网络同步", "场景题"]

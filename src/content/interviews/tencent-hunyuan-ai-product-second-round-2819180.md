@@ -4,6 +4,7 @@ company: 腾讯混元
 position: AI产品经理实习生
 round: 二面
 date: '2026-03'
+collectedAt: '2026-07-30'
 result: 凉经
 source: 牛客网
 tags: ["AI平台", "API设计", "算力调度", "Agent评测", "开发者生态"]

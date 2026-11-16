@@ -4,6 +4,7 @@ company: 平安科技
 position: 技术岗
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/916c660ea794495dad403922d50dc95c
 tags: ["RAG","项目复盘","AI 方法论","面试流程"]

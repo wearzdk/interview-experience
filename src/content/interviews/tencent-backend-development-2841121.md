@@ -3,6 +3,7 @@ title: 腾讯视频后端开发面经
 company: 腾讯
 position: 后端开发
 date: '2026-04'
+collectedAt: '2026-04-23'
 source: 牛客网
 tags: ["后端开发","MySQL","Redis","JVM","算法","RAG"]
 summary: "腾讯视频后端开发面经。考察重点涵盖：操作系统进程线程、JVM内存模型、Redis缓存策略、MySQL索引优化与并发控制、RabbitMQ可靠性方案、算法（LRU与链表）及AI工程化（RAG、Agent架构）。适合备考腾讯后端岗位的求职者参考。"

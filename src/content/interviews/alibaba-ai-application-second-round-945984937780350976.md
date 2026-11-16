@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "AI 应用开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945984937780350976
 tags: ["阿里巴巴","AI应用开发","Agent","ToolCall","工具检索","上下文压缩","代码检索","KV Cache","Prompt注入"]

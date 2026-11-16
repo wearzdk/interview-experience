@@ -4,6 +4,7 @@ company: "小红书"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934504489103425536
 tags: ["后端开发", "实习经历", "项目深挖", "链表", "算法题"]

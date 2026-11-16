@@ -4,6 +4,7 @@ company: "保融科技"
 position: "数据开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/110c78aaf5e446798fe34cc760e99005
 tags: ["保融科技","数据开发","笔试","Python","SQL","算法"]

@@ -4,6 +4,7 @@ company: 美的
 position: 技术岗
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ae2e686858614c5d88e20b9b6a7f77b3
 tags: ["Spring","事务","线程池","AI Agent","Skills","实习项目"]

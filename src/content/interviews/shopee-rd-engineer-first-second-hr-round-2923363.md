@@ -4,6 +4,7 @@ company: "虾皮"
 position: "研发工程师（搜广推方向）"
 round: "一面+二面+HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/dcb2bf1c6b7c4b6a9f4c095ba9329bce"
 tags: ["虾皮","研发工程师","RAG","混合检索","RRF","消息队列","AI协作开发","秋招"]

@@ -4,6 +4,7 @@ company: "全量全速"
 position: "后台开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c4c67a3632804b49af1955b7c9a32f31
 tags: ["全量全速","后台开发","快速排序","浮点数","DNS","HTTP","动态规划","贪心"]

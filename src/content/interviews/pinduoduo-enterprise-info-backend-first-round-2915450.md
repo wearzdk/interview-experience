@@ -4,6 +4,7 @@ company: 拼多多
 position: 企业信息化后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 一面已过
 source: 牛客网
 tags: ["Java","HashMap","线程池","ThreadLocal","JVM","慢查询","索引","算法题"]

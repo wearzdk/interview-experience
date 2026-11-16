@@ -3,6 +3,7 @@ title: "拼多多线下面试（后端开发）：手写 HashMap 与 SQL left jo
 company: "拼多多"
 position: "后端开发"
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/610d60e3d1fd431aa92eee9d4c8e0cc4
 tags: ["拼多多","后端开发","HashMap","二叉树","链表","SQL","gRPC","MCP"]

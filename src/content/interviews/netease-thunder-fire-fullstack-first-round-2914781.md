@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "全栈开发"
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["全栈开发","UniApp","微信小程序","RAG","性能优化","AI编程"]

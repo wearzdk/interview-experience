@@ -4,6 +4,7 @@ company: 百度
 position: 大模型算法
 round: 一面+二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型","RLHF","GSPO","Agent","多模态","Qwen","BM25","手撕"]
 summary: "百度大模型算法岗一面二面面经合集。一面围绕对齐算法选型（GSPO 与 PPO、GRPO 对比）、视觉语言模型、多智能体拆分与记忆、Qwen 多模态与 MRoPE、RAG；二面深入 ReAct、SFT 与 RLHF 数据、奖励模型、检索选型与 QKV。"

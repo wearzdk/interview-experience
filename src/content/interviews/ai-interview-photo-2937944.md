@@ -4,6 +4,7 @@ company: 多家企业
 position: AI 面试
 round: AI 面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/80ee26f05fe940e9bb4e22cf4584a580
 tags: ["AI面试","银行校招","运营商校招","面试流程","拍照","普通话朗读"]

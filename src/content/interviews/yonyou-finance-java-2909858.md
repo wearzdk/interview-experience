@@ -3,6 +3,7 @@ title: "用友金融 Java 实习面经：Redis、线程上下文与幂等"
 company: "用友金融"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "Redis", "MyBatis", "JVM"]
 ---

@@ -4,6 +4,7 @@ company: 小红书
 position: AI全栈-社区工程
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Springboot","JVM","线程池","并发优化","分布式系统"]
 summary: "小红书AI全栈-社区工程岗位一面面经。面试涵盖了Springboot与SpringMVC框架原理、JVM内存模型与G1回收器、线程池配置策略、单机并发性能优化，以及AI对编程行业影响的探讨。同时包含三道LeetCode原题考察，适合准备相关技术栈的求职者复习参考。"

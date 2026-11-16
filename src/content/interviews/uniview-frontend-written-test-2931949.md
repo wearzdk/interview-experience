@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "前端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/716c3a6cf3b346e3b357ed427f151880
 tags: ["宇视科技", "前端", "笔试", "Vue", "HTTP缓存", "二叉树", "LCA"]

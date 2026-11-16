@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: Java研发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "Kafka", "Redis", "分布式系统", "TCP"]
 ---

@@ -3,6 +3,7 @@ title: "嵌入式项目明明是自己敲的，为什么面试像抄的"
 company: "多家嵌入式方向公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941985713124397056
 tags: ["嵌入式", "项目复盘", "面试表达", "调试", "求职"]

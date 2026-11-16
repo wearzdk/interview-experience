@@ -4,6 +4,7 @@ company: 多益网络
 position: 软件工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931650228690616320
 tags: ["Java","MySQL","Redis","Linux","索引优化"]

@@ -4,6 +4,7 @@ company: 中信银行
 position: 金融科技（人工智能）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a14fc690213b4628b05d054765d032f3
 tags: ["中信银行","金融科技","大模型","CUDA","算子融合","推理加速","Auto-tuning"]

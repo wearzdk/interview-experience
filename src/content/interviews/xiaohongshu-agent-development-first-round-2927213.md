@@ -4,6 +4,7 @@ company: "小红书"
 position: "产品工程师（Agent 开发）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f0950469136e47b0828373cfeefd82ce
 tags: ["小红书","Agent开发","动态规划","分布式锁","线程池","自注意力机制","大模型幻觉"]

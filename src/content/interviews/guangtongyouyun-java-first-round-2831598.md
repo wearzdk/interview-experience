@@ -4,6 +4,7 @@ company: 广通优云
 position: Java开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-12'
 result: 挂了
 base: 杭州
 source: 牛客网

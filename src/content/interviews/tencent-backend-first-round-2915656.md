@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["操作系统","TCP","epoll","Redis","MySQL","算法题"]

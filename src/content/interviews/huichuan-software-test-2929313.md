@@ -4,6 +4,7 @@ company: "汇川技术"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["软件测试", "测试设计", "UI自动化", "Python", "项目复盘"]
 summary: "汇川技术软件测试一面，32 分钟双机位，重点追问科研、实习和项目闭环，并让现场设计 Web 登录界面的测试维度。"

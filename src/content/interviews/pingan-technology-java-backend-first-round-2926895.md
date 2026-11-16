@@ -4,6 +4,7 @@ company: "平安科技"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f60bf9c1a6ff47549c724d2e90adeeab
 tags: ["平安科技","Java后端","Spring","Redis","消息队列","中间件","校招"]

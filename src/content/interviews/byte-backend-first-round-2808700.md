@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 挂
 source: 牛客网
 tags: ["MySQL","计算机网络","Java基础","数据结构","设计模式"]

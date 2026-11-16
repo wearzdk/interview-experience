@@ -4,6 +4,7 @@ company: 广州嘉为科技有限公司
 position: Java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-19'
 base: 广州
 source: 牛客网
 tags: ["Java并发","Redis","分布式事务","数据库","设计模式"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: "Agent 开发"
 round: "一面+二面+三面"
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7ae720014ec84a8a9677a7c8b621610b
 tags: ["字节跳动","Agent","算法","Top K","设计链表","LCS","大模型"]

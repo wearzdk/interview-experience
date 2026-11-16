@@ -4,6 +4,7 @@ company: 无锡赫玛科技
 position: AI应用开发
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 base: 无锡
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/24a0ee8b5d2c4d65aaf5fc1e18bfcc23

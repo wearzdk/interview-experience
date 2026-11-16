@@ -4,6 +4,7 @@ company: 阳光保险
 position: 数据挖掘
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bf4fca22e8ed4731bc4fe45173d1abf5
 tags: ["数据挖掘","机器学习","梯度提升","建模","业务题"]

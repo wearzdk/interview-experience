@@ -4,6 +4,7 @@ company: "交银金融科技"
 position: "技术研发岗（笔试）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939990678124101632
 tags: ["交银金融科技","银行科技岗","笔试","Java","数据结构","密码学","金融知识","SQL","编程题"]

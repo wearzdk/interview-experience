@@ -4,6 +4,7 @@ company: 浙商银行
 position: 金融科技
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7e33bfc81889423a98dbd7b6b8547276
 tags: ["浙商银行","金融科技","笔试","动态规划","行测","银行"]

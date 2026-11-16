@@ -4,6 +4,7 @@ company: "多家公司"
 position: "算法岗"
 round: "面试流程"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948327014585397248
 tags: ["算法岗","校招","面试流程","手撕代码","项目深挖","系统设计"]

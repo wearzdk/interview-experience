@@ -4,6 +4,7 @@ company: "脉脉"
 position: "C++ 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940936672621961216"
 tags: ["脉脉","C++","网络编程","Reactor","TCP","拥塞控制","粘包","IM","长连接","读写扩散"]

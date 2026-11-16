@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "软件开发"
 round: "一面+二面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9466f2c113e48229aed1a4c78acbb93
 tags: ["面经","HR面","Redis","MySQL","HashMap","加班"]

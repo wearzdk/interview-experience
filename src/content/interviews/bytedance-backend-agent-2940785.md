@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2f9a0b6dc0d34384b6c7f1719b6ed462
 tags: ["字节跳动","Agent","本体化建模","CLI","Skill","工作流路由","JVM","TCP","后端开发"]

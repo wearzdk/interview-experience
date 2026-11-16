@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "业务中台（后端开发）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/478da222cb7d475c91a9aa4879c99ab8
 tags: ["字节跳动","后端","HTTP服务器","IO多路复用","RPC","ZooKeeper","Raft","一致性哈希","TCP"]

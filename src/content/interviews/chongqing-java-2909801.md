@@ -3,6 +3,7 @@ title: "重庆某公司 Java 面试：单点登录与商品分组统计"
 company: "重庆某公司"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["Java", "单点登录", "集合"]
 ---

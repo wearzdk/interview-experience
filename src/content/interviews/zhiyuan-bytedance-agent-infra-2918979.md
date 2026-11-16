@@ -4,6 +4,7 @@ company: "智元机器人、字节跳动"
 position: "Agent基础设施"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Agent", "K8s", "分布式调度", "Go", "TCP", "MySQL", "算法"]
 summary: "秋招 Agent 基础设施中台方向面经合集，按公司分段：智元机器人觅蜂三面考存储并发与 Ceph、热 key 与分布式调度报错、半连接与全连接队列、CPU 打满、nbd 设备并发调用；字节火山引擎考 accept 队列、IO 线程池设计、Go GC 与 GMP、合并区间；字节 seed 考 CLI 设计、进程线程协程、TCP 粘包、MySQL 索引与域名解析全流程。"

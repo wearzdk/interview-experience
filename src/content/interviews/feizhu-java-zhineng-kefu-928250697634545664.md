@@ -4,6 +4,7 @@ company: 飞猪
 position: 智能客服Java后端
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/928250697634545664
 tags: ["Java", "RPC", "JVM", "MQ", "LRU"]

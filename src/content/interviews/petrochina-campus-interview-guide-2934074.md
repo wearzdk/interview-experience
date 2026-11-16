@@ -3,6 +3,7 @@ title: "中石油校招面试：AI 面要拍全身，线下只问家常题"
 company: "中国石油"
 position: "校招综合"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b98c839c0f84beda1bd1ec64b2efe26
 tags: ["中国石油","国企","AI面试","半结构化","求职动机","行业认知"]

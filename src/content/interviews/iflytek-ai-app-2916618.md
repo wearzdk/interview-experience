@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI应用开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI应用","Agent Harness","沙箱","gVisor","Skill路由","评测"]
 summary: "科大讯飞 AI 应用一面面经（9.15，两位面试官群面）：先从实习与转正意向切入，深挖第三个实习的异步工作流框架、小站点网络隔离导致的升级失败与改造、DB 队列设计与执行，再追问第二个实习的搜索链路 P99 优化、两级缓存与本地缓存一致性、广播更新的可靠性；后半段集中在第一个实习的 Agent Harness——Runtime/Workflow/Node 分层、与 Dify/扣子的对比、分层上下文 Roadmap、压缩触发阈值与 Tool Result 处理、摘要对 KV/Prefix Cache 的影响、Skill 路由评测，最后追问自研 Runtime 的理由、沙箱与隔离（gVisor、microVM、Docker 的差异）以及把本地 Coding Agent 做成多人 SaaS 的架构。"

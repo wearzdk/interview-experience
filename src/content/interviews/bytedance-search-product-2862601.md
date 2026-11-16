@@ -3,6 +3,7 @@ title: 字节跳动核心搜推产品经理面试记录
 company: 字节跳动
 position: 搜索推荐产品经理
 date: '2026-06'
+collectedAt: '2026-07-21'
 result: 凉经
 source: 牛客网
 tags: ["字节跳动","产品经理","搜索推荐","项目复盘"]

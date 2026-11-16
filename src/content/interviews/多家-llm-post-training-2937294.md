@@ -4,6 +4,7 @@ company: 多家互联网公司
 position: 大模型后训练与 Agent 开发
 round: "多轮"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e4351ac7f6c54337befa9ed94e833c14
 tags: ["大模型","后训练","SFT","RLHF","DPO","GRPO","Agent","面试总结"]

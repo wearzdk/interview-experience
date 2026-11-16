@@ -4,6 +4,7 @@ company: 中控技术
 position: 软件信息化
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/42f332b2303e461890a156ee1608c895
 tags: ["Java","JVM调优","SQL调优","MySQL索引","面试体验"]

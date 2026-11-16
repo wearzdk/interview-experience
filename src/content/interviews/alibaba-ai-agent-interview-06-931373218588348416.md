@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931373218588348416"
 tags: ["AI Agent", "长视频理解", "RAG", "Planner", "Checkpoint", "多模态", "上下文管理"]

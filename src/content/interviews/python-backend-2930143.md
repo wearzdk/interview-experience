@@ -4,6 +4,7 @@ company: "某公司"
 position: "Python后端开发"
 round: "线下面试"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/05bfbe21790b46c88c1e446340462347
 tags: ["Python", "笔试", "GIL", "多线程", "多进程", "内存管理"]

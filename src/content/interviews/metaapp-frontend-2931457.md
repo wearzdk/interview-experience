@@ -4,6 +4,7 @@ company: "MetaApp"
 position: "前端开发"
 round: "AI 面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8662d90cf1b54f1999a8b1cb7663f055
 tags: ["MetaApp","前端开发","JavaScript","事件机制","垃圾回收","原型链"]

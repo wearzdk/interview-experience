@@ -4,6 +4,7 @@ company: 通用
 position: 面试准备
 round: 面试反问
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949633410358583296
 tags: ["面试反问","面试准备","业务面试官","岗位理解","沟通"]

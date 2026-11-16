@@ -4,6 +4,7 @@ company: "德迩象网机器人"
 position: "运维实习生"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["运维", "DNS", "HTTP", "K8s", "SSH", "CICD", "子网划分"]
 summary: "德迩象网机器人运维实习生一面面经：从 URL 解析到页面渲染的链路、DNS 记录类型、子网掩码与跨地域连通、CPU 与 GPU 打满的处置、SSH 加固、K8s 监控、Ingress 暴露与 HTTPS 链路、CI/CD 与回滚。"

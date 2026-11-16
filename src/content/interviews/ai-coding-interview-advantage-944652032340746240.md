@@ -4,6 +4,7 @@ company: "求职通用"
 position: "技术面试方法"
 round: "经验"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944652032340746240
 tags: ["AI编程", "面试方法", "代码审查", "工程素养", "判断力", "职业成长"]

@@ -4,6 +4,7 @@ company: "海尔"
 position: "多岗位（结构、材料、嵌入式）"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/e6218f0a932141388de2fdbb33ab365d"
 tags: ["海尔", "结构工程师", "材料研发", "嵌入式", "AI面试", "英文面试", "行为面试"]

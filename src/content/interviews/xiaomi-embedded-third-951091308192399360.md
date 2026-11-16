@@ -4,6 +4,7 @@ company: 小米
 position: 嵌入式软件开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951091308192399360
 tags: ["小米","嵌入式","SPI","死机排查","栈溢出","内存对齐","GDB","芯片选型","三面"]

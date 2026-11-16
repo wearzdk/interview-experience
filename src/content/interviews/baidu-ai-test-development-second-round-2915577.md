@@ -4,6 +4,7 @@ company: 百度
 position: AI测试开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["测试开发","Agent","RAG","重排序","LangGraph","评测体系"]
 summary: "百度AI测试开发二面面经，9.21面试、全程约50分钟，几乎全在拷打项目。围绕Agent安全性设计、技术难点、测试体系与评测、检索性能与重排序、幻觉处理、Agent协作模式优劣、LangGraph框架选型，以及自动生成测试用例的Agent方案。"

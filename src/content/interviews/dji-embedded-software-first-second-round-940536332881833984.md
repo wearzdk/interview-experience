@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式软件"
 round: "一面+二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940536332881833984
 tags: ["大疆","嵌入式软件","STM32","FreeRTOS","DMA","Cache一致性","volatile","缓冲管理"]

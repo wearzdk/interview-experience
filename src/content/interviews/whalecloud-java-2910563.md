@@ -3,6 +3,7 @@ title: "浩鲸科技实习一面：类加载、索引与缓存故障"
 company: "浩鲸科技"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-15'
 source: "牛客网"
 tags: ["JVM", "MySQL", "PostgreSQL", "Redis"]
 round: "一面"

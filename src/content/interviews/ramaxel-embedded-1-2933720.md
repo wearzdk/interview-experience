@@ -4,6 +4,7 @@ company: "记忆科技"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fde0a8c8a08540c484f210d569ab9f6d
 tags: ["记忆科技","嵌入式","I2C","线程同步","量化","cache一致性","大小端"]

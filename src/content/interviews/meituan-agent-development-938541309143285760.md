@@ -3,6 +3,7 @@ title: "美团 Agent 开发凉经：项目匹配度不够，但问题很经典"
 company: 美团
 position: Agent 开发
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 挂
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938541309143285760

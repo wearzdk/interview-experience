@@ -4,6 +4,7 @@ company: Shopee
 position: SSC后台开发
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: oc
 source: 牛客网
 tags: ["数据一致性","分布式锁","高并发","Redis","消息队列"]

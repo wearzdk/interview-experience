@@ -4,6 +4,7 @@ company: "美团"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: "牛客网"
 tags: ["Java","MySQL","消息队列","线程池","MVCC","算法"]
 summary: "美团小象超市后端一面，项目部分连问缓存设计、Copy-On-Write、线程池、锁与原子变量、消息顺序与不丢、索引失效、MVCC、大表处理等；算法手撕 K 个一组翻转链表，闲聊环节确认意向城市与是否接受写 Java，最终结果是一面未通过。"

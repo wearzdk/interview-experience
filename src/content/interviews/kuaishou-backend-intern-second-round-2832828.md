@@ -4,6 +4,7 @@ company: 快手
 position: 后端开发实习生
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-13'
 result: 挂
 source: 牛客网
 tags: ["大模型","向量数据库","LangChain","MySQL","算法"]

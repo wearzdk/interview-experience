@@ -4,6 +4,7 @@ company: 汇顶科技
 position: 软件开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "RAG", "LangGraph", "系统设计"]
 ---

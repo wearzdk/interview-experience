@@ -4,6 +4,7 @@ company: "小米"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e78c0dd048d04672ad9d71cf33d0aeb8
 tags: ["嵌入式","RTOS","Bootloader","MQTT","内存管理","链表"]

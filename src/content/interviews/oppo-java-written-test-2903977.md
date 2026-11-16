@@ -4,6 +4,7 @@ company: OPPO
 position: Java开发工程师
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 tags: ["Java", "笔试", "算法", "迷宫"]
 summary: "OPPO Java开发系统笔试面经，包含Java基础选择题、迷宫路径判断编程题和AI Coding环节。"

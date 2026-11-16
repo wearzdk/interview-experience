@@ -3,6 +3,7 @@ title: "Java 线上排查面试题：CPU 飙高怎么定位"
 company: "某互联网公司"
 position: "Java后端"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933796344584470528
 tags: ["线上排查", "JVM", "jstack", "Arthas", "性能优化", "线程状态"]

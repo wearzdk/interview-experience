@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948706080228384768
 tags: ["算法面试","三数之和","快速排序","滑动窗口","边界验证","面试复盘"]

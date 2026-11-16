@@ -4,6 +4,7 @@ company: "迅雷"
 position: "测试开发"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931692144220176384"
 tags: ["测试开发", "笔试题", "算法题", "SQL 索引", "Python", "B+Tree", "字符串处理"]

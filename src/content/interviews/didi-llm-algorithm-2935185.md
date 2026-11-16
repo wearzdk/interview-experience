@@ -3,6 +3,7 @@ title: "滴滴大模型算法岗面经：多头注意力、GRPO 与 RAG 全链�
 company: "滴滴"
 position: "大模型算法"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/7244b76b22fb465bace17573b9618491"
 tags: ["滴滴","大模型","Transformer","多头注意力","GRPO","PPO","vLLM","RAG","FAISS","GraphRAG","算法"]

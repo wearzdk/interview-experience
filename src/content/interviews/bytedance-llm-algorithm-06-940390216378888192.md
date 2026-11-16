@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "大模型算法"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940390216378888192
 tags: ["字节跳动","大模型算法","Agent评测","回归评测","RAG切分","长上下文","线上观测","意图消歧"]

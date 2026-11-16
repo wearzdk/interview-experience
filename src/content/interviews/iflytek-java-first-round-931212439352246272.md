@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 tags: ["Java", "JVM", "RocketMQ", "Linux", "系统设计"]
 summary: "科大讯飞 Java 岗线下一面真题：面试官主要按简历里的名词问八股，涵盖 full GC 排查与 dump 导出、RocketMQ 作用与 partition 含义、String 与 Linux 常用命令，另有三道开放场景题——亿级 URL 去重计数、找相似博主、多国博主 CPM 结算系统设计。"

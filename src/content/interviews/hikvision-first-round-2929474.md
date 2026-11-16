@@ -5,6 +5,7 @@ position: "软件开发"
 round: "一面"
 result: "挂"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b65327147a4e495e91c2d8628a1a98a0
 tags: ["高并发", "超卖", "HashSet", "HashMap", "锁", "乐观锁", "数据库"]

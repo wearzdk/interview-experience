@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大数据开发
 round: 二面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["大数据开发","向量索引","HNSW","IVF","Redis集群","Flink State","二叉树"]
 summary: "字节跳动离线数据架构二面面经，简历里写了RAG与Agent所以被追着问向量检索：几种向量索引方案的取舍、Milvus里一千亿向量怎么设计索引、为什么会出现只有一万个向量的桶以及桶内如何组织分层；另有一道Redis十节点集群的设计题（K是UID、V是二进制文件、要求高可用低延迟）、二叉树层序遍历与「二叉树要能存多种类型怎么做」的进阶手撕，以及Flink State越来越多时的治理思路。"

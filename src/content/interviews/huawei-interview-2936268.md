@@ -4,6 +4,7 @@ company: "华为"
 position: "算法工程师（大模型、CV）"
 round: "多轮"
 date: "2026-11"
+collectedAt: '2026-11-03'
 result: "收到感谢信"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/da502512d3674da2918696068afd25fc"

@@ -4,6 +4,7 @@ company: 昊一源
 position: DSP 软件开发
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950789593169723392
 tags: ["昊一源","DSP 软件开发","FreeRTOS","platform框架","LCD驱动","Linux内核移植"]

@@ -4,6 +4,7 @@ company: "携程"
 position: "AI应用开发实习"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 result: "OC"
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/933058120102739968

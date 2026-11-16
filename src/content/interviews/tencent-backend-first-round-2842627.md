@@ -4,6 +4,7 @@ company: 腾讯云智
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-27'
 source: 牛客网
 tags: ["Java","并发编程","Spring Boot","Kafka","JVM","Redis"]
 summary: "腾讯云智后端一面面经，面试内容涵盖Java集合与并发编程（ConcurrentHashMap、ThreadLocal、CAS/AQS）、Spring Cloud微服务体系、Kafka高可用架构、JVM内存模型与OOM排查、Redis高级应用及容器化部署等核心技术，助你高效备考。"

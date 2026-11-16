@@ -4,6 +4,7 @@ company: "微博"
 position: "市场营销"
 round: "终面"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950622859162820608
 tags: ["微博","市场营销","终面","项目复盘","传播策略"]

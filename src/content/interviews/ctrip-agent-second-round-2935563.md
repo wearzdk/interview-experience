@@ -4,6 +4,7 @@ company: "携程"
 position: "Agent 开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fc1899a553c7462585f18749c4b37bbb
 tags: ["携程","Agent","领域路由","badcase","根因定位","工具封装","LangGraph","多Agent"]

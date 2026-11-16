@@ -4,6 +4,7 @@ company: "百度"
 position: "Agent算法"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/5c204ceb8bcf4754bba79a1e5be79b4e"
 tags: ["百度","Agent算法","ReAct","Plan-and-Execute","上下文管理","Agentic RL","多Agent","评测","手撕代码"]

@@ -4,6 +4,7 @@ company: "挖财"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/24f68248fad34cf7bf47f70a7976bb45
 tags: ["挖财","前端","Vue","React","Hooks","定时器","长列表"]

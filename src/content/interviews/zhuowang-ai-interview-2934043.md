@@ -4,6 +4,7 @@ company: "卓望"
 position: "Java 开发"
 round: "AI面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8371f3eca406410182d0c275b8a9cd2c
 tags: ["卓望","AI面试","Java","JVM","MyBatis","Vue","提示词注入","Agent"]

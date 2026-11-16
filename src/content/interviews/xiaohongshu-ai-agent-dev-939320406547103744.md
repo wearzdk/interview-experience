@@ -4,6 +4,7 @@ company: "小红书"
 position: "AI Agent开发"
 round: "多轮面试合集"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/939320406547103744"
 tags: ["小红书","AI Agent开发","接口幂等","缓存与鉴权","Sub-agent","Agent评测","RAG检索","MCP"]

@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发（Agent 方向）
 round: HR 面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/042295e384fd4061a0b28df157e79cb1
 tags: ["字节跳动","HR面","Agent","后端开发","秋招","AI编程","开源","职业规划"]

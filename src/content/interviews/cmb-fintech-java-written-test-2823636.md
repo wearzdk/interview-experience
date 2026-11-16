@@ -4,6 +4,7 @@ company: 招银网络科技
 position: Java开发工程师
 round: 笔试
 date: '2026-03'
+collectedAt: '2026-04-04'
 base: 成都
 source: 牛客网
 tags: ["Java","JVM","Spring Boot","NIO-BIO","数据结构","设计模式"]

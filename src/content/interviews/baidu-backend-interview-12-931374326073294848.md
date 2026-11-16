@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "多轮面试合集"
 date: "2026-09"
+collectedAt: '2026-09-20'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931374326073294848"
 tags: ["Java", "Go", "HTTP", "Docker", "Kubernetes", "JVM", "内存管理"]

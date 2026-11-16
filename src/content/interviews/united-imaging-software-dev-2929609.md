@@ -4,6 +4,7 @@ company: "联影医疗"
 position: "软件开发"
 round: "一面、二面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1060c625e42643b7bfcd17bde34e1e66
 tags: ["Java", "策略模式", "多智能体", "上下文压缩", "测试", "Redis"]

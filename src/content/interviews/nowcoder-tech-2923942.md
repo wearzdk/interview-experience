@@ -3,6 +3,7 @@ title: 避免 offer 死锁的办法是释放面经：一次用操作系统死锁
 company: 牛客网用户分享
 position: 技术岗
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c0a2705fbb9b4d4f96525d865129d2b7
 tags: ["秋招","offer选择","死锁","操作系统","面经分享"]

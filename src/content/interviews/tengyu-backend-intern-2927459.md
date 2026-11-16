@@ -4,6 +4,7 @@ company: "腾娱互动"
 position: "后台开发实习"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/3a48c1711b374ec2bd9102fae93ec513"
 tags: ["后台开发", "幂等", "分布式", "设计模式", "手撕算法"]

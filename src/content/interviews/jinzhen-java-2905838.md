@@ -4,6 +4,7 @@ company: 金证股份
 position: Java开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-08'
 source: 牛客网
 tags: ["Java", "MySQL", "JVM", "OAuth2", "Spring"]
 summary: "金证股份长沙线下 Java 开发一面，重点考察数据权限、Java 基础、MySQL、JVM 与工程排障。"

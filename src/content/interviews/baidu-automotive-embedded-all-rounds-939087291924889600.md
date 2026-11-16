@@ -4,6 +4,7 @@ company: 百度
 position: 车载嵌入式
 round: 一面+二面+三面
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939087291924889600
 tags: ["车载","自动驾驶","嵌入式","volatile","内存对齐","CAN","DDS","SOMEIP","AUTOSAR","功能安全","ISO26262","OTA","零拷贝"]

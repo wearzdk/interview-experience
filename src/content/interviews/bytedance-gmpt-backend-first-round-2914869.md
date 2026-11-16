@@ -4,6 +4,7 @@ company: 字节跳动
 position: 后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Go","Redis","分布式锁","goroutine","TCP","MVCC","手撕"]
 summary: "字节跳动 GMPT 后端日常实习一面，时长 1 小时以上无反问，内容基本围绕实习展开。八股考 Redis 分布式锁、退出前如何回收所有 goroutine、goroutine 为何比内核线程快、TCP 流量与拥塞控制、隔离级别与 MVCC，手撕字符串转浮点。"

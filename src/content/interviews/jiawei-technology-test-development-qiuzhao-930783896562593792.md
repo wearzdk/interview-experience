@@ -3,6 +3,7 @@ title: "嘉为科技测试开发秋招面经：接口与 UI 自动化框架设�
 company: "嘉为科技"
 position: "测试开发"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930783896562593792"
 tags: ["测试开发", "接口自动化", "UI自动化", "Pytest", "Selenium", "自动化测试框架"]

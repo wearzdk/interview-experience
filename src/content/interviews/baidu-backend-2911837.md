@@ -4,6 +4,7 @@ company: "百度"
 position: "后端开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 result: "未通过"
 source: "牛客网"
 tags: ["Go", "Java", "Redis", "计算机网络", "Docker", "Kubernetes"]

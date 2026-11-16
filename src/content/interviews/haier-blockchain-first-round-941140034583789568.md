@@ -4,6 +4,7 @@ company: "海尔"
 position: "区块链开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-17'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/941140034583789568
 tags: ["海尔","区块链","联盟链","长安链","共识算法","TBFT"]

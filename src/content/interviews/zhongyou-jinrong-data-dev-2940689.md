@@ -4,6 +4,7 @@ company: 中邮消费金融
 position: 数据开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/cbfb34cd61484aa0a081e8cdbcd117fe
 tags: ["中邮消费金融","数据开发","Iceberg","Hudi","Flink","Kafka","数仓分层"]

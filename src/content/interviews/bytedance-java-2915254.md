@@ -4,6 +4,7 @@ company: 字节跳动
 position: Java后端
 round: 三面
 date: '2026-09'
+collectedAt: '2026-09-21'
 source: 牛客网
 tags: ["Java","RAG","Agent","Redis","秒杀","多线程","面经"]
 summary: "字节跳动中国交易与广告-抖音电商日常实习全流程面经，含一面、leader 二面、三面和 HR 面共四轮。项目侧深挖 RAG 知识库的检索链路与决策机制、优惠券秒杀的高并发设计；八股覆盖反射、IoC、热点 key、联合索引；手撕考了打家劫舍、下一个排列和一道多线程扣减超卖的代码阅读。"

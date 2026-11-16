@@ -4,6 +4,7 @@ company: 美团
 position: AI全栈工程师
 round: 两轮技术面
 date: '2026-04'
+collectedAt: '2026-04-24'
 result: Offer
 source: 牛客网
 tags: ["RAG","MySQL","Redis","分布式锁","线程池"]

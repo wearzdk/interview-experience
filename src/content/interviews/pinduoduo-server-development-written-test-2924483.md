@@ -4,6 +4,7 @@ company: "拼多多"
 position: "服务端研发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6e40133f1fe04defa5d7888de334aed0
 tags: ["笔试","算法","拼多多","动态规划","图论","区间","树状数组"]

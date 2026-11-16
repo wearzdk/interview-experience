@@ -4,6 +4,7 @@ company: "华为"
 position: "终端云软件开发"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-27'
 result: "已挂"
 source: 牛客网
 tags: ["计算机网络", "操作系统", "数据结构", "手撕算法", "主管面", "RAG"]

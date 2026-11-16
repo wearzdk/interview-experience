@@ -3,6 +3,7 @@ title: "慢查询里真正遇到的索引失效：函数包裹、隐式转换与
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949175090845851648
 tags: ["MySQL","索引失效","慢查询","EXPLAIN","隐式转换","联合索引"]

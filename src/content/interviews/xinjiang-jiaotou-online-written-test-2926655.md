@@ -4,6 +4,7 @@ company: "新疆交投"
 position: "综合管理"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/113814b811344e5ea93556c123bc40d4
 tags: ["笔试","国企","时政","企业文化","公文写作"]

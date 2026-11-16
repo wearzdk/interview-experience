@@ -4,6 +4,7 @@ company: 云徒
 position: 全栈开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/29677838e72a494299afa5d605a996f3
 tags: ["全栈开发","慢SQL","索引失效","限流","权限设计","Spring Cloud"]

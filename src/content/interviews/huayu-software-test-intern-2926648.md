@@ -3,6 +3,7 @@ title: "北京华玉通软软件测试实习面经"
 company: "北京华玉通软"
 position: "软件测试"
 date: '2026-10'
+collectedAt: '2026-10-14'
 result: "已oc"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7f84e65241444398a0edafdc8de17f0c

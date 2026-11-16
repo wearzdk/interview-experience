@@ -4,6 +4,7 @@ company: "长亭科技"
 position: "Java 后端开发"
 round: "社招"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dca61a482e0c45159ca9790802197a7d
 tags: ["长亭科技","Java","Kafka","Redis","分布式锁","MySQL","InnoDB","B+树","PostgreSQL"]

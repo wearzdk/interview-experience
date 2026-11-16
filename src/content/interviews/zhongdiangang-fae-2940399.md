@@ -4,6 +4,7 @@ company: 中电港
 position: FAE 现场应用工程师
 round: 终面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7cc1cbfb2ad7453f9643ee1112eb70a0
 tags: ["中电港","FAE","HR面","求职动机","职业规划","薪酬沟通","半导体分销"]

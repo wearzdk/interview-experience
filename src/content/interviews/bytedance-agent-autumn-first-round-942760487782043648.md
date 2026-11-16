@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI Agent 开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-21'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/942760487782043648"
 tags: ["字节跳动","Agent","Harness","上下文压缩","RocketMQ","幂等","ComputerUse","B+树","算法题"]

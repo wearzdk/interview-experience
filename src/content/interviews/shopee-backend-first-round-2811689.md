@@ -4,6 +4,7 @@ company: 虾皮 (Shopee)
 position: 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["RocketMQ","MySQL","Redis","Java并发","数据结构与算法"]
 summary: "虾皮Shopee后端一面面经，面试官重点考核项目深度。技术点涵盖RocketMQ消息队列、分布式事务、MySQL索引与死锁机制、Redis缓存设计、Java volatile底层原理及排序算法。本文总结了高频面试题目及核心解析，助你掌握后端面试考点。"

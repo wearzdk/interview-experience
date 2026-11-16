@@ -4,6 +4,7 @@ company: 快手
 position: 大模型应用开发工程师
 round: 二面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: OC
 source: 牛客网
 tags: ["Java","Spring AI","RAG","向量数据库","设计模式"]

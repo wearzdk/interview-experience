@@ -4,6 +4,7 @@ company: "OPPO"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c51898e35e72429b8fed56f22b1a49bd
 tags: ["OPPO","全栈","多Agent","Agent工作流","RAG","上下文记忆","多租户隔离","大模型选型"]

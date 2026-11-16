@@ -3,6 +3,7 @@ title: "苏州小厂 React 前端面试：项目拷打、虚拟列表与 React 1
 company: "苏州某小厂"
 position: "React 前端开发"
 date: "2026-10"
+collectedAt: '2026-10-09'
 base: "苏州"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ee20e40b55834a13bb24e644d78fc90a"

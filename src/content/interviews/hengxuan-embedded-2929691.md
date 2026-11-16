@@ -4,6 +4,7 @@ company: "恒玄科技"
 position: "嵌入式软件工程师"
 round: "四面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bf571623973243eaa6d5191b565be608
 tags: ["恒玄科技", "嵌入式", "蓝牙", "WiFi", "协议栈", "职业规划"]

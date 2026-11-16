@@ -3,6 +3,7 @@ title: "小红书广告交易算法实习面试：KKT 条件与博弈论连环�
 company: "小红书"
 position: "广告交易算法（日常实习）"
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["算法","强化学习","安全强化学习","博弈论","运筹优化","PPO"]
 summary: "小红书广告交易算法日常实习面试，全程围绕数学与强化学习展开：安全强化学习、为什么选 SAC 而不是别的算法、拉格朗日对偶与对偶形式、KKT 与 Slater 条件、Stackelberg 博弈和 Nash 博弈的区别，八股问 PPO/DPO/GRPO，手撕是网格路径计数。"

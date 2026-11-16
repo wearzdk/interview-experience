@@ -4,6 +4,7 @@ company: "瑞联技术"
 position: "前端开发工程师"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941276833373249536"

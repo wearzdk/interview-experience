@@ -4,6 +4,7 @@ company: 百度
 position: 全栈开发
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/27863d125e164c71bc58cf4118b5e079
 tags: ["百度","全栈开发","MySQL","索引","事务隔离","Redis","大Key","AI编程"]

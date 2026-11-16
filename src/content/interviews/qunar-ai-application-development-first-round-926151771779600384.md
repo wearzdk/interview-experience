@@ -4,6 +4,7 @@ company: 去哪儿
 position: AI应用开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/926151771779600384
 tags: ["JVM","模型网关","Redis","提示词","RAG","结构化输出"]

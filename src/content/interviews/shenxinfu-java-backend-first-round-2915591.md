@@ -4,6 +4,7 @@ company: 深信服
 position: Java后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","HashMap","MySQL","Redis","RAG"]
 summary: "深信服Java后端日常实习一面面经，无手撕代码。考察HashMap底层、11选10的高频数据场景题、MySQL索引失效与跳表、Redis与数据库一致性、RAG的chunk切分与检索生成场景题。"

@@ -4,6 +4,7 @@ company: 菜鸟直管
 position: Java开发工程师
 round: 一面
 date: '2026-04'
+collectedAt: '2026-07-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/885894032079986688
 tags: ["多线程安全","RESTful","缓存一致性","B+树"]

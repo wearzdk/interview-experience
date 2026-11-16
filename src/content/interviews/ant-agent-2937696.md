@@ -4,6 +4,7 @@ company: 蚂蚁集团
 position: "Agent 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3b05460868c7429193e93f8d09f62794
 tags: ["蚂蚁集团","Agent","Coding Agent","Harness","工具设计","RAG"]

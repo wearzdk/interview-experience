@@ -3,6 +3,7 @@ title: "华云三维 JAVA开发工程师(实习) 二面"
 company: "华云三维"
 position: "JAVA岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 tags: ["Java"]
 summary: "华云三维JAVA岗位面经，整理了原帖中的主要追问，覆盖Java等主题，适合准备相关岗位面试时参考。"
 ---

@@ -3,6 +3,7 @@ title: "一道索引题被拆成三轮：范围截断、隐式转换方向与优
 company: 某公司
 position: 后端开发（实习）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949179116345909248
 tags: ["MySQL","索引失效","索引下推","隐式转换","EXPLAIN","优化器"]

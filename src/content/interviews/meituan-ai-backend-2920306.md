@@ -4,6 +4,7 @@ company: "美团"
 position: "AI 后端开发工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["Java","Agent","Redis","RocketMQ","MySQL","AI Coding"]
 summary: "美团食杂零售 AI 后端秋招一面二面面经：一面围绕实习中的 Agent 平台、SSE 与跨语言通信、Skill 设计与慢 SQL 排查；二面深挖信审链路、令牌桶限流与聚簇索引。"

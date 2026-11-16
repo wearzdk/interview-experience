@@ -4,6 +4,7 @@ company: 快手
 position: 商业化内容运营实习
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ee8be3e0a73a411db8a1e6ed81b86c8c
 tags: ["快手","短剧","商业化","硬广投放","投流","内容运营","实习"]

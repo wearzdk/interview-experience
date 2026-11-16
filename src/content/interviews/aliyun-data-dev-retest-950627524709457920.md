@@ -4,6 +4,7 @@ company: "阿里云"
 position: "数据开发"
 round: "复试"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950627524709457920
 tags: ["阿里云","数据开发","数仓","数据倾斜","SQL优化","实时计算"]

@@ -4,6 +4,7 @@ company: "中国重汽"
 position: "整车开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/f16c7a6d517c44aba296614da4ea62da"
 tags: ["中国重汽", "整车开发", "机械结构", "仿真", "螺纹", "传动", "校招面经"]

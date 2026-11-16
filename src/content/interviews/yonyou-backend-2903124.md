@@ -3,6 +3,7 @@ title: "用友产品研发技术面"
 company: "用友"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "Redis", "JVM", "消息队列", "数据库"]
 summary: "用友产品研发技术面，整理面试中涉及的Java、Redis、JVM、消息队列等重点问题，供求职者准备相关岗位面试时参考。"

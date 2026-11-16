@@ -4,6 +4,7 @@ company: 百度
 position: 服务端开发Go-PHP
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Go","PHP","Redis","Elasticsearch","SQL"]
 summary: "百度服务端开发岗位社招面试分享。面试侧重于项目实战与生产环境排查，涵盖Redis（setnx锁、数据类型）、Elasticsearch应用、Linux日志定位、MySQL数据库设计及AI技术认知。整体无Java八股，面试风格偏向于业务深度与问题解决能力。"

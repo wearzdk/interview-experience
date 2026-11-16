@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI研究算法工程师（计算机视觉）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8fe3335921e748718720669d3674da77
 tags: ["笔试","计算机视觉","算法题","贪心","数论","机器学习","秋招"]

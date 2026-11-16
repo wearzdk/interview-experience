@@ -4,6 +4,7 @@ company: 浩鲸科技
 position: 测试实习生
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0c79875ad38e4842b5ffeb2bdb9b7b58
 tags: ["测试","自动化测试","TestNG","Selenium","SQL","Linux"]

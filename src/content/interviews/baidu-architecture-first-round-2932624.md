@@ -4,6 +4,7 @@ company: "百度"
 position: "后端架构"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a71f97792d0145a7a148556bf45bae60
 tags: ["百度","后端","架构","可观测性","Agent","K8s","零拷贝","MySQL","断点续传"]

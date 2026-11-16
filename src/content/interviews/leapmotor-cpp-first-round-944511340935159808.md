@@ -4,6 +4,7 @@ company: "零跑汽车"
 position: "C++开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944511340935159808
 tags: ["零跑汽车", "C++", "智能指针", "内存对齐", "STL", "手撕"]

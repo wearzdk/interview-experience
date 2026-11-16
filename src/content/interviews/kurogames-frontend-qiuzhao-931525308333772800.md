@@ -3,6 +3,7 @@ title: "库洛游戏前端开发秋招面经：卡顿排查与 Vue 原理"
 company: "库洛游戏"
 position: "前端开发"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931525308333772800
 tags: ["前端","性能优化","Web Worker","Vue","浏览器渲染","秋招"]

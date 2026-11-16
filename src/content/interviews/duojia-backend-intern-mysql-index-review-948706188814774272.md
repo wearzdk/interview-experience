@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发（实习）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948706188814774272
 tags: ["后端实习","联合索引","最左前缀","filesort","执行计划","简历真实性"]

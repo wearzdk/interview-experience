@@ -3,6 +3,7 @@ title: "中科飞测 C# 软件开发 三轮面经：设备数据洪流下的 IPC
 company: "中科飞测"
 position: "C# 软件开发"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b127b45e56074bc9a0e8ee8f7c5efac2
 tags: ["中科飞测","C#","C++","多线程","进程间通信","TCP","依赖注入","设计模式"]

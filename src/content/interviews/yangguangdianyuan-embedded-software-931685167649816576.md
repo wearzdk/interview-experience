@@ -3,6 +3,7 @@ title: "阳光电源嵌入式开发面经：C 语言八股与 MCU 项目"
 company: "阳光电源"
 position: "嵌入式软件开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931685167649816576"
 tags: ["嵌入式", "C 语言", "STM32", "FreeRTOS", "SPI", "I2C", "MQTT", "野指针"]

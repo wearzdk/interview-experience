@@ -4,6 +4,7 @@ company: 拼多多
 position: 服务端研发工程师
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-12'
 source: 牛客网
 tags: ["Java", "Spring Boot", "MySQL", "算法", "大模型"]
 summary: "拼多多服务端研发工程师一面面经，考察拓扑排序、项目实践、大模型基础、Spring AOP及MySQL索引优化。"

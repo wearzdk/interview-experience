@@ -4,6 +4,7 @@ company: "伊戈尔"
 position: "计划专员"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/733641491aba456083402248aaf918e7
 tags: ["伊戈尔", "计划专员", "校招", "生产计划", "行为面试"]

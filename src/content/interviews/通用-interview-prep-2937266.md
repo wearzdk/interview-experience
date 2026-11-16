@@ -4,6 +4,7 @@ company: 通用
 position: 面试准备
 round: "模拟面试"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d4a1855f713f4f039648908c8508922c
 tags: ["模拟面试","项目深挖","提示词","AI工具","面试准备"]

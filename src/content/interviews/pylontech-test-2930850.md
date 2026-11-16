@@ -4,6 +4,7 @@ company: "派能科技"
 position: "测试工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d1a3900b4a4d4667bf93f3df11bdb860
 tags: ["派能科技", "测试", "一面", "硬件", "岗位理解"]

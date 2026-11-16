@@ -3,6 +3,7 @@ title: "帆软后端二面"
 company: "帆软"
 position: "后端岗位"
 date: "2026-09"
+collectedAt: '2026-09-14'
 tags: ["Java", "Redis", "Agent", "数据库"]
 summary: "帆软后端岗位面经，整理了原帖中的主要追问，覆盖Java、Redis、Agent、数据库等主题，适合准备相关岗位面试时参考。"
 ---

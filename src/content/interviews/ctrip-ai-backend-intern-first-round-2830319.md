@@ -4,6 +4,7 @@ company: 携程
 position: AI后端实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Java并发","线程池","分布式锁","JVM调优","微服务"]
 summary: "携程AI后端暑期实习一面面试经验，涵盖Java并发编程、线程池优化与监控、分布式锁、热Key处理、JVM内存管理及Full GC排查等核心后端技术问题，助你快速查漏补缺。"

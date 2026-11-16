@@ -4,6 +4,7 @@ company: "超聚变"
 position: "软件开发"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950746945880862720
 tags: ["超聚变","笔试","素数","模拟题","AI Coding","秋招"]

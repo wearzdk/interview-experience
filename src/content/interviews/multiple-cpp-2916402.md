@@ -4,6 +4,7 @@ company: "多家公司"
 position: "C++后端"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["C++","STL","智能指针","虚函数","协程","TCP"]
 summary: "C++ 面经合集：正孚软件、大梦龙途与辰瑞炽娱三家面试记录，覆盖 vector 与 list 的并发访问、shared_ptr 与 RAII、虚函数实现、epoll 与协程调度、快排复杂度，以及单链表手写与笔试算法题复盘。"

@@ -4,6 +4,7 @@ company: 京东
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 result: 通过
 source: 牛客网
 tags: ["分布式锁","Redis","MySQL","并发编程","大模型应用","分片上传"]

@@ -4,6 +4,7 @@ company: 普渡机器人
 position: 算法测试
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["算法测试","信息融合","耦合","清洁机器人","自动化测试","场景题"]

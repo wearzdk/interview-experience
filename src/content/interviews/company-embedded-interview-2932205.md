@@ -3,6 +3,7 @@ title: "嵌入式面试的追问链：从发一个字节到线上电平，中间
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0ef7239b88814407972194bebfcd47c0
 tags: ["嵌入式","UART","中断","DMA","FreeRTOS","C语言","面试方法论"]

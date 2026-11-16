@@ -4,6 +4,7 @@ company: 飞猪（阿里巴巴飞猪旅行）
 position: Java 后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["Java","MySQL","JVM","Kafka","Spring Boot","大模型-LLM"]
 summary: "飞猪 Java 后端开发一面面经（2026-03），涵盖 MySQL 事务/索引/MVCC、HashMap 与 ConcurrentHashMap、AQS 读写锁底层实现、JVM 内存模型与 GC 算法、Kafka 组件与选型、Spring Boot 自动配置原理、ThreadLocal 弱引用，以及 LLM 大模型实践与 Token 节省策略，含算法题（众数查找）与现场 AI 作业。"

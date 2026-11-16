@@ -4,6 +4,7 @@ company: "招银网络科技"
 position: "Java开发"
 round: "二面、HR面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942118080807723008
 tags: ["Java", "异常", "finally", "SQL", "表连接", "HR面"]

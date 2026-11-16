@@ -4,6 +4,7 @@ company: "影石Insta360"
 position: "HR 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bf788f63407b4c6ea701005784847373
 tags: ["影石Insta360", "HR实习生", "人力资源", "行为面试", "实习", "职业规划"]

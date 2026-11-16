@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "Java开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-16'
 source: "牛客网"
 tags: ["Java", "线程池", "JVM", "MySQL", "Agent"]
 summary: "约一小时的一面，从线程池参数追到 Java 21 虚拟线程，再考接口变慢、CPU 与 GC 排查，以及深分页和区间合并。"

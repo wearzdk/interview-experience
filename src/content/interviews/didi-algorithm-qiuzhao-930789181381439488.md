@@ -3,6 +3,7 @@ title: "滴滴算法秋招凉经：GRPO 监控指标与 Agentic RL 数据链路"
 company: "滴滴"
 position: "大模型算法"
 date: "2026-09"
+collectedAt: '2026-09-22'
 result: "已挂"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930789181381439488"

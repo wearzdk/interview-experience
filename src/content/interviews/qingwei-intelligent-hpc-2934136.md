@@ -4,6 +4,7 @@ company: "清微智能"
 position: "高性能计算"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/79895ee3bdef411aac31f8cbc6bebf1d
 tags: ["清微智能","高性能计算","CUDA","算子优化","矩阵乘","访存"]

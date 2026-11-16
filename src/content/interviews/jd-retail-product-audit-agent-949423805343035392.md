@@ -4,6 +4,7 @@ company: 京东
 position: 商品审核 Agent 开发
 round: "一面、二面"
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949423805343035392
 result: 二面完进池子

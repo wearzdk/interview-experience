@@ -4,6 +4,7 @@ company: "未知公司"
 position: "Unity 客户端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939567338683121664
 tags: ["Unity","一面","Buff机制","红点系统","新手引导","MVC","TCP"]

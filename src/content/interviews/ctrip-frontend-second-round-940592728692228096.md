@@ -4,6 +4,7 @@ company: "携程"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940592728692228096
 tags: ["携程","前端开发","性能优化","Web性能指标","长任务","项目复盘","知识问答平台"]

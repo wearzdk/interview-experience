@@ -4,6 +4,7 @@ company: "科大讯飞"
 position: "AI算法工程师（数据岗）"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c3d85bfa2cf4abf9113511154d54413
 tags: ["笔试","算法题","概率论","C++模板","编译原理","排序","二叉树","数据库"]

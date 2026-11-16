@@ -4,6 +4,7 @@ company: "华为"
 position: "硬件开发"
 round: "一二三面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "已入池"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/757488fee86f493f94daef0d71bbe005

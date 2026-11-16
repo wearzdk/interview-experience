@@ -3,6 +3,7 @@ title: "华润三九营销管培生面经：岗位认知、跑药店意愿与软
 company: "华润三九"
 position: "营销管培生"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940739290651164672"
 tags: ["华润三九","营销管培生","医药营销","岗位认知","沟通能力","校招"]

@@ -4,6 +4,7 @@ company: "京东物流"
 position: "实施与规划"
 round: "校招面试"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "已 offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940734864641253376"

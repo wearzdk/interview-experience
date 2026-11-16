@@ -4,6 +4,7 @@ company: 浙江图讯科技
 position: Java开发实习生
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-06'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/901986023297642496

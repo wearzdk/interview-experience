@@ -4,6 +4,7 @@ company: 伊顿
 position: 嵌入式软件工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949325715286024192
 tags: ["伊顿","嵌入式","RTOS","串级PID","volatile","中断","C++","接口设计"]

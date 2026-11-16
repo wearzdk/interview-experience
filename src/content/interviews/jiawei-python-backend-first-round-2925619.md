@@ -4,6 +4,7 @@ company: "嘉为科技"
 position: "Python 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "进二面"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b620aac6ca9a4f7f940e538ef1120e62

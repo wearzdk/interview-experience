@@ -4,6 +4,7 @@ company: "云鲸智能"
 position: "嵌入式软件开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931841013738401792"
 tags: ["嵌入式","C++","扫地机器人","时间戳对齐","智能指针","内存管理","多线程"]

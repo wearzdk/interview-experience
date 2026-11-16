@@ -4,6 +4,7 @@ company: 恒生电子
 position: 后端开发（Java）
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 凉经
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9c6a3b9864e47d28ff103c296719b4f

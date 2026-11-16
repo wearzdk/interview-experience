@@ -4,6 +4,7 @@ company: 中国移动
 position: "技术岗"
 round: "AI面试"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/00b6aba26fd7494db92d9f65b47f9dcf
 tags: ["中国移动","AI面试","行为面试","宝洁八大问","秋招"]

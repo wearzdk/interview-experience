@@ -4,6 +4,7 @@ company: "转转"
 position: "HR 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8f64929c3b8d460bb08ab824faacac60
 tags: ["转转","HR实习","人才画像","人才mapping","招聘"]

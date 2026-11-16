@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "一面已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/18c57693dd4c4f5f98628b460ddb9dc0

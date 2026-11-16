@@ -4,6 +4,7 @@ company: "滴滴"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3312fe251e6e436d95ed721878abde50
 tags: ["滴滴","后端开发","高并发","库存超卖","Redis","限流","线程保护","可用性","算法"]

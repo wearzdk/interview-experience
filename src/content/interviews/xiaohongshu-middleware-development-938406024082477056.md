@@ -4,6 +4,7 @@ company: 小红书
 position: 中间件研发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938406024082477056
 tags: ["中间件","RocketMQ","延时消息","时间轮","线程池","滑动窗口"]

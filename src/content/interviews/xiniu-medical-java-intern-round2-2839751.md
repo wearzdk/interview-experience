@@ -4,6 +4,7 @@ company: 熙牛医疗
 position: java后端日常实习
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-21'
 source: 牛客网
 tags: ["Redis","Redisson","MySQL","索引优化","缓存击穿"]
 summary: "熙牛医疗Java后端实习二面面经，面试重点考察项目经历及底层技术深度。涵盖Redisson看门狗机制、Redis缓存击穿解决方案、MySQL联合索引失效场景及索引最左前缀原则等核心知识点。适合准备后端实习的同学参考备考。"

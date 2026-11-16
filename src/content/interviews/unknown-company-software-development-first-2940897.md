@@ -4,6 +4,7 @@ company: 某公司
 position: 软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/49eb4e88c5fe4a9aa288f52c80d16eae
 tags: ["某公司","软件开发","一面","手撕","数据结构","红黑树","编译过程","死锁"]

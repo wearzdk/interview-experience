@@ -4,6 +4,7 @@ company: "中科芯"
 position: "算子开发（加速库）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5cbbfe5350b54cb98400bf13d45aea53
 tags: ["中科芯", "算子开发", "一面", "CUDA", "OpenMP", "MPI", "矩阵乘", "稀疏矩阵"]

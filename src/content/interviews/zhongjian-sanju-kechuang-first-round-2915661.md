@@ -4,6 +4,7 @@ company: 中建三局科创公司
 position: 工程技术类岗位
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 一面通过
 source: 牛客网
 tags: ["校招","央企","面试流程","个人发展","offer"]

@@ -3,6 +3,7 @@ title: "布隆过滤器误判率怎么算：被追问容量与恶意刷的场景
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949181642390642688
 tags: ["布隆过滤器","缓存穿透","误判率","Redis","限流","场景题"]

@@ -4,6 +4,7 @@ company: "麦格米特"
 position: "嵌入式软件"
 round: "技术面 / HR 面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/fea19350b3754c07b923f21dd25b1b3f"
 tags: ["麦格米特", "嵌入式", "C语言", "UART", "I2C", "PWM", "HR面"]

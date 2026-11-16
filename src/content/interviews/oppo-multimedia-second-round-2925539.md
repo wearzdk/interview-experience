@@ -4,6 +4,7 @@ company: "OPPO"
 position: "多媒体开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d9d1e336f8b349d0b900b1d5fb716cb0
 tags: ["OPPO","多媒体开发","二面","内存问题","select","epoll","内核"]

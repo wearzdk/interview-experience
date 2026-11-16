@@ -4,6 +4,7 @@ company: "某中小厂"
 position: "研发工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c7b193fbdbed4008840926b30feebd56
 tags: ["面经","项目深挖","代码审核","AI 编程","实习"]

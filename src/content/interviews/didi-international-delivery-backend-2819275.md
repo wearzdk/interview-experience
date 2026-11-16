@@ -3,6 +3,7 @@ title: 滴滴国际化外卖后端面试经历
 company: 滴滴
 position: 国际化外卖后端
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 挂
 base: 北京
 source: 牛客网

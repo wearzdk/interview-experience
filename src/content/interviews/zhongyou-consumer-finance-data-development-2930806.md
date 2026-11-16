@@ -4,6 +4,7 @@ company: "中邮消费金融"
 position: "数据开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e38a3c732f514e55af2225dad0a01831
 tags: ["中邮消费金融", "数据开发", "HDFS", "数据湖", "Flink", "Spark", "Hive"]

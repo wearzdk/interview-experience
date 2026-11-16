@@ -4,6 +4,7 @@ company: 北京仁科信息
 position: AI 测试工程师
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0311ddf91c1d4248945c8d24ffc001a1
 tags: ["北京仁科信息","AI测试","编码器","Agent评测","测试用例","社招"]

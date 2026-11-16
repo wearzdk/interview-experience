@@ -3,6 +3,7 @@ title: "滴滴大模型算法岗面经（同场第二份记录）：从注意力
 company: "滴滴"
 position: "大模型算法"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/3646509ff0344342958edf0a00a47ba6"
 tags: ["滴滴","大模型","多头注意力","GRPO","vLLM","RAG","BGE","FAISS","GraphRAG","算法"]

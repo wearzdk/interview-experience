@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI全栈开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932587389027962880
 tags: ["AI全栈","AI Pipeline","Doris","实时数仓","WebSocket","幂等"]

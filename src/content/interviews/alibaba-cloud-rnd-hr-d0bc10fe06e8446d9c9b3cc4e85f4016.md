@@ -4,6 +4,7 @@ company: "阿里云"
 position: "研发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d0bc10fe06e8446d9c9b3cc4e85f4016
 tags: ["HR面","阿里云","职业规划","跨团队协作","实习转正","秋招","base"]

@@ -3,6 +3,7 @@ title: "涂装工艺笔试记录：单选 15 道占 60 分，考焊接与机械�
 company: "某制造企业"
 position: "涂装工艺"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4af0c8397a6144ffb7407eb98d516182
 tags: ["涂装工艺","笔试","焊接","机械加工","腐蚀","制造业","校招"]

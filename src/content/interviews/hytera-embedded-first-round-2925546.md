@@ -4,6 +4,7 @@ company: "海能达"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b34f05fc9fd547fea50bf31dae34e4f2
 tags: ["海能达","嵌入式","一面","Linux驱动","SPI","IIC","gdb"]

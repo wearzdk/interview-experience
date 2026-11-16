@@ -4,6 +4,7 @@ company: "去哪儿"
 position: "测试开发"
 round: "一面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931694858605981696"
 tags: ["测试开发", "测试 Agent", "RAG", "索引", "MySQL", "ConcurrentHashMap", "Redis", "测试用例设计"]

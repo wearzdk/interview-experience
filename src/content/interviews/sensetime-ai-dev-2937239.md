@@ -4,6 +4,7 @@ company: 商汤
 position: AI 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c93f091675f84c4a96d519dbe933cb0d
 tags: ["RAG","切片策略","重排","BM25","Memory"]

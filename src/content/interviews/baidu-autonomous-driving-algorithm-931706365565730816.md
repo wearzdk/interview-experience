@@ -3,6 +3,7 @@ title: 百度 算法岗面经 两轮 智驾决策与大模型
 company: 百度
 position: 算法工程师（智驾方向）
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931706365565730816
 tags: ["自动驾驶","决策算法","强化学习","GRPO","大模型","数据清洗"]

@@ -3,6 +3,7 @@ title: "后端面试复盘：从一面被刷到拿到大厂 SP 的五个转变"
 company: "牛客用户分享"
 position: "后端开发"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939962451221561344
 tags: ["面试复盘","后端开发","系统设计","八股复习","算法刷题","求职心态","秋招经验"]

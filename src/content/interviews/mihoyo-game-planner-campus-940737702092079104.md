@@ -3,6 +3,7 @@ title: "米哈游 游戏策划 校招面经：剧本、矛盾设计与节奏感�
 company: "米哈游"
 position: "游戏策划"
 date: "2026-10"
+collectedAt: '2026-10-16'
 result: "未拿到offer"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940737702092079104"

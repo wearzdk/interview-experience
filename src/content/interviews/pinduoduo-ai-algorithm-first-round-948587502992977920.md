@@ -4,6 +4,7 @@ company: 拼多多
 position: AI 算法工程师（大模型方向）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948587502992977920
 tags: ["拼多多","大模型","知识内化","微调","RAG","Agent","手撕","面试复盘"]

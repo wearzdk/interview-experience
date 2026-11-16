@@ -4,6 +4,7 @@ company: 汉森
 position: 技术支持
 round: HR面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946878580355559424
 tags: ["HR面", "技术支持", "角色扮演", "自我介绍"]

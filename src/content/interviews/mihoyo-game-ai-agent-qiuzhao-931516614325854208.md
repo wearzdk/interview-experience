@@ -3,6 +3,7 @@ title: "米哈游游戏AI研发（Agent）秋招面经"
 company: "米哈游"
 position: "游戏AI研发（Agent方向）"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931516614325854208"
 tags: ["Agent","RAG","长期记忆","多模态","幻觉防护"]

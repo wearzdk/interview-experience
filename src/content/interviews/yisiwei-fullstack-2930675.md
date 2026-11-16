@@ -4,6 +4,7 @@ company: "易思维"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1826d65317724404a5d7a9820c243674
 tags: ["易思维", "全栈", "一面", "高并发", "GMP", "AI工具"]

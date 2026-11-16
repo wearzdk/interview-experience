@@ -4,6 +4,7 @@ company: "多益网络"
 position: "技术岗"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "未录用"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939656252240429056

@@ -4,6 +4,7 @@ company: "宝丰集团"
 position: "校招（HR 面）"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f797ec11dea74a4c91b4559c595037a9
 tags: ["宝丰集团","HR面","校招","自我介绍","企业认知","面试流程"]

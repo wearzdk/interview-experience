@@ -4,6 +4,7 @@ company: 南京帝感智能
 position: 光学工程师
 round: 初面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3d9debefa25433287bb341516ca8097
 tags: ["光学工程师","硬件测试","实习经历","社招","简历深挖"]

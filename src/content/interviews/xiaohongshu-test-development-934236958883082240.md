@@ -4,6 +4,7 @@ company: "小红书"
 position: "测试开发"
 round: "多轮面试合集"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934236958883082240
 tags: ["测试开发", "自动化测试", "持续集成", "前端工程化", "用户研究", "面试合集"]

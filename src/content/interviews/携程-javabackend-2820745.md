@@ -4,6 +4,7 @@ company: 携程
 position: Java后端
 round: 二面
 date: '2026-03'
+collectedAt: '2026-03-26'
 source: 牛客网
 tags: ["Java", "Redis", "MySQL", "Kafka", "分布式"]
 ---

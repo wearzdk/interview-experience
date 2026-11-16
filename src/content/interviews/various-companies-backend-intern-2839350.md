@@ -3,6 +3,7 @@ title: 26届后端java-go求职心得与面经汇总
 company: 多公司汇总
 position: 后端开发-实习生
 date: '2026-04'
+collectedAt: '2026-04-21'
 base: 成都
 source: 牛客网
 tags: ["Java","Spring","JVM","并发编程","算法","微服务"]

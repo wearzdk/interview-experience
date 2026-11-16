@@ -3,6 +3,7 @@ title: "涂鸦智能"
 company: "某公司"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Kafka","并发","面试经验","后端开发"]
 summary: "某公司Java后端开发工程师面试记录，覆盖Java、Kafka、并发、面试经验等考点，整理了面试流程与高频问题。"

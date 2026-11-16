@@ -4,6 +4,7 @@ company: "希望森兰"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7787707b3d3b41a5b6ebe4f0672821bc
 tags: ["希望森兰","嵌入式","STM32","定时器","MCU","HAL库"]

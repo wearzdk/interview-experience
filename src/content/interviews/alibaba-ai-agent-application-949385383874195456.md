@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: AI Agent 应用开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949385383874195456
 tags: ["阿里","AI Agent","MCP","KV Cache","HNSW","RAG","幂等","提示注入"]

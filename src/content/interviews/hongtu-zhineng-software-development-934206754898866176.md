@@ -4,6 +4,7 @@ company: "宏图智能"
 position: "软件开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934206754898866176
 tags: ["Agent", "MCP", "Function Calling", "Spring MVC", "ER图", "MySQL", "慢查询"]

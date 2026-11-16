@@ -4,6 +4,7 @@ company: 帆软
 position: Java 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b3a2662bbefb4dfb94eeb2548246573e
 tags: ["Java", "AST", "Agent", "Token优化", "CopyOnWriteArrayList", "算法题"]

@@ -4,6 +4,7 @@ company: "MiniMax"
 position: "大模型算法（后训练）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940356115794018304
 tags: ["MiniMax","大模型","后训练","SFT","GRPO","DPO","数据合成"]

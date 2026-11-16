@@ -4,6 +4,7 @@ company: 字节跳动
 position: AI 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["Java","Redis","Spring","JVM","算法"]
 summary: "字节跳动AI后端开发日常实习一面面经。重点考察Java核心知识（HashMap、JVM、AOP）、Redis分布式锁及应用、数据库事务隔离级别，并包含最长回文子串算法手撕题，适合Java后端求职者备考参考。"

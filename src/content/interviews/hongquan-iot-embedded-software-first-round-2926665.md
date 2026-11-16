@@ -4,6 +4,7 @@ company: "鸿泉物联"
 position: "嵌入式软件"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6d1834d8664a48c499b9303bcd97e54b
 tags: ["嵌入式","Bootloader","OTA","数据结构","AI工具","简历深挖"]

@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c687af27a503401888e6b41c0f5ece93
 tags: ["字节跳动","后端","消息队列","MCP","场景题","算法"]

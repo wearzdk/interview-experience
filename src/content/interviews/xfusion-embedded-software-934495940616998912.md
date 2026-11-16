@@ -4,6 +4,7 @@ company: "超聚变"
 position: "嵌入式软件"
 round: "二面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934495940616998912
 tags: ["嵌入式", "通信协议", "UART", "SPI", "I2C", "CAN", "Bootloader"]

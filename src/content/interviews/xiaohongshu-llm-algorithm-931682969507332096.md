@@ -3,6 +3,7 @@ title: "小红书大模型算法面经：笔试到 HR 面全流程"
 company: "小红书"
 position: "大模型算法"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931682969507332096"
 tags: ["大模型算法", "多模态", "LoRA", "推荐系统", "特征工程", "AB 实验", "手撕代码"]

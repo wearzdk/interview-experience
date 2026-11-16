@@ -4,6 +4,7 @@ company: 腾讯
 position: 后台开发（暑期实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949072652134522880
 tags: ["腾讯","后台开发","实习","Java","HashMap","ConcurrentHashMap","JVM","RAG"]

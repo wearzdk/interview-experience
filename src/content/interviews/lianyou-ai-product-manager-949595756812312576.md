@@ -4,6 +4,7 @@ company: 联友科技
 position: AI 产品经理
 round: 技术面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949595756812312576
 tags: ["联友科技","AI产品经理","SpringBoot","自动装配","Starter","产品经理技术面"]

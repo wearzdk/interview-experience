@@ -4,6 +4,7 @@ company: 比特大陆
 position: 算法工程师（推理优化与量化部署）
 round: 一面、二面
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945097652683759616
 tags: ["比特大陆","算能","量化","QAT","TensorRT","YOLO","NPU"]

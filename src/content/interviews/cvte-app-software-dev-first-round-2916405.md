@@ -4,6 +4,7 @@ company: "CVTE"
 position: "应用软件开发"
 round: "一面+HR面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 tags: ["Agent","ReAct","SSE","计算机网络","多智能体","HR面"]
 summary: "CVTE 应用软件开发岗 9 月 15 日技术面加综合面记录：围绕 ReAct 与 Plan、Multi-Agent 的选型展开，深挖 SSE 原理与流式输出实现、域名解析到页面渲染的全链路、拥塞控制与流量控制，并手撕高精度加法与买卖股票。"

@@ -4,6 +4,7 @@ company: 小米
 position: 后端开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","Redis","MySQL","Spring","分布式","算法"]
 summary: "本篇面经记录了小米后端Java开发岗2026春招一面经历。面试重点考察了实习项目架构设计、Redis队列与RocketMQ对比、热key与布隆过滤器原理、MySQL MVCC机制、Spring循环依赖处理及AI辅助编程工具应用，并包含最小堆和动态规划算法题。"

@@ -4,6 +4,7 @@ company: "滴滴"
 position: "AI Infra 算法工程师"
 round: "一面二面"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["AI Infra","大模型推理","KV Cache","CUDA","分布式训练"]
 summary: "滴滴 AI Infra 算法岗一二面：一面考 Attention 优化、KV Cache 显存计算与 ZeRO 分片；二面深挖流水线调度、分布式 Decode 与 PyTorch 编译栈。"

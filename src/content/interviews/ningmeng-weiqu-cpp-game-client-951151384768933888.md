@@ -4,6 +4,7 @@ company: 柠檬微趣
 position: C++ 游戏客户端开发
 round: 线下面试
 date: '2026-11'
+collectedAt: '2026-11-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/951151384768933888
 tags: ["柠檬微趣","C++","游戏客户端","内存管理","红黑树","哈希表"]

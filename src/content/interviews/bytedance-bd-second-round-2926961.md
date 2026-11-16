@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "BD"
 round: "群面+二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "OC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b7b57e3492534d3786b815cefdbfa1eb

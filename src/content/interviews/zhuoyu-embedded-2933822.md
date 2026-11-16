@@ -4,6 +4,7 @@ company: "卓驭"
 position: "嵌入式软件（系统集成）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/298330d3491f4d02a6532caad286659c
 tags: ["卓驭","嵌入式","Linux","多线程","虚拟内存","智能指针","编译链接"]

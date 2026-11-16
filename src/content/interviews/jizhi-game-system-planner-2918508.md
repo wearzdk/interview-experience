@@ -4,6 +4,7 @@ company: "极致游戏"
 position: "系统策划"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-27'
 result: "已挂"
 source: 牛客网
 tags: ["游戏策划", "系统策划", "游戏经历", "HR面", "期望薪资"]

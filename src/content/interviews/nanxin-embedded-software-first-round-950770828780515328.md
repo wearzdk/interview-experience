@@ -4,6 +4,7 @@ company: 南芯
 position: 嵌入式软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950770828780515328
 tags: ["南芯","嵌入式软件","线程同步","串口通信","设备树","platform 驱动"]

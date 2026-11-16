@@ -4,6 +4,7 @@ company: "极智嘉"
 position: "软件开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8a2effe9adf249cdb9603e5ebe12be96
 tags: ["极智嘉", "三面", "具身智能", "物流机器人", "ToB", "职业规划", "实习复盘"]

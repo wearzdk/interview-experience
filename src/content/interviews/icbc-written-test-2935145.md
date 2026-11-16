@@ -4,6 +4,7 @@ company: "工商银行"
 position: "银行笔试"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/dc77197550d2487f8a8180733428dd2a"
 tags: ["工商银行","银行笔试","资料分析","数量关系","英语","计算机知识","秋招"]

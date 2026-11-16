@@ -4,6 +4,7 @@ company: 多家公司
 position: AI平台工程师
 round: 多轮面试合集
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/728a5633ee9d42b39c28041e98080109
 tags: ["AI平台","大模型应用","MCP","JSON-RPC","Agent","DORA","归因"]

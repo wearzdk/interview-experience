@@ -4,6 +4,7 @@ company: 腾讯视频
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 挂
 source: 牛客网
 tags: ["MySQL","Redis","Java","排序算法","AI Agent","高并发"]

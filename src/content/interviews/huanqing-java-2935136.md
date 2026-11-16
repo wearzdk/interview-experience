@@ -3,6 +3,7 @@ title: "寰擎信息 Java 开发面经：从 ArrayList 扩容问到 Spring 事�
 company: "寰擎信息"
 position: "Java开发"
 date: "2026-10"
+collectedAt: '2026-10-31'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/8ca87f72070e49de8dcf8ce05ef5e3e1"
 tags: ["寰擎信息","Java","线程池","MySQL","Spring","JVM","设计模式"]

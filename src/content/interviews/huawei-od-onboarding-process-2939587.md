@@ -4,6 +4,7 @@ company: "华为"
 position: "软件开发（OD）"
 round: "多场"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/66d8cf42f04b486481a4984a621018d7
 tags: ["华为","OD","社招","性格测试","技术面","主管面","手撕代码","面经"]

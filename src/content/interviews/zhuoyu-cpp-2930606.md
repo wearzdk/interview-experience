@@ -4,6 +4,7 @@ company: "卓驭科技"
 position: "C++ 开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f66858c6432f402e828c3768febcc7e4
 tags: ["卓驭科技", "C++", "NPU", "线程池", "内存池", "多线程", "HR面"]

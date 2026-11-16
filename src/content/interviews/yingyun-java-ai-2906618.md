@@ -4,6 +4,7 @@ company: 杭州赢云贸易
 position: Java开发
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-09'
 source: 牛客网
 tags: ["AI应用","项目复盘","职业经历"]
 summary: "杭州赢云贸易Java开发AI面试，围绕AI对工作方式的影响、真实交付案例、项目复盘和工具使用经验展开。"

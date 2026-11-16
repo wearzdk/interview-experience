@@ -4,6 +4,7 @@ company: 阶跃星辰（StepFun）
 position: AI 评测算法
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/68924c2475314c068f0bb31dc2b2a732
 tags: ["阶跃星辰","AI评测","后训练","数据合成","评测集","judge","harness","Codex","Agent Loop","沙箱","GDPval","AI Coding"]

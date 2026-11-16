@@ -4,6 +4,7 @@ company: 拼多多
 position: 前端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 result: 凉经
 source: 牛客网
 tags: ["前端", "项目拷打", "手撕代码", "性能监控"]

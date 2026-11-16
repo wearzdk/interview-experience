@@ -3,6 +3,7 @@ title: "超维无际面试复盘：不读简历的面试官与共享屏幕手撕
 company: "超维无际"
 position: "未注明"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/607545cb9369443883ba4fac72bb0669"
 tags: ["超维无际", "面试复盘", "手撕代码", "共享屏幕", "面试心态"]

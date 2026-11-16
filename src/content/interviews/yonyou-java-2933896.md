@@ -4,6 +4,7 @@ company: "用友"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4cbb1ff9b7e14581adc7a0ee90c09495
 tags: ["用友","Java","达梦数据库","ERP","驻场开发"]

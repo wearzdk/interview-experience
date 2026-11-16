@@ -3,6 +3,7 @@ title: 得物2026春招后端开发面试经验
 company: 得物
 position: 后端开发
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","并发编程","JVM","MySQL","Redis"]
 summary: "得物2026春招后端开发面试经验分享，涵盖Java基础（HashMap、并发）、JVM内存模型与垃圾回收、MySQL索引与事务、Redis缓存穿透/击穿/雪崩处理、分布式锁及接口限流等核心面试考点，助力后端求职备考。"

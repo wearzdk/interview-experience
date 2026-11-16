@@ -4,6 +4,7 @@ company: "某互联网公司"
 position: "后端开发"
 round: "二面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/241ead64c4754e49b52b4796520fa0c7
 tags: ["后端开发","Go","Kafka","Redis分布式锁","幂等","Milvus","BM25","Rerank","性能优化"]

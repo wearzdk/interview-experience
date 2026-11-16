@@ -4,6 +4,7 @@ company: "Robosense（速腾聚创）"
 position: "机器人算法"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6bab968404434a9ca05e77646310e4cb

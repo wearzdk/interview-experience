@@ -3,6 +3,7 @@ title: 深圳某小厂Java后端面试记录
 company: 深圳某小厂
 position: Java后端工程师
 date: '2026-03'
+collectedAt: '2026-04-05'
 base: 深圳
 source: 牛客网
 tags: ["Java","MySQL","Redis","Docker","多线程"]

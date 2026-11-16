@@ -3,6 +3,7 @@ title: "天翼视联产品面经"
 company: "天翼视联"
 position: "产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 base: "杭州"
 source: 牛客网
 tags: ["用户研究", "项目深挖", "产品经理"]

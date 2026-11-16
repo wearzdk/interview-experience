@@ -4,6 +4,7 @@ company: "诺瓦星云"
 position: "产品与解决方案工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/934396260184752128
 tags: ["售前", "解决方案", "B端", "竞品分析", "客户调研", "轮岗", "一面"]

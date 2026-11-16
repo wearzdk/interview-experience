@@ -4,6 +4,7 @@ company: "陕汽控股"
 position: "综合岗"
 round: "笔试"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930800853399662592"
 tags: ["国企笔试","笔试真题","企业文化","常识判断","陕汽控股"]

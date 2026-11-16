@@ -3,6 +3,7 @@ title: 9.2 美团--一面
 company: 美团
 position: AI后端开发
 date: '2026-09'
+collectedAt: '2026-09-02'
 source: 牛客网
 tags: ["Java", "RAG", "支付", "MySQL", "算法"]
 summary: 美团零食杂售研发部 AI 后端一面，涉及项目迁移、RAG、支付幂等、索引优化和 Top-K 算法。

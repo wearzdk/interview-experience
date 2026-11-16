@@ -4,6 +4,7 @@ company: 万丈金数
 position: 服务端开发工程师
 round: 二面
 date: '2026-06'
+collectedAt: '2026-07-01'
 result: OC
 source: 牛客网
 tags: ["MySQL","事务隔离级别","Git","索引","异常处理"]

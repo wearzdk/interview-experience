@@ -4,6 +4,7 @@ company: "某小厂"
 position: "Java 实习生"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/91df7931343241cea645e86867f2e865
 tags: ["Java", "实习", "秒杀", "订单号", "RAG", "Agent"]

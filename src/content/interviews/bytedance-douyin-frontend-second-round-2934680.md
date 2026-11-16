@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "前端开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-11-02'
 result: "二面通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c5ef075bb7d4b348b3c0ad22a0b94bf

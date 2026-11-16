@@ -4,6 +4,7 @@ company: "小红书"
 position: "后端开发"
 round: "二面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已oc"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938218365267595264"

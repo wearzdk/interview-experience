@@ -4,6 +4,7 @@ company: "英杰晨晖"
 position: "ARM开发"
 round: "复试"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0f800576d04c4d9b8efde9d372cf18a9
 tags: ["嵌入式","ARM","FreeRTOS","端侧推理","物联网","复试"]

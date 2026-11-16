@@ -3,6 +3,7 @@ title: 珍林网络 Java 面试题
 company: 珍林网络
 position: Java
 date: '2026-04'
+collectedAt: '2026-04-07'
 source: 牛客网
 tags: ["Java","Redis","Spring Boot","分布式锁","数据库索引"]
 summary: "珍林网络Java岗位面试题，涵盖IPv6优势、Java泛型机制、电商超卖解决方案、Redis分布式锁设计、数据库索引优化、Spring事务嵌套及Bean生命周期等核心技术点，助力求职者高效备战后端开发面试。"

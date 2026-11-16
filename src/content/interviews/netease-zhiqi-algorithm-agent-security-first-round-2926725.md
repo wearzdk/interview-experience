@@ -4,6 +4,7 @@ company: "网易智企"
 position: "算法工程师（Agent 安全方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/39a0379d36174ddea5447ddc6b414168
 tags: ["网易智企","算法工程师","Agent安全","GenAI","语义分析","实习项目"]

@@ -5,6 +5,7 @@ position: 嵌入式软件开发
 round: 一面二面
 base: 东莞松山湖
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947059125291118592
 tags: ["嵌入式", "C语言", "Linux", "操作系统", "TCP", "手撕代码"]

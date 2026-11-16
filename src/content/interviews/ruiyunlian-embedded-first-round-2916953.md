@@ -4,6 +4,7 @@ company: 睿云联
 position: 嵌入式软件
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-24'
 source: 牛客网
 tags: ["嵌入式","RTOS","上下文切换","bootloader","通信协议"]
 summary: "睿云联嵌入式软件一面（9.22），业务偏楼宇对讲的应用层开发：从上下文切换、抢占式调度、指针与互斥锁问起，再深入 bootloader 设计、flash 受限下的升级可靠性、云端通信协议与端侧模型精度。"

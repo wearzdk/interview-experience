@@ -4,6 +4,7 @@ company: "绿萌科技"
 position: "嵌入式软件开发"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940532100006948864
 tags: ["绿萌科技","嵌入式软件开发","项目复盘","跨团队协作","现场联调","职业素养"]

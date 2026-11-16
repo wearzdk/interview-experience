@@ -4,6 +4,7 @@ company: "满帮集团"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a594d16291ca45498dd7bf094c0d1838
 tags: ["满帮", "全栈开发", "一面", "Kafka", "消息队列", "幂等", "冷热归档", "联合索引", "Java版本"]

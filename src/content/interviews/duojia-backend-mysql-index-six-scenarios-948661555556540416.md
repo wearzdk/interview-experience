@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 面试复盘
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948661555556540416
 tags: ["MySQL","索引失效","执行计划","SQL优化","后端面试","八股"]

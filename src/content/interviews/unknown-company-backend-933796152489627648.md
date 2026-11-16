@@ -3,6 +3,7 @@ title: "面试官问：你怎么排查线上的 OOM 问题？"
 company: "某公司"
 position: "后端开发"
 date: '2026-09'
+collectedAt: '2026-09-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/933796152489627648
 tags: ["Java", "JVM", "OOM", "HeapDump", "线上问题排查"]

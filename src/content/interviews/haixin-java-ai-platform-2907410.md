@@ -3,6 +3,7 @@ title: 海信软件开发工程师AI平台方向笔试
 company: 海信集团
 position: 软件开发
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 tags: ["Java", "算法", "哈希", "博弈论"]
 ---

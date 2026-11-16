@@ -4,6 +4,7 @@ company: "xx科技"
 position: "AI算法（科研助理）"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI算法","机器学习","Transformer","ViT","SVM","论文阅读"]
 summary: "一家做 AI 医学的匿名公司一面记录（9 月 23 日，约 1 小时 10 分钟）：从本科专业课与模式识别切入，连问 SVM、CNN、RNN 到 Transformer 与 ViT，追问自注意力与编解码结构、GPT 与 BERT 的差别，并现场考察文献阅读能力。"

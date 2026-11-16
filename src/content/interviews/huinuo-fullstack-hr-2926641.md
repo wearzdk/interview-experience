@@ -4,6 +4,7 @@ company: "汇诺"
 position: "全栈开发"
 round: "HR面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/98ee2afbb95b41d18b60d8fa2c73eb83
 tags: ["HR面","全栈开发","校招","薪资","FDE"]

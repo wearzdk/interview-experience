@@ -4,6 +4,7 @@ company: 北京宏途创联科技有限公司
 position: Java开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-09'
 result: 凉经
 base: 北京
 source: 牛客网

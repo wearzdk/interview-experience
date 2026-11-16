@@ -4,6 +4,7 @@ company: 小红书
 position: AI产品经理
 round: 笔试
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 tags: ["AI产品经理","笔试","Agent中台","PRD","原型设计"]
 summary: "小红书AI平台产品岗笔试复盘：给三天时间，用官方提供的模型额度在线手搓一个Agent搭建中台的MVP，并产出一期、二期方案PRD。作者记录了在限速的云端环境里用大模型写PRD与HTML原型的过程，以及自研与现成模型在长约束任务上的表现差异。"

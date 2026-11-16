@@ -4,6 +4,7 @@ company: "格力"
 position: "硬件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2434865905d470ba64c22dd31384a80
 tags: ["格力","硬件工程师","芯片选型","外设","原理图","信号采集"]

@@ -4,6 +4,7 @@ company: "清微智能"
 position: "高性能计算"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d1a72fe70eb74446b8947a4648c7337a
 tags: ["清微智能", "高性能计算", "CUDA", "FlashAttention", "FP16", "BF16", "SpMV"]

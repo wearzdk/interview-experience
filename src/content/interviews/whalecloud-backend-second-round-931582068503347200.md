@@ -4,6 +4,7 @@ company: "浩鲸科技"
 position: "后端开发"
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931582068503347200
 tags: ["Agent","RAG","文档检索","薪资期望","面试流程"]

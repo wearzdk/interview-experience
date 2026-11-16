@@ -4,6 +4,7 @@ company: "360"
 position: "AI 应用开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "一面已过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/dcf2de29407e436bbdfecd2740f0ae68

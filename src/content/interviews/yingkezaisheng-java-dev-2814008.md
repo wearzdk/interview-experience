@@ -3,6 +3,7 @@ title: 英科再生 Java开发面经
 company: 英科再生
 position: Java开发
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Spring Security","JWT","Kafka","MySQL","Elasticsearch"]
 summary: "英科再生Java开发面试题分享。面试重点围绕项目实战与核心中间件，涵盖Spring Security与JWT安全认证机制、Kafka底层原理及数据流向、MySQL存储架构优化、Elasticsearch搜索底层原理等高频面试考点。"

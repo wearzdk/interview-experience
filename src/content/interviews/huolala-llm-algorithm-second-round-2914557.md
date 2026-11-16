@@ -4,6 +4,7 @@ company: 货拉拉
 position: 大模型算法工程师
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["大模型算法","Agent","上下文管理","记忆机制","评测"]
 summary: "货拉拉大模型方向二面面经。从实习难点切入，追问 LLM 沉淀结果的评估与冲突重合处理、firstcoder 与其它 coding agent 的差异、上下文为什么要压缩、上下文与记忆的区别、记忆如何沉淀，以及测评方案。"

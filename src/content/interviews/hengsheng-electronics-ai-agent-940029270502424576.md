@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "AI Agent开发"
 round: "面试合集"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940029270502424576
 tags: ["恒生电子","AI Agent","后端开发","Redis","MySQL","Python","LangGraph","RAG"]

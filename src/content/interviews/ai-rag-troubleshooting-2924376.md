@@ -3,6 +3,7 @@ title: "RAG 取不到数据怎么排查？三个回答层次见水平"
 company: "某互联网公司"
 position: "AI 应用开发"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c87a183d8e02401db3b35e2097ec249a
 tags: ["RAG","向量检索","召回","Rerank","Query改写","大模型","AI面试"]

@@ -4,6 +4,7 @@ company: "深度赋智"
 position: "Agent 算法"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947993571775242240
 tags: ["深度赋智", "Agent", "PPO", "DPO", "GRPO", "Harness", "上下文压缩"]

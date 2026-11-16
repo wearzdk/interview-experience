@@ -4,6 +4,7 @@ company: 去哪儿
 position: AI应用开发
 round: AI面试
 date: '2026-09'
+collectedAt: '2026-09-06'
 source: 牛客网
 tags: ["HashMap","volatile","Redis","QUIC","操作系统","系统设计"]
 summary: "去哪儿AI应用开发AI面试面经，主要考察HashMap写入与扩容、volatile实现、Redis过期键删除、HTTP/3与QUIC、进程线程，以及高吞吐延迟消息组件设计和技术项目经历。"

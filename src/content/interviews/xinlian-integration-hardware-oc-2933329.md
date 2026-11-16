@@ -4,6 +4,7 @@ company: "芯联集成"
 position: "硬件工艺工程师"
 round: "技术面 + HR面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "已 OC"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f4badbbc82bf44fe85362ad24ca159af

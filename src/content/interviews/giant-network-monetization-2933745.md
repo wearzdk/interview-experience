@@ -4,6 +4,7 @@ company: "巨人网络"
 position: "商业化策划"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/c00d9092745949d899f7db0a0c4d7147
 tags: ["巨人网络","游戏策划","商业化","卡池","付费设计"]

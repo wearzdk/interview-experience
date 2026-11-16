@@ -4,6 +4,7 @@ company: "顺丰"
 position: "Java 后端"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: 牛客网
 tags: ["Java", "缓存", "分布式锁", "类加载", "LLM"]
 summary: "顺丰 Java 二面，围绕 Caffeine + Redis 二级缓存一致性、Redisson 与 SETNX 的差异、LLM 上下文记忆方案，以及自定义 JDK 同名类能否被加载展开。"

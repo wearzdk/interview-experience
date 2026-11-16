@@ -4,6 +4,7 @@ company: "恒玄科技"
 position: "嵌入式软件开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3aad9eb16627424a93ad6676092f8cd9
 tags: ["恒玄科技","嵌入式","RTOS","互斥锁","volatile","SPI","I2C"]

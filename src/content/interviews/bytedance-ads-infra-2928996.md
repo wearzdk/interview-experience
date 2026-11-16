@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "广告基础设施（Ads Infra）"
 round: "四面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/b14468adca0840aa8ebc5fe21b1688d6"
 tags: ["字节跳动", "广告基础设施", "Ads Infra", "micro benchmark", "生成式召回", "性能优化", "论文阅读"]

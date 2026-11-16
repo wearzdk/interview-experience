@@ -4,6 +4,7 @@ company: TikTok
 position: AI后台开发
 round: 二面
 date: '2026-04'
+collectedAt: '2026-04-04'
 source: 牛客网
 tags: ["后台开发","K8s","协程","网络协议","编译原理","算法"]
 summary: "TikTok AI后台开发二面（约1小时），涵盖项目与实习拷打、MCP与Skills区别、ping命令网络底层原理、C文件编译执行流程、Java协程实现及优缺点、K8s与Docker相关知识，以及手撕牛顿迭代法求sqrt和组合计数题（10次射击打80环的可能数）。"

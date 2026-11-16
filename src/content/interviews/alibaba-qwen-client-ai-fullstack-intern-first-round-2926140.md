@@ -4,6 +4,7 @@ company: "阿里巴巴"
 position: "客户端 AI 全栈开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/73259c528ae244c199e1801268b52197
 tags: ["阿里巴巴","千问","客户端","全栈","AI编程","产品思维","实习面试","职业规划"]

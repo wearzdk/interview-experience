@@ -4,6 +4,7 @@ company: "蓝箭鸿擎"
 position: "软件测试"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942433296829456384
 tags: ["蓝箭鸿擎", "软件测试", "压力面", "面试复盘", "测试场景"]

@@ -4,6 +4,7 @@ company: 东莞立讯技术
 position: 后端开发工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60ee4c8991ae4a9695b40050822d97cb
 tags: ["Java", "设计模式", "DDD", "Redis", "Spring", "CAS", "系统设计"]

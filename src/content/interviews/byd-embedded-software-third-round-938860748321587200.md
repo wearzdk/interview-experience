@@ -4,6 +4,7 @@ company: "比亚迪"
 position: "嵌入式软件"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938860748321587200
 tags: ["比亚迪","嵌入式","校招","行为面试","项目复盘","自我介绍"]

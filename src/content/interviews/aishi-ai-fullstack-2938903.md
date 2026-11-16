@@ -4,6 +4,7 @@ company: 爱诗科技
 position: AI 全栈
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/06256c35674c4d89b566472c0b972b0b
 tags: ["爱诗科技","AI全栈","秋招","数据建模","分片上传","幂等","RocketMQ","脱敏"]

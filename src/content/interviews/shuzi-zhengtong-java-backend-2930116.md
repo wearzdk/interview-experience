@@ -4,6 +4,7 @@ company: "数字政通"
 position: "Java后端开发"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f1c16b708f314732b27352d977c4858d
 tags: ["数字政通", "Java后端开发", "上下文管理", "MCP", "MySQL", "Docker", "多级缓存"]

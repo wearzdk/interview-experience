@@ -4,6 +4,7 @@ company: 字节跳动
 position: Agent 开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938539037059567616
 tags: ["AI Agent","Harness","上下文管理","多Agent","HTTPS","手撕代码"]

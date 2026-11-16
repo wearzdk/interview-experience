@@ -3,6 +3,7 @@ title: "银行 Java 技术面题目整理：锁、volatile 与线程池"
 company: "银行（未注明具体机构）"
 position: "Java开发"
 date: "2026-09"
+collectedAt: '2026-09-18'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930532312876404736"
 tags: ["Java", "并发", "线程池", "CAS", "银行科技岗"]

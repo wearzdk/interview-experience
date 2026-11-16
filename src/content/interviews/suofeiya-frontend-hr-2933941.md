@@ -4,6 +4,7 @@ company: "索菲亚"
 position: "前端开发"
 round: "HR 面"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43bb6d3984e647ee8450485f29cccccc
 tags: ["索菲亚","前端","HR面","组件设计","故障处理","职业规划"]

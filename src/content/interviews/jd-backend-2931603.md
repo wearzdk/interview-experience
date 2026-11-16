@@ -4,6 +4,7 @@ company: "京东"
 position: "后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1fa06a68a6434aa0afa3700967919d21
 tags: ["京东","后端开发","Redis","MySQL","RAG","评测","中间件"]

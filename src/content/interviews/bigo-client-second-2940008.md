@@ -4,6 +4,7 @@ company: BIGO
 position: 客户端开发（Android）
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f3504a33660749a59b35c931647874e8
 tags: ["BIGO","客户端","Android","AIGC","音频","AEC","断点续传","IM乱序","RAG","线程池","C++","shared_ptr","任务编排","设计模式"]

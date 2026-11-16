@@ -4,6 +4,7 @@ company: 百度
 position: 后台开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["MySQL","Redis","计算机网络","Linux","算法"]
 summary: "百度后台开发实习一面面经，重点考察MySQL索引优化、乐观锁/悲观锁机制、Redis分布式锁及数据一致性，此外涉及计算机网络请求全流程、HTTP状态码及Linux基础命令，最后手撕快速排序。"

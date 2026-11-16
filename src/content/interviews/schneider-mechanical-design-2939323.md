@@ -4,6 +4,7 @@ company: 施耐德电气
 position: 机械设计工程师
 round: 电话意向面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d37028b1084146eaada1a83e76d1e416
 tags: ["施耐德电气","机械设计","秋招","意向面","低压电器","薪资谈判"]

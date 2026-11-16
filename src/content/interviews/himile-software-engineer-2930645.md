@@ -4,6 +4,7 @@ company: "豪迈"
 position: "软件工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e96baf16c45740fba83b7c567225a225
 tags: ["豪迈", "软件工程师", "一面", "SQL优化", "SpringBoot"]

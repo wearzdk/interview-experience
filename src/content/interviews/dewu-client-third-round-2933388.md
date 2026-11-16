@@ -4,6 +4,7 @@ company: "得物"
 position: "客户端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3a5d33926da645e1bc22ad201b656173
 tags: ["得物", "客户端", "三面", "并发", "幂等", "ReactNative", "性能优化", "AI工作流"]

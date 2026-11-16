@@ -4,6 +4,7 @@ company: "哔哩哔哩"
 position: "AI Native 基础架构研发工程师"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/54bb00f1786a4c0f8ad14f544f078556
 tags: ["哔哩哔哩", "AI Native", "基础架构", "手撕代码", "SSE", "RRF", "多路召回"]

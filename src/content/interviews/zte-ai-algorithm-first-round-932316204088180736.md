@@ -4,6 +4,7 @@ company: "中兴"
 position: "AI算法"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932316204088180736
 tags: ["大模型","Agent","RAG","知识图谱","Claude Code"]

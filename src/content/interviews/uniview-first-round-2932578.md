@@ -4,6 +4,7 @@ company: "宇视科技"
 position: "嵌入式开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e3b9dfc725a949a9bb19e8d45af586c7
 tags: ["宇视科技","一面","埋点","私有协议","并发","AI助手","Skill","项目深挖"]

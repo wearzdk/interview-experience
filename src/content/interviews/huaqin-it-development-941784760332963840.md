@@ -4,6 +4,7 @@ company: "华勤技术"
 position: "IT开发工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941784760332963840"
 tags: ["华勤技术", "IT开发工程师", "Java", "高并发", "Spring", "数据库优化"]

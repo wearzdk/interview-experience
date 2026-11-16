@@ -4,6 +4,7 @@ company: "百威"
 position: "管培生"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/78ace967281d43978646d0dd8d191b76
 tags: ["百威", "管培生", "AI面试", "HireVue", "行为面试", "快消"]

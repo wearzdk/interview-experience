@@ -4,6 +4,7 @@ company: "数盾股份"
 position: "AI应用开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/98d81ac1218340f39763399f11fca557
 tags: ["数盾股份","AI应用开发","实习","虚拟内存","模型部署","Agent","上下文压缩","KV Cache"]

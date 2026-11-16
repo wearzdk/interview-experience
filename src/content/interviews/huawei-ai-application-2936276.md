@@ -4,6 +4,7 @@ company: "华为"
 position: "AI 应用开发"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/d70d2a19cda54f9787e8d74c94db8f74"
 tags: ["华为", "AI应用开发", "操作系统", "Linux", "动态规划", "论文"]

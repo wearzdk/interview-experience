@@ -4,6 +4,7 @@ company: "长鑫存储"
 position: "Agent 开发（实习）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b5af9c0f2cd4cd68709a0932656afd4
 tags: ["长鑫存储","Agent开发","RAG","BM25","双路召回","Rerank","多租户"]

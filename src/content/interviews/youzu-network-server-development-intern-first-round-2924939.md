@@ -4,6 +4,7 @@ company: 游族网络
 position: 服务器开发实习
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6a813f34ff7a42d5bdc9f95525d426ef
 tags: ["游戏后端","幂等","分布式","CountDownLatch","volatile","并发"]

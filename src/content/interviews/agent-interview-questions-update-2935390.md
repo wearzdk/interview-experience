@@ -3,6 +3,7 @@ title: "Agent 开发面试四问：PDF 带表格图片怎么分块、效果不�
 company: "某互联网公司"
 position: "AI Agent 开发"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9d7a4b3bf48d42e9a30e9b43000d8237
 tags: ["Agent","RAG","知识库","文档解析","意图识别","成本优化","评测指标"]

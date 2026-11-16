@@ -4,6 +4,7 @@ company: "网易云音乐"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 tags: ["微前端","qiankun","性能优化","Chrome Performance","AI协作","字符串"]
 summary: "网易云音乐前端一面 40 分钟深挖实习项目：qiankun 的 JS 运行时隔离怎么做、性能优化怎么定位瓶颈、埋点起止点怎么定义、AI 迁移代码在哪些阶段会出问题，最后两道字符串压缩算法没写完。"

@@ -3,6 +3,7 @@ title: "云览科技 AI 产品经理面经：B 端智能体与问答效果深挖
 company: "云览科技"
 position: "AI 产品经理"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e1b0c78e6dd64df8a08fd74a7c7ce05e
 tags: ["AI产品经理","B端产品","智能体","RAG","需求分析","实习深挖"]

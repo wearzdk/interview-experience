@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "AI应用工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/933023499399024640
 tags: ["AI应用","Agent","评测体系","Go","GMP","MVCC","面试真题"]

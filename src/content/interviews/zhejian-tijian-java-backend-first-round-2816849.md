@@ -4,6 +4,7 @@ company: 浙健体检
 position: Java后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 result: 已约2面
 base: 嘉兴
 source: 牛客网

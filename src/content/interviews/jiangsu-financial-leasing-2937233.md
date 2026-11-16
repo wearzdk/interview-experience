@@ -4,6 +4,7 @@ company: 江苏金租
 position: 软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a3e1a89d12a547a0836a529b28546954
 tags: ["Agent","OpenAI 协议","HTTP 状态码","故障处理"]

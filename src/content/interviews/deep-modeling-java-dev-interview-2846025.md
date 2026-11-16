@@ -4,6 +4,7 @@ company: 深势科技
 position: Java开发
 round: 一二面
 date: '2026-04'
+collectedAt: '2026-05-05'
 result: 已oc
 source: 牛客网
 tags: ["Java","MySQL","Redis","Agent","RAG"]

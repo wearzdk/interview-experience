@@ -4,6 +4,7 @@ company: "腾讯"
 position: "AI应用开发实习"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/c2914a90116a4d6692851fecb3c09c40"
 tags: ["AI Agent", "RAG", "Computer Use", "手撕算法", "实习面试"]

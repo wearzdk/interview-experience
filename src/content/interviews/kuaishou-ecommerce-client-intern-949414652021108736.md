@@ -4,6 +4,7 @@ company: 快手
 position: 客户端开发实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949414652021108736
 result: 通过

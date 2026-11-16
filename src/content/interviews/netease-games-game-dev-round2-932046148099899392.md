@@ -4,6 +4,7 @@ company: 网易互娱
 position: 游戏研发（服务端）
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932046148099899392
 tags: ["C++","网络编程","epoll","并发编程","无锁编程"]

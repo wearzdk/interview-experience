@@ -4,6 +4,7 @@ company: 南芯
 position: 嵌入式软件开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/950777187995492352
 tags: ["南芯科技","嵌入式软件开发","Agent","本地部署","工具调用","模型量化"]

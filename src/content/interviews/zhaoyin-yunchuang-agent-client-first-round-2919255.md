@@ -4,6 +4,7 @@ company: "招银云创"
 position: "Agent客户端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "Redis", "MySQL", "JVM", "多线程", "HTTPS", "设计模式"]
 summary: "招银云创一面（Agent / Java 客户端开发方向）：手写两个栈模拟队列、删除链表倒数第 N 个节点与 DCL 单例，口述 Redis 缓存三大问题、MySQL 事务与索引、JVM 内存泄漏排查、线程池参数与拒绝策略，以及 HTTPS 与中间人攻击防范。"

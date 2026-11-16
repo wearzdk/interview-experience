@@ -4,6 +4,7 @@ company: 去哪儿
 position: AI全栈开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/927687712092508160
 tags: ["Java", "JVM", "Redis", "MCP", "Agent"]

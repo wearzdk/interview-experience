@@ -4,6 +4,7 @@ company: 大北农集团
 position: Java开发工程师
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Redis","Kafka","线程池","MySQL","架构设计"]
 summary: "大北农集团Java开发岗位一面面经，重点考察Redis架构、Kafka集群部署、线程池核心参数调优及拒绝策略、MySQL索引优化与多表关联查询原理。此外探讨了接口性能调优及大模型技术在系统开发中的应用实践。"

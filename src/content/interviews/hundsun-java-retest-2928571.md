@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "Java开发"
 round: "复试"
 date: "2026-10"
+collectedAt: '2026-10-18'
 base: "南京"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/fb175fe4f3184397b9d63a4cdae210f5

@@ -4,6 +4,7 @@ company: "魔瓦新能源"
 position: "嵌入式软件开发"
 round: "终面"
 date: '2026-11'
+collectedAt: '2026-11-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6e3aaa5a787d4a6f9d3bb650dadebd03
 tags: ["魔瓦新能源", "嵌入式软件", "C++", "设计模式", "MQTT", "CAN", "技术文档"]

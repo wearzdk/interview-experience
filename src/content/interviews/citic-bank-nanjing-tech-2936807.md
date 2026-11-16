@@ -4,6 +4,7 @@ company: "中信银行"
 position: "科技岗"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6e7b2c2f496b4f36a2d55bb1b5ef61db
 tags: ["中信银行","银行科技","面试流程","自我介绍"]

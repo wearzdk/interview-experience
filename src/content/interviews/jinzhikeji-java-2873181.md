@@ -4,6 +4,7 @@ company: 金智科技
 position: Java开发工程师
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-09'
 source: 牛客网
 tags: ["Java","高并发","项目经验","技术选型","架构设计"]
 summary: "金智科技 Java 开发面经，面试先考察 Java 基础和简历技术栈，再围绕项目亮点、高并发方案与技术选型展开追问。"

@@ -4,6 +4,7 @@ company: 腾讯
 position: 服务器开发
 round: 二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["场景设计","KV存储","定时任务","时间轮","分布式","面试复盘"]

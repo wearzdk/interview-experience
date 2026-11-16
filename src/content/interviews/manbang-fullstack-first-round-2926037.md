@@ -4,6 +4,7 @@ company: "满帮"
 position: "全栈开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/2cc548d5fd9546d8a16aea8b75df2c61

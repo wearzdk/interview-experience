@@ -4,6 +4,7 @@ company: "快手"
 position: "大模型应用开发"
 round: "二面"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931895675812401152"
 tags: ["大模型应用","Agentic RL","GRPO","PPO","RAG","SSE","Agent"]

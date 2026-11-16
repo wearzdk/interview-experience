@@ -4,6 +4,7 @@ company: "清微智能"
 position: "AI测试开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a5f05a7d8694f18ad43d77aa59da52c
 tags: ["AI测试","Python","pytest","量化","RAG","并发","C语言"]

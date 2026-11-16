@@ -3,6 +3,7 @@ title: "星宸科技 AE 岗面经：自研 RTOS 任务调度与优先级继承"
 company: "星宸科技"
 position: "AE（应用工程师）"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/cc396967d1e1468096d3e71a71fd82bc"
 tags: ["星宸科技","AE","嵌入式","RTOS","任务调度","上下文切换","互斥锁","优先级继承"]

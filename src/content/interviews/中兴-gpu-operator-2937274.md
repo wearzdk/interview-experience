@@ -4,6 +4,7 @@ company: 中兴
 position: GPU 算子开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/634456784b3347c395dfac00bc24c0a5
 tags: ["中兴","GPU","算子开发","CUDA","量化","C++","强化学习","校招"]

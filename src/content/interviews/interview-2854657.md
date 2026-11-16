@@ -3,6 +3,7 @@ title: java面经，校招，同益实业股份，400+人规模，八股高度�
 company: 某互联网公司
 position: 软件开发工程师
 date: '2026-05'
+collectedAt: '2026-06-22'
 result: OC
 base: 广东
 source: 牛客网

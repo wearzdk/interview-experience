@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发"
 round: "一面"
 date: "2026-08"
+collectedAt: '2026-09-17'
 source: "牛客网"
 tags: ["Java", "ConcurrentHashMap", "算法", "单例模式", "计算机网络"]
 summary: "8 月 31 日的交易后端面试，从实习中的任务拆解、冷热分离，追问到流式 Top K、并发容器和最长无重复子串。"

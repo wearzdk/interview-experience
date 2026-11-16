@@ -4,6 +4,7 @@ company: "无印良品"
 position: "储备干部"
 round: "AI面试"
 date: '2026-10'
+collectedAt: '2026-10-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/535f670c740c43b1a45a230b0cde3b2c
 tags: ["无印良品", "MUJI", "储备干部", "AI面试", "行为面试", "零售"]

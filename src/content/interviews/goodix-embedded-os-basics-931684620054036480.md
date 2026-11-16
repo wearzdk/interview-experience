@@ -3,6 +3,7 @@ title: 汇顶科技 嵌入式面经 操作系统底层与并发同步
 company: 汇顶科技
 position: 嵌入式软件开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931684620054036480
 tags: ["操作系统","嵌入式","Linux内核","进程与线程","调度","并发同步"]

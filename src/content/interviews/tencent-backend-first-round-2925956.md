@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 result: "已挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/68eb3640f3164abebcf13531f34579dc

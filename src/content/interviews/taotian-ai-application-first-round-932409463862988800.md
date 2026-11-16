@@ -4,6 +4,7 @@ company: 淘天集团
 position: AI应用开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932409463862988800
 tags: ["AI应用开发","MCP","Harness","Agent编排","缓存一致性","线程池"]

@@ -3,6 +3,7 @@ title: 武汉某小厂实习面，积累面经日薪100-150不包住。
 company: 某互联网公司
 position: 软件开发实习生
 date: '2026-05'
+collectedAt: '2026-06-22'
 base: 湖南
 source: 牛客网
 tags: ["Java", "MySQL", "消息队列", "分布式", "LLM", "算法"]

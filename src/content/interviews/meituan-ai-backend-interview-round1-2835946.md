@@ -4,6 +4,7 @@ company: 美团
 position: AI后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-16'
 source: 牛客网
 tags: ["Java","Redis","MySQL","后端开发","AI工程化"]
 summary: "美团AI后端开发日常实习一面面经。考察内容覆盖AI工程化（知识库、Skills）、Java基础（Bean作用域、ThreadLocal）、数据库设计、Redis缓存一致性及中间件原理。适合准备大厂后端实习的同学查漏补缺。"

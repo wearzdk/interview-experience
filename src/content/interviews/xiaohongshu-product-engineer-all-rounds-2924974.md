@@ -4,6 +4,7 @@ company: 小红书
 position: Product Engineer（AI 与全栈方向）
 round: 一二面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d1a04cfc7c7c4715809b21659403399f
 tags: ["全栈开发","C++","Android","Kotlin协程","IM架构","AI Coding","场景设计"]

@@ -4,6 +4,7 @@ company: "北京某小厂"
 position: "Java 后端"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-18'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/85836bc50a5947f8b8f788471838c08a
 tags: ["Java","线程池","JVM","MySQL","联合索引","Redis","Spring事务"]

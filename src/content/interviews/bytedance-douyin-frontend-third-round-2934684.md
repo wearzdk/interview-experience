@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "前端开发"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-11-02'
 result: "已挂（HR 反馈不推进）"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/acf87bd46a2a43afbdfa97d2771bc6e9

@@ -3,6 +3,7 @@ title: "字节跳动 Agent 开发面试：Harness 设计、上下文管理与长
 company: "字节跳动"
 position: "Agent 开发"
 date: '2026-10'
+collectedAt: '2026-10-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938913714646929408
 tags: ["Agent","Harness","ReAct","上下文管理","工具调用","记忆管理","多Agent协作","八股"]

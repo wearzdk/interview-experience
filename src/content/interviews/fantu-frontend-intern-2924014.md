@@ -3,6 +3,7 @@ title: 凡拓前端实习面经（10.10）
 company: 凡拓
 position: 前端实习
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4c4d16df5d6246b98c246f970ce5826a
 tags: ["前端实习","Vue","Git","ES6","构建工具"]

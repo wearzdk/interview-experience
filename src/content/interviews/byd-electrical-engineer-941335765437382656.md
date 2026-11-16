@@ -4,6 +4,7 @@ company: "比亚迪"
 position: "电气工程师"
 round: "一面+二面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941335765437382656"

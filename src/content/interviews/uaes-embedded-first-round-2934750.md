@@ -4,6 +4,7 @@ company: 联合电子
 position: 嵌入式软件开发
 round: 技术面
 date: '2026-09'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9ed2d5499f89424d8d77702006d6bf2b
 tags: ["联合电子", "嵌入式", "CAN", "CANFD", "Git", "汽车电子"]

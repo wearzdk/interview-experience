@@ -4,6 +4,7 @@ company: 经纬恒润
 position: 数据平台开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3d5cc26eb607454cac21a701497aa048
 tags: ["数据平台","数据仓库","高并发","场景题","Agent"]

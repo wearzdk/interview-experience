@@ -4,6 +4,7 @@ company: "经纬恒润"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-19'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941720671346851840"
 tags: ["经纬恒润", "前端开发", "一面", "Vue3", "JavaScript", "响应式布局", "性能优化"]

@@ -4,6 +4,7 @@ company: 深圳小公司
 position: 前端开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8d9839a9dc8648c58001208ac96af1bf
 tags: ["前端","uniapp","Electron","防抖节流","WebSocket","线下笔试"]

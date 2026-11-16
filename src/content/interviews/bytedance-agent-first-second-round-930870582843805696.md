@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 开发"
 round: "一面+二面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/930870582843805696"
 tags: ["Agent", "Redis", "MySQL", "系统设计", "秒杀", "算法"]

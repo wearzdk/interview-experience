@@ -4,6 +4,7 @@ company: 宇视科技
 position: 前端开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/915265c3a4cd4025a5acec76b793bdbf
 tags: ["宇视科技","前端","SSE","性能优化","Vue3","Webpack","Vite","AI Coding"]

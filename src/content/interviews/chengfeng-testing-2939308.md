@@ -4,6 +4,7 @@ company: 诚锋科技
 position: 测试工程师
 round: 初面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/248874ab6500427488054d0184ca2f23
 tags: ["诚锋科技","测试工程师","机器视觉","暗场校正","平场校正","内存池","链表","Python"]

@@ -4,6 +4,7 @@ company: "某公司"
 position: "Java 后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/4ed673e17db94f17b41622b29fe35701
 tags: ["Java","线程池","ConcurrentHashMap","MySQL","联合索引","Coding Agent","网络链路"]

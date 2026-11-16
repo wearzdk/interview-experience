@@ -4,6 +4,7 @@ company: 拓竹科技
 position: 前端开发（实习）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/55e31a57a9574d909a47ad6f045483d0
 tags: ["拓竹科技","前端","实习","事件循环","React","Vue","二叉树"]

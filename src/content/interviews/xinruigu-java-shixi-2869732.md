@@ -4,6 +4,7 @@ company: 新瑞谷科技
 position: Java后端开发实习生
 round: 一面
 date: '2026-07'
+collectedAt: '2026-07-01'
 source: 牛客网
 tags: ["Java","AI编程工具","SQL","面向对象"]
 summary: "新瑞谷科技Java后端开发实习一面面经，围绕AI编程工具使用、Java基础语法（循环、重载重写、继承、权限修饰符）、Spring注解及SQL基础（union/like/字符串拼接）展开提问。"

@@ -4,6 +4,7 @@ company: 百度
 position: 服务端开发(Go-PHP)
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Go","Redis","Elasticsearch","SQL设计","Linux"]
 summary: "百度服务端开发社招一面面经，面试围绕项目深度挖掘，重点考察Redis数据结构与底层锁机制、Elasticsearch实战应用、Linux日志排查技巧及数据库表结构设计。面试官侧重解决实际业务问题的能力，并探讨了AI工具在工程实践中的应用。"

@@ -4,6 +4,7 @@ company: 快手
 position: Java开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","AOP","项目经历","AI","算法"]
 summary: "快手Java开发春招面试，重点考察实习经历与项目背景，涉及Spring AOP技术细节、AI相关应用及算法题螺旋矩阵。通过本次面经总结，帮助求职者掌握面试流程、应对突发技术状况及重点八股复盘。"

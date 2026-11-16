@@ -4,6 +4,7 @@ company: 美团
 position: 后端开发工程师
 round: 笔试+一面+二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931682833993650176
 tags: ["后端","笔试","缓存一致性","LRU","MySQL","分布式"]

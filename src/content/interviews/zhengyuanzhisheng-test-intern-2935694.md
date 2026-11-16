@@ -3,6 +3,7 @@ title: "正元智晟软件测试实习面经：手工用例转自动化与接口
 company: 正元智晟
 position: 软件测试实习
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e2321ff3a76a444fb7e57e364ea2b731
 tags: ["软件测试", "自动化测试", "接口测试", "Web自动化", "测试用例"]

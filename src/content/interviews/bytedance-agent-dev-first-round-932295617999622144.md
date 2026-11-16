@@ -4,6 +4,7 @@ company: "字节"
 position: "Agent开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-23'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/932295617999622144
 tags: ["Agent","RAG","LangGraph","BM25","Cross-Encoder","评测体系"]

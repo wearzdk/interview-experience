@@ -4,6 +4,7 @@ company: SHEIN
 position: Java后端开发
 round: 一面
 date: 2026-09
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["Java","HTTP缓存","TCP","缓存雪崩","数据库死锁","线上排查"]
 summary: "SHEIN希音Java后端一面面经，全程约35分钟、无手撕代码。面试围绕Cookie与Session、HTTP缓存与响应码、TCP三次握手四次挥手、IOC、缓存雪崩与随机TTL实现、数据库死锁，以及分布式部署下接口随机502的排查思路展开。"

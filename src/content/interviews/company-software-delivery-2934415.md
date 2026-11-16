@@ -4,6 +4,7 @@ company: "某公司"
 position: "软件开发（交付方向）"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-29'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3814337c8a314d7c89959d3f5cac0a15
 tags: ["面经","交付岗","AI编码","需求调研","实习","职业选择","业务理解"]

@@ -4,6 +4,7 @@ company: 同程
 position: 全栈开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1d4dd5c02aaf452e891548edfff50e56
 tags: ["同程","全栈","Agent","RAG","前端","CORS","两个鸡蛋"]

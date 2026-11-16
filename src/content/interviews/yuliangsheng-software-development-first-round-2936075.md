@@ -4,6 +4,7 @@ company: 宇量昇
 position: 软件开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b70ad7dfd57440fea4ba96961327eeb4
 tags: ["软件开发", "Java", "Spring", "设计模式", "前端", "项目经历"]

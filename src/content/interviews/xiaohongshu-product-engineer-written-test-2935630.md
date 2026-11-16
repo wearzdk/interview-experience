@@ -4,6 +4,7 @@ company: "小红书"
 position: "产品工程师（前后端）"
 round: "笔试"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/8af6a7cd2dae4269b7e534f28fe4b6b3
 tags: ["小红书","笔试","前缀和","动态规划","AI Coding","Token 预算","前后端"]

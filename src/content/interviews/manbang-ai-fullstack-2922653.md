@@ -4,6 +4,7 @@ company: 满帮
 position: AI全栈开发
 round: 一面
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 tags: ["AI全栈","Agent","RocketMQ","SSE","Redis","MySQL"]
 summary: "满帮 AI 全栈开发一面，约 50 分钟，全程围绕一个「PRD 转研发文档」的 Agent 平台深挖：六阶段串行流程的稳定性、SSE 进度推送与断线重连、MySQL 加 RocketMQ 的状态机与幂等、Redis 分布式锁，最后是一道批量导入场景题和两道智力题。"

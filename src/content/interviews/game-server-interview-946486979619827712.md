@@ -4,6 +4,7 @@ company: "某游戏公司"
 position: "游戏服务端开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946486979619827712
 tags: ["游戏服务端","C++","MySQL","protobuf","epoll","红黑树","时间轮","限流","寻路","AOI","TopK"]

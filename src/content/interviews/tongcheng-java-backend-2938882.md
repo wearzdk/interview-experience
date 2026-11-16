@@ -4,6 +4,7 @@ company: 同程旅行
 position: Java 后端
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/30434e53faf04c20960fbada1ca5065e
 tags: ["同程旅行","Java","秋招","分片上传","幂等","RocketMQ","微服务","RAG"]

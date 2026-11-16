@@ -4,6 +4,7 @@ company: "友塔游戏"
 position: "游戏服务器开发"
 round: "一面、二面、HR面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 result: "已 OC"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/9732726fbe5c4dd3b09bded943f32b4e"

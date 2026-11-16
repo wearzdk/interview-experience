@@ -3,6 +3,7 @@ title: "嵌入式秋招挂了十几场，复盘发现反复考的就这四类题
 company: "某公司"
 position: "嵌入式软件"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b1da25d106b940c7a6c5c322577e1bb3
 tags: ["嵌入式","C语言","内存管理","中断","DMA","I2C","链接脚本","秋招复盘"]

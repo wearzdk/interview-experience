@@ -4,6 +4,7 @@ company: OceanBase
 position: C++服务端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["C++","存储引擎","数据库","缓存","操作系统"]

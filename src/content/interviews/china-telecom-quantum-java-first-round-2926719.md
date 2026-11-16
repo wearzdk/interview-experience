@@ -4,6 +4,7 @@ company: "中电信量子科技"
 position: "Java 开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/be8ac75a5f4042c990c523be5afc5cb5
 tags: ["中电信量子科技","Java","HashMap","JVM","类加载","科研","秋招"]

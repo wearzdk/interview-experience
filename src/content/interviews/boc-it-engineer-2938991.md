@@ -4,6 +4,7 @@ company: 中国银行
 position: 信息科技岗
 round: 线下面试
 date: '2026-11'
+collectedAt: '2026-11-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/51be3db98c7744dcb8d9a45e423423fc
 tags: ["中国银行","银行科技岗","无领导小组讨论","群面","单面"]

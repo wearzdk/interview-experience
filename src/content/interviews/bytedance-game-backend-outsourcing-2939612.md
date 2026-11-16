@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "游戏后端开发（外包）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-11'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/43d1625efeaf427aa4d61ebe252491f3
 tags: ["字节跳动","游戏后端","Redis","排行榜","背包系统","冷热数据","外包"]

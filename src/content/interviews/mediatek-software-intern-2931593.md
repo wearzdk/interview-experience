@@ -4,6 +4,7 @@ company: "联发科"
 position: "软件研发实习"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/66caf835b37643c7a4ddf640d29265bd
 tags: ["联发科","实习","主管面","WiFi","项目经历"]

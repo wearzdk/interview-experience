@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "IT全栈交付培养生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938122023392366592"
 tags: ["理想汽车","IT全栈交付培养生","Coding Agent","MCP","AI流水线","Temporal","秋招","一面"]

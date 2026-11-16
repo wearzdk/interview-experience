@@ -4,6 +4,7 @@ company: 百度
 position: AI产品经理实习生
 round: 一面
 date: '2026-04'
+collectedAt: '2026-07-17'
 source: 牛客网
 tags: ["AI产品","RAG","Agent","竞品分析","商业化"]
 summary: "百度AI产品经理暑期实习一面面经，覆盖B端经验、产品上线、国内外大模型、竞品分析、RAG、AI商业化、AI编程工具与Agent产品差异。"

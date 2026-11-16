@@ -4,6 +4,7 @@ company: "大疆"
 position: "空间智能 OS"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-03'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/18616c9e133d4343b57f9a232c4ef2d1
 tags: ["嵌入式","U-Boot","DDR","CAN","目标检测","模型量化","定位"]

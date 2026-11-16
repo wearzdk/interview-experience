@@ -4,6 +4,7 @@ company: Touka Games
 position: Golang 服务端开发（实习）
 round: 一面、二面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已OC
 source: 牛客网
 tags: ["Golang","Redis","MySQL","消息队列","Docker","高并发","秒杀"]

@@ -4,6 +4,7 @@ company: 华鲲振宇
 position: "AI 开发"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/65a687060578410699b9c7bcd109a2e6
 tags: ["华鲲振宇","Go","MySQL","Redis","RAG","LangGraph","AI开发"]

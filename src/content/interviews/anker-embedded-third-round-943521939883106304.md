@@ -4,6 +4,7 @@ company: "安克创新"
 position: "嵌入式软件"
 round: "三面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/943521939883106304
 tags: ["安克创新", "嵌入式", "三面", "秋招", "软素质"]

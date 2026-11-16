@@ -4,6 +4,7 @@ company: "理想汽车"
 position: "质量工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 result: "等待结果"
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/941277818669760512"

@@ -4,6 +4,7 @@ company: "大疆"
 position: "嵌入式软件"
 round: "一二面"
 date: '2026-10'
+collectedAt: '2026-10-26'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944523643151753216
 tags: ["大疆","嵌入式软件","RTOS","C语言","环形缓冲区","DMA","中断","手撕"]

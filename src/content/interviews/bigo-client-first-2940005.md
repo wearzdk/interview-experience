@@ -4,6 +4,7 @@ company: BIGO
 position: 客户端开发（Android）
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3b2c3fbcd04e4f26bb4c6269a049563f
 tags: ["BIGO","客户端","Android","JVM","HashMap","TreeMap","线程池","HTTPS","列表复用","链表","区间合并","AI Coding"]

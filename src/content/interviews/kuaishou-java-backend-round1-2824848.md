@@ -4,6 +4,7 @@ company: 快手
 position: Java后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-04'
 result: 凉经
 source: 牛客网
 tags: ["Java","微服务","Redis","Kafka","RocketMQ","MySQL"]

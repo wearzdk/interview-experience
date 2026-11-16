@@ -4,6 +4,7 @@ company: 某互联网大厂
 position: 测试开发
 round: 一二三面
 date: '2026-10'
+collectedAt: '2026-10-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/7e8a226e2ecb42dc8a5fcd4c7659acbe
 tags: ["测试开发","Python","RAG","Text2SQL","评测集","自动化测试","CI"]

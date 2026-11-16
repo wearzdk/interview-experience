@@ -4,6 +4,7 @@ company: 超星集团
 position: Java后端开发
 round: 一面
 date: '2026-03'
+collectedAt: '2026-04-05'
 source: 牛客网
 tags: ["Java","MySQL","Redis","Kafka","Spring AOP","JVM"]
 summary: "超星集团Java后端开发一面面经。涵盖线程池参数设置、G1垃圾回收原理、MySQL幻读、Redis一致性与雪崩、Kafka消息可靠性、Spring AOP及AI相关话题。面试题侧重基础原理与工程实践，适合Java候选人查漏补缺。"

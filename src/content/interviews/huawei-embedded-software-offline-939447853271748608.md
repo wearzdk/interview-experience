@@ -4,6 +4,7 @@ company: "华为"
 position: "嵌入式软件"
 round: "线下面试"
 date: '2026-10'
+collectedAt: '2026-10-12'
 result: "凉经"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/939447853271748608

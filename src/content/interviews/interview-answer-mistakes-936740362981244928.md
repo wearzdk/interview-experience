@@ -3,6 +3,7 @@ title: "面试官最怕听到的 5 个回答，每一个都送分变送命"
 company: "某公司"
 position: "软件工程师"
 date: '2026-10'
+collectedAt: '2026-10-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/936740362981244928
 tags: ["面试技巧","行为面试","自我介绍","职业规划","薪资沟通"]

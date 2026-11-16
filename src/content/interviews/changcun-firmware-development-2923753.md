@@ -4,6 +4,7 @@ company: 长江存储
 position: 固件开发
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 result: 泡池子
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/bae6b283ad0545cd9ab697e211da860f

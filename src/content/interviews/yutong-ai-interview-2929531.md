@@ -4,6 +4,7 @@ company: "宇通"
 position: "校招"
 round: "AI面、HR面、技术面"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/316cad94610f4a8084a83a80767d94b4
 tags: ["AI面", "行为面试", "宝洁八大问", "HR面", "校招"]

@@ -4,6 +4,7 @@ company: 滴滴
 position: Java后端开发
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已挂
 source: 牛客网
 tags: ["Java后端","MySQL","RAG","向量检索","乐观锁"]

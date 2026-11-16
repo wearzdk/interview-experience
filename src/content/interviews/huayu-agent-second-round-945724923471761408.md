@@ -4,6 +4,7 @@ company: 北京华宇信息
 position: Agent开发
 round: 二面
 date: '2026-10'
+collectedAt: '2026-10-30'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/945724923471761408
 tags: ["华宇信息", "Agent", "RAG", "二面", "HR面"]

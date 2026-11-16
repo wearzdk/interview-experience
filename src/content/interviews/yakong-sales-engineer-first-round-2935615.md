@@ -4,6 +4,7 @@ company: "亚控科技"
 position: "销售工程师（技术型）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/79d0379af1124865bebe3bc46a4d1456
 tags: ["亚控科技","销售工程师","技术型销售","项目落地","客户对接","职业选择","薪资"]

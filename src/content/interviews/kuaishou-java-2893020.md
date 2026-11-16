@@ -3,6 +3,7 @@ title: "快手大模型应用Java实习一面面经，8.17日面"
 company: "快手"
 position: "Java后端开发工程师"
 date: '2026-08'
+collectedAt: '2026-08-28'
 source: 牛客网
 tags: ["Java","Redis","Kafka","AI应用","分布式系统","面试经验"]
 summary: "快手Java后端开发工程师面试记录，覆盖Java、Redis、Kafka、AI应用等考点，整理了面试流程与高频问题。"

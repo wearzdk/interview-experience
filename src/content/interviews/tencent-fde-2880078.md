@@ -3,6 +3,7 @@ title: 腾讯FDE岗位求职五项核心考察
 company: 腾讯
 position: FDE工程师
 date: '2026-07'
+collectedAt: '2026-07-24'
 source: 牛客网
 tags: ["FDE", "AI Agent", "AI产品", "行业分析", "Skill"]
 summary: "腾讯FDE岗位求职考察要点，涵盖AI技术演进、主流落地产品、行业需求判断、Skill与专家团实操，以及面向客户的沟通协作能力。"

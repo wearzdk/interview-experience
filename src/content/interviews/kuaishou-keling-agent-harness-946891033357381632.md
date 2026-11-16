@@ -4,6 +4,7 @@ company: 快手
 position: "Agent Harness"
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/946891033357381632
 tags: ["Agent", "Harness", "项目设计", "手撕代码"]

@@ -3,6 +3,7 @@ title: "9.3顺丰科技秋招java一面"
 company: "顺丰科技"
 position: "后端开发工程师"
 date: '2026-09'
+collectedAt: '2026-09-04'
 source: 牛客网
 tags: ["Java", "MySQL", "Redis", "并发", "AI", "算法"]
 summary: "9.3顺丰科技秋招java一面，整理面试中涉及的Java、MySQL、Redis、并发等重点问题，供求职者准备相关岗位面试时参考。"

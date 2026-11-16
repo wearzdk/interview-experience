@@ -3,6 +3,7 @@ title: "小米 AI 全栈开发面试：Agent 架构、RAG 与多 Agent 隔离"
 company: "小米"
 position: "AI全栈开发"
 date: "2026-09"
+collectedAt: '2026-09-22'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/931897509520109568"
 tags: ["小米","AI全栈","Agent","RAG","多Agent","大模型评测","成本优化"]

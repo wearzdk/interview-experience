@@ -4,6 +4,7 @@ company: "蚂蚁"
 position: "AI Coding"
 round: "笔试"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["AI Coding", "笔试", "AI编程", "需求拆解", "工程实践", "测试验收"]
 summary: "蚂蚁 AI Coding 笔试不考背题，考的是怎么指挥 AI 干活。9 条思路覆盖读 README 拆任务与分配时间、接口先行、分模块推进、报错限定修复范围、自造脏数据、逐条硬验收、交卷前红队评审，以及版本快照与交付物对齐。"

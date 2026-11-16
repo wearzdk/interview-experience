@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "Agent 研发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0b91e9f5fbba4af4865c6fadc9a790e8
 tags: ["字节跳动","Agent","SSE","WebSocket","Multi-Agent","长期记忆","MySQL","Redis"]

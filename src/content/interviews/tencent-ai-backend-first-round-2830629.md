@@ -4,6 +4,7 @@ company: 腾讯
 position: AI后台开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-09'
 source: 牛客网
 tags: ["Redis","MySQL","秒杀系统","RAG","Java基础"]
 summary: "腾讯AI后台开发一面面试题分享，涵盖秒杀系统高并发设计（防超卖、限流、缓存一致性）、RAG项目架构（查询重写、Embedding优化）、MySQL索引原理及Java核心（GC、HashMap）。助你掌握高频面试核心技术点。"

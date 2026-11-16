@@ -4,6 +4,7 @@ company: "中化数智"
 position: "Java 后端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d6e1947ea8c84b47a1ea5c0c09c0d9cc
 tags: ["Java","中化数智","ThreadLocal","消息队列","LRU","Redis","面试体验"]

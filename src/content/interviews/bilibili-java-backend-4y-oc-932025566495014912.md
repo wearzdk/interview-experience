@@ -4,6 +4,7 @@ company: 哔哩哔哩
 position: Java后端开发
 round: "三轮技术面+HR面"
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 已OC
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/932025566495014912

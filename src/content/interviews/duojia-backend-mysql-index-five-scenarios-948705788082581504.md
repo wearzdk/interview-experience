@@ -4,6 +4,7 @@ company: 某公司
 position: 后端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948705788082581504
 tags: ["MySQL","索引失效","隐式转换","最左前缀","Cardinality","慢查询"]

@@ -4,6 +4,7 @@ company: "国内银行"
 position: "Java后端开发"
 round: "技术面"
 date: '2026-09'
+collectedAt: '2026-09-25'
 source: "牛客网"
 sourceUrl: https://www.nowcoder.com/discuss/933123243660103680
 tags: ["数据库","事务","隔离级别","MySQL","银行科技岗","范式"]

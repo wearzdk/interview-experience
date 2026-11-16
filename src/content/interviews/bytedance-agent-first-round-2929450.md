@@ -5,6 +5,7 @@ position: "Agent开发实习生"
 round: "一面"
 result: "通过"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/0ee160a2d38f4b5daaf1965cf975a8f0
 tags: ["Agent", "LangGraph", "上下文管理", "DAG", "Benchmark", "RAG", "算法"]

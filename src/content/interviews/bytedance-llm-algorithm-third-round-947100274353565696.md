@@ -4,6 +4,7 @@ company: 字节跳动
 position: 大模型算法
 round: 三面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/947100274353565696
 tags: ["大模型", "推理优化", "GRPO", "DPO", "KV Cache", "手撕代码"]

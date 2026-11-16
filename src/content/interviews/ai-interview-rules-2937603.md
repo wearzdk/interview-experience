@@ -4,6 +4,7 @@ company: "多家企业"
 position: "AI 面试"
 round: "AI 面"
 date: '2026-11'
+collectedAt: '2026-11-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/29f2c5b52712460c8175ec5818b68f55
 tags: ["AI面试","视频面试","招商银行","中信证券","广发银行","面试规则"]

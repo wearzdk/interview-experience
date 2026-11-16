@@ -3,6 +3,7 @@ title: "猎聘全栈面试：Agent 编排与分布式锁"
 company: "猎聘"
 position: "全栈开发"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9416ce6a43584ad59807737c042f6e1a
 tags: ["猎聘","全栈开发","LangGraph","RAG","Redis","Kafka","AI Coding"]

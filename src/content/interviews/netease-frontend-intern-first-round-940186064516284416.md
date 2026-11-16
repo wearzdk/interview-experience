@@ -4,6 +4,7 @@ company: "网易"
 position: "前端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-14'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940186064516284416
 tags: ["前端","事件循环","CSS布局","requestAnimationFrame","埋点","算法题"]

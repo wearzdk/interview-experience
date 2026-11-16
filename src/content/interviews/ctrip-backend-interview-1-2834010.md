@@ -4,6 +4,7 @@ company: 携程
 position: 后端开发
 round: 一面
 date: '2026-04'
+collectedAt: '2026-04-13'
 source: 牛客网
 tags: ["Java并发","线程池","分布式锁","JVM","微服务"]
 summary: "携程旅游事业部后端暑期实习面试题目，涵盖Java线程池原理与优化、分布式锁实现方案、热Key处理、JVM内存排查及虚拟线程等核心技术栈，助你全面掌握高并发后端开发面试要点。"

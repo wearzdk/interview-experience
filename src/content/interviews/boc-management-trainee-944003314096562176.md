@@ -4,6 +4,7 @@ company: 中国银行
 position: 总行管培生
 round: 无领导加半结构化
 date: '2026-10'
+collectedAt: '2026-10-25'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944003314096562176
 tags: ["银行","中国银行","无领导小组讨论","半结构化面试","英语面试","管培生"]

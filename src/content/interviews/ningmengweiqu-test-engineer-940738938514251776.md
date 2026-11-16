@@ -3,6 +3,7 @@ title: "柠檬微趣测试工程师校招面：消消乐关卡用例设计与登
 company: "柠檬微趣"
 position: "测试工程师"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940738938514251776"
 tags: ["柠檬微趣","测试工程师","测试用例","游戏测试","登录问题排查","职业规划","秋招"]

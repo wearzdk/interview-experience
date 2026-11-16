@@ -3,6 +3,7 @@ title: "十几份 AI 面帖的共同点：最后那几道问的是城市和期�
 company: "多家企业"
 position: "AI 面试"
 date: '2026-10'
+collectedAt: '2026-10-28'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/e87ca0f3ca8d449a9b1e7a7fdf99fa76
 tags: ["AI面试","校招","行为面试","期望薪资","STAR"]

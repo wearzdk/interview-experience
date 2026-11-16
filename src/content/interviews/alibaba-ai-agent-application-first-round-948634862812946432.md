@@ -4,6 +4,7 @@ company: 阿里巴巴
 position: AI Agent 应用开发工程师
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/948634862812946432
 tags: ["阿里巴巴","AI Agent","RAG","Function Calling","混合检索","RRF","重排","Attention"]

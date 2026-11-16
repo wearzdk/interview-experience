@@ -4,6 +4,7 @@ company: "联想"
 position: "嵌入式软件工程师"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-10-06'
 source: 牛客网
 tags: ["嵌入式","SPI","I2C","FreeRTOS","低功耗","MCU"]
 summary: "联想（上海）车载 MCU 嵌入式一面面经，9 月 8 日：SPI 与 I2C 的时序与异常排查、FreeRTOS 任务切换放在 PendSV 的原因、tickless 低功耗与 GCC 编译段布局。"

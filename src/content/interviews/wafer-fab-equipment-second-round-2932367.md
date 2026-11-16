@@ -4,6 +4,7 @@ company: "某晶圆代工厂"
 position: "设备工程师"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-25'
 result: "未通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/f7666a0c81754447906c1c976ecc3a0c

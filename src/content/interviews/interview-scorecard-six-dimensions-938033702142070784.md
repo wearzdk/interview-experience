@@ -3,6 +3,7 @@ title: 面试官手里的隐性评分表：六个得分维度与 0 分 / 10 分�
 company: 牛客网用户分享
 position: 面试通识
 date: '2026-10'
+collectedAt: '2026-10-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938033702142070784
 tags: ["面试技巧", "评分表", "STAR法则", "沟通表达", "项目复盘"]

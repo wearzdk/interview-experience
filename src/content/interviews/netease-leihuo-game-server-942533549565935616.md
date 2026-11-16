@@ -4,6 +4,7 @@ company: "网易雷火"
 position: "游戏服务端开发"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-21'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/942533549565935616
 tags: ["网易雷火","游戏服务端","DDoS防护","C++","无锁编程","性能优化","空间划分"]

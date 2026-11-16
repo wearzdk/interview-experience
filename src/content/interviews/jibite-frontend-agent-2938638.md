@@ -4,6 +4,7 @@ company: 吉比特
 position: 前端开发
 round: 二面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/a9ce1d3548c6493ca92f0de52e1f217e
 tags: ["吉比特","前端","Agent","RAG","灰度发布","工具调用","高并发","全栈"]

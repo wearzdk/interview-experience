@@ -4,6 +4,7 @@ company: "京东"
 position: "后端开发"
 round: "一面"
 date: '2026-09'
+collectedAt: '2026-09-30'
 source: 牛客网
 tags: ["Java", "RAG", "Milvus", "CAS", "MySQL", "Kafka", "ThreadLocal"]
 summary: "京东后端一面面经，9 月 23 日，约 20 分钟。前半场深挖 RAG 知识库的写热点、Milvus 选型与检索定位；后半场 Java 八股覆盖 CAS 与 ABA、线程池、ThreadLocal、B+ 树、慢 SQL 与 Kafka 顺序性。"

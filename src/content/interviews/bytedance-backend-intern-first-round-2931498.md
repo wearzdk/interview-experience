@@ -4,6 +4,7 @@ company: "字节跳动"
 position: "后端开发实习"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-24'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/079275e17dc84e7aa328648693322425
 tags: ["字节跳动", "后端开发", "虚拟线程", "MySQL", "Git", "场景题"]

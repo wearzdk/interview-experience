@@ -4,6 +4,7 @@ company: "大疆"
 position: "安全工程师"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-13'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/60838ec6886a4fe9beaedcb5426bca3c
 tags: ["安全工程师","操作系统","死锁","性能排查","AI 编程","项目深挖"]

@@ -3,6 +3,7 @@ title: "缓存穿透的分层答法：参数校验、空值缓存、布隆与限
 company: 某公司
 position: 后端开发（Java）
 date: '2026-11'
+collectedAt: '2026-11-08'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/949179572107354112
 tags: ["缓存穿透","空值缓存","布隆过滤器","限流","缓存击穿","Redis"]

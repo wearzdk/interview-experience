@@ -4,6 +4,7 @@ company: 凯拓智界
 position: 软件测试
 round: 社招技术面
 date: '2026-11'
+collectedAt: '2026-11-09'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1a682502c9bb4e02b5c7f1ca7edd9b4a
 tags: ["凯拓智界","软件测试","社招","工业相机","激光相机","手眼标定","机器视觉"]

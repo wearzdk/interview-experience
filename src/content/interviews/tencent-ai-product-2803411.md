@@ -3,6 +3,7 @@ title: "腾讯AI产品面经-实习 1h"
 company: "腾讯"
 position: "AI产品经理"
 date: '2026-07'
+collectedAt: '2026-07-11'
 source: 牛客网
 tags: ["AI产品", "Agent", "实习", "产品经理"]
 summary: "腾讯AI产品经理面经，原帖记录了面试中的核心追问，重点涉及AI产品、Agent、实习、产品经理等内容，适合准备相关岗位面试时参考。"

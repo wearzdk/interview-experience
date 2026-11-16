@@ -4,6 +4,7 @@ company: 影石
 position: 嵌入式软件开发（实习）
 round: 一面
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/931151792379817984
 tags: ["嵌入式","音视频","WebSocket","TLS","H264","Linux"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 应用开发"
 round: "二面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/947236309687345152"
 tags: ["快手", "AI应用开发", "线程池", "Redis", "Agent", "Java"]

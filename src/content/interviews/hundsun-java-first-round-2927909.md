@@ -4,6 +4,7 @@ company: "恒生电子"
 position: "Java 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-17'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/46a7de10dcd14acea4532045deac4204"
 tags: ["恒生电子", "Java", "MySQL", "HashMap", "String", "金融"]

@@ -4,6 +4,7 @@ company: "索菲亚"
 position: "前端开发"
 round: "技术面"
 date: '2026-11'
+collectedAt: '2026-11-01'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6c746eda98234026a392ecef87337c43
 tags: ["索菲亚","前端","Vue","浏览器缓存","CSS","闭包","TypeScript","Git"]

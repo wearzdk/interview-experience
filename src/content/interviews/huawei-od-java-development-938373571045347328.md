@@ -4,6 +4,7 @@ company: 华为OD
 position: Java开发
 round: 多轮合集
 date: '2026-10'
+collectedAt: '2026-10-10'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/938373571045347328
 tags: ["华为OD","Java","简历","技术面","HR面","主管面"]

@@ -4,6 +4,7 @@ company: "快手"
 position: "AI 应用开发"
 round: "一面"
 date: "2026-11"
+collectedAt: '2026-11-03'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/947219963637460992"
 tags: ["快手", "AI应用开发", "Agent", "MCP", "意图识别", "链表"]

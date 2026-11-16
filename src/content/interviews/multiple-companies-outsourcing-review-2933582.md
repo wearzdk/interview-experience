@@ -3,6 +3,7 @@ title: "空窗三年面四个外包：被指出的六个问题与复盘"
 company: "多家外包公司"
 position: "中级开发"
 date: '2026-10'
+collectedAt: '2026-10-27'
 result: "未通过"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/1c7ab3d9553646b2a24595fb8bf5eb84

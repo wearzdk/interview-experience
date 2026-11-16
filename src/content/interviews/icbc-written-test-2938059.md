@@ -4,6 +4,7 @@ company: 工商银行
 position: 金融科技岗
 round: 笔试
 date: '2026-11'
+collectedAt: '2026-11-07'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/d8a5886bf3cc421390b5c81e6d4ab041
 tags: ["工商银行","银行笔试","行测","金融常识","校招","机考"]

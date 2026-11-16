@@ -4,6 +4,7 @@ company: "同花顺"
 position: "后端开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-27'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/944649399504756736
 tags: ["同花顺", "后端开发", "笔试", "AIcoding", "场景题", "实习转正", "性格测评"]

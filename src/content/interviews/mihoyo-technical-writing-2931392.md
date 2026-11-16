@@ -4,6 +4,7 @@ company: "米哈游"
 position: "技术文档"
 round: "一面"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/deef6b4c566f4957971770ea971b4453
 tags: ["米哈游","技术文档","实习面经","职业规划"]

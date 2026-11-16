@@ -4,6 +4,7 @@ company: 转转
 position: AI 应用落地实习生
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-12'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/5ae1949864db494c806fba155139232f
 tags: ["转转","AI应用","RAG","GraphRAG","Agent","多Agent","FDE","实习"]

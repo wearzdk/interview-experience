@@ -4,6 +4,7 @@ company: 中电科金仓
 position: Java开发工程师
 round: 一面
 date: '2026-06'
+collectedAt: '2026-07-06'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/900530830483734528
 tags: ["Java","MyBatis","SQL注入","框架"]

@@ -4,6 +4,7 @@ company: "京东"
 position: "Java开发"
 round: "笔试"
 date: '2026-10'
+collectedAt: '2026-10-23'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/b236de67da3949aa9fe9007a24369cdd
 tags: ["京东","笔试","动态规划","哈希表","质数筛","哥德巴赫猜想","构造"]

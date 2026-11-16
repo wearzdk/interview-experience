@@ -4,6 +4,7 @@ company: 实在智能
 position: Java 开发
 round: 一面
 date: '2026-11'
+collectedAt: '2026-11-02'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/3882b91370cb442683e3ffc8e482d8a0
 tags: ["Java", "HashMap", "线程池", "JVM", "MySQL", "Redis", "Kafka"]

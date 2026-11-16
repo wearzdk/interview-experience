@@ -4,6 +4,7 @@ company: 去哪儿旅行
 position: Java后端开发工程师
 round: AI面
 date: '2026-09'
+collectedAt: '2026-09-05'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/925794686130819072
 tags: ["Java", "JVM", "CAS", "Redis", "Netty", "RocketMQ", "系统设计"]

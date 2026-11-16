@@ -4,6 +4,7 @@ company: "小红书"
 position: "产品工程师（AI与全栈）"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 result: "挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/9106acdee3d8440ebee4c5ff8500ac5b

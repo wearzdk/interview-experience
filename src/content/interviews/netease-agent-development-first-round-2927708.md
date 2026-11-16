@@ -4,6 +4,7 @@ company: "网易"
 position: "Agent 开发"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/bad72b1323274ad5b172039f48bfa4b1"
 tags: ["网易","Agent开发","ReAct","MCP","RAG","多Agent","秋招"]

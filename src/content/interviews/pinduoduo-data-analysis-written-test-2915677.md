@@ -4,6 +4,7 @@ company: 拼多多
 position: 数据分析
 round: 笔试
 date: '2026-09'
+collectedAt: '2026-09-22'
 result: 笔试AC
 source: 牛客网
 tags: ["SQL","数据分析","窗口函数","留存","笔试"]

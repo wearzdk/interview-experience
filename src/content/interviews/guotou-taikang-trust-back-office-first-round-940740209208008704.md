@@ -4,6 +4,7 @@ company: "国投泰康信托"
 position: "后台岗"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/940740209208008704"
 tags: ["国投泰康信托","后台岗","无领导小组讨论","热词分析","行为面试","校招"]

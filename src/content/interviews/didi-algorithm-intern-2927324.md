@@ -4,6 +4,7 @@ company: "滴滴"
 position: "算法实习生"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-16'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/feed/main/detail/ea411234bf9f4e129eb5b8711861d6a3"
 tags: ["算法", "AI Agent", "DPO", "自监督学习", "Transformer", "模型评估"]

@@ -4,6 +4,7 @@ company: "腾讯"
 position: "后台开发（日常实习）"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/74602f840b9243cebd3b9b32a9552b56
 tags: ["腾讯","IEG","后台开发","秒杀","Redis","分布式锁","TCP","进程线程","Full GC","算法"]

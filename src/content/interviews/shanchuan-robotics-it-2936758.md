@@ -4,6 +4,7 @@ company: "杉川机器人"
 position: "IT 工程师"
 round: "一面"
 date: '2026-11'
+collectedAt: '2026-11-04'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/6b91789aa2f24f7f9de7835324094318
 tags: ["杉川机器人","IT","HTTP","HTTPS","MySQL","索引","RAG","提示词"]

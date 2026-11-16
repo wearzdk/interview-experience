@@ -5,6 +5,7 @@ position: "服务端开发"
 round: "三面"
 result: "凉经"
 date: '2026-10'
+collectedAt: '2026-10-20'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/138c15517c914268acf5051d9f41405b
 tags: ["后端", "项目深挖", "秋招", "HR面", "职业选择"]

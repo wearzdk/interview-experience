@@ -3,6 +3,7 @@ title: 快手商业化前端面经：React Hooks 与事件循环
 company: 快手
 position: 前端开发
 date: '2026-09'
+collectedAt: '2026-09-22'
 source: 牛客网
 tags: ["前端","React","事件循环","HTTP缓存","MCP"]
 summary: "快手商业化前端面经，36 分钟。React 部分问 hooks、useRef 与 useState 区别及 setState 输出题；浏览器部分问状态码、协商缓存与事件循环；AI 问 MCP 与 tools 的关系，最后手撕求树深度。"

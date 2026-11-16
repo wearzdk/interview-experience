@@ -4,6 +4,7 @@ company: "宇树科技"
 position: "运动控制算法"
 round: "二面"
 date: '2026-10'
+collectedAt: '2026-10-15'
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/discuss/940358304847441920
 tags: ["宇树科技","运动控制","MPC","WBC","状态估计","Sim2Real","手撕"]

@@ -4,6 +4,7 @@ company: "启云方"
 position: "软件开发"
 round: "笔试"
 date: "2026-10"
+collectedAt: '2026-10-09'
 source: "牛客网"
 sourceUrl: "https://www.nowcoder.com/discuss/938182579293798400"
 tags: ["笔试", "模拟", "字符串处理", "二分答案", "BFS", "图论"]

@@ -4,6 +4,7 @@ company: "水滴"
 position: "AI全栈工程师"
 round: "一面"
 date: "2026-10"
+collectedAt: '2026-10-18'
 result: "挂"
 source: 牛客网
 sourceUrl: https://www.nowcoder.com/feed/main/detail/ae70e9823b9f40cead0f8016b949b7c2
